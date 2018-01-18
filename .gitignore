@@ -1,0 +1,10 @@
+
+# ignorer les doxuments dans dark
+dark-2.3.4/COPYING
+dark-2.3.4/Makefile
+dark-2.3.4/dark
+dark-2.3.4/doc/
+dark-2.3.4/model-2.3.0/
+dark-2.3.4/src/
+
+lua-5.3.4/ 
