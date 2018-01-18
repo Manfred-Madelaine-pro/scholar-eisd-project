@@ -1,0 +1,7 @@
+﻿apothicaire
+
+cordonnier
+
+médecin
+
+nourrice

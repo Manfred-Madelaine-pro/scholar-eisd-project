@@ -1,0 +1,12 @@
+
+le 4 janvier
+le 1er janvier
+le premier janvier
+le 12 août 1995
+en mai 1995
+
+
+main:pattern("[#DATE ( ( #CHIFFRES | /%d+/ ) ( #MOIS ) ( /%d+/ ) \z
+					 | ( #CHIFFRES | /%d+/ ) ( #MOIS ) \z
+					 | ( #MOIS ) ( #CHIFFRES | /%d+/ ) \z
+					 )]")
