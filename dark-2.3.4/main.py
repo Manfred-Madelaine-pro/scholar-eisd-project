@@ -14,10 +14,10 @@ le premier janvier \
 \n"
 
 
-txt2 = "echo \"\
- à Tanger (Maroc)\
+txt2 = "à Tanger Maroc \
+ j ai pris seretide des années \
 \n"
 
-cmd = "echo \"" + txt + "\" | ./dark test.lua"
+cmd = "echo \"" + txt2 + "\" | ./dark test.lua"
 
 os.system(cmd) 
