@@ -10,13 +10,12 @@
 	-- Janvier 2018 --
 ]]--
 
--- Example usage:
+-- importation d'un module
 local struct = require 'structure'
 
 
 -- Variables globamles
 BOT_NAME = "ni2goch_ni2dwatt"
-
 exit_answer_list = {"bye", "au revoir", "q", "quit"}
 
 
@@ -88,7 +87,7 @@ end
 	Main
 ]]--
 function main()
-	start_chatbot()
+	--start_chatbot()
 	--chat_loop()
 	struct.foo()
 end

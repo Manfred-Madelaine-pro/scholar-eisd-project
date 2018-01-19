@@ -103,14 +103,13 @@ function split_en(line)
 end
 
 
-f_bios = "../eisd-bios"
-
-
 -- Lecture du fichier
-for f in os.dir(f_bios) do
-	for line in io.lines(f_bios.."/"..f) do
-		if line ~= "" then
-			split_en(line)
+function read_corpus(corpus_path)
+	for f in os.dir(corpus_path) do
+		for line in io.lines(corpus_path.."/"..f) do
+			if line ~= "" then
+				split_en(line)
+			end
 		end
 	end
 end
@@ -129,3 +128,10 @@ function process_answer()
 		print(main(line):tostring(tags))
 	end
 end
+
+
+
+f_bios = "../eisd-bios"
+f_test = "../test-bios"
+
+read_corpus(f_test)
