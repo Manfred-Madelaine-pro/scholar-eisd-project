@@ -14,7 +14,7 @@ le premier janvier \
 \n"
 
 
-txt2 = "à Tanger Maroc \
+txt2 = "à Paris, France \n\
  j ai pris seretide des années \
 \n"
 

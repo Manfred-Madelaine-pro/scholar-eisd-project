@@ -22,6 +22,7 @@ main:lexicon("#LIEU", "lieu.txt")
 -- Pattern avec expressions régulières (pas de coordination possible)
 main:pattern('[#WORD /^%a+$/ ]')
 main:pattern('[#PONCT /%p/ ]')
+main:pattern('[#ANNEE /^%d%d%d%d$/]')
 
 -- Pattern avec patron de séquence
 main:pattern([[
@@ -33,35 +34,36 @@ main:pattern([[
 -- Pattern pour une date
 main:pattern([[
 	[#DATE 
-		( #JOURS ) ( #CHIFFRES | /%d+/ ) ( #MOIS ) ( /%d+/ ) |
+		( #JOURS ) ( #CHIFFRES | /%d+/ ) ( #MOIS ) #ANNEE |
 		( #JOURS ) ( #CHIFFRES | /%d+/ ) ( #MOIS ) |
-		( #CHIFFRES | /%d+/ ) ( #MOIS ) ( /%d+/ ) |
+		( #CHIFFRES | /%d+/ ) ( #MOIS )  #ANNEE |
 		( #CHIFFRES | /%d+/ ) ( #MOIS ) |
-		( #MOIS ) ( #CHIFFRES | /%d+/ ) |
-		( #JOURS ) ( #CHIFFRES | /%d+/ )
+		( #JOURS ) /%d+/ |
+		( #MOIS )  #ANNEE
 	]
 ]])
 
 
 main:pattern("[#DUREE ( #CHIFFRES | /%d+/ ) ( /mois%p?/ | /jours%p?/ ) ]")
 
-main:pattern('#POS=PRO #POS=VRB pris [#CHEMICAL /%a/]')
 
--- Sélection des étiquettes voulues, attribution d'une couleur (black,
--- blue, cyan, green, magenta, red, white, yellow) pour affichage sur
--- le terminal ou valeur "true" si redirection vers un fichier de
--- sortie (obligatoire pour éviter de copier les caractères de
--- contrôle)
+--[[
+	Sélection des étiquettes voulues, attribution d'une couleur (black,
+	blue, cyan, green, magenta, red, white, yellow) pour affichage sur
+	le terminal ou valeur "true" si redirection vers un fichier de
+	sortie (obligatoire pour éviter de copier les caractères de contrôle)
+]]-- 
 
 local tags = {
 	["#METIER"] = "red",
 	--["#MOIS"] = "red",
 	--["#CHIFFRES"] = "red",
 	["#PERSONNE"] = "blue",
+	["#LIEU"] = "blue",
 	["#FAMILLE"] = "yellow",
 	["#DUREE"] = "magenta",
 	["#DATE"] = "magenta",
-	["#POS=VRB"] = "green",
+	--["#POS=VRB"] = "green",
 	["#FILIATION"] = "green"
 }
 
@@ -73,6 +75,7 @@ for line in io.lines() do
         
         -- Toutes les étiquettes
 	--print(main(line))
+	
         -- Uniquement les étiquettes voulues
 	print(main(line):tostring(tags))
 end
