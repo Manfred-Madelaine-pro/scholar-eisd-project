@@ -10,6 +10,9 @@
 	-- Janvier 2018 --
 ]]--
 
+-- Example usage:
+local struct = require 'structure'
+
 
 -- Variables globamles
 BOT_NAME = "ni2goch_ni2dwatt"
@@ -86,7 +89,8 @@ end
 ]]--
 function main()
 	start_chatbot()
-	chat_loop()
+	--chat_loop()
+	struct.foo()
 end
 
 

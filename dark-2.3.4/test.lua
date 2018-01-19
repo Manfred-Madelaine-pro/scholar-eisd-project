@@ -1,17 +1,18 @@
 -- Création d'un pipeline pour DARK
 local main = dark.pipeline()
+main:basic()
+
 
 -- Chargement du modèle statistique entraîné sur le français 
 main:model("model-2.3.0/postag-fr")
 
 
 -- Création d'un lexique ou chargement d'un lexique existant
-main:lexicon("#PERSONNE", {"Géronte","Jacqueline","Léandre","Lucas","Lucinde","Martine","Perrin","Sganarelle","Thibaut","Valère"})
+main:lexicon("#PRENOM", {"Géronte", "Alain", "Nicolas", "Dominique", "Jacqueline","Léandre","Lucas","Lucinde","Martine","Perrin","Sganarelle","Thibaut","Valère"})
 main:lexicon("#CHIFFRES", {"un","deux","trois","quatre","cinq","six","sept","huit","neuf","dix"})
 main:lexicon("#JOURS", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
 
 main:lexicon("#FAMILLE", "famille.txt")
-main:lexicon("#METIER", "metiers.txt")
 main:lexicon("#MOIS", "mois.txt")
 main:lexicon("#LIEU", "lieu.txt")
 
@@ -27,9 +28,28 @@ main:pattern('[#ANNEE /^%d%d%d%d$/]')
 -- Pattern avec patron de séquence
 main:pattern([[
 	[#FILIATION
-		#FAMILLE #PERSONNE
+		#FAMILLE #PRENOM
 	]
 ]])
+
+main:pattern([[
+	[#NAME
+		#PRENOM .{,2}? ( #POS=NNP+ | #W )+
+	]
+]])
+
+--		>( #POS=NNP ) #W
+
+-- "de"? présent ou non
+-- . token poubelle
+-- ? 
+-- .*? lasy prendre le truc le^plus petit possible 
+-- .{0,2}? limiter le nb (.{,2}?)
+
+-- regarder 2 choses sur un mot
+-- look after sur le token qui est avant : >( #POS=NNP ) #W
+
+-- look aroud pas très utile look before #pos=nnp <( #W )
 
 -- Pattern pour une date
 main:pattern([[
@@ -40,6 +60,7 @@ main:pattern([[
 		( #CHIFFRES | /%d+/ ) ( #MOIS ) |
 		( #JOURS ) /%d+/ |
 		( #MOIS )  #ANNEE
+		/%d+/ "/" /%d+/ "/" /%d+/
 	]
 ]])
 
@@ -55,27 +76,56 @@ main:pattern("[#DUREE ( #CHIFFRES | /%d+/ ) ( /mois%p?/ | /jours%p?/ ) ]")
 ]]-- 
 
 local tags = {
-	["#METIER"] = "red",
 	--["#MOIS"] = "red",
 	--["#CHIFFRES"] = "red",
-	["#PERSONNE"] = "blue",
-	["#LIEU"] = "blue",
+	["#NAME"] = "blue",
+	["#LIEU"] = "red",
 	["#FAMILLE"] = "yellow",
-	["#DUREE"] = "magenta",
+	--["#DUREE"] = "magenta",
 	["#DATE"] = "magenta",
 	--["#POS=VRB"] = "green",
 	["#FILIATION"] = "green"
 }
 
 
--- Traitement des lignes du fichier
-for line in io.lines() do
-		-- tokenization
-	line = line:gsub("%p", " %1 ")
-        
-        -- Toutes les étiquettes
-	--print(main(line))
-	
-        -- Uniquement les étiquettes voulues
-	print(main(line):tostring(tags))
+function process(sen)
+	sen = sen:gsub("%p", " %0 ")
+	local seq = dark.sequence(sen)
+	main(seq)
+	print(seq:tostring(tags))
+end
+
+
+function split_en(line)
+	for sen in line:gmatch("(.-[.?!])") do
+		process(sen)
+	end
+end
+
+
+f_bios = "../eisd-bios"
+
+
+-- Lecture du fichier
+for f in os.dir(f_bios) do
+	for line in io.lines(f_bios.."/"..f) do
+		if line ~= "" then
+			split_en(line)
+		end
+	end
+end
+
+
+function process_answer()
+	-- Traitement des lignes du fichier
+	for line in io.lines() do
+			-- tokenization
+		line = line:gsub("%p", " %1 ")
+	        
+	        -- Toutes les étiquettes
+		--print(main(line))
+		
+	        -- Uniquement les étiquettes voulues
+		print(main(line):tostring(tags))
+	end
 end
