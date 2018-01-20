@@ -93,10 +93,4 @@ function main()
 end
 
 
-
-function eraseTerminal ()
-  io.write("\27[2J")
-end
-
-
 main()

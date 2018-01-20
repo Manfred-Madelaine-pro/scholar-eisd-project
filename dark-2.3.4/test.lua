@@ -8,64 +8,82 @@ main:model("model-2.3.0/postag-fr")
 
 
 -- Création d'un lexique ou chargement d'un lexique existant
-main:lexicon("#PRENOM", {"Géronte", "Alain", "Nicolas", "Dominique", "Jacqueline","Léandre","Lucas","Lucinde","Martine","Perrin","Sganarelle","Thibaut","Valère"})
-main:lexicon("#CHIFFRES", {"un","deux","trois","quatre","cinq","six","sept","huit","neuf","dix"})
+main:lexicon("#FIRSTNAME", {"Jean - Luc", "Alain", "Nicolas", "Dominique", "Jacqueline","Léandre","Lucas","Lucinde","Martine","Perrin","Sganarelle","Thibaut","Valère"})
+main:lexicon("#DIGIT", {"un","deux","trois","quatre","cinq","six","sept","huit","neuf","dix"})
 main:lexicon("#JOURS", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
 
-main:lexicon("#FAMILLE", "famille.txt")
-main:lexicon("#MOIS", "mois.txt")
-main:lexicon("#LIEU", "lieu.txt")
+main:lexicon("#FAMILY", "famille.txt")
+main:lexicon("#MONTH", "mois.txt")
+main:lexicon("#PLACE", "lieu.txt")
 
 -- Création de patterns en LUA, soit sur plusieurs lignes pour gagner
 -- en visibilité, soit sur une seule ligne. La capture se fait avec
 -- les crochets, l'étiquette à afficher est précédée de # : #word
 
 -- Pattern avec expressions régulières (pas de coordination possible)
-main:pattern('[#WORD /^%a+$/ ]')
 main:pattern('[#PONCT /%p/ ]')
-main:pattern('[#ANNEE /^%d%d%d%d$/]')
+main:pattern('[#YEAR /^%d%d%d%d$/]')
 
--- Pattern avec patron de séquence
+--[[ TAGS
+les tags commencent par le caractère '#' et sont composés de caractères
+alphanumériques, du trait d'union, du tiret bas et du symbole d'égalitée.
+]]
+
+-- Pattern pour une date
+-- A optimiser !!
 main:pattern([[
-	[#FILIATION
-		#FAMILLE #PRENOM
+	[#DATE 
+		( #JOURS ) ( #DIGIT | /%d+/ ) ( #MONTH ) #YEAR |
+		( #JOURS ) ( #DIGIT | /%d+/ ) ( #MONTH ) |
+		( #DIGIT | /%d+/ ) ( #MONTH )  #YEAR |
+		( #DIGIT | /%d+/ ) ( #MONTH ) |
+		( #JOURS ) /%d+/ |
+		( #MONTH )  #YEAR
+		/%d+/ "/" /%d+/ "/" /%d+/
+		#d "/" #d "/" #d
 	]
 ]])
 
+
+-- Reconnaitre une filliation
+main:pattern([[
+	[#FILIATION
+		#FAMILY #FIRSTNAME
+	]
+]])
+
+-- Reconnaitre le lieu de naissance
+--[[
+main:pattern([[
+	[#BIRTHPLACE
+		 "né" .*? "à" #PLACE
+	]
+]]
+--)
+
+main:pattern(' "né" .*? "le" [#BIRTH #DATE]')
+
+main:pattern(' "né" .*? "à" [#BIRTHPLACE #PLACE]')
+
+-- Reconnaitre un nom
 main:pattern([[
 	[#NAME
-		#PRENOM .{,2}? ( #POS=NNP+ | #W )+
+		#FIRSTNAME .{,2}? ( #POS=NNP+ | #W )+
 	]
 ]])
 
 --		>( #POS=NNP ) #W
-
 -- "de"? présent ou non
 -- . token poubelle
 -- ? 
 -- .*? lasy prendre le truc le^plus petit possible 
 -- .{0,2}? limiter le nb (.{,2}?)
-
 -- regarder 2 choses sur un mot
 -- look after sur le token qui est avant : >( #POS=NNP ) #W
-
 -- look aroud pas très utile look before #pos=nnp <( #W )
 
--- Pattern pour une date
-main:pattern([[
-	[#DATE 
-		( #JOURS ) ( #CHIFFRES | /%d+/ ) ( #MOIS ) #ANNEE |
-		( #JOURS ) ( #CHIFFRES | /%d+/ ) ( #MOIS ) |
-		( #CHIFFRES | /%d+/ ) ( #MOIS )  #ANNEE |
-		( #CHIFFRES | /%d+/ ) ( #MOIS ) |
-		( #JOURS ) /%d+/ |
-		( #MOIS )  #ANNEE
-		/%d+/ "/" /%d+/ "/" /%d+/
-	]
-]])
 
-
-main:pattern("[#DUREE ( #CHIFFRES | /%d+/ ) ( /mois%p?/ | /jours%p?/ ) ]")
+main:pattern("[#DUREE ( #DIGIT | /%d+/ ) ( /mois%p?/ | /jours%p?/ ) ]")
 
 
 --[[
@@ -76,46 +94,67 @@ main:pattern("[#DUREE ( #CHIFFRES | /%d+/ ) ( /mois%p?/ | /jours%p?/ ) ]")
 ]]-- 
 
 local tags = {
-	--["#MOIS"] = "red",
-	--["#CHIFFRES"] = "red",
+	--["#MONTH"] = "red",
+	--["#DIGIT"] = "red",
+	["#BIRTH"] = "red",
 	["#NAME"] = "blue",
-	["#LIEU"] = "red",
-	["#FAMILLE"] = "yellow",
+	--["#PLACE"] = "red",
+	--["#FAMILY"] = "yellow",
 	--["#DUREE"] = "magenta",
-	["#DATE"] = "magenta",
+	--["#DATE"] = "magenta",
 	--["#POS=VRB"] = "green",
-	["#FILIATION"] = "green"
+	["#BIRTHPLACE"] = "green",
+	["#FILIATION"] = "green",
 }
 
 
 function process(sen)
+	-- ajouter un espace de part et d'autre d'une ponctuation
 	sen = sen:gsub("%p", " %0 ")
+
 	local seq = dark.sequence(sen)
 	main(seq)
 	print(seq:tostring(tags))
+
+	analyse_seq(seq)
+	
 end
 
 
-function split_en(line)
+function analyse_seq(seq)
+	seq:dump()
+	s = seq:tag2str("#NAME")
+	print(s[1])
+	--[[
+	for index, valeur in ipairs(seq) do
+    	print(index, valeur)
+    end
+    ]]
+end
+
+function split_sentence(line)
 	for sen in line:gmatch("(.-[.?!])") do
 		process(sen)
 	end
 end
 
 
--- Lecture du fichier
+-- Lecture des fichiers du corpus
 function read_corpus(corpus_path)
 	for f in os.dir(corpus_path) do
 		for line in io.lines(corpus_path.."/"..f) do
 			if line ~= "" then
-				split_en(line)
+				split_sentence(line)
 			end
 		end
 	end
 end
 
 
-function process_answer()
+--[[
+	Analyse la phrase du l'utilisateur
+]]--
+function sentence_processing()
 	-- Traitement des lignes du fichier
 	for line in io.lines() do
 			-- tokenization
@@ -135,3 +174,4 @@ f_bios = "../eisd-bios"
 f_test = "../test-bios"
 
 read_corpus(f_test)
+--sentence_processing()

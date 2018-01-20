@@ -64,7 +64,6 @@ end
 
 function struct.print_struct(my_struct)
 	for index, valeur in pairs(my_struct) do
-		--print(type(valeur))
 		if type(valeur) == "table" then
 			struct.print_struct(valeur)
 			print("\n")
