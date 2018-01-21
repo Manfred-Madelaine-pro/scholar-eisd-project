@@ -3,6 +3,10 @@ local main = dark.pipeline()
 main:basic()
 
 
+-- importation d'un module
+local struct = require 'structure'
+
+
 -- Chargement du modèle statistique entraîné sur le français 
 main:model("model-2.3.0/postag-fr")
 
@@ -61,8 +65,10 @@ main:pattern([[
 ]]
 --)
 
+-- Date de naissance
 main:pattern(' "né" .*? "le" [#BIRTH #DATE]')
 
+-- Lieu de naissance
 main:pattern(' "né" .*? "à" [#BIRTHPLACE #PLACE]')
 
 -- Reconnaitre un nom
@@ -87,10 +93,7 @@ main:pattern("[#DUREE ( #DIGIT | /%d+/ ) ( /mois%p?/ | /jours%p?/ ) ]")
 
 
 --[[
-	Sélection des étiquettes voulues, attribution d'une couleur (black,
-	blue, cyan, green, magenta, red, white, yellow) pour affichage sur
-	le terminal ou valeur "true" si redirection vers un fichier de
-	sortie (obligatoire pour éviter de copier les caractères de contrôle)
+	black, red, green, yellow, blue, magenta, cyan, white
 ]]-- 
 
 local tags = {
@@ -116,20 +119,39 @@ function process(sen)
 	main(seq)
 	print(seq:tostring(tags))
 
-	analyse_seq(seq)
-	
+	analyse_seq(seq)	
 end
 
 
 function analyse_seq(seq)
-	seq:dump()
+	--seq:dump()
 	s = seq:tag2str("#NAME")
-	print(s[1])
+	if s[1] ~= nil then
+		name = get_elem(seq, "#NAME", "#FIRSTNAME")
+		lastname = get_elem(seq, "#NAME", "#POS=NNP")
+		birth = get_elem(seq, "#BIRTH", nil)
+		death = get_elem(seq, "#DEATH", nil)
+		birthplace = get_elem(seq, "#BIRTHPLACE", nil)
+		pers = struct.Personne(name, lastname, birth, death, birthplace)
+		struct.print_struct(pers)
+
+	else
+		print("no")
+	end
 	--[[
 	for index, valeur in ipairs(seq) do
     	print(index, valeur)
     end
     ]]
+end
+
+
+function get_elem(seq, tag_containing, tag_contained)
+	if( tag_contained == nil ) then
+		return seq:tag2str(tag_containing)[1]
+	else 
+		return seq:tag2str(tag_containing, tag_contained)[1]
+	end
 end
 
 function split_sentence(line)
