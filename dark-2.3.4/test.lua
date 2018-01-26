@@ -4,7 +4,7 @@ main:basic()
 
 
 -- importation d'un module
-local struct = require 'structure'
+local seq_pocess = require 'seqProcessing'
 
 
 -- Chargement du modèle statistique entraîné sur le français 
@@ -101,10 +101,10 @@ local tags = {
 	--["#DIGIT"] = "red",
 	["#BIRTH"] = "red",
 	["#NAME"] = "blue",
-	--["#PLACE"] = "red",
+	["#PLACE"] = "red",
 	--["#FAMILY"] = "yellow",
 	--["#DUREE"] = "magenta",
-	--["#DATE"] = "magenta",
+	["#DATE"] = "magenta",
 	--["#POS=VRB"] = "green",
 	["#BIRTHPLACE"] = "green",
 	["#FILIATION"] = "green",
@@ -119,40 +119,9 @@ function process(sen)
 	main(seq)
 	print(seq:tostring(tags))
 
-	analyse_seq(seq)	
+	return seq_pocess.analyse_seq(seq)	
 end
 
-
-function analyse_seq(seq)
-	--seq:dump()
-	s = seq:tag2str("#NAME")
-	if s[1] ~= nil then
-		name = get_elem(seq, "#NAME", "#FIRSTNAME")
-		lastname = get_elem(seq, "#NAME", "#POS=NNP")
-		birth = get_elem(seq, "#BIRTH", nil)
-		death = get_elem(seq, "#DEATH", nil)
-		birthplace = get_elem(seq, "#BIRTHPLACE", nil)
-		pers = struct.Personne(name, lastname, birth, death, birthplace)
-		struct.print_struct(pers)
-
-	else
-		print("no")
-	end
-	--[[
-	for index, valeur in ipairs(seq) do
-    	print(index, valeur)
-    end
-    ]]
-end
-
-
-function get_elem(seq, tag_containing, tag_contained)
-	if( tag_contained == nil ) then
-		return seq:tag2str(tag_containing)[1]
-	else 
-		return seq:tag2str(tag_containing, tag_contained)[1]
-	end
-end
 
 function split_sentence(line)
 	for sen in line:gmatch("(.-[.?!])") do
