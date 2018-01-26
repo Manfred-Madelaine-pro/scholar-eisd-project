@@ -19,6 +19,8 @@ txt2 = "à Paris (France) \n\
  j'ai pris seretide des années \
 \n"
 
-cmd = "echo \"" + txt + txt2 + "\" | ./dark test.lua"
+first = "echo \"" + txt + txt2 + "\" | "
+
+cmd = "./dark test.lua"
 
 os.system(cmd) 
