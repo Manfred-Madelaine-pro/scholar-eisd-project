@@ -7,26 +7,51 @@ main:basic()
 local seq_pocess = require 'seqProcessing'
 
 
+-- Tag names
+month = "MONTH"
+place = "lieu"
+temps = "temps"
+ppn = "pnominal" -- pronom personel nominal
+
+
+file = "data/"
+
+
 -- Chargement du modèle statistique entraîné sur le français 
 main:model("model-2.3.0/postag-fr")
 
-
 -- Création d'un lexique ou chargement d'un lexique existant
-main:lexicon("#FIRSTNAME", {"Jean - Luc", "Alain", "Nicolas", "Dominique", "Jacqueline","Léandre","Lucas","Lucinde","Martine","Perrin","Sganarelle","Thibaut","Valère"})
 main:lexicon("#DIGIT", {"un","deux","trois","quatre","cinq","six","sept","huit","neuf","dix"})
 main:lexicon("#JOURS", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
 
-main:lexicon("#FAMILY", "famille.txt")
-main:lexicon("#MONTH", "mois.txt")
-main:lexicon("#PLACE", "lieu.txt")
+
+-- Renvoie un tag
+function get_tag(tag)
+	return "#"..tag
+end
+
+
+-- Cree un lexique
+function create_lex(tag)
+	main:lexicon(get_tag(tag), file..tag..".txt")
+end
+
+
+create_lex(place)
+create_lex(temps)
+create_lex(month)
+create_lex(ppn)
+
 
 -- Création de patterns en LUA, soit sur plusieurs lignes pour gagner
 -- en visibilité, soit sur une seule ligne. La capture se fait avec
 -- les crochets, l'étiquette à afficher est précédée de # : #word
 
--- Pattern avec expressions régulières (pas de coordination possible)
+-- Pattern avec expressions régulières 
 main:pattern('[#PONCT /%p/ ]')
 main:pattern('[#YEAR /^%d%d%d%d$/]')
+main:pattern("[#DUREE ( #DIGIT | /%d+/ )  /"..get_tag(temps).."/s/?%p?/  ]")
+
 
 --[[ TAGS
 les tags commencent par le caractère '#' et sont composés de caractères
@@ -49,34 +74,15 @@ main:pattern([[
 ]])
 
 
--- Reconnaitre une filliation
-main:pattern([[
-	[#FILIATION
-		#FAMILY #FIRSTNAME
-	]
-]])
-
--- Reconnaitre le lieu de naissance
---[[
-main:pattern([[
-	[#BIRTHPLACE
-		 "né" .*? "à" #PLACE
-	]
-]]
---)
 
 -- Date de naissance
 main:pattern(' "né" .*? "le" [#BIRTH #DATE]')
 
 -- Lieu de naissance
-main:pattern(' "né" .*? "à" [#BIRTHPLACE #PLACE]')
+main:pattern(' "né" .*? "à" [#BIRTHPLACE '..get_tag(place)..']')
 
 -- Reconnaitre un nom
-main:pattern([[
-	[#NAME
-		#FIRSTNAME .{,2}? ( #POS=NNP+ | #W )+
-	]
-]])
+main:pattern('[#NAME '..get_tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 
 
 --lien entre un politicien et ses param
@@ -84,7 +90,6 @@ main:pattern([[
 main:pattern('[#hauteur #monument 'mesure #mesure']')
 
 ]]
-
 
 
 --		>( #POS=NNP ) #W
@@ -98,20 +103,16 @@ main:pattern('[#hauteur #monument 'mesure #mesure']')
 -- look aroud pas très utile look before #pos=nnp <( #W )
 
 
-main:pattern("[#DUREE ( #DIGIT | /%d+/ ) ( /mois%p?/ | /jours%p?/ ) ]")
-
-
 --[[
 	black, red, green, yellow, blue, magenta, cyan, white
 ]]-- 
 
 local tags = {
 	--["#MONTH"] = "red",
-	--["#DIGIT"] = "red",
 	["#BIRTH"] = "red",
 	["#NAME"] = "blue",
-	["#PLACE"] = "red",
-	--["#FAMILY"] = "yellow",
+	[get_tag(temps)] = "yellow",
+	[get_tag(place)] = "red",
 	--["#DUREE"] = "magenta",
 	["#DATE"] = "magenta",
 	--["#POS=VRB"] = "green",

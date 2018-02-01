@@ -1,0 +1,8 @@
+année
+années
+mois
+jour
+heure
+heures
+minute
+seconde
