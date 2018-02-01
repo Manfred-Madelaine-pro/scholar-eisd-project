@@ -78,11 +78,20 @@ main:pattern([[
 	]
 ]])
 
+
+--lien entre un politicien et ses param
+--[[
+main:pattern('[#hauteur #monument 'mesure #mesure']')
+
+]]
+
+
+
 --		>( #POS=NNP ) #W
 -- "de"? présent ou non
 -- . token poubelle
 -- ? 
--- .*? lasy prendre le truc le^plus petit possible 
+-- .*? lasy prendre le truc le plus petit possible 
 -- .{0,2}? limiter le nb (.{,2}?)
 -- regarder 2 choses sur un mot
 -- look after sur le token qui est avant : >( #POS=NNP ) #W
@@ -122,6 +131,27 @@ function process(sen)
 	return seq_pocess.analyse_seq(seq)	
 end
 
+
+function tagstr(seq, tag)
+	if not havetag(seq, tag) then
+		return ""
+	end
+
+	local position = seq[tag][1]
+	local debut, fin = position[1], position[2]
+
+	local tokens = {}
+	for i = debut, fin do 
+		tokens[#tokens + 1] = seq[i].token
+	end
+end
+
+
+-- faire une fonction de normalisation pour:
+-- heuteur, date 
+-- afin de pouvoir faire des conersions
+--conversion ides données pour rentrer dans la db et avoir un unique type
+-- conversion pour afficher comme ce que l'utilisateur veut
 
 function split_sentence(line)
 	for sen in line:gmatch("(.-[.?!])") do
