@@ -21,6 +21,6 @@ txt2 = "à Paris (France) \n\
 
 first = "echo \"" + txt + txt2 + "\" | "
 
-cmd = "./dark test.lua"
+cmd = "./dark eva.lua"
 
 os.system(cmd) 

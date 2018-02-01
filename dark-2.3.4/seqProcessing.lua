@@ -18,7 +18,7 @@ end
 
 
 function sp.create_pers(seq)
-		name = sp.get_elem(seq, "#NAME", "#FIRSTNAME")
+		name = sp.get_elem(seq, "#NAME", "#pnominal")
 		lastname = sp.get_elem(seq, "#NAME", "#POS=NNP")
 		birth = sp.get_elem(seq, "#BIRTH")
 		death = sp.get_elem(seq, "#DEATH")

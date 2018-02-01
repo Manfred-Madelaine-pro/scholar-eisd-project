@@ -32,15 +32,18 @@ end
 
 
 -- Cree un lexique
-function create_lex(tag)
-	main:lexicon(get_tag(tag), file..tag..".txt")
+function create_lex()
+	local function new_lex(tag)
+		main:lexicon(get_tag(tag), file..tag..".txt")
+	end
+	new_lex(place)
+	new_lex(temps)
+	new_lex(month)
+	new_lex(ppn)
 end
 
 
-create_lex(place)
-create_lex(temps)
-create_lex(month)
-create_lex(ppn)
+create_lex()
 
 
 -- Création de patterns en LUA, soit sur plusieurs lignes pour gagner
@@ -50,7 +53,7 @@ create_lex(ppn)
 -- Pattern avec expressions régulières 
 main:pattern('[#PONCT /%p/ ]')
 main:pattern('[#YEAR /^%d%d%d%d$/]')
-main:pattern("[#DUREE ( #DIGIT | /%d+/ )  /"..get_tag(temps).."/s/?%p?/  ]")
+main:pattern("[#DUREE ( #DIGIT | /%d+/ )  /"..get_tag(temps).."/  ]")
 
 
 --[[ TAGS
@@ -87,20 +90,17 @@ main:pattern('[#NAME '..get_tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 
 --lien entre un politicien et ses param
 --[[
-main:pattern('[#hauteur #monument 'mesure #mesure']')
+	main:pattern('[#hauteur #monument 'mesure #mesure']')
 
+	> #POS=NNP ) #W
+	"de"? présent ou non
+	. token poubelle
+	.*? lasy prendre le truc le plus petit possible 
+	.{0,2}? limiter le nb (.{,2}?)
+	regarder 2 choses sur un mot
+	look after sur le token qui est avant : >( #POS=NNP ) #W
+	look aroud pas très utile look before #pos=nnp <( #W )
 ]]
-
-
---		>( #POS=NNP ) #W
--- "de"? présent ou non
--- . token poubelle
--- ? 
--- .*? lasy prendre le truc le plus petit possible 
--- .{0,2}? limiter le nb (.{,2}?)
--- regarder 2 choses sur un mot
--- look after sur le token qui est avant : >( #POS=NNP ) #W
--- look aroud pas très utile look before #pos=nnp <( #W )
 
 
 --[[
@@ -113,6 +113,7 @@ local tags = {
 	["#NAME"] = "blue",
 	[get_tag(temps)] = "yellow",
 	[get_tag(place)] = "red",
+	--[get_tag(ppn)] = "red",
 	--["#DUREE"] = "magenta",
 	["#DATE"] = "magenta",
 	--["#POS=VRB"] = "green",
@@ -128,8 +129,19 @@ function process(sen)
 	local seq = dark.sequence(sen)
 	main(seq)
 	print(seq:tostring(tags))
+	--return seq_pocess.analyse_seq(seq)	
+end
 
-	return seq_pocess.analyse_seq(seq)	
+
+
+function GetValueInLink(seq, entity, link)
+	for i, pos in ipairs(seq[link]) do
+		local res = tagstr(seq, entity, pos[1], pos[2])
+		if res then
+			return res
+		end
+	end
+	return nil
 end
 
 
@@ -147,6 +159,9 @@ function tagstr(seq, tag)
 	end
 end
 
+function havetag(seq, tag)
+	return #seq[tag] ~= 0
+end
 
 -- faire une fonction de normalisation pour:
 -- heuteur, date 
@@ -173,19 +188,12 @@ function read_corpus(corpus_path)
 end
 
 
---[[
-	Analyse la phrase du l'utilisateur
-]]--
+-- Analyse la phrase du l'utilisateur
 function sentence_processing()
 	-- Traitement des lignes du fichier
 	for line in io.lines() do
-			-- tokenization
+		-- tokenization
 		line = line:gsub("%p", " %1 ")
-	        
-	        -- Toutes les étiquettes
-		--print(main(line))
-		
-	        -- Uniquement les étiquettes voulues
 		print(main(line):tostring(tags))
 	end
 end
@@ -195,5 +203,18 @@ end
 f_bios = "../eisd-bios"
 f_test = "../test-bios"
 
+db = {}
+
 read_corpus(f_test)
 --sentence_processing()
+
+
+local out_file = io.open("database.lua", "w")
+out_file:write("return ")
+out_file:write(serialize(db))
+out_file:close()
+
+
+local db2 = dofile("database.lua")
+
+print(serialize(db2))
