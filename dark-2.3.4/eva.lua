@@ -1,22 +1,5 @@
+local eva = {}
 
-local pipe = dark.pipeline()
-pipe:basic()
-pipe:lexicon("#monument", {"Tour Eiffel", "Notre Dame"})
-pipe:lexicon("#unite",    {"metre"})
-pipe:pattern("[#valeur #d]")
-pipe:pattern("[#mesure #valeur #unite]")
-
-pipe:pattern("[#hauteur #monument 'mesure' #mesure]")
-pipe:pattern('[#year /^%d%d%d%d$/]')
-
-local tags = {
-	["#monument"] = "red",
-	["#unite"]    = "red",
-	["#valeur"]   = "red",
-	["#mesure"]   = "green",
-	["#hauteur"]  = "yellow",
-	["#year"] = "magenta",
-}
 
 function havetag(seq, tag)
 	return #seq[tag] ~= 0
@@ -53,7 +36,7 @@ function GetValueInLink(seq, entity, link)
 end
 
 
-function t2(seq, db, tag)
+function eva.t2(seq, db, tag)
 	if havetag(seq, tag) then
 		local monu = GetValueInLink(seq, "#monument", tag)
 		local val  = GetValueInLink(seq, "#valeur",   tag)
@@ -71,33 +54,4 @@ function t2(seq, db, tag)
 	end
 end
 
-
-local seq = dark.sequence("Près de Notre Dame , la Tour Eiffel mesure 324 metre 1999 .")
-
-local db = {
-	["Notre Dame"] = {
-		position = "Paris",
-		date     = 1163,
-		hauteur  = {
-			valeur = 69,
-			unite  = "m",
-		},
-	},
-}
-
-pipe(seq)
-
-t2(seq, db, "#hauteur")
-
-
-print(seq:tostring(tags))
-
-local out_file = io.open("database.lua", "w")
-out_file:write("return ")
-out_file:write(serialize(db))
-out_file:close()
-
-
-local db2 = dofile("database.lua")
-
-print(serialize(db2))
+return eva

@@ -5,6 +5,7 @@ main:basic()
 
 -- importation d'un module
 local seq_pocess = require 'seqProcessing'
+local eva = require 'eva'
 
 
 -- Tag names
@@ -24,6 +25,13 @@ main:model("model-2.3.0/postag-fr")
 main:lexicon("#DIGIT", {"un","deux","trois","quatre","cinq","six","sept","huit","neuf","dix"})
 main:lexicon("#JOURS", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
 
+main:lexicon("#monument", {"Tour Eiffel", "Notre Dame"})
+main:lexicon("#unite",    {"metre"})
+main:pattern("[#valeur #d]")
+main:pattern("[#mesure #valeur #unite]")
+
+main:pattern("[#hauteur #monument 'mesure' #mesure]")
+main:pattern('[#year /^%d%d%d%d$/]')
 
 -- Renvoie un tag
 function get_tag(tag)
@@ -107,6 +115,7 @@ main:pattern('[#NAME '..get_tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 	black, red, green, yellow, blue, magenta, cyan, white
 ]]-- 
 
+--[[
 local tags = {
 	--["#MONTH"] = "red",
 	["#BIRTH"] = "red",
@@ -119,48 +128,35 @@ local tags = {
 	--["#POS=VRB"] = "green",
 	["#BIRTHPLACE"] = "green",
 	["#FILIATION"] = "green",
+}]]
+
+
+local tags = {
+	["#monument"] = "red",
+	["#unite"]    = "red",
+	["#valeur"]   = "red",
+	["#mesure"]   = "green",
+	["#hauteur"]  = "yellow",
+	["#year"] = "magenta",
+	["#BIRTH"] = "red",
+	["#NAME"] = "blue",
+	["#temps"] = "yellow",
+	["#lieu"] = "red",
+	["#DATE"] = "magenta",
+	["#BIRTHPLACE"] = "green",
+	["#FILIATION"] = "green",
 }
 
 
-function process(sen)
+function process(sen, db)
 	-- ajouter un espace de part et d'autre d'une ponctuation
 	sen = sen:gsub("%p", " %0 ")
 
 	local seq = dark.sequence(sen)
 	main(seq)
 	print(seq:tostring(tags))
+	eva.t2(seq, db, "#hauteur")
 	--return seq_pocess.analyse_seq(seq)	
-end
-
-
-
-function GetValueInLink(seq, entity, link)
-	for i, pos in ipairs(seq[link]) do
-		local res = tagstr(seq, entity, pos[1], pos[2])
-		if res then
-			return res
-		end
-	end
-	return nil
-end
-
-
-function tagstr(seq, tag)
-	if not havetag(seq, tag) then
-		return ""
-	end
-
-	local position = seq[tag][1]
-	local debut, fin = position[1], position[2]
-
-	local tokens = {}
-	for i = debut, fin do 
-		tokens[#tokens + 1] = seq[i].token
-	end
-end
-
-function havetag(seq, tag)
-	return #seq[tag] ~= 0
 end
 
 -- faire une fonction de normalisation pour:
@@ -169,19 +165,19 @@ end
 --conversion ides données pour rentrer dans la db et avoir un unique type
 -- conversion pour afficher comme ce que l'utilisateur veut
 
-function split_sentence(line)
+function split_sentence(line, db)
 	for sen in line:gmatch("(.-[.?!])") do
-		process(sen)
+		process(sen, db)
 	end
 end
 
 
 -- Lecture des fichiers du corpus
-function read_corpus(corpus_path)
+function read_corpus(corpus_path, db)
 	for f in os.dir(corpus_path) do
 		for line in io.lines(corpus_path.."/"..f) do
 			if line ~= "" then
-				split_sentence(line)
+				split_sentence(line, db)
 			end
 		end
 	end
@@ -203,9 +199,9 @@ end
 f_bios = "../eisd-bios"
 f_test = "../test-bios"
 
-db = {}
+local db = {}
 
-read_corpus(f_test)
+read_corpus(f_test, db)
 --sentence_processing()
 
 
