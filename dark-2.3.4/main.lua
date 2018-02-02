@@ -10,8 +10,11 @@
 	-- Janvier 2018 --
 ]]--
 
+local bot = {}
+
 -- importation d'un module
 local struct = require 'structure'
+local tst = require 'test'
 
 
 -- Variables globamles
@@ -47,7 +50,6 @@ function chat_loop()
 	while in_liste(user_line, exit_answer_list) == false do
 		io.write("> ")
 		user_line = io.read()
-		--input("> ")
 		bot_processing(user_line)
 	end
 end
@@ -64,6 +66,7 @@ function bot_processing(line)
 		bot_answer("au revoir !")
 	else
 		bot_answer("haha, t'as dit : "..line)
+		tst.sentence_processing(line)
 	end
 end
 
@@ -86,11 +89,13 @@ end
 --[[
 	Main
 ]]--
-function main()
-	--start_chatbot()
-	--chat_loop()
-	struct.foo()
+function bot.main()
+	start_chatbot()
+	chat_loop()
+	--struct.foo()
 end
 
 
-main()
+bot.main()
+
+return bot

@@ -54,4 +54,17 @@ function eva.t2(seq, db, tag)
 	end
 end
 
+function eva.t3(seq, db, tag)
+	if havetag(seq, tag) then
+		local monu = GetValueInLink(seq, "#POS=NNP", tag)
+		local val  = GetValueInLink(seq, "#BIRTH",   tag)
+		local unit = GetValueInLink(seq, "#lieu",    tag)
+		
+		db[monu] = {
+			birth = val,
+			unit = unit,
+		}
+		
+	end
+end
 return eva

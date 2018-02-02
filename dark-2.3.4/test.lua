@@ -1,3 +1,5 @@
+local tst = {}
+
 -- Création d'un pipeline pour DARK
 local main = dark.pipeline()
 main:basic()
@@ -6,6 +8,7 @@ main:basic()
 -- importation d'un module
 local seq_pocess = require 'seqProcessing'
 local eva = require 'eva'
+--local bot = require 'main'
 
 
 -- Tag names
@@ -61,7 +64,7 @@ create_lex()
 -- Pattern avec expressions régulières 
 main:pattern('[#PONCT /%p/ ]')
 main:pattern('[#YEAR /^%d%d%d%d$/]')
-main:pattern("[#DUREE ( #DIGIT | /%d+/ )  /"..get_tag(temps).."/  ]")
+main:pattern("[#DUREE ( #DIGIT | /%d+/ )  /"..get_tag(temps).."s?/  ]")
 
 
 --[[ TAGS
@@ -134,16 +137,17 @@ local tags = {
 local tags = {
 	["#monument"] = "red",
 	["#unite"]    = "red",
-	["#valeur"]   = "red",
+	--["#valeur"]   = "red",
 	["#mesure"]   = "green",
 	["#hauteur"]  = "yellow",
-	["#year"] = "magenta",
+	--["#year"] = "magenta",
 	["#BIRTH"] = "red",
 	["#NAME"] = "blue",
 	["#temps"] = "yellow",
-	["#lieu"] = "red",
-	["#DATE"] = "magenta",
+	--["#lieu"] = "red",
+	--["#DATE"] = "magenta",
 	["#BIRTHPLACE"] = "green",
+	["#DUREE"] = "green",
 	["#FILIATION"] = "green",
 }
 
@@ -155,8 +159,9 @@ function process(sen, db)
 	local seq = dark.sequence(sen)
 	main(seq)
 	print(seq:tostring(tags))
-	eva.t2(seq, db, "#hauteur")
-	--return seq_pocess.analyse_seq(seq)	
+	--eva.t2(seq, db, "#hauteur")
+	--eva.t3(seq, db, "#NAME")
+	return seq_pocess.analyse_seq(seq)	
 end
 
 -- faire une fonction de normalisation pour:
@@ -196,21 +201,39 @@ end
 
 
 
+-- Analyse la phrase du l'utilisateur
+function tst.sentence_processing(line)
+	-- Traitement des lignes du fichier
+	line = line:gsub("%p", " %1 ")
+	local seq = dark.sequence(line)
+	print(main(seq):tostring(tags))
+	split_sentence(line, {})
+	print(main(line))
+end
+
+function save_db( db )
+
+	local out_file = io.open("database.lua", "w")
+	out_file:write("return ")
+	out_file:write(serialize(db))
+	out_file:close()
+
+
+	local db2 = dofile("database.lua")
+
+	print(serialize(db2))
+end
+
+
 f_bios = "../eisd-bios"
 f_test = "../test-bios"
 
 local db = {}
 
-read_corpus(f_test, db)
+--read_corpus(f_test, db)
 --sentence_processing()
+--bot.main()
+--save_db( db )
 
 
-local out_file = io.open("database.lua", "w")
-out_file:write("return ")
-out_file:write(serialize(db))
-out_file:close()
-
-
-local db2 = dofile("database.lua")
-
-print(serialize(db2))
+return tst
