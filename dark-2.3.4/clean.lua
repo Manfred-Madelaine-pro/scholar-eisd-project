@@ -18,7 +18,6 @@ local tab = {
 
 function c.cleaner(str)
 	return str:gsub("[\xC0-\xFF][\x80-\xBF]+", tab)
---	          :gsub("[\x80-\xFF]+",            "" )
 end
 
 return c
