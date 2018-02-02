@@ -4,35 +4,37 @@ local c = require 'clean'
 local seq_pocess = require 'seq_processing'
 
 
--- Analyse la phrase du l'utilisateur
-function sentence_processing()
-	line = line:gsub("%p", " %1 ")
-	print(main(line):tostring(tags))
-	
-end
-
-
+-- Analyse d'un bout de phrase
 function process(main, sen, tags)
-	-- ajouter un espace de part et d'autre d'une ponctuation
 	sen = sen:gsub("%p", " %0 ")
 
 	local seq = dark.sequence(sen)
 	main(seq)
-	--eva.t2(seq, "#hauteur")
-	--eva.t3(seq, "#NAME")
-	--seq_pocess.analyse_seq(seq)	
 	return seq 
 end
 
 
-function lp.split_sentence(main, line, tags)
+function split_sentence(main, line, tags)
+	-- Nettoyage des accents
+	line = c.cleaner(line)
+
+	-- Decoupage de la phrase en plusieurs segments selon la ponctuation
 	for sen in line:gmatch("(.-[.?!])") do
 		seq = process(main, sen, tags)
 		print(main(seq):tostring(tags))
 	end
 end
 
-
+-- Lecture des fichiers du corpus
+function lp.read_corpus(main, corpus_path, tags)
+	for f in os.dir(corpus_path) do
+		for line in io.lines(corpus_path.."/"..f) do
+			if line ~= "" then
+				split_sentence(main, line, tags)
+			end
+		end
+	end
+end
 
 
 return lp

@@ -1,5 +1,5 @@
 Jean - Luc
-Mélenchon
+Melenchon
 Alain
 Nicolas
 Dominique
@@ -11,4 +11,4 @@ Martine
 Perrin
 Sganarelle
 Thibaut
-Valère
+Valere

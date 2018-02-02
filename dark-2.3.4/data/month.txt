@@ -1,6 +1,6 @@
 janvier
 
-février
+fevrier
 
 mars
 
@@ -12,7 +12,7 @@ juin
 
 juillet
 
-août
+aout
 
 septembre
 
