@@ -18,8 +18,8 @@ local lp = require 'line_processing'
 
 
 -- Variables globamles
-BOT_NAME = "ni2goch_ni2dwatt"
-exit_answer_list = {"bye", "au revoir", "q", "quit"}
+local BOT_NAME = "ni2goch_ni2dwatt"
+exit_answer_list = {"au revoir", "q", "quit"}
 
 
 -- Lancer le chat bot
@@ -38,31 +38,37 @@ end
 
 
 -- Fonction d'exhange entre l'utilisateur et le chat bot
-function chat_loop(main, tags)
+function chat_loop()
 	user_line = ""
-
+	loop = true
+	-- in_liste(user_line, exit_answer_list) == false
 	while in_liste(user_line, exit_answer_list) == false do
 		io.write("> ")
 		user_line = io.read()
-		bot_processing(main, user_line, tags)
+		loop = bot_processing(user_line)
 	end
 end
 
 
 -- Traitement d'une ligne de texte por le chat bot
-function bot_processing(main, line, tags)
+function bot_processing(line)
 
 	-- traitement de la ligne de texte : retirer les accents et la majuscules ?
 
+	seq = lp.process(line)
+	print(seq)
+	bot_answer("haha, t'as dit : "..line)
+
+end
+
+--[[
 	if in_liste(line, exit_answer_list) then
 		bot_answer("au revoir !")
 	else
-		seq = lp.process(main, line, tags)
+		seq = lp.process(line)
 		print(seq)
 		bot_answer("haha, t'as dit : "..line)
-	end
-end
-
+	end]]
 
 --[[
 	Cherche un element dans une liste
@@ -80,9 +86,9 @@ end
 
 
 -- Main
-function bot.main(main, tags)
+function bot.main()
 	start_chatbot()
-	chat_loop(main, tags)
+	chat_loop()
 end
 
 

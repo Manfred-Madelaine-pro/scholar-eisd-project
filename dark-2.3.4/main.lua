@@ -1,7 +1,7 @@
 local tst = {}
 
 -- Création d'un pipeline pour DARK
-local main = dark.pipeline()
+main = dark.pipeline()
 main:basic()
 
 -- Chargement du modèle statistique entraîné sur le français 
@@ -12,18 +12,22 @@ local bot = require 'bot'
 local tool = require 'tool'
 local lp = require 'line_processing'
 
+local f_data = "data/"
+local f_bios = "../eisd-bios"
+local f_test = "../test-bios"
+
 
 -- Tag names
-month = "month"
+fin = "fin"
 place = "lieu"
+month = "month"
 temps = "temps"
 ppn = "pnominal" -- pronom personel nominal
 
-file = "data/"
 
 -- Création d'un lexique ou chargement d'un lexique existant
 main:lexicon("#day", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
-tool.create_lex(main)
+tool.create_lex(f_data)
 
 
 -- Pattern avec expressions régulières 
@@ -31,7 +35,7 @@ main:pattern('[#year /^%d%d%d%d$/]')
 
 -- Pattern pour une date   A optimiser !!
 main:pattern([[
-	[#DATE 
+	[#date 
 		#day /%d+/ #month #year |
 		#day /%d+/ #month |
 		/%d+/ #month  #year |
@@ -45,27 +49,34 @@ main:pattern([[
 
 
 -- Date de naissance
-main:pattern(' "ne" .*? "le" [#BIRTH #DATE]')
+main:pattern(' "ne" .*? "le" [#birth #date]')
 
 -- Lieu de naissance
-main:pattern(' "ne" .*? "a" [#BIRTHPLACE '..tool.get_tag(place)..']')
+main:pattern(' "ne" .*? "a" [#birthplace '..tool.get_tag(place)..']')
 
 -- Reconnaitre un nom
-main:pattern('[#NAME '..tool.get_tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
+main:pattern('[#name '..tool.get_tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 
-local tags = {
-	["#BIRTH"] = "red",
-	["#NAME"] = "blue",
+-- Reconnaitre une question
+main:pattern('[#quest .*? "?"]')
+
+-- Reconnaitre une affirmation
+main:pattern('[#affirm .*? "!"]')
+
+-- Reconnaitre fin de discussion
+main:pattern('[#end '..tool.get_tag(fin)..' ]')
+
+tags = {
+	["#birth"] = "red",
+	["#name"] = "blue",
 	--["#lieu"] = "red",
-	--["#DATE"] = "magenta",
-	["#BIRTHPLACE"] = "green",
+	--["#date"] = "magenta",
+	["#birthplace"] = "green",
 }
 
-f_bios = "../eisd-bios"
-f_test = "../test-bios"
 
---lp.read_corpus(main, f_test, tags)
-bot.main(main, tags)
+--lp.read_corpus(f_test)
+bot.main()
 --tool.save_db(db, "database")
 
 
@@ -84,4 +95,19 @@ return tst
 	regarder 2 choses sur un mot
 	look after sur le token qui est avant : >( #POS=NNP ) #W
 	look aroud pas très utile look before #pos=nnp <( #W )
+
+
+
+	
+txt = "le mardi 2 janvier \n\
+le mardi 2 \n\
+le mardi 2 janvier 1993 \n\
+le deux janvier \n\
+en mai 1995 \n\
+né le 01/01/1995 \n\
+né le 01 / 01 / 1995 \n\
+le 12 août 1995 \n\
+le 1er janvier \n\
+le premier janvier \
+\n"
 ]]

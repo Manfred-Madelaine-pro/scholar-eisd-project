@@ -3,20 +3,20 @@ local tool = {}
 
 -- Renvoie un tag
 function tool.get_tag(tag)
-
 	return "#"..tag
 end
 
 
 -- Cree l'ensemble des lexiques
-function tool.create_lex(main)
-	local function new_lex(tag)
-		main:lexicon(tool.get_tag(tag), file..tag..".txt")
+function tool.create_lex(f_data)
+	local function new_lex(tag, f_data)
+		main:lexicon(tool.get_tag(tag), f_data..tag..".txt")
 	end
-	new_lex(place)
-	new_lex(temps)
-	new_lex(month)
-	new_lex(ppn)
+	new_lex(place, f_data)
+	new_lex(temps, f_data)
+	new_lex(month, f_data)
+	new_lex(ppn, f_data)
+	new_lex(fin, f_data)
 end
 
 
