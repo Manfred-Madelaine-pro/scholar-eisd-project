@@ -1,101 +1,87 @@
---[[
-			CHAT BOT
-	
-	Projet d'EISD realise par les etudiants:
-		@Manfred MadelaT
-		@Cedrick RibeT
-		@Hugo BommarT
-		@Leo GalmanT
+local tst = {}
 
-	-- Janvier 2018 --
-]]--
+-- Création d'un pipeline pour DARK
+local main = dark.pipeline()
+main:basic()
 
-local bot = {}
+-- Chargement du modèle statistique entraîné sur le français 
+main:model("model-2.3.0/postag-fr")
 
 -- importation d'un module
-local struct = require 'structure'
-local tst = require 'test'
+local bot = require 'bot'
+local tool = require 'tool'
+local lp = require 'line_processing'
 
 
--- Variables globamles
-BOT_NAME = "ni2goch_ni2dwatt"
-exit_answer_list = {"bye", "au revoir", "q", "quit"}
+-- Tag names
+month = "month"
+place = "lieu"
+temps = "temps"
+ppn = "pnominal" -- pronom personel nominal
+
+file = "data/"
+
+-- Création d'un lexique ou chargement d'un lexique existant
+main:lexicon("#day", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
+tool.create_lex(main)
 
 
+-- Pattern avec expressions régulières 
+main:pattern('[#year /^%d%d%d%d$/]')
+
+-- Pattern pour une date   A optimiser !!
+main:pattern([[
+	[#DATE 
+		#day /%d+/ #month #year |
+		#day /%d+/ #month |
+		/%d+/ #month  #year |
+		/%d+/ #month |
+		#day /%d+/ |
+		#month #year |
+		/%d+/ "/" /%d+/ "/" /%d+/ |
+		#d "/" #d "/" #d
+	]
+]])
+
+
+-- Date de naissance
+main:pattern(' "ne" .*? "le" [#BIRTH #DATE]')
+
+-- Lieu de naissance
+main:pattern(' "ne" .*? "a" [#BIRTHPLACE '..tool.get_tag(place)..']')
+
+-- Reconnaitre un nom
+main:pattern('[#NAME '..tool.get_tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
+
+local tags = {
+	["#BIRTH"] = "red",
+	["#NAME"] = "blue",
+	--["#lieu"] = "red",
+	--["#DATE"] = "magenta",
+	["#BIRTHPLACE"] = "green",
+}
+
+f_bios = "../eisd-bios"
+f_test = "../test-bios"
+
+--lp.read_corpus(main, f_test, tags)
+bot.main(main, tags)
+--tool.save_db(db, "database")
+
+
+return tst
+
+
+--lien entre un politicien et ses param
 --[[
-	Lance le chat bot
-]]--
-function start_chatbot()
-	s = " ---- "
-	txt = "Bienvenu dans le Chatbot de CDK, MFD, LAO & UGO"
-	print("\n\t"..s..txt..s.."\n")
-	bot_answer("Bonjour !")
-end
+	main:pattern('[#hauteur #monument 'mesure #mesure']')
 
-
---[[
-	Reponse du chat bot
-]]--
-function bot_answer(answer)
-	print(BOT_NAME.." : "..answer.."\n")
-end
-
-
---[[
-	Fonction d'exhange entre l'utilisateur et le chat bot
-]]--
-function chat_loop()
-	user_line = ""
-
-	while in_liste(user_line, exit_answer_list) == false do
-		io.write("> ")
-		user_line = io.read()
-		bot_processing(user_line)
-	end
-end
-
-
---[[
-	Traitement d'une ligne de texte por le chat bot
-]]--
-function bot_processing(line)
-
-	-- traitement de la ligne de texte : retirer les accents et la majuscules ?
-
-	if in_liste(line, exit_answer_list) then
-		bot_answer("au revoir !")
-	else
-		bot_answer("haha, t'as dit : "..line)
-		tst.sentence_processing(line)
-	end
-end
-
-
---[[
-	Cherche un element dans une liste
-	Renvoie true si l'element est dans la liste, false sinon
-]]--
-function in_liste(elem, liste)
-	for index, valeur in ipairs(liste) do
-    	if elem == valeur then
-    		return true
-    	end
-    end
-
-    return false
-end
-
-
---[[
-	Main
-]]--
-function bot.main()
-	start_chatbot()
-	chat_loop()
-	--struct.foo()
-end
-
-
-bot.main()
-
-return bot
+	> #POS=NNP ) #W
+	"de"? présent ou non
+	. token poubelle
+	.*? lasy prendre le truc le plus petit possible 
+	.{0,2}? limiter le nb (.{,2}?)
+	regarder 2 choses sur un mot
+	look after sur le token qui est avant : >( #POS=NNP ) #W
+	look aroud pas très utile look before #pos=nnp <( #W )
+]]
