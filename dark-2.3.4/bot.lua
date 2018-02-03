@@ -14,6 +14,7 @@ local bot = {}
 
 
 -- importation d'un module
+local sp = require 'seq_processing'
 local lp = require 'line_processing'
 
 
@@ -42,7 +43,7 @@ function chat_loop()
 	user_line = ""
 	loop = true
 	-- in_liste(user_line, exit_answer_list) == false
-	while in_liste(user_line, exit_answer_list) == false do
+	while loop do
 		io.write("> ")
 		user_line = io.read()
 		loop = bot_processing(user_line)
@@ -53,13 +54,30 @@ end
 -- Traitement d'une ligne de texte por le chat bot
 function bot_processing(line)
 
-	-- traitement de la ligne de texte : retirer les accents et la majuscules ?
-
+	-- traitement de la ligne de texte
 	seq = lp.process(line)
-	print(seq)
-	bot_answer("haha, t'as dit : "..line)
+	print(seq:tostring(tags))
+	
+	-- analyser la sequence
+	choice = sp.analyse_seq(seq)
+	return choose_answer( choice )
+	--bot_answer("haha, t'as dit : "..line)
 
 end
+
+
+function choose_answer( choice )
+	if (choice == -1) then
+		bot_answer("Au revoir !")
+		return false
+	elseif (choice == 1) then
+		bot_answer("Vous avez posé une question")
+	else
+		bot_answer("Je ne sais pas !")
+	end
+	return true
+end
+
 
 --[[
 	if in_liste(line, exit_answer_list) then

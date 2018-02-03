@@ -21,6 +21,7 @@ local f_test = "../test-bios"
 fin = "fin"
 place = "lieu"
 month = "month"
+quest = "quest"
 temps = "temps"
 ppn = "pnominal" -- pronom personel nominal
 
@@ -58,7 +59,7 @@ main:pattern(' "ne" .*? "a" [#birthplace '..tool.get_tag(place)..']')
 main:pattern('[#name '..tool.get_tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 
 -- Reconnaitre une question
-main:pattern('[#quest .*? "?"]')
+main:pattern('['..tool.get_tag(quest)..' .*? "?"]')
 
 -- Reconnaitre une affirmation
 main:pattern('[#affirm .*? "!"]')
@@ -69,9 +70,12 @@ main:pattern('[#end '..tool.get_tag(fin)..' ]')
 tags = {
 	["#birth"] = "red",
 	["#name"] = "blue",
+	["#fin"] = "blue",
 	--["#lieu"] = "red",
-	--["#date"] = "magenta",
+	["#date"] = "magenta",
+	[tool.get_tag(quest)] = "magenta",
 	["#birthplace"] = "green",
+	["#affirm"] = "green",
 }
 
 
@@ -98,7 +102,7 @@ return tst
 
 
 
-	
+
 txt = "le mardi 2 janvier \n\
 le mardi 2 \n\
 le mardi 2 janvier 1993 \n\

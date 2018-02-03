@@ -1,4 +1,4 @@
 bye
 au revoir
-q
 quit
+ciao
