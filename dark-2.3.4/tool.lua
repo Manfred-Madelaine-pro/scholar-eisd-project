@@ -1,10 +1,12 @@
 local tool = {}
 
+
 -- Renvoie un tag
 function tool.get_tag(tag)
 
 	return "#"..tag
 end
+
 
 -- Cree l'ensemble des lexiques
 function tool.create_lex(main)
@@ -19,15 +21,14 @@ end
 
 
 function tool.save_db(db, filename)
-
 	local out_file = io.open(filename..".lua", "w")
 	out_file:write("return ")
 	out_file:write(serialize(db))
 	out_file:close()
 end
 
-function tool.load_db(filename)
 
+function tool.load_db(filename)
 	local db = dofile(filename..".lua")
 
 	print(serialize(db))
