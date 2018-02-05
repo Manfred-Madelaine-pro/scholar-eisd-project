@@ -9,14 +9,16 @@ end
 
 -- Cree l'ensemble des lexiques
 function tool.create_lex(f_data)
-	local function new_lex(tag, f_data)
-		main:lexicon(tool.get_tag(tag), f_data..tag..".txt")
-	end
-	new_lex(place, f_data)
-	new_lex(temps, f_data)
-	new_lex(month, f_data)
-	new_lex(ppn, f_data)
-	new_lex(fin, f_data)
+	tool.new_lex(place, f_data)
+	tool.new_lex(temps, f_data)
+	tool.new_lex(month, f_data)
+	tool.new_lex(ppn, f_data)
+	tool.new_lex(fin, f_data)
+end
+
+
+function tool.new_lex(tag, f_data)
+	main:lexicon(tool.get_tag(tag), f_data..tag..".txt")
 end
 
 

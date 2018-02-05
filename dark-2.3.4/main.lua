@@ -1,5 +1,11 @@
 local tst = {}
 
+-- importation d'un module
+local bot = require 'bot'
+local tool = require 'tool'
+local lp = require 'line_processing'
+
+
 -- Création d'un pipeline pour DARK
 main = dark.pipeline()
 main:basic()
@@ -7,10 +13,6 @@ main:basic()
 -- Chargement du modèle statistique entraîné sur le français 
 main:model("model-2.3.0/postag-fr")
 
--- importation d'un module
-local bot = require 'bot'
-local tool = require 'tool'
-local lp = require 'line_processing'
 
 local f_data = "data/"
 local f_bios = "../eisd-bios"
