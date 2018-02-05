@@ -19,6 +19,7 @@ local f_test = "../test-bios"
 
 -- Tag names
 fin = "fin"
+exit = "end"
 place = "lieu"
 month = "month"
 quest = "quest"
@@ -65,12 +66,12 @@ main:pattern('['..tool.get_tag(quest)..' .*? "?"]')
 main:pattern('[#affirm .*? "!"]')
 
 -- Reconnaitre fin de discussion
-main:pattern('[#end '..tool.get_tag(fin)..' ]')
+main:pattern('['..tool.get_tag(exit)..tool.get_tag(fin)..' ]')
 
 tags = {
 	["#birth"] = "red",
 	["#name"] = "blue",
-	["#fin"] = "blue",
+	[tool.get_tag(exit)] = "yellow",
 	--["#lieu"] = "red",
 	["#date"] = "magenta",
 	[tool.get_tag(quest)] = "magenta",
@@ -79,8 +80,8 @@ tags = {
 }
 
 
---lp.read_corpus(f_test)
-bot.main()
+lp.read_corpus(f_test)
+--bot.main()
 --tool.save_db(db, "database")
 
 

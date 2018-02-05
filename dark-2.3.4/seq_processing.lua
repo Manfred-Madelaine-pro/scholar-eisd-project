@@ -18,7 +18,7 @@ end
 
 -- Verifie si la  sequence contient un token d'exit
 function check_exit(seq)
-	if get_elem(seq, tool.get_tag(fin)) then
+	if get_elem(seq, tool.get_tag(exit)) then
 		return true
 	end
 	return false
