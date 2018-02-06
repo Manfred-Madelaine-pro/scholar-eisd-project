@@ -12,6 +12,7 @@ function tagstr(seq, tag, lim_debut, lim_fin)
 		return nil
 	end
 	local list = seq[tag]
+	local tab = {}
 	for i, position in ipairs(list) do
 		local debut, fin = position[1], position[2]
 		if debut >= lim_debut and fin <= lim_fin then
@@ -19,10 +20,10 @@ function tagstr(seq, tag, lim_debut, lim_fin)
 			for i = debut, fin do
 				tokens[#tokens + 1] = seq[i].token
 			end
-			return table.concat(tokens, " ")
+			tab[#tab +1] = table.concat(tokens, " ")
 		end
 	end
-	return nil
+	return tab
 end
 
 function GetValueInLink(seq, entity, link)
