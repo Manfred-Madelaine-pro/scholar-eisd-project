@@ -3,8 +3,19 @@ local sp = {}
 -- importation d'un module
 local tool = require 'tool'
 
+-- Phrase courante
+local cur_sen = nil
+
+-- Dicussion courante
+local cur_disc = {}
+
+-- Historique global
+local history = {}
+
 
 function sp.analyse_seq(seq)
+	update_data(seq)
+
 	-- analyser seq pour sortir
 	if(check_exit(seq)) then
 		return -1
@@ -15,6 +26,25 @@ function sp.analyse_seq(seq)
 	end	
 end
 
+
+function update_data(seq)
+	print("taille : ", #history)
+	print (cur_sen == "")
+	print(type(cur_sen))
+	if(cur_sen ~= nil) then 
+		history[#history+1] = cur_sen 
+	end
+	afficher_histo(history)
+	cur_sen = seq
+end
+
+
+function afficher_histo(history)
+	print("historique : ")
+	for index, valeur in ipairs(history) do
+    	print(index, valeur)
+    end
+end
 
 -- Verifie si la  sequence contient un token d'exit
 function check_exit(seq)

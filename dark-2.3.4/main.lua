@@ -82,8 +82,8 @@ tags = {
 }
 
 
-lp.read_corpus(f_test)
---bot.main()
+--lp.read_corpus(f_test)
+bot.main()
 --tool.save_db(db, "database")
 
 

@@ -60,9 +60,10 @@ function bot_processing(line)
 	
 	-- analyser la sequence
 	choice = sp.analyse_seq(seq)
-	return choose_answer( choice )
-	--bot_answer("haha, t'as dit : "..line)
+	
+	response = choose_answer( choice )
 
+	return response
 end
 
 
@@ -78,15 +79,6 @@ function choose_answer( choice )
 	return true
 end
 
-
---[[
-	if in_liste(line, exit_answer_list) then
-		bot_answer("au revoir !")
-	else
-		seq = lp.process(line)
-		print(seq)
-		bot_answer("haha, t'as dit : "..line)
-	end]]
 
 --[[
 	Cherche un element dans une liste
