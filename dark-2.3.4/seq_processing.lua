@@ -28,13 +28,11 @@ end
 
 
 function update_data(seq)
-	print("taille : ", #history)
-	print (cur_sen == "")
-	print(type(cur_sen))
+	--print("taille : ", #history)
 	if(cur_sen ~= nil) then 
 		history[#history+1] = cur_sen 
 	end
-	afficher_histo(history)
+	--afficher_histo(history)
 	cur_sen = seq
 end
 

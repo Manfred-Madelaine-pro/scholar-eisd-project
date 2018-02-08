@@ -26,7 +26,7 @@ main:pattern('("ne"|"nee"|"nait") .*? "a" [#lieuNaissance' ..tool.get_tag(place)
 
 main:pattern('[#prenom'..tool.get_tag(ppn)..'] [#nom .{,2}? ( #POS=NNP+ | #W )+]')
 
-main:pattern('("fils"|"fille") .*? "de" [#prenomPere #prenom] [#nomPere #nom]')
+main:pattern('("fils"|"fille") .{,2}? "de" [#prenomPere #prenom] [#nomPere #nom]')
 
 tags = {
 	["#dateNaissance"] = "yellow",

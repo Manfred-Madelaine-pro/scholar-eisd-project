@@ -1,85 +1,21 @@
 local tst = {}
 
--- importation d'un module
+-- importation des modules
 local bot = require 'bot'
-local tool = require 'tool'
 local lp = require 'line_processing'
 
 
--- Création d'un pipeline pour DARK
 main = dark.pipeline()
 main:basic()
 
 -- Chargement du modèle statistique entraîné sur le français 
 main:model("model-2.3.0/postag-fr")
 
-
-local f_data = "data/"
-local f_bios = "../eisd-bios"
-local f_test = "../test-bios"
+-- Création des paternes et des lexiques
+dofile("nlu.lua")
 
 
--- Tag names
-fin = "fin"
-exit = "end"
-place = "lieu"
-month = "month"
-quest = "quest"
-temps = "temps"
-ppn = "pnominal" -- pronom personel nominal
-
-
--- Création d'un lexique ou chargement d'un lexique existant
-main:lexicon("#day", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
-tool.create_lex(f_data)
-
-
--- Pattern avec expressions régulières 
-main:pattern('[#year /^%d%d%d%d$/]')
-
--- Pattern pour une date   A optimiser !!
-main:pattern([[
-	[#date 
-		#day /%d+/ #month #year |
-		#day /%d+/ #month |
-		/%d+/ #month  #year |
-		/%d+/ #month |
-		#day /%d+/ |
-		#month #year |
-		/%d+/ "/" /%d+/ "/" /%d+/ |
-		#d "/" #d "/" #d
-	]
-]])
-
-
--- Date de naissance
-main:pattern(' "ne" .*? "le" [#birth #date]')
-
--- Lieu de naissance
-main:pattern(' "ne" .*? "a" [#birthplace '..tool.get_tag(place)..']')
-
--- Reconnaitre un nom
-main:pattern('[#name '..tool.get_tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
-
--- Reconnaitre une question
-main:pattern('['..tool.get_tag(quest)..' .*? "?"]')
-
--- Reconnaitre une affirmation
-main:pattern('[#affirm .*? "!"]')
-
--- Reconnaitre fin de discussion
-main:pattern('['..tool.get_tag(exit)..tool.get_tag(fin)..' ]')
-
-tags = {
-	["#birth"] = "red",
-	["#name"] = "blue",
-	[tool.get_tag(exit)] = "yellow",
-	--["#lieu"] = "red",
-	["#date"] = "magenta",
-	[tool.get_tag(quest)] = "magenta",
-	["#birthplace"] = "green",
-	["#affirm"] = "green",
-}
+local f_test = "../test"
 
 
 --lp.read_corpus(f_test)
