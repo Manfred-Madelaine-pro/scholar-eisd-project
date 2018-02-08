@@ -20,7 +20,7 @@ local lp = require 'line_processing'
 
 
 -- Variables globamles
-local BOT_NAME = "ni2goch_ni2dwatt"
+local BOT_NAME = "ugBot"
 
 dialog_state = {}
 
@@ -71,19 +71,28 @@ function bot_processing(line)
 end
 
 
-function contextual_analysis( question )
+function find_politician(question)
+	res = ""
 	-- on commence par recuperer hors contexte
 	if (#question[tool.get_tag(ppn)]) ~= 0 then
-		print("\n\t\tNom reconnu")
-		dialog_state.hckey = question:tag2str("#pnominal")[1]
+		res = question:tag2str("#pnominal")[1]
 	else
-		dialog_state.hckey = nil
+		res = nil
 	end
+	return res
+end
+
+
+function contextual_analysis(question)
+	-- on commence par recuperer hors contexte
+	dialog_state.hckey = find_politician(question)
 
 	if (#question["#Qbirth"]) ~= 0 then
 		dialog_state.hctypes = "Qbirth"
 	elseif (#question["#Qlieu"]) ~= 0 then
 		dialog_state.hctypes = "Qlieu"
+	else
+		dialog_state.hctypes = nil
 	end
 
 

@@ -6,6 +6,7 @@ local c = require 'clean'
 -- Analyse d'un bout de phrase
 function lp.process(sen)
 	sen = sen:gsub("%p", " %0 ")
+	sen = c.cleaner(sen)
 	local seq = dark.sequence(sen)
 	main(seq)
 	return seq 
@@ -13,8 +14,8 @@ end
 
 
 function lp.split_sentence(line)
-	-- Nettoyage des accents
-	line = c.cleaner(line)
+
+	print(line)
 	-- Decoupage de la phrase en plusieurs segments selon la ponctuation
 	for sen in line:gmatch("(.-[.?!])") do
 		seq = lp.process(sen)

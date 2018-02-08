@@ -18,8 +18,8 @@ dofile("nlu.lua")
 local f_test = "../test"
 
 
---lp.read_corpus(f_test)
-bot.main()
+lp.read_corpus(f_test)
+--bot.main()
 --tool.save_db(db, "database")
 
 
