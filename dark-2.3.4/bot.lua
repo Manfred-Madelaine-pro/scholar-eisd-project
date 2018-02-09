@@ -121,13 +121,13 @@ end
 function reponse_bot()
 	if dialog_state.eckey then
 		if dialog_state.ectypes == nil then
-			print("Que souhaitez vous savoir sur "..dialog_state.eckey.." ?")
+			bot_answer("Que souhaitez vous savoir sur "..dialog_state.eckey.." ?")
 		else	
 			q1 = search_tag(q_birth, pol_birth, "est né le")
 			q2 = search_tag(q_lieu, pol_birthplace, "est né à")
 
 			if (q1 == -1 and q2 == -1) then 
-				print("Cette information n'est pas encore gérée par le système.")
+				bot_answer("Cette information n'est pas encore gérée par le système.")
 			end
 		end
 	end
@@ -145,13 +145,13 @@ function search_tag(q_tag, pol_tag, txt)
 		local firstname = getFromDB(keyValue, pol_fname)
 		
 		if res == 0 then
-			print("Désolé, je n'ai pas cette information")
+			bot_answer("Désolé, je n'ai pas cette information")
 			dialog_state.gen = "answer = pas_info"
 		elseif res == -1 then
-			print("Désolé, je n'ai pas ".. keyValue.." dans ma base d'auteurs.")
+			bot_answer("Désolé, je n'ai pas ".. keyValue.." dans ma base d'auteurs.")
 			dialog_state.gen = "answer = pas "..keyValue
 		else
-			print(firstname.." "..name.." "..txt.." "..res)
+			bot_answer(firstname.." "..name.." "..txt.." "..res)
 			dialog_state.gen = "answer = "..res
 		end
 		return 0
@@ -181,7 +181,7 @@ function contextual_analysis(question)
 	table.insert(dialog_state, dialog_state.eckey)
 	table.insert(dialog_state, dialog_state.gen)
 
-	affichange()
+	--affichange()
 
 	dialog_state.gen = {}
 
@@ -189,7 +189,7 @@ function contextual_analysis(question)
 	
 	if dialog_state.ectypes and not dialog_state.eckey then
 		print("dialogue 2:")
-		print("Sur quel auteur voulez-vous une information ?")
+		bot_answer("Sur quel auteur voulez-vous une information ?")
 		dialog_state.gen = "answer = quel auteur"
 	end
 end
