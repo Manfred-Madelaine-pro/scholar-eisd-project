@@ -17,51 +17,31 @@ quest = "quest"
 temps = "temps"
 ppn = "pnominal" -- pronom personel nom inal
 
+-- Tags pour les questions
+q_lieu = "Qlieu"
+q_birth = "Qbirth"
+
+-- ttributs d'un Politicien
+pol_name = "name"
+pol_birth = "birth"
+pol_death = "death"
+pol_fname = "firstname"
+pol_birthplace = "birthplace"
+
+
 local f_data = "data/"
-
-
--- Redéfiniton de la fonction de dark pour permettre l'utilisation de regex dans les fichiers de lexique
-function dark.lexicon(tag, list)
-	-- Vérifier que les arguments sont valides et si un fichier est fourni à la place d'une table, charger son contenu
-	if type(tag) ~= "string" or not tag:match("^%#[%w%=%-]+$") then
-		error("missing or invalid tag name", 2)
-	end
-	if type(list) == "string" then
-		local tmp = {}
-		for line in io.lines(list) do
-			tmp[#tmp + 1] = line
-		end
-		list = tmp
-	elseif type(list) ~= "table" then
-		error("invalid argument to lexicon", 2)
-	end
-	-- Convertir les éléments dans la liste en une séquence de tokens qui correspond à la construction d'un pattern
-	local pat = {}
-	for id, seq in ipairs(list) do
-		seq = seq:match("^%s*(.-)%s*$")
-		if seq ~= "" then
-			seq = seq:gsub('/', '//'):gsub('%s+', '/ /')
-			pat[#pat + 1] = '/^'..seq..'$/'
-		end
-	end
-	-- Création du pattern afin de remplacer la liste de token
-	if #pat == 0 then
-		return function(seq) return seq end
-	end
-	pat = dark.pattern("["..tag.." "..table.concat(pat, " | ").."]")
-	return function(seq)
-		return pat(seq)
-	end
-end
 
 
 function main:lexicon(...)
 	return self:add(dark.lexicon(...))
 end
 
+
 -- Création d'un lexique ou chargement d'un lexique existant
 tool.create_lex(f_data)
 main:lexicon("#day", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
+main:lexicon("#dateN", {"date de naissance", "naissance"})
+main:lexicon("#lieuN", {"lieu de naissance", "où", "ou"})
 
 
 -- Paterne avec expressions régulières 
@@ -101,17 +81,25 @@ main:pattern('[#affirm .*? "!"]')
 main:pattern('['..tool.get_tag(exit)..tool.get_tag(fin)..' ]')
 
 
-
--- Paternes reconnaissance question
-main:lexicon("#Qlieu", {"ou"})
-
 -- Qestion sur la Date de naissance
 main:pattern([[
 	[#Qbirth 
 		"quand" #pnominal #POS=VRB .*? "ne" |
-		"quand" #POS=VRB "ne" #pnominal .*? 
+		"quand" #POS=VRB "ne" #pnominal .*? |
+		#dateN
 	]
 ]])
+
+
+-- Qestion sur le lieu de naissance
+main:pattern([[
+	[#Qlieu 
+		"ou" #pnominal #POS=VRB .*? "ne" |
+		"ou" #POS=VRB "ne" #pnominal .*? |
+		#lieuN
+	]
+]])
+
 
 --main:pattern('[#Qbirth "quand" '..tool.get_tag(ppn)..' #POS=VRB .*? "ne" ]')
 --main:pattern('[#Qbirth "quand" #POS=VRB "ne" '..tool.get_tag(ppn)..' .*? ]')

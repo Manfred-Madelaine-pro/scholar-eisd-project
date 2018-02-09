@@ -12,15 +12,13 @@ local cur_disc = {}
 -- Historique global
 local history = {}
 
-
+-- fonction inutile mtn
 function sp.analyse_seq(seq)
 	update_data(seq)
 
 	-- analyser seq pour sortir
 	if(check_exit(seq)) then
 		return -1
-	elseif check_question(seq) then
-		return 1
 	else
 		return 0
 	end	
@@ -52,14 +50,6 @@ function check_exit(seq)
 	return false
 end
 
-
--- Verifie si la seqence contient un token de question
-function check_question(seq)
-	if get_elem(seq, tool.get_tag(quest)) then
-		return true
-	end
-	return false
-end
 
 
 function get_elem(seq, tag_containing, tag_contained)

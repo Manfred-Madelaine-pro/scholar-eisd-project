@@ -30,12 +30,43 @@ function tool.save_db(db, filename)
 end
 
 
-function tool.load_db(filename)
-	local db = dofile(filename..".lua")
-
-	print(serialize(db))
-	return db
+-- Redéfiniton de la fonction de dark pour permettre l'utilisation de regex dans les fichiers de lexique
+function dark.lexicon(tag, list)
+	-- Vérifier que les arguments sont valides et si un fichier est fourni à la place d'une table, charger son contenu
+	if type(tag) ~= "string" or not tag:match("^%#[%w%=%-]+$") then
+		error("missing or invalid tag name", 2)
+	end
+	if type(list) == "string" then
+		local tmp = {}
+		for line in io.lines(list) do
+			tmp[#tmp + 1] = line
+		end
+		list = tmp
+	elseif type(list) ~= "table" then
+		error("invalid argument to lexicon", 2)
+	end
+	-- Convertir les éléments dans la liste en une séquence de tokens qui correspond à la construction d'un pattern
+	local pat = {}
+	for id, seq in ipairs(list) do
+		seq = seq:match("^%s*(.-)%s*$")
+		if seq ~= "" then
+			seq = seq:gsub('/', '//'):gsub('%s+', '/ /')
+			pat[#pat + 1] = '/^'..seq..'$/'
+		end
+	end
+	-- Création du pattern afin de remplacer la liste de token
+	if #pat == 0 then
+		return function(seq) return seq end
+	end
+	pat = dark.pattern("["..tag.." "..table.concat(pat, " | ").."]")
+	return function(seq)
+		return pat(seq)
+	end
 end
 
+
+function tool.distance_mot(mot)
+	return "Melenchon"
+end
 
 return tool

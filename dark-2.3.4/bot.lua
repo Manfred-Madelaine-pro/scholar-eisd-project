@@ -20,7 +20,7 @@ local lp = require 'line_processing'
 
 
 -- Variables globamles
-local BOT_NAME = "ugBot"
+local BOT_NAME = "ugoBot"
 
 dialog_state = {}
 
@@ -45,7 +45,6 @@ end
 function chat_loop()
 	user_line = ""
 	loop = true
-	-- in_liste(user_line, exit_answer_list) == false
 	while loop do
 		io.write("> ")
 		user_line = io.read()
@@ -61,21 +60,22 @@ function bot_processing(line)
 	seq = lp.process(line)
 	print(seq:tostring(tags))
 
+	--choice = sp.analyse_seq(seq)
 	-- analyser la sequence
-	choice = sp.analyse_seq(seq)
-
-	response = choose_answer( choice )
-	contextual_analysis( seq )
+	choice = contextual_analysis(seq)
+	response = choose_answer(choice)
 
 	return response
 end
 
 
-function find_politician(question)
+function find_key(question)
 	res = ""
 	-- on commence par recuperer hors contexte
 	if (#question[tool.get_tag(ppn)]) ~= 0 then
-		res = question:tag2str("#pnominal")[1]
+		res = question:tag2str(tool.get_tag(ppn))[1]
+	elseif (#question[tool.get_tag(exit)]) ~= 0 then
+		res = -1
 	else
 		res = nil
 	end
@@ -83,27 +83,25 @@ function find_politician(question)
 end
 
 
-function contextual_analysis(question)
-	-- on commence par recuperer hors contexte
-	dialog_state.hckey = find_politician(question)
-
-	if (#question["#Qbirth"]) ~= 0 then
-		dialog_state.hctypes = "Qbirth"
-	elseif (#question["#Qlieu"]) ~= 0 then
-		dialog_state.hctypes = "Qlieu"
+function find_type(question)
+	res = ""
+	if (#question[tool.get_tag(q_birth)]) ~= 0 then
+		res = q_birth
+	elseif (#question[tool.get_tag(q_lieu)]) ~= 0 then
+		res = q_lieu
 	else
-		dialog_state.hctypes = nil
+		res = nil
 	end
 
+	return res
+end
 
-	-- en contexte on veut rÃ©cupÃ©rer ssi on a au moins un Ã©lÃ©ment
-	-- d'une autre classe (key ou types)
+
+function hc_to_ec()
 	-- lien Hors context vesr En context sur les clés
 	if (dialog_state.hckey) then
 		dialog_state.eckey = dialog_state.hckey
 	elseif (dialog_state.hctypes) then
-		-- on conserve la key prÃ©cÃ©dente
-		-- inutile
 		dialog_state.eckey = dialog_state.eckey
 	else
 		dialog_state.eckey = nil
@@ -114,11 +112,76 @@ function contextual_analysis(question)
 	if (dialog_state.hctypes) then
 		dialog_state.ectypes = dialog_state.hctypes
 	elseif (dialog_state.hckey) then
-		-- on conserve la key prÃ©cÃ©dente
 		dialog_state.ectypes = dialog_state.ectypes
 	else
 		dialog_state.ectypes = nil
 	end
+end
+
+
+function reponse_bot( ... )
+	-- on commence le dialogue
+	if dialog_state.eckey then
+		print("dialogue 1:")
+		if dialog_state.ectypes == q_birth then
+
+			keyValue = tool.distance_mot(dialog_state.eckey)
+			typesValue = pol_birth
+
+			local res = getFromDB(keyValue, typesValue)
+			local name = getFromDB(keyValue, pol_name)
+			local firstname = getFromDB(keyValue, pol_fname)
+			
+			if res == 0 then
+				print("Désolé, je n'ai pas cette information")
+				dialog_state.gen = "answer = pas_info"
+			elseif res == -1 then
+				print("Désolé, je n'ai pas ".. keyValue.." dans ma base d'auteurs.")
+				dialog_state.gen = "answer = pas "..keyValue
+			else
+				print(firstname.." "..name.." est né le "..res)
+				dialog_state.gen = "answer = "..res
+			end
+
+		elseif dialog_state.ectypes == q_lieu then
+
+			keyValue = tool.distance_mot(dialog_state.eckey)
+			typesValue = pol_birthplace
+
+			local res = getFromDB(keyValue, typesValue)
+			local name = getFromDB(keyValue, pol_name)
+			local firstname = getFromDB(keyValue, pol_fname)
+			
+			if res == 0 then
+				print("Désolé, je n'ai pas cette information")
+				dialog_state.gen = "answer = pas_info"
+			elseif res == -1 then
+				print("Désolé, je n'ai pas ".. keyValue.." dans ma base d'auteurs.")
+				dialog_state.gen = "answer = pas "..keyValue
+			else
+				print(firstname.." "..name.." est né à "..res)
+				dialog_state.gen = "answer = "..res
+			end
+		elseif dialog_state.ectypes == nil then
+			print("Que souhaitez vous savoir sur "..dialog_state.eckey.." ?")
+		else
+			print("Cette information n'est pas encore gérée par le système.")
+		end
+	end
+end
+
+
+function contextual_analysis(question)
+	-- on commence par recuperer hors contexte
+	dialog_state.hckey = find_key(question)
+
+	if (dialog_state.hckey == -1) then
+		return -1
+	end
+
+	dialog_state.hctypes = find_type(question)
+	
+	hc_to_ec()
 
 
 	print("Clé & type :", dialog_state.eckey, dialog_state.ectypes)
@@ -128,6 +191,7 @@ function contextual_analysis(question)
 	table.insert(dialog_state, dialog_state.ectypes)
 	table.insert(dialog_state, dialog_state.eckey)
 	table.insert(dialog_state, dialog_state.gen)
+	
 	print("taille :", #dialog_state, "\nTableau :")
 	for index,value in pairs(dialog_state) do
 		print(index, value)
@@ -136,37 +200,19 @@ function contextual_analysis(question)
 
 	dialog_state.gen = {}
 
-	-- on commence le dialogue
-	if dialog_state.eckey then
-		print("dialogue 1:")
-		if dialog_state.ectypes == "Qbirth" then
-			keyValue = dialog_state.eckey
-			typesValue = "naissance"
-			local res = getFromDB(keyValue, typesValue)
-			local firstname = getFromDB(keyValue, "nom")
-			if res == 0 then
-				print("Désolé, je n'ai pas cette information")
-				dialog_state.gen = "ans = pas_info"
-			elseif res == -1 then
-				print("Désolé, je n'ai pas ".. keyValue.." dans ma base d'auteurs.")
-				dialog_state.gen = "ans = pas "..keyValue
-			else
-				print(firstname, keyValue, "est né le ", res)
-				dialog_state.gen = "ans = "..res
-			end
-		end
-	end
+	reponse_bot()
+	
 	if dialog_state.ectypes and not dialog_state.eckey then
 		print("dialogue 2:")
 		print("Sur quel auteur voulez-vous une information ?")
-		dialog_state.gen = "ans = quel auteur"
+		dialog_state.gen = "answer = quel auteur"
 	end
 end
---end
+
 
 function choose_answer( choice )
 	if (choice == -1) then
-		--bot_answer("Au revoir !")
+		bot_answer("Au revoir !")
 		return false
 	elseif (choice == 1) then
 		--bot_answer("Vous avez posé une question")

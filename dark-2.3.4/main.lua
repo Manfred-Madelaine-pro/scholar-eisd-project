@@ -8,6 +8,7 @@ local lp = require 'line_processing'
 main = dark.pipeline()
 main:basic()
 
+
 -- Chargement du modèle statistique entraîné sur le français 
 main:model("model-2.3.0/postag-fr")
 
@@ -18,9 +19,8 @@ dofile("nlu.lua")
 local f_test = "../test"
 
 
-lp.read_corpus(f_test)
---bot.main()
---tool.save_db(db, "database")
+--lp.read_corpus(f_test)
+bot.main()
 
 
 return tst
