@@ -12,18 +12,6 @@ local cur_disc = {}
 -- Historique global
 local history = {}
 
--- fonction inutile mtn
-function sp.analyse_seq(seq)
-	update_data(seq)
-
-	-- analyser seq pour sortir
-	if(check_exit(seq)) then
-		return -1
-	else
-		return 0
-	end	
-end
-
 
 function update_data(seq)
 	--print("taille : ", #history)
@@ -42,16 +30,7 @@ function afficher_histo(history)
     end
 end
 
--- Verifie si la  sequence contient un token d'exit
-function check_exit(seq)
-	if get_elem(seq, tool.get_tag(exit)) then
-		return true
-	end
-	return false
-end
-
-
-
+-- deprecated
 function get_elem(seq, tag_containing, tag_contained)
 	return seq:tag2str(tag_containing, tag_contained)[1]
 end

@@ -73,6 +73,7 @@ function find_key(question)
 	-- on commence par recuperer hors contexte
 	if (#question[tool.get_tag(ppn)]) ~= 0 then
 		res = question:tag2str(tool.get_tag(ppn))[1]
+	
 	elseif (#question[tool.get_tag(exit)]) ~= 0 then
 		res = -1
 	else
@@ -81,13 +82,15 @@ function find_key(question)
 	return res
 end
 
-
+-- naiisance ET lieu de naissance : à gérer
 function find_type(question)
 	res = ""
 	if (#question[tool.get_tag(q_birth)]) ~= 0 then
 		res = q_birth
 	elseif (#question[tool.get_tag(q_lieu)]) ~= 0 then
 		res = q_lieu
+	elseif (#question[tool.get_tag(q_formation)]) ~= 0 then
+		res = q_formation
 	else
 		res = nil
 	end
@@ -125,11 +128,15 @@ function reponse_bot()
 		else	
 			q1 = search_tag(q_birth, pol_birth, "est né le")
 			q2 = search_tag(q_lieu, pol_birthplace, "est né à")
+			q3 = search_tag(q_formation, pol_formation, "formation : ")
 
-			if (q1 == -1 and q2 == -1) then 
+			if (q1 == -1 and q2 == -1 and q3 == -1) then 
 				bot_answer("Cette information n'est pas encore gérée par le système.")
 			end
 		end
+	elseif dialog_state.ectypes then
+		bot_answer("Sur quel politicien voulez-vous une information ?")
+		dialog_state.gen = "answer = quel politicien"
 	end
 end
 
@@ -151,8 +158,7 @@ function search_tag(q_tag, pol_tag, txt)
 			bot_answer("Désolé, je n'ai pas ".. keyValue.." dans ma base d'auteurs.")
 			dialog_state.gen = "answer = pas "..keyValue
 		else
-			bot_answer(firstname.." "..name.." "..txt.." "..res)
-			dialog_state.gen = "answer = "..res
+			gen_answer(firstname.." "..name.." "..txt, res)
 		end
 		return 0
 	end
@@ -160,11 +166,22 @@ function search_tag(q_tag, pol_tag, txt)
 	return -1
 end
 
+function gen_answer(txt, res)
+	if type(res) == "table" then
+		print ("tbleau !")
+		dialog_state.gen = "answer = formation"
+	else
+		bot_answer(txt.." "..res)
+		dialog_state.gen = "answer = "..res
+	end
+end
+
 
 function contextual_analysis(question)
 	-- on commence par recuperer hors contexte
 	dialog_state.hckey = find_key(question)
 
+	-- Quitter la discussion
 	if (dialog_state.hckey == -1) then
 		return -1
 	end
@@ -181,17 +198,11 @@ function contextual_analysis(question)
 	table.insert(dialog_state, dialog_state.eckey)
 	table.insert(dialog_state, dialog_state.gen)
 
-	--affichange()
+	affichange()
 
 	dialog_state.gen = {}
 
 	reponse_bot()
-	
-	if dialog_state.ectypes and not dialog_state.eckey then
-		print("dialogue 2:")
-		bot_answer("Sur quel auteur voulez-vous une information ?")
-		dialog_state.gen = "answer = quel auteur"
-	end
 end
 
 

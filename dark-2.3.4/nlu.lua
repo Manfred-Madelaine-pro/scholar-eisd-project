@@ -20,12 +20,14 @@ ppn = "pnominal" -- pronom personel nom inal
 -- Tags pour les questions
 q_lieu = "Qlieu"
 q_birth = "Qbirth"
+q_formation = "Qformation"
 
 -- ttributs d'un Politicien
 pol_name = "name"
 pol_birth = "birth"
 pol_death = "death"
 pol_fname = "firstname"
+pol_formation = "formation"
 pol_birthplace = "birthplace"
 
 
@@ -42,6 +44,7 @@ tool.create_lex(f_data)
 main:lexicon("#day", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
 main:lexicon("#dateN", {"date de naissance", "naissance"})
 main:lexicon("#lieuN", {"lieu de naissance", "où", "ou"})
+main:lexicon("#formation", {"formation"})
 
 
 -- Paterne avec expressions régulières 
@@ -74,9 +77,6 @@ main:pattern('[#name '..tool.get_tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 -- Reconnaitre une question (pas utile vu que l'utilisateur n'utilise pas de ponct)
 main:pattern('['..tool.get_tag(quest)..' .*? "?"]')
 
--- Reconnaitre une affirmation
-main:pattern('[#affirm .*? "!"]')
-
 -- Reconnaitre fin de discussion
 main:pattern('['..tool.get_tag(exit)..tool.get_tag(fin)..' ]')
 
@@ -100,6 +100,15 @@ main:pattern([[
 	]
 ]])
 
+-- Qestion sur la formation
+main:pattern([[
+	[#Qformation 
+		"quelle" "formation" #pnominal #POS=VRB .*? |
+		"quelle" "formation" #POS=VRB .*? #pnominal |
+		#formation
+	]
+]])
+
 
 --main:pattern('[#Qbirth "quand" '..tool.get_tag(ppn)..' #POS=VRB .*? "ne" ]')
 --main:pattern('[#Qbirth "quand" #POS=VRB "ne" '..tool.get_tag(ppn)..' .*? ]')
@@ -114,5 +123,4 @@ tags = {
 	["#date"] = "magenta",
 	[tool.get_tag(quest)] = "magenta",
 	["#birthplace"] = "green",
-	["#affirm"] = "green",
 }
