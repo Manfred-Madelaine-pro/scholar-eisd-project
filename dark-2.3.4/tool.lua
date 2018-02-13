@@ -65,8 +65,4 @@ function dark.lexicon(tag, list)
 end
 
 
-function tool.distance_mot(mot)
-	return "Melenchon"
-end
-
 return tool

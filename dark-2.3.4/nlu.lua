@@ -5,7 +5,15 @@
 ]]--
 
 
+-- importation des modules
 local tool = require 'tool'
+
+
+main = dark.pipeline()
+main:basic()
+
+-- Chargement du modèle statistique entraîné sur le français 
+main:model("model-2.3.0/postag-fr")
 
 
 -- Tag names

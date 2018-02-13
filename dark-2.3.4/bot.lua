@@ -15,6 +15,7 @@ local bot = {}
 
 -- importation d'un module
 local tool = require 'tool'
+local corr = require 'corrector'
 local sp = require 'seq_processing'
 local lp = require 'line_processing'
 
@@ -27,11 +28,11 @@ dialog_state = {}
 turn = 0
 
 -- Lancer le chat bot
-function start_chatbot()
+function init()
 	s = " ---- "
 	txt = "Bienvenu dans le Chatbot de CDK, MFD, LAO & UGO"
 	print("\n\t"..s..txt..s.."\n")
-	bot_answer("Bonjour ! Je suis l'as des Politiciens Français. Comment puis-je vous aider ?")
+	bot_answer("Bonjour ! Je suis l'As des Politiciens Français. Comment puis-je vous aider ?")
 end
 
 
@@ -55,16 +56,13 @@ end
 
 -- Traitement d'une ligne de texte por le chat bot
 function bot_processing(line)
-
 	-- traitement de la ligne de texte
 	seq = lp.process(line)
 	print(seq:tostring(tags))
 
 	-- analyser la sequence
 	choice = contextual_analysis(seq)
-	response = choose_answer(choice)
-
-	return response
+	return choose_answer(choice)
 end
 
 
@@ -125,12 +123,14 @@ function reponse_bot()
 	if dialog_state.eckey then
 		if dialog_state.ectypes == nil then
 			bot_answer("Que souhaitez vous savoir sur "..dialog_state.eckey.." ?")
+			dialog_state.gen = "answer = quel information"
+
 		else	
 			q1 = search_tag(q_birth, pol_birth, "est né le")
 			q2 = search_tag(q_lieu, pol_birthplace, "est né à")
 			q3 = search_tag(q_formation, pol_formation, "formation : ")
 
-			if (q1 == -1 and q2 == -1 and q3 == -1) then 
+			if (not q1 and not q2 and not q3) then 
 				bot_answer("Cette information n'est pas encore gérée par le système.")
 			end
 		end
@@ -144,7 +144,7 @@ end
 function search_tag(q_tag, pol_tag, txt)
 	if dialog_state.ectypes == q_tag then
 
-		keyValue = tool.distance_mot(dialog_state.eckey)
+		keyValue = corr.corrector(dialog_state.eckey)
 		typesValue = pol_tag
 
 		local res = getFromDB(keyValue, typesValue)
@@ -158,21 +158,43 @@ function search_tag(q_tag, pol_tag, txt)
 			bot_answer("Désolé, je n'ai pas ".. keyValue.." dans ma base d'auteurs.")
 			dialog_state.gen = "answer = pas "..keyValue
 		else
-			gen_answer(firstname.." "..name.." "..txt, res)
+			if dialog_state.eckey == dialog_state[#dialog_state-2]then
+				gen_answer("Il "..txt, res)
+			else
+				gen_answer(firstname.." "..name.." "..txt, res)
+			end
 		end
-		return 0
+		return true
 	end
 
-	return -1
+	return false
 end
+
 
 function gen_answer(txt, res)
 	if type(res) == "table" then
-		print ("tbleau !")
+		parcourir_table(res)
 		dialog_state.gen = "answer = formation"
 	else
 		bot_answer(txt.." "..res)
-		dialog_state.gen = "answer = "..res
+		dialog_state.gen = "answer = "..res.."."
+	end
+end
+
+
+function parcourir_table(res)
+	if type(res) == "table" then
+		for index,value in pairs(res) do
+			if type(value) == "table" then
+				print("table "..index)
+				parcourir_table(value)
+				print()
+			else
+				print(index, value)
+			end
+		end
+	else
+		print(res)
 	end
 end
 
@@ -191,27 +213,36 @@ function contextual_analysis(question)
 	-- lien entre hors contexte et en contexte
 	hc_to_ec()
 
+	--dialog_state.gen = {}
 
 	turn = turn + 1
-	table.insert(dialog_state, turn)
-	table.insert(dialog_state, dialog_state.ectypes)
-	table.insert(dialog_state, dialog_state.eckey)
-	table.insert(dialog_state, dialog_state.gen)
-
-	affichange()
-
-	dialog_state.gen = {}
-
+	
 	reponse_bot()
+	update_history()
+	affichage()
+	return 0
+end
+
+function update_history()
+	gen = dialog_state.gen or "no ans"
+	ec_key  = dialog_state.eckey   or "no key"
+	ec_type = dialog_state.ectypes or "no type"
+
+	table.insert(dialog_state, turn)
+	table.insert(dialog_state, ec_key)
+	table.insert(dialog_state, ec_type)
+	table.insert(dialog_state, gen)
+	
 end
 
 
-function affichange()
-		
+function affichage()	
 	print("Clé & type :", dialog_state.eckey, dialog_state.ectypes)
-	print("taille :", #dialog_state, "\nTableau :")
+	print("Historique :")
 	for index,value in pairs(dialog_state) do
 		print(index, value)
+
+		if index == #dialog_state then print() end
 	end
 	print()
 end
@@ -220,10 +251,6 @@ function choose_answer( choice )
 	if (choice == -1) then
 		bot_answer("Au revoir !")
 		return false
-	elseif (choice == 1) then
-		--bot_answer("Vous avez posé une question")
-	else
-		--bot_answer("Je ne sais pas !")
 	end
 	return true
 end
@@ -274,9 +301,9 @@ end
 
 
 -- Main
-function bot.main()
+function bot.start()
 	db = dofile("database.lua")
-	start_chatbot()
+	init()
 	chat_loop()
 end
 
