@@ -2,6 +2,7 @@ return {
 	["Melenchon"] = {
 		name = "Mélenchon",
 		firstname = "Jean-Luc",
+		gender = "M",
 	
 		birth = "19 août 1951",
 		death = nil,

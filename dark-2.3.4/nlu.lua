@@ -16,27 +16,29 @@ main:basic()
 main:model("model-2.3.0/postag-fr")
 
 
--- Tag names
-fin = "fin"
-exit = "end"
+-- Tag's name
+neg   = "neg"
+fin   = "fin"
+exit  = "end"
 place = "lieu"
 month = "month"
 quest = "quest"
 temps = "temps"
-ppn = "pnominal" -- pronom personel nom inal
+ppn   = "pnominal" -- pronom personel nom inal
 
 -- Tags pour les questions
-q_lieu = "Qlieu"
+q_lieu  = "Qlieu"
 q_birth = "Qbirth"
-q_formation = "Qformation"
+q_statut = "Qstatut"
+q_forma = "Qformation"
 
--- ttributs d'un Politicien
-pol_name = "name"
-pol_birth = "birth"
-pol_death = "death"
-pol_fname = "firstname"
-pol_formation = "formation"
-pol_birthplace = "birthplace"
+-- attributs d'un Politicien
+pol_name   = "name"
+pol_birth  = "birth"
+pol_death  = "death"
+pol_fname  = "firstname"
+pol_forma  = "formation"
+pol_birthp = "birthplace"
 
 
 local f_data = "data/"
@@ -50,6 +52,7 @@ end
 -- Création d'un lexique ou chargement d'un lexique existant
 tool.create_lex(f_data)
 main:lexicon("#day", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
+
 main:lexicon("#dateN", {"date de naissance", "naissance"})
 main:lexicon("#lieuN", {"lieu de naissance", "où", "ou"})
 main:lexicon("#formation", {"formation"})
@@ -113,22 +116,29 @@ main:pattern([[
 	[#Qformation 
 		"quelle" "formation" #pnominal #POS=VRB .*? |
 		"quelle" "formation" #POS=VRB .*? #pnominal |
-		#formation
+		#formation |
+		"f"
 	]
 ]])
 
 
---main:pattern('[#Qbirth "quand" '..tool.get_tag(ppn)..' #POS=VRB .*? "ne" ]')
---main:pattern('[#Qbirth "quand" #POS=VRB "ne" '..tool.get_tag(ppn)..' .*? ]')
+main:pattern('[#Qstatut "qui" #POS=VRB '..tool.get_tag(ppn)..' ]')
+
 
 tags = {
-	["#birth"] = "red",
-	["#Qbirth"] = "yellow",
+
 	["#Qlieu"] = "green",
+	["#Qbirth"] = "green",
+	["#Qstatut"] = "green",
+	["#Qformation"] = "green",
+	
+	["#neg"] = "red",
+	["#birth"] = "red",
 	["#name"] = "blue",
-	[tool.get_tag(exit)] = "yellow",
 	--["#lieu"] = "red",
 	["#date"] = "magenta",
-	[tool.get_tag(quest)] = "magenta",
 	["#birthplace"] = "green",
+
+	[tool.get_tag(exit)] = "yellow",
+	[tool.get_tag(quest)] = "magenta",
 }
