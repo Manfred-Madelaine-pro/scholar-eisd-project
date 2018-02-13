@@ -83,6 +83,9 @@ end
 function find_type(question)
 	local res = ""
 
+	local types = {"#birth", "#lieu"}
+	--for i, typ in pairs(types) do	end
+
 	if (#question[tool.get_tag(q_birth)]) ~= 0 then
 		res = q_birth
 	elseif (#question[tool.get_tag(q_lieu)]) ~= 0 then
@@ -174,7 +177,7 @@ end
 
 function gen_answer(txt, res, type_val)
 	if type(res) == "table" then
-		rep = txt.."\n"
+		rep = txt
 
 		for i = 1, #res do
 			-- Recherche de la formation

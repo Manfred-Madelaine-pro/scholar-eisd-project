@@ -22,14 +22,14 @@ return {
 				name = "Jeanine Bayona",
 				link = "mère",
 				profession = "institutrice",
-				birth = "12 novembre 1912",
+				birth = "12 octobre 1912",
 				death = "26 janvier 1996",
 			},
 			[3] = {
 				name = "Bernadette Abriel",
 				link = "ex-femme",
 				profession = "",
-				birth = "12 novembre 1912",
+				birth = "1 novembre 1952",
 				death = "26 janvier 1996",
 			},
 			
@@ -54,7 +54,7 @@ return {
 		entourage = {
 			[1] = {
 				name = "Corbière",
-				lastname = "Alexis",
+				firstname = "Alexis",
 			},
 		},
 

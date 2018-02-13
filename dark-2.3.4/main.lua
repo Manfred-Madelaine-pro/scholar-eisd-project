@@ -1,5 +1,5 @@
 --[[
-			CHAT BOT
+			SYSTEME DE DIALOGUE
 	
 	Projet d'EISD realise par les etudiants:
 		@Manfred MadelaT
