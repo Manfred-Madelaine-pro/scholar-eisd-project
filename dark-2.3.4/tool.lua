@@ -6,6 +6,11 @@ function tool.tag(tag)
 	return "#"..tag
 end
 
+-- Renvoie le tag d'une question
+function tool.qtag(tag)
+	return "Q"..tag
+end
+
 
 -- Cree l'ensemble des lexiques
 function tool.create_lex(f_data)
@@ -28,40 +33,6 @@ function tool.save_db(db, filename)
 	out_file:write("return ")
 	out_file:write(serialize(db))
 	out_file:close()
-end
-
-
-function haveTag(seq, tag)
-	print(#seq)
-	return #seq[1][tag] ~= 0
-end
-
-function get_elem(seq, tag_containing, tag_contained)
-	return seq:tag2str(tag_containing, tag_contained)[1]
-end
-
-
--- Cherche les tags dans la séquence et renvoie le tableau
-function tool.tagstrs(seq, tag, lim_debut, lim_fin)
-	lim_debut = lim_debut or 1
-	lim_fin   = lim_fin   or #seq
-	print(tag, seq)
-	--print(get_elem(seq, tag))
-	if not haveTag(seq, tag) then
-		return nil
-	end
-	local tab = {}
-	for i, position in ipairs(seq[tag]) do
-		local debut, fin = position[1], position[2]
-		if debut >= lim_debut and fin <= lim_fin then
-			local tokens = {}
-			for i = debut, fin do
-				tokens[#tokens + 1] = seq[i].token
-			end
-			tab[#tab + 1] = table.concat(tokens, " ")
-		end
-	end
-	return tab
 end
 
 

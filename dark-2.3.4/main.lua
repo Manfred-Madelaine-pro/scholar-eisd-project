@@ -24,4 +24,4 @@ dofile("nlu.lua")
 --lp.read_corpus(f_test)
 
 -- Lancer une conversation avec le bot
-bot.start()
+bot.start(liste_attributs)

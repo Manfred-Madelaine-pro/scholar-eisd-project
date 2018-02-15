@@ -27,22 +27,22 @@ temps = "temps"
 ppn   = "pnominal" -- pronom personel nom inal
 tutoiement = "tutoiement"
 
--- Tags pour les questions
-q_lieu  = "Qlieu"
-q_birth = "Qbirth"
-q_statut = "Qstatut"
-q_forma = "Qformation"
 
--- attributs d'un Politicien
-pol_name   = "name"
-pol_birth  = "birth"
-pol_death  = "death"
-pol_fname  = "firstname"
-pol_forma  = "formation"
-pol_birthp = "birthplace"
+-- attributs d'un Politicien dans la bdd
+db_name   = "name"
+db_birth  = "birth"
+db_death  = "death"
+db_fname  = "firstname"
+db_forma  = "formation"
+db_birthp = "birthplace"
 
+-- hors de la bdd
+hdb_status = "statut"
+
+liste_attributs = {db_birth, db_birthp, db_forma, hdb_status}
 
 local f_data = "data/"
+
 
 
 function main:lexicon(...)
@@ -52,13 +52,17 @@ end
 
 -- Création d'un lexique ou chargement d'un lexique existant
 tool.create_lex(f_data)
+
 main:lexicon("#day", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
 
 main:lexicon("#dateN", {"date de naissance", "naissance"})
 main:lexicon("#lieuN", {"lieu de naissance", "où", "ou"})
-main:lexicon(tool.tag(tutoiement), {"tu", "te", "t'"})
--- vouvoiement ?
 main:lexicon("#formation", {"formation"})
+main:lexicon(tool.tag(tutoiement), {"tu", "te", "t'"})
+main:lexicon("#user", {"je", "moi", "m'"})
+-- vouvoiement ?
+main:lexicon("#question", {"qui", "quelle", "quoi", "comment", "ou", "quand"})
+
 
 
 -- Paterne avec expressions régulières 
@@ -89,7 +93,7 @@ main:pattern(' "ne" .*? "a" [#birthplace '..tool.tag(place)..']')
 main:pattern('[#name '..tool.tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 
 -- Reconnaitre une question (pas utile vu que l'utilisateur n'utilise pas de ponct)
-main:pattern('['..tool.tag(quest)..' .*? "?"]')
+main:pattern('['..tool.tag(quest)..' (#question)? .*? "?"?]')
 
 -- Reconnaitre fin de discussion
 main:pattern('['..tool.tag(exit)..tool.tag(fin)..' ]')
@@ -104,10 +108,9 @@ main:pattern([[
 	]
 ]])
 
-
 -- Qestion sur le lieu de naissance
 main:pattern([[
-	[#Qlieu 
+	[#Qbirthplace 
 		"ou" #pnominal #POS=VRB .*? "ne" |
 		"ou" #POS=VRB "ne" #pnominal .*? |
 		#lieuN
@@ -130,8 +133,7 @@ main:pattern('[#Qstatut "qui" #POS=VRB '..tool.tag(ppn)..' ]')
 main:pattern('[#negation '..tool.tag(neg)..' .{,3}? "pas"]')
 
 tags = {
-
-	["#Qlieu"] = "green",
+	["#Qbirthplace"] = "green",
 	["#Qbirth"] = "green",
 	["#Qstatut"] = "green",
 	["#Qformation"] = "green",

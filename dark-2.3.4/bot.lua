@@ -65,22 +65,6 @@ function bot_processing(line)
 end
 
 
-function find_key(question)
-	local res = nil
-	local liste_sujet = {ppn, tutoiement}
-	
-	-- on commence par recuperer hors contexte
-	for i, att in pairs(liste_sujet) do	
-		if (#question[tool.tag(att)]) ~= 0 then
-			res = question:tag2str(tool.tag(att))[1]
-		elseif (#question[tool.tag(exit)]) ~= 0 then
-			res = -1
-		end
-	end
-
-	return res
-end
-
 function find_keys(question)
 	local res = {}
 	local liste_sujet = {ppn, tutoiement}
@@ -98,31 +82,11 @@ end
 
 
 -- naiisance ET lieu de naissance : à gérer
-function find_type(question)
-	local res = nil
-
-	-- liste des attributs à chercher
-	local liste_attributs = {q_birth, q_lieu, q_forma, q_statut}
-	for i, att in pairs(liste_attributs) do	
-		if (#question[tool.tag(att)]) ~= 0 then
-			res = att
-			
-			--parcourir_table(tool.tagstrs(question[tool.tag(att)], att))
-			break 
-		end
-	end
-
-	return res
-end
-
--- naiisance ET lieu de naissance : à gérer
 function find_types(question)
 	local res = {}
-	local liste_attributs = {q_birth, q_lieu, q_forma, q_statut}
-
 	-- On cherche les questions poses dans la phrase
 	for i, att in pairs(liste_attributs) do	
-		if (#question[tool.tag(att)]) ~= 0 then
+		if (#question[tool.tag(tool.qtag(att))]) ~= 0 then
 			res[#res+1] = att
 		end
 	end
@@ -136,7 +100,6 @@ function hc_to_ec()
 
 	-- lien Hors context vesr En context sur les types
 	dialog_state.ectype = update_context(dialog_state.hctypes, dialog_state.hckey, dialog_state.ectype)
-
 end
 
 
@@ -151,30 +114,51 @@ function update_context(cond1, cond2, val)
 end
 
 
+-- rename
 function use_keys()
-	for i, key in pairs(dialog_state.eckey or {}) do	
-		for j, typ in pairs(dialog_state.ectype or {}) do	
-			reponse_bot(key, typ)
+	is_key = true
+	tab = dialog_state.eckey
+	att = dialog_state.ectype
+
+	use_types(att, tab, is_key)
+end
+
+function use_types(att, tab, is_key)
+	if(tab) then
+		for i, elm in pairs(tab) do	
+			print(elm, att)
+			mini_f(elm, att, is_key)
 		end
-	end
+
+	else mini_f(nil, att, is_key) end
+end
+
+-- renam
+function mini_f(elm, att, is_key)
+	if is_key then 
+		use_types(elm, att, not is_key)
+
+	else reponse_bot(att, elm) end
 end
 
 
 function reponse_bot(key, typ)
-	print("key", key)
-	print("typ", typ)
 	if key then
 		if typ == nil then
 			bot_answer("Que souhaitez vous savoir sur "..key.." ?")
 			dialog_state.gen = "answer = quelle information"
 
-		else	
-			local q1 = search_tag(key, typ, q_birth, pol_birth, "est né le")
-			local q2 = search_tag(key, typ, q_lieu, pol_birthp, "est né à")
-			local q3 = search_tag(key, typ, q_forma, pol_forma, "a comme formation : ")
+		else
+			local bool = false
+			-- On cherche les questions poses dans la phrase
+			for i, att in pairs(liste_attributs) do	
+				bool = search_tag(key, typ, att, "est né le")
+				if (bool) then break end
+			end
 
-			if (not q1 and not q2 and not q3) then 
+			if (not bool) then 
 				bot_answer("Cette information n'est pas encore gérée par le système.")
+				dialog_state.gen = "answer = non_gere"
 			end
 		end
 	elseif typ then
@@ -184,26 +168,27 @@ function reponse_bot(key, typ)
 end
 
 
-function search_tag(key, typ, q_tag, pol_tag, txt)
+function search_tag(key, typ, q_tag, txt)
 	if typ == q_tag then
 
 		key_value = corr.corrector(key)
-		typ_value = pol_tag
+		typ_value = q_tag
 
 		local res       = search_in_db(db, key_value, typ_value)
-		local name      = search_in_db(db, key_value, pol_name)
-		local firstname = search_in_db(db, key_value, pol_fname)
-		
+		local name      = search_in_db(db, key_value, db_name)
+		local firstname = search_in_db(db, key_value, db_fname)
 		if res == 0 then
+			-- type error
 			bot_answer("Désolé, je n'ai pas cette information")
 			dialog_state.gen = "answer = pas_info"
 		
 		elseif res == -1 then
+			-- key error
 			bot_answer("Désolé, je n'ai pas ".. key_value.." dans ma base de politiciens.")
 			dialog_state.gen = "answer = pas "..key_value
 		
-		else
-			if key == dialog_state[#dialog_state-2] then
+		else		
+			if t(dialog_state[#dialog_state-2], key) then
 				local s = search_in_db(db, key_value, "gender")
 				pronoun = "Elle "
 				if (s == "M") then pronoun = "Il " end
@@ -218,13 +203,21 @@ function search_tag(key, typ, q_tag, pol_tag, txt)
 end
 
 
+function t(tab, key)
+	for i, att in pairs(tab) do	
+		if (key == att) then return true end
+	end
+	return false
+end
+
+
 function gen_answer(txt, res, type_val)
 	if type(res) == "table" then
 		rep = txt
 
 		for i = 1, #res do
 			-- Recherche de la formation
-			if (type_val == pol_forma) then
+			if (type_val == db_forma) then
 				rep = rep.."\n\t"..get_forma(res, i)
 			end
 		end
@@ -317,7 +310,7 @@ function aff_typ(k)
 end
 
 
-function affichage()	
+function affichage()
 	--key_n_type()
 
 	print("\nHistorique :")
@@ -373,22 +366,21 @@ function search_in_db(db, politicien, ...)
 			tab = tab[champ]
 		end
 
-      -- On a detecte des elements
+    	-- On a detecte des elements
 		if (tab ~= nil) then return tab
 	   
-	   -- "Désolé, je n'ai pas cette information"
 		else return 0 end
     end
   end
 
-  -- "Désolé, je ne comprends pas de quel pays vous parlez"
   if (b == 0) then return -1 end
 
 end
 
 
 -- Main
-function bot.start()
+function bot.start(l_attributs)
+	liste_attributs = l_attributs
 	db = dofile("database.lua")
 	init()
 	chat_loop()
