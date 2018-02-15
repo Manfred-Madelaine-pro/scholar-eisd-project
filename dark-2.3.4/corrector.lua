@@ -1,8 +1,7 @@
 local corr = {}
 
 function corr.corrector(word)
-	corr = word
-	--"Melenchon"
+	corr = "Melenchon"
 	return corr
 end
 

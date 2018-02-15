@@ -43,8 +43,7 @@ end
 
 -- Fonction d'exhange entre l'utilisateur et le chat bot
 function chat_loop()
-	local line = ""
-	local loop = true
+	local line, loop = "", true
 	
 	while loop do
 		io.write("> ")
@@ -67,84 +66,128 @@ end
 
 
 function find_key(question)
-	local res = ""
+	local res = nil
+	local liste_sujet = {ppn, tutoiement}
+	
 	-- on commence par recuperer hors contexte
-	if (#question[tool.get_tag(ppn)]) ~= 0 then
-		res = question:tag2str(tool.get_tag(ppn))[1]
-	elseif (#question[tool.get_tag(exit)]) ~= 0 then
-		res = -1
+	for i, att in pairs(liste_sujet) do	
+		if (#question[tool.tag(att)]) ~= 0 then
+			res = question:tag2str(tool.tag(att))[1]
+		elseif (#question[tool.tag(exit)]) ~= 0 then
+			res = -1
+		end
+	end
 
-	else res = nil end
+	return res
+end
+
+function find_keys(question)
+	local res = {}
+	local liste_sujet = {ppn, tutoiement}
+	
+	-- on cherche les sujets dans la phrase
+	for i, att in pairs(liste_sujet) do	
+		if (#question[tool.tag(att)]) ~= 0 then
+			res[#res+1] = question:tag2str(tool.tag(att))[1]
+		elseif (#question[tool.tag(exit)]) ~= 0 then
+			res[#res+1] = -1
+		end
+	end
+	return res
+end
+
+
+-- naiisance ET lieu de naissance : à gérer
+function find_type(question)
+	local res = nil
+
+	-- liste des attributs à chercher
+	local liste_attributs = {q_birth, q_lieu, q_forma, q_statut}
+	for i, att in pairs(liste_attributs) do	
+		if (#question[tool.tag(att)]) ~= 0 then
+			res = att
+			
+			--parcourir_table(tool.tagstrs(question[tool.tag(att)], att))
+			break 
+		end
+	end
 
 	return res
 end
 
 -- naiisance ET lieu de naissance : à gérer
-function find_type(question)
-	local res = ""
+function find_types(question)
+	local res = {}
+	local liste_attributs = {q_birth, q_lieu, q_forma, q_statut}
 
-	local types = {"#birth", "#lieu"}
-	--for i, typ in pairs(types) do	end
-
-	if (#question[tool.get_tag(q_birth)]) ~= 0 then
-		res = q_birth
-	elseif (#question[tool.get_tag(q_lieu)]) ~= 0 then
-		res = q_lieu
-	elseif (#question[tool.get_tag(q_forma)]) ~= 0 then
-		res = q_forma
-	elseif (#question[tool.get_tag(q_statut)]) ~= 0 then
-		res = q_statut
-	
-	else res = nil end
-
+	-- On cherche les questions poses dans la phrase
+	for i, att in pairs(liste_attributs) do	
+		if (#question[tool.tag(att)]) ~= 0 then
+			res[#res+1] = att
+		end
+	end
 	return res
 end
 
 
 function hc_to_ec()
 	-- lien Hors context vesr En context sur les clés
-	if (dialog_state.hckey) then
-		dialog_state.eckey = dialog_state.hckey
-	elseif (dialog_state.hctypes) then
-		dialog_state.eckey = dialog_state.eckey
-	else dialog_state.eckey = nil end
-
+	dialog_state.eckey = update_context(dialog_state.hckey, dialog_state.hctypes, dialog_state.eckey)
 
 	-- lien Hors context vesr En context sur les types
-	if (dialog_state.hctypes) then
-		dialog_state.ectype = dialog_state.hctypes
-	elseif (dialog_state.hckey) then
-		dialog_state.ectype = dialog_state.ectype
-	else dialog_state.ectype = nil end
+	dialog_state.ectype = update_context(dialog_state.hctypes, dialog_state.hckey, dialog_state.ectype)
+
 end
 
 
-function reponse_bot()
-	if dialog_state.eckey then
-		if dialog_state.ectype == nil then
-			bot_answer("Que souhaitez vous savoir sur "..dialog_state.eckey.." ?")
+function update_context(cond1, cond2, val)
+	var = nil 
+	if (#cond1 >= 1) then
+		var = cond1
+	elseif (#cond2 >= 1) then
+		var = val
+	end
+	return var
+end
+
+
+function use_keys()
+	for i, key in pairs(dialog_state.eckey or {}) do	
+		for j, typ in pairs(dialog_state.ectype or {}) do	
+			reponse_bot(key, typ)
+		end
+	end
+end
+
+
+function reponse_bot(key, typ)
+	print("key", key)
+	print("typ", typ)
+	if key then
+		if typ == nil then
+			bot_answer("Que souhaitez vous savoir sur "..key.." ?")
 			dialog_state.gen = "answer = quelle information"
 
 		else	
-			local q1 = search_tag(q_birth, pol_birth, "est né le")
-			local q2 = search_tag(q_lieu, pol_birthp, "est né à")
-			local q3 = search_tag(q_forma, pol_forma, "a comme formation : ")
+			local q1 = search_tag(key, typ, q_birth, pol_birth, "est né le")
+			local q2 = search_tag(key, typ, q_lieu, pol_birthp, "est né à")
+			local q3 = search_tag(key, typ, q_forma, pol_forma, "a comme formation : ")
 
 			if (not q1 and not q2 and not q3) then 
 				bot_answer("Cette information n'est pas encore gérée par le système.")
 			end
 		end
-	elseif dialog_state.ectype then
+	elseif typ then
 		bot_answer("Sur quel politicien voulez-vous une information ?")
 		dialog_state.gen = "answer = quel politicien"
 	end
 end
 
 
-function search_tag(q_tag, pol_tag, txt)
-	if dialog_state.ectype == q_tag then
+function search_tag(key, typ, q_tag, pol_tag, txt)
+	if typ == q_tag then
 
-		key_value = corr.corrector(dialog_state.eckey)
+		key_value = corr.corrector(key)
 		typ_value = pol_tag
 
 		local res       = search_in_db(db, key_value, typ_value)
@@ -160,7 +203,7 @@ function search_tag(q_tag, pol_tag, txt)
 			dialog_state.gen = "answer = pas "..key_value
 		
 		else
-			if dialog_state.eckey == dialog_state[#dialog_state-2] then
+			if key == dialog_state[#dialog_state-2] then
 				local s = search_in_db(db, key_value, "gender")
 				pronoun = "Elle "
 				if (s == "M") then pronoun = "Il " end
@@ -230,23 +273,26 @@ end
 
 function contextual_analysis(question)
 	-- on commence par recuperer hors contexte
-	dialog_state.hckey = find_key(question)
+	dialog_state.hckey = find_keys(question)
 
 	-- Quitter la discussion
-	if (dialog_state.hckey == -1) then return -1 end
+	for i, att in pairs(dialog_state.hckey) do	
+		if (att == -1) then return -1 end
+	end
 
-	dialog_state.hctypes = find_type(question)
+	dialog_state.hctypes = find_types(question)
 	
 	-- lien entre hors contexte et en contexte
 	hc_to_ec()
 
 	turn = turn + 1
 	
-	reponse_bot()
+	use_keys()
 	update_history()
 	affichage()
 	return 0
 end
+
 
 function update_history()
 	local ec_gen = dialog_state.gen    or "no ans"
@@ -260,15 +306,48 @@ function update_history()
 end
 
 
+function aff_typ(k)
+	if(dialog_state.ectype) then
+		for j, t in pairs(dialog_state.ectype) do
+			print(k, t)
+		end
+	else				
+		print(k, nil)
+	end
+end
+
+
 function affichage()	
-	print("Clé & type :", dialog_state.eckey, dialog_state.ectype)
-	print("Historique :")
+	--key_n_type()
+
+	print("\nHistorique :")
 	for index,value in pairs(dialog_state) do
-		print(index, value)
+		res = ""
+		if type(value) == "table" then
+			for i, v in pairs(value) do
+				res = res..v..", "
+			end
+		else
+			res = value
+		end
+		print(index, res)
 
 		if index == #dialog_state then print() end
 	end
 	print()
+end
+
+function key_n_type()
+	print("-Clé-", "-Type-")
+	if(#dialog_state.eckey >= 1) then
+		for i, k in pairs(dialog_state.eckey) do
+			aff_typ(k)
+			--print(k, dialog_state.ectype)
+		end
+	else
+		aff_typ(nil)
+		--print(nil, dialog_state.ectype)
+	end
 end
 
 function choose_answer( choice )

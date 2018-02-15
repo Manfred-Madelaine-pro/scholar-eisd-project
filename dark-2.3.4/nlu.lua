@@ -25,6 +25,7 @@ month = "month"
 quest = "quest"
 temps = "temps"
 ppn   = "pnominal" -- pronom personel nom inal
+tutoiement = "tutoiement"
 
 -- Tags pour les questions
 q_lieu  = "Qlieu"
@@ -55,6 +56,8 @@ main:lexicon("#day", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi
 
 main:lexicon("#dateN", {"date de naissance", "naissance"})
 main:lexicon("#lieuN", {"lieu de naissance", "où", "ou"})
+main:lexicon(tool.tag(tutoiement), {"tu", "te", "t'"})
+-- vouvoiement ?
 main:lexicon("#formation", {"formation"})
 
 
@@ -80,16 +83,16 @@ main:pattern([[
 main:pattern(' "ne" .*? "le" [#birth #date]')
 
 -- Lieu de naissance
-main:pattern(' "ne" .*? "a" [#birthplace '..tool.get_tag(place)..']')
+main:pattern(' "ne" .*? "a" [#birthplace '..tool.tag(place)..']')
 
 -- Reconnaitre un nom
-main:pattern('[#name '..tool.get_tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
+main:pattern('[#name '..tool.tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 
 -- Reconnaitre une question (pas utile vu que l'utilisateur n'utilise pas de ponct)
-main:pattern('['..tool.get_tag(quest)..' .*? "?"]')
+main:pattern('['..tool.tag(quest)..' .*? "?"]')
 
 -- Reconnaitre fin de discussion
-main:pattern('['..tool.get_tag(exit)..tool.get_tag(fin)..' ]')
+main:pattern('['..tool.tag(exit)..tool.tag(fin)..' ]')
 
 
 -- Qestion sur la Date de naissance
@@ -122,8 +125,9 @@ main:pattern([[
 ]])
 
 
-main:pattern('[#Qstatut "qui" #POS=VRB '..tool.get_tag(ppn)..' ]')
+main:pattern('[#Qstatut "qui" #POS=VRB '..tool.tag(ppn)..' ]')
 
+main:pattern('[#negation '..tool.tag(neg)..' .{,3}? "pas"]')
 
 tags = {
 
@@ -132,13 +136,13 @@ tags = {
 	["#Qstatut"] = "green",
 	["#Qformation"] = "green",
 	
-	["#neg"] = "red",
+	["#negation"] = "red",
 	["#birth"] = "red",
 	["#name"] = "blue",
 	--["#lieu"] = "red",
 	["#date"] = "magenta",
 	["#birthplace"] = "green",
 
-	[tool.get_tag(exit)] = "yellow",
-	[tool.get_tag(quest)] = "magenta",
+	[tool.tag(exit)] = "yellow",
+	[tool.tag(quest)] = "magenta",
 }
