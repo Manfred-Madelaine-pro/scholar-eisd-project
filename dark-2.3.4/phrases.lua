@@ -24,9 +24,9 @@ start = {
 
 -- Models
 mdl_birth = {tool.bls(sjt).." est né le "..tool.bls(res)}
-mdl_birthp = {sjt.." est né à "..res}
-mdl_forma = {sjt.." a pour formation: "..res}
-mdl_Qsjt = {"Que souhaitez vous savoir sur "..sjt.." ?"}
+mdl_birthp = {tool.bls(sjt).." est né à "..tool.bls(res)}
+mdl_forma = {tool.bls(sjt).." a pour formation: "..tool.bls(res)}
+mdl_Qsjt = {"Que souhaitez vous savoir sur "..tool.bls(sjt).." ?"}
 
 mdl_Qinfo = {"Sur quel politicien voulez-vous une information ?"}
 
@@ -42,7 +42,7 @@ mdl_no_rep = {
 	"Eh ! non mais... ça ne se pose pas comme question !"
 }
 
-mdl_creatr = {"Mes vénérables créateurs sont:"..res.."\n\nJe les remercie sincèrement de m'avoir donner vie."}
+mdl_creatr = {"Mes vénérables créateurs sont: "..tool.bls(res).."\n\nJe les remercie sincèrement de m'avoir donné vie."}
 
 -- deprecated
 function change(sen, ...)
@@ -50,7 +50,6 @@ function change(sen, ...)
 	for i, champ in ipairs(arg) do
 		sen = sen:gsub(tool.bls(balises[i]), champ)
 	end
-	print(sen)
 	return sen
 end
 

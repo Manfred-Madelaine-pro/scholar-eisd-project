@@ -55,11 +55,11 @@ end
 
 function test()
 	local t_simple = {
+		--"qui sont tes createurs ?",
+		"melu ou f",
 		--"bonjour",
-		--"melu ou f",
 		--"tu ou f",
-		"qui sont tes createurs ?",
-		"quelle est la date de naissance de Melenchon ? et sa formation ?"
+		--"quelle est la date de naissance de Melenchon ? et sa formation ?"
 		--"qui suis-je ?",
 		--"bye"
 	}
@@ -168,15 +168,14 @@ end
 
 function create_answer(reponse)
 	dialog_state.gen = "answer = "..reponse.gen
-	rm_doublon(reponse.model)
-	print(reponse.res)
 	local res = ""
 	for _, mdl in pairs(reponse.model) do
+		if(#reponse.model >1) then
+			print("2 INFOOOOOO")
+		end
 		for i, v in pairs(reponse) do
-			print(i)
 			if (i ~= "gen" and i ~= "model") then
-				res = txt.fill_mdl(mdl, reponse[i], v)
-				
+				res = txt.fill_mdl(mdl, i, reponse[i])
 			end
 		end
 	end
@@ -184,12 +183,10 @@ function create_answer(reponse)
 	bot_answer(res)
 end
 
-
+-- deprecated
 function rm_doublon(tab)
-	if #tab < 2 then
-		return false
-	end
-	print(#tab)
+	if #tab < 2 then return false end
+
 	for i = #tab, 1, -1 do
 		for j = i-1, 1, -1 do
 			if tab[i] == tab[j] then
@@ -199,7 +196,6 @@ function rm_doublon(tab)
 			end
 		end
 	end
-	print(#tab)
 
 	return tab
 end
@@ -237,7 +233,6 @@ function reponse_bot(key, typ)
 	elseif typ then
 		fill_response(mdl_Qinfo, "quel politicien")
 	else
-		print('ras')
 		fill_response(mdl_idk, "idk")
 	end
 end
@@ -314,7 +309,6 @@ function search_tag(key, typ, q_tag, txt)
 			dialog_state.gen = "answer = pas "..key_value
 		
 		else
-			print(dialog_state[#dialog_state-2])
 			key_is_used()
 			key_is_used(dialog_state[#dialog_state-2], key)
 			if key_is_used(dialog_state[#dialog_state-2], key) then
@@ -423,8 +417,7 @@ end
 
 function affichage()
 	--key_n_type()
-	if(HIST ) then historique() end
-	
+	if(HIST ) then historique() end	
 end
 
 function key_n_type()
