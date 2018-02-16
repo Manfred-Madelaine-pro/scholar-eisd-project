@@ -2,10 +2,10 @@
 			SYSTEME DE DIALOGUE
 	
 	Projet d'EISD realise par les etudiants:
-		@Manfred MadelaT
+		@Manfred MadlnT
 		@Cedrick RibeT
 		@Hugo BommarT
-		@Leo GalmanT
+		@Laos GalmnT
 
 	-- Janvier 2018 --
 ]]--

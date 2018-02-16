@@ -128,6 +128,7 @@ main:pattern([[
 main:pattern('[#Qstatut "qui" #POS=VRB '..tool.tag(ppn)..' ]')
 
 main:pattern('[#negation '..tool.tag(neg)..' .{,3}? "pas"]')
+main:pattern('[#Qcreateurs "qui" .{,3}? "createurs"]')
 
 
 tags = {
@@ -135,6 +136,7 @@ tags = {
 	["#Qbirth"] = "green",
 	["#Qstatut"] = "green",
 	["#Qformation"] = "green",
+	["#Qcreateurs"] = "green",
 	
 	["#negation"] = "red",
 	["#birth"] = "red",

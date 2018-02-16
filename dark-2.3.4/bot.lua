@@ -2,10 +2,10 @@
 			SYSTEME DE DIALOGUE
 	
 	Projet d'EISD realise par les etudiants:
-		@Manfred MadelaT
+		@Manfred MadlnT
 		@Cedrick RibeT
 		@Hugo BommarT
-		@Leo GalmanT
+		@Laos GalmnT
 
 	-- Janvier 2018 --
 ]]--
@@ -26,7 +26,7 @@ local turn         = 0
 local dialog_state = {}
 
 
--- Lancer le chat bot
+-- Lancer le systeme de dialogue
 function init()
 	local s = " ---- "
 	print("\n\t"..s..bvn..s.."\n")
@@ -34,13 +34,13 @@ function init()
 end
 
 
--- Reponse du chat bot
+-- Reponse du systeme de dialogue
 function bot_answer(answer)
 	print(BOT_NAME.." : "..answer.."\n")
 end
 
 
--- Fonction d'exhange entre l'utilisateur et le chat bot
+-- Fonction d'exhange entre l'utilisateur et le systeme de dialogue
 function chat_loop()
 	local line, loop = "", true
 	
@@ -52,13 +52,13 @@ function chat_loop()
 end
 
 
--- Traitement d'une ligne de texte por le chat bot
+-- Traitement d'une ligne de texte par le systeme de dialogue
 function bot_processing(line)
 	-- traitement de la ligne de texte
 	seq = lp.process(line)
 	print(seq:tostring(tags))
 
-	-- analyser la sequence
+	-- analyse de la sequence
 	choice = contextual_analysis(seq)
 	return choose_answer(choice)
 end
