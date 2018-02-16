@@ -37,12 +37,24 @@ mdl_idk = {
 }
 
 mdl_no_rep = {
-	"Je ne répondrai pas cette question, vous êtes trop indiscret !",
+	"Je ne répondrai pas à cette question, vous êtes trop indiscret !",
 	"Comme si j'allais répondre à ça...",
 	"Eh ! non mais... ça ne se pose pas comme question !"
 }
 
 mdl_creatr = {"Mes vénérables créateurs sont: "..tool.bls(res).."\n\nJe les remercie sincèrement de m'avoir donné vie."}
+
+mdl_Qtype = {"Que souhaitez vous savoir sur "..tool.bls(sjt).." ?"}
+
+
+mdl_no_gere = {
+	"Cette information n'est pas encore gérée par le système.",
+	"404 not found, sorry..."
+}
+
+mdl_t_err = {"Désolé, je n'ai pas cette information"}
+mdl_k_err = {"Désolé, je n'ai pas ".. tool.bls(sjt).." dans ma base de politiciens."}
+
 
 -- deprecated
 function change(sen, ...)

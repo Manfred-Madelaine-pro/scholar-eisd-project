@@ -148,6 +148,7 @@ local f_test = "../test"
 lp.read_corpus(f_test)
 
 print(serialize(db))
+
 return tst
 
 

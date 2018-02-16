@@ -55,8 +55,8 @@ end
 
 function test()
 	local t_simple = {
-		--"qui sont tes createurs ?",
-		"melu ou f",
+		"qui sont tes createurs ?",
+		--"melu ou f",
 		--"bonjour",
 		--"tu ou f",
 		--"quelle est la date de naissance de Melenchon ? et sa formation ?"
@@ -168,19 +168,20 @@ end
 
 function create_answer(reponse)
 	dialog_state.gen = "answer = "..reponse.gen
-	local res = ""
+	local res = {}
 	for _, mdl in pairs(reponse.model) do
-		if(#reponse.model >1) then
-			print("2 INFOOOOOO")
-		end
 		for i, v in pairs(reponse) do
 			if (i ~= "gen" and i ~= "model") then
-				res = txt.fill_mdl(mdl, i, reponse[i])
+				res[#res+1] = txt.fill_mdl(mdl, i, reponse[i])
 			end
 		end
 	end
+
+	rm_doublon(res)	
+	rep = ""
+	for i, v in pairs(res) do rep = rep..v end
 	print("generique")
-	bot_answer(res)
+	bot_answer(rep)
 end
 
 -- deprecated
@@ -260,7 +261,6 @@ function q_bot(key, typ)
 		end
 		fill_response(mdl_creatr, "mes_createurs", "", res)
 	else
-		print("add typ", typ)
 		fill_response(mdl_no_rep, "non_gere", "", res)
 	end
 end
@@ -269,9 +269,7 @@ end
 function q_politicien(key, typ)
 	-- question sur un politicien
 	if not typ then
-		bot_answer("Que souhaitez vous savoir sur "..key.." ?")
-		dialog_state.gen = "answer = quelle information"
-
+		fill_response(mdl_Qtype, "quelle_information")
 	else
 		local bool = false
 		-- On cherche les questions poses dans la phrase
@@ -281,8 +279,7 @@ function q_politicien(key, typ)
 		end
 
 		if (not bool) then 
-			bot_answer("Cette information n'est pas encore gérée par le système.")
-			dialog_state.gen = "answer = non_gere"
+			fill_response(mdl_no_gere, "non_gere")
 		end
 	end
 end
@@ -300,21 +297,17 @@ function search_tag(key, typ, q_tag, txt)
 		
 		if res == 0 then
 			-- type error
-			bot_answer("Désolé, je n'ai pas cette information")
-			dialog_state.gen = "answer = pas_info"
-		
+			fill_response(mdl_t_err, "type_error")
 		elseif res == -1 then
 			-- key error
-			bot_answer("Désolé, je n'ai pas ".. key_value.." dans ma base de politiciens.")
-			dialog_state.gen = "answer = pas "..key_value
-		
+			fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 		else
 			key_is_used()
 			key_is_used(dialog_state[#dialog_state-2], key)
 			if key_is_used(dialog_state[#dialog_state-2], key) then
 				local s = search_in_db(db, key_value, "gender")
-				pronoun = "Elle "
-				if (s == "M") then pronoun = "Il " end
+				pronoun = "Il "
+				if (s == "F") then pronoun = "Elle " end
 				
 				gen_answer(pronoun..txt, res, typ_value)
 
