@@ -55,7 +55,9 @@ mdl_no_gere = {
 mdl_t_err = {"Désolé, je n'ai pas cette information"}
 mdl_k_err = {"Désolé, je n'ai pas ".. tool.bls(sjt).." dans ma base de politiciens."}
 
-mdl_basic = {tool.bls(sjt).." : "..tool.bls(res)}
+mdl_basic = {tool.bls(sjt).." AAA "..tool.bls(res)}
+
+mdl_exit = {"Bye !", "à la prochaine !"}
 
 -- deprecated
 function change(sen, ...)
@@ -68,12 +70,16 @@ end
 
 
 function txt.fill_mdl(model, bal, val)
+	txt = ""
 	for i, b in ipairs(balises) do
 		if (b == bal) then
-			return model:gsub(tool.bls(bal), val)
+			txt = model:gsub(tool.bls(bal), val)
 		end
 	end
-	return model
+	if txt ~= model then
+		return txt
+	end
+	return ""
 end
 
 

@@ -49,6 +49,25 @@ function tool.in_list(elm, list)
 	return false
 end
 
+
+-- deprecated
+function tool.print_table(res)
+	if type(res) == "table" then
+		for index,value in pairs(res) do
+			if type(value) == "table" then
+				print("table "..index)
+				print_table(value)
+				print()
+			else
+				print(index, value)
+			end
+		end
+	else
+		print(res)
+	end
+end
+
+
 -- Redéfiniton de la fonction de dark pour permettre l'utilisation de regex dans les fichiers de lexique
 function dark.lexicon(tag, list)
 	-- Vérifier que les arguments sont valides et si un fichier est fourni à la place d'une table, charger son contenu

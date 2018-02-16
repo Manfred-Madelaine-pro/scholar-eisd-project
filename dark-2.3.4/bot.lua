@@ -21,7 +21,7 @@ local lp   = require 'line_processing'
 
 
 -- Variables globales
-local HIST = true
+local HISTORIQUE = true
 local turn         = 0
 local dialog_state = {}
 local reponse = {model= {}, sjt= "", vrb= "", res= "", gen= ""}
@@ -56,17 +56,21 @@ end
 function test()
 	local t_simple = {
 		"qui sont tes createurs ?",
-		--"melu ou f",
+		"melu ou f",
 		--"bonjour",
 		--"tu ou f",
 		--"quelle est la date de naissance de Melenchon ? et sa formation ?"
+		--"bye",
 		--"qui suis-je ?",
-		--"bye"
 	}
 
 	for i, line in pairs(t_simple) do	
 		reponse = {model= {}, sjt= "", vrb= "", res= "", gen= ""}
 		print("> "..line)
+		--pause
+		io.write("continuer : ")
+		io.read()
+		
 		loop = bot_processing(line)
 	end
 end
@@ -84,12 +88,13 @@ end
 
 
 function contextual_analysis(question)
+	quit = 0
 	-- on commence par recuperer hors contexte
 	dialog_state.hckey = find_keys(question)
 
 	-- Quitter la discussion
 	for i, att in ipairs(dialog_state.hckey) do	
-		if (att == -1) then return -1 end
+		if (att == -1) then quit = -1 end
 	end
 
 	dialog_state.hctypes = find_types(question)
@@ -104,7 +109,7 @@ function contextual_analysis(question)
 	create_answer(reponse)
 	update_history()
 	affichage()
-	return 0
+	return quit
 end
 
 
@@ -172,14 +177,25 @@ function create_answer(reponse)
 	for _, mdl in pairs(reponse.model) do
 		for i, v in pairs(reponse) do
 			if (i ~= "gen" and i ~= "model") then
-				res[#res+1] = txt.fill_mdl(mdl, i, reponse[i])
+				mdl = txt.fill_mdl(mdl, i, reponse[i])
 			end
 		end
-	end
 
+		-- on ajoute le modele rempli au resultat final
+		res[#res+1] = mdl
+	end
+	print("mdl", #reponse.model)
+	print("res avt",# res)
 	rm_doublon(res)	
+	print("res apr",# res)
 	rep = ""
-	for i, v in pairs(res) do rep = rep..v end
+
+	for i, v in pairs(res) do 
+		rep = rep..v 
+
+		-- transition entre 2 réponses:
+		rep = rep.."\n" 
+	end
 	print("generique")
 	bot_answer(rep)
 end
@@ -246,6 +262,7 @@ function fill_response(mdl, gen, sjt, res, vrb)
 		reponse.sjt = sjt
 		reponse.res = res
 		reponse.vrb = vrb
+		--ajouter la rep du bot
 end
 
 
@@ -367,24 +384,6 @@ function get_forma(res, i)
 end
 
 
--- deprecated
-function parcourir_table(res)
-	if type(res) == "table" then
-		for index,value in pairs(res) do
-			if type(value) == "table" then
-				print("table "..index)
-				parcourir_table(value)
-				print()
-			else
-				print(index, value)
-			end
-		end
-	else
-		print(res)
-	end
-end
-
-
 function update_history()
 	local ec_gen = dialog_state.gen    or "no ans"
 	local ec_key = dialog_state.eckey  or "no key"
@@ -410,7 +409,7 @@ end
 
 function affichage()
 	--key_n_type()
-	if(HIST ) then historique() end	
+	if(HISTORIQUE ) then historique() end	
 end
 
 function key_n_type()
@@ -446,7 +445,7 @@ end
 
 function choose_answer( choice )
 	if (choice == -1) then
-		bot_answer("Au revoir !")
+		fill_response(mdl_exit, "exit")
 		return false
 	end
 	return true
