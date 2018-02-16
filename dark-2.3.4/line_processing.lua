@@ -22,6 +22,7 @@ function lp.split_sentence(line)
 	end
 end
 
+
 -- Lecture des fichiers du corpus
 function lp.read_corpus(corpus_path)
 	for f in os.dir(corpus_path) do
@@ -35,9 +36,3 @@ end
 
 
 return lp
-
--- faire une fonction de normalisation pour:
--- heuteur, date 
--- afin de pouvoir faire des conersions
---conversion ides données pour rentrer dans la db et avoir un unique type
--- conversion pour afficher comme ce que l'utilisateur veut
