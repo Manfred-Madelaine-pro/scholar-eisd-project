@@ -100,7 +100,14 @@ main:pattern('[#prenom'..tool.get_tag(ppn)..'] [#nom .{,2}? ( #POS=NNP+ | #W )+]
 main:pattern('[#parent1 ("fils"|"fille") .*? "de" #prenom #nom? ("," [#metier .*?] ",")?]')
 main:pattern('#parent1 .*? "et" "de" [#parent2 #prenom #nom? ("," [#metier .*?] ",")?]')
 
-main:pattern('[#parti'..tool.get_tag(parti)..']')
+--main:pattern('[#parti'..tool.get_tag(parti)..']')
+main:pattern('[#intervalDate (#annee "-"|"depuis") #annee]')
+main:pattern('[#raccourcis "(" .{,4} ")"]')
+main:pattern('"SEP" [#parti .*? #raccourcis #intervalDate]')
+
+main:pattern('[#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date)]')
+main:pattern('"SEP2" [#arg .*?] "REL" [#val .*?] "SEP2"')
+--main:pattern('"NEW" [#fonc .*?] "SEP"')
 
 
 
@@ -112,7 +119,10 @@ tags = {
 	["#parent1"] = "red",
 	["#parent2"] = "red",
 	["#metier"] = "green",
-	["#parti"] = "white",
+	["#parti"] = "yellow",
+	["#arg"] = "green",
+	["#val"] = "green",
+	
 }
 
 db = {
