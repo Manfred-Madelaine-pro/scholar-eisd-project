@@ -82,7 +82,6 @@ main:pattern([[
 	]
 ]])
 
-
 -- Date de naissance
 main:pattern(' "ne" .*? "le" [#birth #date]')
 
@@ -97,7 +96,6 @@ main:pattern('['..tool.tag(quest)..' (#question)? .*? "?"?]')
 
 -- Reconnaitre fin de discussion
 main:pattern('['..tool.tag(exit)..tool.tag(fin)..' ]')
-
 
 -- Qestion sur la Date de naissance
 main:pattern([[
@@ -127,10 +125,10 @@ main:pattern([[
 	]
 ]])
 
-
 main:pattern('[#Qstatut "qui" #POS=VRB '..tool.tag(ppn)..' ]')
 
 main:pattern('[#negation '..tool.tag(neg)..' .{,3}? "pas"]')
+
 
 tags = {
 	["#Qbirthplace"] = "green",

@@ -1,5 +1,5 @@
 --[[
-			CHAT BOT
+			SYSTEME DE DIALOGUE
 	
 	Projet d'EISD realise par les etudiants:
 		@Manfred MadelaT
@@ -15,6 +15,7 @@ local bot = {}
 
 -- importation d'un module
 local tool = require 'tool'
+local txt  = require 'phrases'
 local corr = require 'corrector'
 local sp   = require 'seq_processing'
 local lp   = require 'line_processing'
@@ -22,16 +23,14 @@ local lp   = require 'line_processing'
 
 -- Variables globales
 local turn         = 0
-local BOT_NAME     = "ugoBot"
 local dialog_state = {}
 
 
 -- Lancer le chat bot
 function init()
 	local s = " ---- "
-	local txt = "Bienvenu dans le Chatbot de CDK, MFD, LAO & UGO"
-	print("\n\t"..s..txt..s.."\n")
-	bot_answer("Bonjour ! Je suis l'As des Politiciens Français. Comment puis-je vous aider ?")
+	print("\n\t"..s..bvn..s.."\n")
+	bot_answer(txt.pick_sen(start))
 end
 
 
@@ -65,6 +64,30 @@ function bot_processing(line)
 end
 
 
+function contextual_analysis(question)
+	-- on commence par recuperer hors contexte
+	dialog_state.hckey = find_keys(question)
+
+	-- Quitter la discussion
+	for i, att in pairs(dialog_state.hckey) do	
+		if (att == -1) then return -1 end
+	end
+
+	dialog_state.hctypes = find_types(question)
+	
+	-- lien entre hors contexte et en contexte
+	hc_to_ec()
+
+	turn = turn + 1
+	
+	set_answer()
+	--create_answer() rempli le pattern choisi
+	update_history()
+	affichage()
+	return 0
+end
+
+
 function find_keys(question)
 	local res = {}
 	local liste_sujet = {ppn, tutoiement}
@@ -81,7 +104,6 @@ function find_keys(question)
 end
 
 
--- naiisance ET lieu de naissance : à gérer
 function find_types(question)
 	local res = {}
 	-- On cherche les questions poses dans la phrase
@@ -114,8 +136,8 @@ function update_context(cond1, cond2, val)
 end
 
 
--- rename
-function use_keys()
+-- Fixe la reponse du Syst de D en fonction element de la question
+function set_answer()
 	is_key = true
 	tab = dialog_state.eckey
 	att = dialog_state.ectype
@@ -123,6 +145,8 @@ function use_keys()
 	use_types(att, tab, is_key)
 end
 
+
+-- rename
 function use_types(att, tab, is_key)
 	if(tab) then
 		for i, elm in pairs(tab) do	
@@ -132,6 +156,7 @@ function use_types(att, tab, is_key)
 
 	else mini_f(nil, att, is_key) end
 end
+
 
 -- renam
 function mini_f(elm, att, is_key)
@@ -164,6 +189,8 @@ function reponse_bot(key, typ)
 	elseif typ then
 		bot_answer("Sur quel politicien voulez-vous une information ?")
 		dialog_state.gen = "answer = quel politicien"
+	else
+		print("Je ne vois vraiment quoi vous répondre :(")
 	end
 end
 
@@ -174,9 +201,13 @@ function search_tag(key, typ, q_tag, txt)
 		key_value = corr.corrector(key)
 		typ_value = q_tag
 
+		print(key_value, typ_value)
+
 		local res       = search_in_db(db, key_value, typ_value)
 		local name      = search_in_db(db, key_value, db_name)
 		local firstname = search_in_db(db, key_value, db_fname)
+		
+		print (res)
 		if res == 0 then
 			-- type error
 			bot_answer("Désolé, je n'ai pas cette information")
@@ -187,11 +218,12 @@ function search_tag(key, typ, q_tag, txt)
 			bot_answer("Désolé, je n'ai pas ".. key_value.." dans ma base de politiciens.")
 			dialog_state.gen = "answer = pas "..key_value
 		
-		else		
+		else
 			if t(dialog_state[#dialog_state-2], key) then
 				local s = search_in_db(db, key_value, "gender")
 				pronoun = "Elle "
 				if (s == "M") then pronoun = "Il " end
+				
 				gen_answer(pronoun..txt, res, typ_value)
 
 			else gen_answer(firstname.." "..name.." "..txt, res, typ_value) end
@@ -204,7 +236,7 @@ end
 
 
 function t(tab, key)
-	for i, att in pairs(tab) do	
+	for i, att in pairs(tab or {}) do	
 		if (key == att) then return true end
 	end
 	return false
@@ -231,6 +263,7 @@ function gen_answer(txt, res, type_val)
 end
 
 
+-- réponse pas assez humaine
 function get_forma(res, i)
 	local  date = search_in_db(res, i, "date")
 	local  name = search_in_db(res, i, "name")
@@ -261,29 +294,6 @@ function parcourir_table(res)
 	else
 		print(res)
 	end
-end
-
-
-function contextual_analysis(question)
-	-- on commence par recuperer hors contexte
-	dialog_state.hckey = find_keys(question)
-
-	-- Quitter la discussion
-	for i, att in pairs(dialog_state.hckey) do	
-		if (att == -1) then return -1 end
-	end
-
-	dialog_state.hctypes = find_types(question)
-	
-	-- lien entre hors contexte et en contexte
-	hc_to_ec()
-
-	turn = turn + 1
-	
-	use_keys()
-	update_history()
-	affichage()
-	return 0
 end
 
 
