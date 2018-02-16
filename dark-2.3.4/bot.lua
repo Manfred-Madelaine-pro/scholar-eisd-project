@@ -17,20 +17,20 @@ local bot = {}
 local tool = require 'tool'
 local txt  = require 'phrases'
 local corr = require 'corrector'
-local sp   = require 'seq_processing'
 local lp   = require 'line_processing'
 
 
 -- Variables globales
+local HIST = true
 local turn         = 0
 local dialog_state = {}
-
+local reponse = {model= {}, sjt= "", vrb= "", res= "", gen= ""}
 
 -- Lancer le systeme de dialogue
 function init()
 	local s = " ---- "
 	print("\n\t"..s..bvn..s.."\n")
-	bot_answer(txt.pick_sen(start))
+	bot_answer(txt.pick_mdl(start))
 end
 
 
@@ -45,12 +45,31 @@ function chat_loop()
 	local line, loop = "", true
 	
 	while loop do
+		reponse = {model= {}, sjt= "", vrb= "", res= "", gen= ""}
 		io.write("> ")
 		line = io.read()
 		loop = bot_processing(line)
 	end
 end
 
+
+function test()
+	local t_simple = {
+		--"bonjour",
+		--"melu ou f",
+		--"tu ou f",
+		"qui sont tes createurs ?",
+		"quelle est la date de naissance de Melenchon ? et sa formation ?"
+		--"qui suis-je ?",
+		--"bye"
+	}
+
+	for i, line in pairs(t_simple) do	
+		reponse = {model= {}, sjt= "", vrb= "", res= "", gen= ""}
+		print("> "..line)
+		loop = bot_processing(line)
+	end
+end
 
 -- Traitement d'une ligne de texte par le systeme de dialogue
 function bot_processing(line)
@@ -69,7 +88,7 @@ function contextual_analysis(question)
 	dialog_state.hckey = find_keys(question)
 
 	-- Quitter la discussion
-	for i, att in pairs(dialog_state.hckey) do	
+	for i, att in ipairs(dialog_state.hckey) do	
 		if (att == -1) then return -1 end
 	end
 
@@ -81,7 +100,8 @@ function contextual_analysis(question)
 	turn = turn + 1
 	
 	set_answer()
-	--create_answer() rempli le pattern choisi
+	-- rempli le pattern choisi
+	create_answer(reponse)
 	update_history()
 	affichage()
 	return 0
@@ -90,7 +110,7 @@ end
 
 function find_keys(question)
 	local res = {}
-	local liste_sujet = {ppn, tutoiement}
+	local liste_sujet = {ppn, user, tutoiement}
 	
 	-- on cherche les sujets dans la phrase
 	for i, att in pairs(liste_sujet) do	
@@ -107,7 +127,7 @@ end
 function find_types(question)
 	local res = {}
 	-- On cherche les questions poses dans la phrase
-	for i, att in pairs(liste_attributs) do	
+	for i, att in pairs(l_attributs) do	
 		if (#question[tool.tag(tool.qtag(att))]) ~= 0 then
 			res[#res+1] = att
 		end
@@ -146,6 +166,45 @@ function set_answer()
 end
 
 
+function create_answer(reponse)
+	dialog_state.gen = "answer = "..reponse.gen
+	rm_doublon(reponse.model)
+	print(reponse.res)
+	local res = ""
+	for _, mdl in pairs(reponse.model) do
+		for i, v in pairs(reponse) do
+			print(i)
+			if (i ~= "gen" and i ~= "model") then
+				res = txt.fill_mdl(mdl, reponse[i], v)
+				
+			end
+		end
+	end
+	print("generique")
+	bot_answer(res)
+end
+
+
+function rm_doublon(tab)
+	if #tab < 2 then
+		return false
+	end
+	print(#tab)
+	for i = #tab, 1, -1 do
+		for j = i-1, 1, -1 do
+			if tab[i] == tab[j] then
+				table.remove(tab, j)
+				i = i-1
+				break
+			end
+		end
+	end
+	print(#tab)
+
+	return tab
+end
+
+
 -- rename
 function use_types(att, tab, is_key)
 	if(tab) then
@@ -160,8 +219,7 @@ end
 
 -- renam
 function mini_f(elm, att, is_key)
-	if is_key then 
-		use_types(elm, att, not is_key)
+	if is_key then use_types(elm, att, not is_key)
 
 	else reponse_bot(att, elm) end
 end
@@ -169,28 +227,68 @@ end
 
 function reponse_bot(key, typ)
 	if key then
-		if typ == nil then
-			bot_answer("Que souhaitez vous savoir sur "..key.." ?")
-			dialog_state.gen = "answer = quelle information"
-
+		if tool.in_list(key, l_tutoiement) then
+			q_bot(key, typ)
+		elseif tool.in_list(key, l_user) then
+			print("user !")
 		else
-			local bool = false
-			-- On cherche les questions poses dans la phrase
-			for i, att in pairs(liste_attributs) do	
-				bool = search_tag(key, typ, att, "est né le")
-				if (bool) then break end
-			end
-
-			if (not bool) then 
-				bot_answer("Cette information n'est pas encore gérée par le système.")
-				dialog_state.gen = "answer = non_gere"
-			end
+			q_politicien(key, typ)
 		end
 	elseif typ then
-		bot_answer("Sur quel politicien voulez-vous une information ?")
-		dialog_state.gen = "answer = quel politicien"
+		fill_response(mdl_Qinfo, "quel politicien")
 	else
-		print("Je ne vois vraiment quoi vous répondre :(")
+		print('ras')
+		fill_response(mdl_idk, "idk")
+	end
+end
+
+
+-- Rempli les attributs necessaires a la generation de la reponse
+function fill_response(mdl, gen, sjt, res, vrb)
+		reponse.model[#reponse.model + 1] = txt.pick_mdl(mdl)
+		reponse.gen = gen 
+		reponse.sjt = sjt
+		reponse.res = res
+		reponse.vrb = vrb
+end
+
+
+function q_bot(key, typ)
+	if not typ then
+		fill_response(mdl_Qsjt, "quelle information", "moi")
+
+	elseif typ == hdb_createurs then
+		tab = "\n\t"
+		res = ""
+		for i, att in pairs(l_dev) do
+			res = res..tab..att
+		end
+		fill_response(mdl_creatr, "mes_createurs", "", res)
+	else
+		print("add typ", typ)
+		fill_response(mdl_no_rep, "non_gere", "", res)
+	end
+end
+
+
+function q_politicien(key, typ)
+	-- question sur un politicien
+	if not typ then
+		bot_answer("Que souhaitez vous savoir sur "..key.." ?")
+		dialog_state.gen = "answer = quelle information"
+
+	else
+		local bool = false
+		-- On cherche les questions poses dans la phrase
+		for i, att in pairs(l_attributs) do	
+			bool = search_tag(key, typ, att, "est né le")
+			if (bool) then break end
+		end
+
+		if (not bool) then 
+			bot_answer("Cette information n'est pas encore gérée par le système.")
+			dialog_state.gen = "answer = non_gere"
+		end
 	end
 end
 
@@ -201,13 +299,10 @@ function search_tag(key, typ, q_tag, txt)
 		key_value = corr.corrector(key)
 		typ_value = q_tag
 
-		print(key_value, typ_value)
-
 		local res       = search_in_db(db, key_value, typ_value)
 		local name      = search_in_db(db, key_value, db_name)
 		local firstname = search_in_db(db, key_value, db_fname)
 		
-		print (res)
 		if res == 0 then
 			-- type error
 			bot_answer("Désolé, je n'ai pas cette information")
@@ -219,7 +314,10 @@ function search_tag(key, typ, q_tag, txt)
 			dialog_state.gen = "answer = pas "..key_value
 		
 		else
-			if t(dialog_state[#dialog_state-2], key) then
+			print(dialog_state[#dialog_state-2])
+			key_is_used()
+			key_is_used(dialog_state[#dialog_state-2], key)
+			if key_is_used(dialog_state[#dialog_state-2], key) then
 				local s = search_in_db(db, key_value, "gender")
 				pronoun = "Elle "
 				if (s == "M") then pronoun = "Il " end
@@ -235,14 +333,17 @@ function search_tag(key, typ, q_tag, txt)
 end
 
 
-function t(tab, key)
-	for i, att in pairs(tab or {}) do	
-		if (key == att) then return true end
+function key_is_used(tab, key)
+	if(type(tab) == "table") then
+		for i, att in pairs(tab or {}) do	
+			if (key == att) then return true end
+		end
 	end
 	return false
 end
 
 
+-- Genere une reponse a partir d'un tableau ou d'un string
 function gen_answer(txt, res, type_val)
 	if type(res) == "table" then
 		rep = txt
@@ -273,7 +374,7 @@ function get_forma(res, i)
 
 	if (name ~= -1) then t = t..name.." " end
 	if (date ~= -1) then t = t.."en "..date.." " end
-	if (lieu ~= -1) then t = t.."à "..lieu.." " end
+	--if (lieu ~= -1) then t = t.."à "..lieu.." " end
 	
 	return t
 end
@@ -322,7 +423,24 @@ end
 
 function affichage()
 	--key_n_type()
+	if(HIST ) then historique() end
+	
+end
 
+function key_n_type()
+	print("-Clé-", "-Type-")
+	if(#dialog_state.eckey >= 1) then
+		for i, k in pairs(dialog_state.eckey) do
+			aff_typ(k)
+			--print(k, dialog_state.ectype)
+		end
+	else
+		aff_typ(nil)
+		--print(nil, dialog_state.ectype)
+	end
+end
+
+function historique()
 	print("\nHistorique :")
 	for index,value in pairs(dialog_state) do
 		res = ""
@@ -338,19 +456,6 @@ function affichage()
 		if index == #dialog_state then print() end
 	end
 	print()
-end
-
-function key_n_type()
-	print("-Clé-", "-Type-")
-	if(#dialog_state.eckey >= 1) then
-		for i, k in pairs(dialog_state.eckey) do
-			aff_typ(k)
-			--print(k, dialog_state.ectype)
-		end
-	else
-		aff_typ(nil)
-		--print(nil, dialog_state.ectype)
-	end
 end
 
 function choose_answer( choice )
@@ -384,16 +489,16 @@ function search_in_db(db, politicien, ...)
   end
 
   if (b == 0) then return -1 end
-
 end
 
 
 -- Main
-function bot.start(l_attributs)
-	liste_attributs = l_attributs
+function bot.start(lst_attributs)
+	l_attributs = lst_attributs
 	db = dofile("database.lua")
 	init()
-	chat_loop()
+	--chat_loop()
+	test()
 end
 
 

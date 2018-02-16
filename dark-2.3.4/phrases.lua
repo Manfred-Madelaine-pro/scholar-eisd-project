@@ -1,14 +1,18 @@
 local txt = {}
 
-local sujet = "<sujet>"
-local date  = "<date>"
+local tool = require 'tool'
 
-local liste_phrases = {sujet.." est né le "..date}
-local balises = {sujet, date}
+
+local sjt = "sjt"
+local res  = "res"
+local vrb  = "vrb"
+
+local liste_phrases = {tool.bls(sjt).." est né le "..tool.bls(res)}
+local balises = {sjt, res, vrb}
 
 BOT_NAME     = "ugoBot"
 
-bvn = "Bienvenu dans le Chatbot de CDK, MFD, LAO & UGO"
+bvn = "Bienvenu dans le systeme de dialogue  de CDK, MFD, LAO & UGO"
 
 start = {
 	"Bonjour ! Je suis l'As des Politiciens Français. Comment puis-je vous aider ?",
@@ -17,25 +21,63 @@ start = {
 	"Salut ! :)",
 }
 
+
+-- Models
+mdl_birth = {tool.bls(sjt).." est né le "..tool.bls(res)}
+mdl_birthp = {sjt.." est né à "..res}
+mdl_forma = {sjt.." a pour formation: "..res}
+mdl_Qsjt = {"Que souhaitez vous savoir sur "..sjt.." ?"}
+
+mdl_Qinfo = {"Sur quel politicien voulez-vous une information ?"}
+
+mdl_idk = {
+	"Je ne vois vraiment pas quoi vous répondre :(",
+	"Comment puis répondre à cela ?",
+	"Nani ?",
+}
+
+mdl_no_rep = {
+	"Je ne répondrai pas cette question, vous êtes trop indiscret !",
+	"Comme si j'allais répondre à ça...",
+	"Eh ! non mais... ça ne se pose pas comme question !"
+}
+
+mdl_creatr = {"Mes vénérables créateurs sont:"..res.."\n\nJe les remercie sincèrement de m'avoir donner vie."}
+
+-- deprecated
 function change(sen, ...)
 	local arg = {...}
 	for i, champ in ipairs(arg) do
-		sen = sen:gsub(balises[i], champ)
+		sen = sen:gsub(tool.bls(balises[i]), champ)
 	end
 	print(sen)
+	return sen
 end
 
+
+function txt.fill_mdl(model, bal, val)
+	for i, b in ipairs(balises) do
+		if (b == bal) then
+			return model:gsub(tool.bls(bal), val)
+		end
+	end
+	return model
+end
+
+
+-- deprecated
 function txt.exec()
 	for i, phrase in pairs(liste_phrases or {}) do	
 		if phrase ~= "" then
-			change(phrase, "Manfred", "01/08")
+			phrase = change(phrase, "Manfred", "01/08")
+			print(phrase)
 		end
 	end
 end
-
+ 
 
 -- Choisi de façon aleatoire un element de la liste
-function txt.pick_sen(tab_sen)
+function txt.pick_mdl(tab_sen)
 	math.randomseed(os.time())
 	val = math.random(1, #tab_sen)
 	return tab_sen[val]

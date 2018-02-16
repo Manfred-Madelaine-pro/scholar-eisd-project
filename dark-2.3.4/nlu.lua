@@ -20,6 +20,7 @@ main:model("model-2.3.0/postag-fr")
 neg   = "neg"
 fin   = "fin"
 exit  = "end"
+user = "user"
 place = "lieu"
 month = "month"
 quest = "quest"
@@ -38,8 +39,13 @@ db_birthp = "birthplace"
 
 -- hors de la bdd
 hdb_status = "statut"
+hdb_createurs = "createurs"
 
-liste_attributs = {db_birth, db_birthp, db_forma, hdb_status}
+-- Liste d'elements
+l_attributs = {db_birth, db_birthp, db_forma, hdb_status, hdb_createurs}
+l_tutoiement = {"tu", "te", "t'", "tes", "ton"}
+l_user = {"je", "moi", "m'", "mes", "mon"}
+l_dev = {"Manfred MadlnT", "Cedrick RibeT", "Hugo BommarT", "Laos GalmnT"}
 
 local f_data = "data/"
 
@@ -58,8 +64,8 @@ main:lexicon("#day", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi
 main:lexicon("#dateN", {"date de naissance", "naissance"})
 main:lexicon("#lieuN", {"lieu de naissance", "où", "ou"})
 main:lexicon("#formation", {"formation"})
-main:lexicon(tool.tag(tutoiement), {"tu", "te", "t'"})
-main:lexicon("#user", {"je", "moi", "m'"})
+main:lexicon(tool.tag(tutoiement), l_tutoiement)
+main:lexicon(tool.tag(user), l_user)
 -- vouvoiement ?
 main:lexicon("#question", {"qui", "quelle", "quoi", "comment", "ou", "quand"})
 
@@ -128,7 +134,7 @@ main:pattern([[
 main:pattern('[#Qstatut "qui" #POS=VRB '..tool.tag(ppn)..' ]')
 
 main:pattern('[#negation '..tool.tag(neg)..' .{,3}? "pas"]')
-main:pattern('[#Qcreateurs "qui" .{,3}? "createurs"]')
+main:pattern('[#Qcreateurs "qui" .{,3}? /createurs?/]')
 
 
 tags = {

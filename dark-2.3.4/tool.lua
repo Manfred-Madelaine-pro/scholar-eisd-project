@@ -12,6 +12,12 @@ function tool.qtag(tag)
 end
 
 
+-- Renvoie la balise d'un
+function tool.bls(tag)
+	return "<"..tag..">"
+end
+
+
 -- Cree l'ensemble des lexiques
 function tool.create_lex(f_data)
 	tool.new_lex(place, f_data)
@@ -35,6 +41,13 @@ function tool.save_db(db, filename)
 	out_file:close()
 end
 
+
+function tool.in_list(elm, list)
+	for i, e in pairs(list) do	
+		if e == elm then return true end
+	end
+	return false
+end
 
 -- Redéfiniton de la fonction de dark pour permettre l'utilisation de regex dans les fichiers de lexique
 function dark.lexicon(tag, list)

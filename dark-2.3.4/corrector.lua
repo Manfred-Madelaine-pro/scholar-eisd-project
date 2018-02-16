@@ -1,7 +1,9 @@
 local corr = {}
 
 function corr.corrector(word)
-	corr = "Melenchon"
+	corr = word
+	if word == "melu" then corr = "Melenchon" end
+	
 	return corr
 end
 
