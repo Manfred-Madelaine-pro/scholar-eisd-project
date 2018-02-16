@@ -55,6 +55,7 @@ mdl_no_gere = {
 mdl_t_err = {"Désolé, je n'ai pas cette information"}
 mdl_k_err = {"Désolé, je n'ai pas ".. tool.bls(sjt).." dans ma base de politiciens."}
 
+mdl_basic = {tool.bls(sjt).." : "..tool.bls(res)}
 
 -- deprecated
 function change(sen, ...)

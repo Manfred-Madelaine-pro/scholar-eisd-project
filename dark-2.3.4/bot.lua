@@ -274,7 +274,7 @@ function q_politicien(key, typ)
 		local bool = false
 		-- On cherche les questions poses dans la phrase
 		for i, att in pairs(l_attributs) do	
-			bool = search_tag(key, typ, att, "est né le")
+			bool = search_tag(key, typ, att)
 			if (bool) then break end
 		end
 
@@ -285,7 +285,7 @@ function q_politicien(key, typ)
 end
 
 
-function search_tag(key, typ, q_tag, txt)
+function search_tag(key, typ, q_tag)
 	if typ == q_tag then
 
 		key_value = corr.corrector(key)
@@ -309,9 +309,9 @@ function search_tag(key, typ, q_tag, txt)
 				pronoun = "Il "
 				if (s == "F") then pronoun = "Elle " end
 				
-				gen_answer(pronoun..txt, res, typ_value)
+				gen_answer(pronoun, res, typ_value)
 
-			else gen_answer(firstname.." "..name.." "..txt, res, typ_value) end
+			else gen_answer(firstname.." "..name.." ", res, typ_value) end
 		end
 		return true
 	end
@@ -331,22 +331,22 @@ end
 
 
 -- Genere une reponse a partir d'un tableau ou d'un string
-function gen_answer(txt, res, type_val)
+function gen_answer(sjt, res, type_val)
 	if type(res) == "table" then
-		rep = txt
+		rep = ""
 
-		for i = 1, #res do
-			-- Recherche de la formation
-			if (type_val == db_forma) then
+		-- Recherche de la formation
+		if (type_val == db_forma) then
+			for i = 1, #res do
 				rep = rep.."\n\t"..get_forma(res, i)
 			end
+			fill_response(mdl_forma, type_val, sjt, rep)
 		end
 
-		bot_answer(rep..".")
-		dialog_state.gen = "answer = "..type_val
+
 	else
-		bot_answer(txt.." "..res..".")
-		dialog_state.gen = "answer = "..res
+		print("test !!", type_val)
+		fill_response(mdl_basic, res, sjt, res)
 	end
 end
 
