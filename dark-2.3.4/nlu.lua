@@ -47,8 +47,7 @@ l_attributs = {db_birth, db_birthp, db_forma, hdb_status, hdb_createurs}
 l_tutoiement = {"tu", "te", "t'", "tes", "ton"}
 l_user = {"je", "moi", "m'", "mes", "mon"}
 l_dev = {"Manfred MadlnT", "Cedrick RibeT", "Hugo BommarT", "Laos GalmnT"}
-l_fin = {"bye", "au revoir", "quit","ciao", "adieu","bye-bye", "à une prochaine fois",
-}
+l_fin = {"bye", "au revoir", "quit","ciao", "adieu","bye-bye", "à une prochaine fois"}
 local f_data = "data/"
 
 

@@ -66,20 +66,24 @@ function test_fonctionnel()
 		"sep",
 		"Mélenchon ?",
 		"sep",
+		"qui sont tes createurs ?",
+		"sep",
+		"tu",
+		"ou",
 	}
 	
 	local t_simple = {
+		"bye",
 		-- TODO : voulez-vous une/CES information ?
 		"Lieu de naissance et date de naissance ?",
+	}
+	local t_cmplx = {
 		"Mélenchon et toi ?",
 		"Quelle est la date de naissance de Mélenchon ?",
 		"Lieu de naissance et date de naissance de Mélenchon ?",
-	}
-	local t_cmplx = {
 		
 		-- TODO : Tester le il : mélenchon pui ou
 
-		--"qui sont tes createurs ?",
 		"melu ou f",
 		--"bonjour",
 		--"tu ou f",
@@ -93,7 +97,7 @@ function test_fonctionnel()
 		print("> "..line)
 
 		--pause
-		io.write("\n--- Entree pour continuer ---\n ")
+		io.write("\n--- Appuyez sur une touche pour continuer ---\n ")
 		io.read()
 		
 		bot_processing(line)
@@ -108,23 +112,15 @@ function bot_processing(line)
 	print(seq:tostring(tags))
 
 	-- analyse de la sequence
-	choice = contextual_analysis(seq)
-	return choose_answer(choice)
+	return contextual_analysis(seq)
 end
 
 
 function contextual_analysis(question)
-	-- TODO : gérer cette varialbe
-	quit = 0
 	-- on commence par recuperer hors contexte
-	dialog.hckey = find_keys(question)
+	dialog.hckey   = find_elm(question, l_sujets, true)
 
-	-- TODO : ne plus Quitter la discussion comme ça
-	for i, att in ipairs(dialog.hckey) do	
-		if (att == -1) then quit = -1 end
-	end
-
-	dialog.hctypes = find_types(question)
+	dialog.hctypes = find_elm(question, l_attributs, true)
 	
 	-- lien entre hors contexte et en contexte
 	hc_to_ec()
@@ -134,16 +130,36 @@ function contextual_analysis(question)
 	create_answer(reponse)
 	update_history()
 	affichage()
-	return quit
+
+	return check_exit()
 end
 
 
+function check_exit()
+	for i, e in pairs(dialog.hckey) do
+		if tool.in_list(e, l_fin) then
+			return false
+		end
+	end
+	return true
+end
+
+-- deprec
+function choose_answer( choice )
+	if (choice == -1) then
+		fill_response(mdl_exit, "exit")
+		return false
+	end
+	return true
+end
+
+
+--deprec
 function find_keys(question)
 	local res = {}
 	
 	-- on cherche les sujets dans la phrase
 	for i, att in pairs(l_sujets) do	
-		print(att)
 		if (#question[tool.tag(att)]) ~= 0 then
 			res[#res+1] = question:tag2str(tool.tag(att))[1]
 			print("res", res[#res])
@@ -154,7 +170,7 @@ function find_keys(question)
 	return res
 end
 
-
+--deprec
 function find_types(question)
 	local res = {}
 
@@ -166,6 +182,26 @@ function find_types(question)
 	end
 	return res
 end
+
+
+function find_elm(question, l_elm, is_key)
+	local res = {}
+
+	-- On cherche les questions poses dans la phrase
+	for i, att in pairs(l_elm) do	
+		if is_key then
+			if (#question[tool.tag(att)]) ~= 0 then
+				res[#res+1] = question:tag2str(tool.tag(att))[1]
+			end
+		else
+			if (#question[tool.tag(tool.qtag(att))]) ~= 0 then
+				res[#res+1] = att
+			end
+		end
+	end
+	return res
+end
+
 
 
 function hc_to_ec()
@@ -234,14 +270,7 @@ end
 
 function reponse_bot(key, typ)
 	if key then
-		if tool.in_list(key, l_tutoiement) then
-			q_bot(key, typ)
-		elseif tool.in_list(key, l_user) then
-			-- TODO : 
-			print("user !")
-		else
-			q_politicien(key, typ)
-		end
+		q_politicien(key, typ)
 	elseif typ then
 		fill_response(mdl_Qinfo, "quel politicien")
 	else
@@ -260,37 +289,53 @@ function fill_response(mdl, gen, sjt, res)
 end
 
 
-function q_bot(key, typ)
-	if not typ then
-		fill_response(mdl_Qsjt, "quelle information", "moi")
+-- rename & rebuild
+function q_politicien(key, typ)
+	local m_mdl = ""
+	local m_key = key
+	local tutoie = false
+	-- question sur un politicien
+	if tool.in_list(key, l_tutoiement) then
+		tutoie = true
+	end
 
-	elseif typ == hdb_createurs then
+	if not typ then
+		if tutoie then 
+			m_mdl = mdl_Qsjt
+			m_key = "moi"
+		else
+			m_mdl = mdl_Qtype
+		end
+
+		fill_response(m_mdl, "quelle_information", m_key)
+
+	-- Question sur les createurs du systeme de dialogue
+	elseif typ == hdb_createurs and tutoie then
 		tab = "\n\t"
 		res = ""
 		for i, att in pairs(l_dev) do
 			res = res..tab..att
 		end
 		fill_response(mdl_creatr, "mes_createurs", "", res)
+	
 	else
-		fill_response(mdl_no_rep, "non_gere", "", res)
-	end
-end
-
-
-function q_politicien(key, typ)
-	-- question sur un politicien
-	if not typ then
-		fill_response(mdl_Qtype, "quelle_information", key)
-	else
-		local bool = false
-		-- On cherche les questions poses dans la phrase
-		for i, att in pairs(l_attributs) do	
-			bool = search_tag(key, typ, att)
-			if (bool) then break end
+		if(not tutoie) then
+			local bool = false
+			-- On cherche les questions poses dans la phrase
+			for i, att in pairs(l_attributs) do	
+				bool = search_tag(key, typ, att)
+				if (bool) then break end
+			end
 		end
 
 		if (not bool) then 
-			fill_response(mdl_no_gere, "non_gere")
+			if tutoie then 
+				m_mdl = mdl_no_rep
+			else
+				m_mdl = mdl_no_gere
+			end
+
+			fill_response(m_mdl, "non_gere")
 		end
 	end
 end
@@ -348,15 +393,6 @@ function gen_answer(sjt, res, type_val)
 		print("res", res)
 		fill_response(txt.get_mdl(type_val), res, sjt, res)
 	end
-end
-
-
-function choose_answer( choice )
-	if (choice == -1) then
-		fill_response(mdl_exit, "exit")
-		return false
-	end
-	return true
 end
 
 

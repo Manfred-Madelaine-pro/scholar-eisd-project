@@ -57,8 +57,7 @@ mdl_k_err = {"Désolé, je n'ai pas ".. tool.bls(sjt).." dans ma base de politic
 
 mdl_basic = {tool.bls(sjt).." AAA "..tool.bls(res)}
 
-mdl_exit = {"Bye !", "à la prochaine !"}
-
+mdl_exit = {"Bye !", "à la prochaine !", "bye", "au revoir", "quit","ciao", "adieu","bye-bye", "à une prochaine fois"}
 
 
 function txt.fill_mdl(model, bal, val)
