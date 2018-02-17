@@ -28,9 +28,8 @@ local reponse = {}
 
 
 -- Main
-function bot.start(lst_attributs, hist)
+function bot.start(lst_attributs)
 	l_attributs = lst_attributs
-	enable_hist = hist or false
 
 	db = dofile("database.lua")
 
@@ -117,32 +116,24 @@ end
 
 
 function contextual_analysis(question)
-	-- on commence par recuperer hors contexte
+	-- on commence par recuperer les donnees hors contexte
 	dialog.hckey   = find_elm(question, l_sujets, true)
-
 	dialog.hctypes = find_elm(question, l_attributs, true)
 	
-	-- lien entre hors contexte et en contexte
+	-- puis on fait le lien entre hors contexte et en contexte
 	hc_to_ec()
 	
+	-- on definie le paterne de la reponse 
 	set_answer()
-	-- rempli le paterne choisi
+
+	-- on rempli le paterne choisi et l'affiche a l'ecran
 	create_answer(reponse)
 	update_history()
-	affichage()
+	historique()
 
 	return check_exit()
 end
 
-
-function check_exit()
-	for i, e in pairs(dialog.hckey) do
-		if tool.in_list(e, l_fin) then
-			return false
-		end
-	end
-	return true
-end
 
 -- deprec
 function choose_answer( choice )
@@ -436,11 +427,6 @@ function aff_typ(k)
 	end
 end
 
--- deprec
-function affichage()
-	--key_n_type()
-	if(enable_hist) then historique() end	
-end
 
 -- deprecated
 function key_n_type()
@@ -463,7 +449,19 @@ function init_rep()
 end
 
 
+function check_exit()
+	for i, e in pairs(dialog.hckey) do
+		if tool.in_list(e, l_fin) then
+			return false
+		end
+	end
+	return true
+end
+
+
 function historique()
+	if not enable_hist then return -1 end
+
 	print("\nhistorique :")
 	for index,value in pairs(dialog) do
 		res = ""
