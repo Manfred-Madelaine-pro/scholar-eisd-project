@@ -21,10 +21,10 @@ local lp   = require 'line_processing'
 
 
 -- Variables globales
-local HISTORIQUE = true
+local HISTORIQUE = false
 local turn         = 0
 local dialog_state = {}
-local reponse = {model= {}, sjt= "", vrb= "", res= "", gen= ""}
+local reponse = {}
 
 -- Lancer le systeme de dialogue
 function init()
@@ -45,17 +45,35 @@ function chat_loop()
 	local line, loop = "", true
 	
 	while loop do
-		reponse = {model= {}, sjt= "", vrb= "", res= "", gen= ""}
+		--reponse = {model= {}, sjt= "", vrb= "", res= "", gen= ""}
+		init_mdl()
 		io.write("> ")
 		line = io.read()
 		loop = bot_processing(line)
 	end
 end
 
+--[[ TODO 
+		Pattern pour 2 Q
+		Analyser Q1, gen rep
+		Na Q2, gen Rep
 
+		Aff fusion de R1 é R2
+]]--
 function test()
 	local t_simple = {
-		"qui sont tes createurs ?",
+		"Lieu de naissance ?",
+		"Mélenchon ?",
+		"Lieu de naissance et date de naissance ?",
+		"Mélenchon et toi ?",
+		"Quelle est la date de naissance de Mélenchon ?",
+		"Lieu de naissance et date de naissance de Mélenchon ?",
+	}
+	local t_cmplx = {
+		
+		-- TODO : Tester le il : mélenchon pui ou
+
+		--"qui sont tes createurs ?",
 		"melu ou f",
 		--"bonjour",
 		--"tu ou f",
@@ -65,14 +83,20 @@ function test()
 	}
 
 	for i, line in pairs(t_simple) do	
-		reponse = {model= {}, sjt= "", vrb= "", res= "", gen= ""}
+		--init_mdl()
+		model= {{}, sjt= "", res= "", gen= ""}
 		print("> "..line)
+
 		--pause
-		io.write("continuer : ")
+		io.write("\ncontinuer : ")
 		io.read()
 		
 		loop = bot_processing(line)
 	end
+end
+
+function init_mdl()
+	model= {{}, sjt= "", res= "", gen= ""}
 end
 
 -- Traitement d'une ligne de texte par le systeme de dialogue
@@ -105,7 +129,7 @@ function contextual_analysis(question)
 	turn = turn + 1
 	
 	set_answer()
-	-- rempli le pattern choisi
+	-- rempli le paterne choisi
 	create_answer(reponse)
 	update_history()
 	affichage()
@@ -175,9 +199,12 @@ function create_answer(reponse)
 	dialog_state.gen = "answer = "..reponse.gen
 	local res = {}
 	for _, mdl in pairs(reponse.model) do
-		for i, v in pairs(reponse) do
-			if (i ~= "gen" and i ~= "model") then
-				mdl = txt.fill_mdl(mdl, i, reponse[i])
+		for balise, v in pairs(reponse) do
+			if (balise ~= "gen" and balise ~= "model") then
+				modifie = txt.fill_mdl(mdl, balise, reponse[i])
+				
+				-- on actualise le modele uniquement s'il y a du nouveau
+				if (modifie) then mdl = modifie end
 			end
 		end
 
@@ -188,12 +215,13 @@ function create_answer(reponse)
 	print("res avt",# res)
 	rm_doublon(res)	
 	print("res apr",# res)
+
 	rep = ""
 
 	for i, v in pairs(res) do 
 		rep = rep..v 
 
-		-- transition entre 2 réponses:
+		-- TODO : améliorer la transition entre 2 réponses
 		rep = rep.."\n" 
 	end
 	print("generique")
@@ -243,6 +271,7 @@ function reponse_bot(key, typ)
 		if tool.in_list(key, l_tutoiement) then
 			q_bot(key, typ)
 		elseif tool.in_list(key, l_user) then
+			-- TODO : 
 			print("user !")
 		else
 			q_politicien(key, typ)
@@ -256,13 +285,12 @@ end
 
 
 -- Rempli les attributs necessaires a la generation de la reponse
-function fill_response(mdl, gen, sjt, res, vrb)
+function fill_response(mdl, gen, sjt, res)
 		reponse.model[#reponse.model + 1] = txt.pick_mdl(mdl)
 		reponse.gen = gen 
 		reponse.sjt = sjt
 		reponse.res = res
-		reponse.vrb = vrb
-		--ajouter la rep du bot
+		-- TODO : ajouter la rep du bot opas ici !
 end
 
 
@@ -323,6 +351,7 @@ function search_tag(key, typ, q_tag)
 			key_is_used(dialog_state[#dialog_state-2], key)
 			if key_is_used(dialog_state[#dialog_state-2], key) then
 				local s = search_in_db(db, key_value, "gender")
+				-- TODO : mettre écriture inclusive a la place
 				pronoun = "Il "
 				if (s == "F") then pronoun = "Elle " end
 				
@@ -359,11 +388,9 @@ function gen_answer(sjt, res, type_val)
 			end
 			fill_response(mdl_forma, type_val, sjt, rep)
 		end
-
-
 	else
-		print("test !!", type_val)
-		fill_response(mdl_basic, res, sjt, res)
+		print("res", res)
+		fill_response(txt.get_mdl(type_val), res, sjt, res)
 	end
 end
 
@@ -393,6 +420,7 @@ function update_history()
 	table.insert(dialog_state, ec_key)
 	table.insert(dialog_state, ec_typ)
 	table.insert(dialog_state, ec_gen)	
+	--TODO : rep bot
 end
 
 
@@ -406,12 +434,13 @@ function aff_typ(k)
 	end
 end
 
-
+-- deprec
 function affichage()
 	--key_n_type()
 	if(HISTORIQUE ) then historique() end	
 end
 
+-- deprecated
 function key_n_type()
 	print("-Clé-", "-Type-")
 	if(#dialog_state.eckey >= 1) then
@@ -478,8 +507,9 @@ end
 
 
 -- Main
-function bot.start(lst_attributs)
+function bot.start(lst_attributs, hist)
 	l_attributs = lst_attributs
+	HISTORIQUE = hist or false
 	db = dofile("database.lua")
 	init()
 	--chat_loop()

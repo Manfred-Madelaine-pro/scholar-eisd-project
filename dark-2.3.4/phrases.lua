@@ -59,14 +59,6 @@ mdl_basic = {tool.bls(sjt).." AAA "..tool.bls(res)}
 
 mdl_exit = {"Bye !", "à la prochaine !"}
 
--- deprecated
-function change(sen, ...)
-	local arg = {...}
-	for i, champ in ipairs(arg) do
-		sen = sen:gsub(tool.bls(balises[i]), champ)
-	end
-	return sen
-end
 
 
 function txt.fill_mdl(model, bal, val)
@@ -79,7 +71,36 @@ function txt.fill_mdl(model, bal, val)
 	if txt ~= model then
 		return txt
 	end
-	return ""
+	return nil
+end
+
+
+-- Choisi de façon aleatoire un element de la liste
+function txt.pick_mdl(tab_sen)
+	math.randomseed(os.time())
+	val = math.random(1, #tab_sen)
+	return tab_sen[val]
+end
+
+
+function txt.get_mdl(nom)
+	mdl = mdl_basic
+	if (nom == "birthplace") then
+		mdl = mdl_birthp
+	elseif (nom == "birth") then
+		mdl = mdl_birth
+	end
+	return mdl
+end
+
+
+-- deprecated
+function change(sen, ...)
+	local arg = {...}
+	for i, champ in ipairs(arg) do
+		sen = sen:gsub(tool.bls(balises[i]), champ)
+	end
+	return sen
 end
 
 
@@ -93,13 +114,5 @@ function txt.exec()
 	end
 end
  
-
--- Choisi de façon aleatoire un element de la liste
-function txt.pick_mdl(tab_sen)
-	math.randomseed(os.time())
-	val = math.random(1, #tab_sen)
-	return tab_sen[val]
-end
-
 
 return txt
