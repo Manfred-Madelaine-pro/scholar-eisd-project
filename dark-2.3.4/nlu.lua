@@ -42,11 +42,13 @@ hdb_status = "statut"
 hdb_createurs = "createurs"
 
 -- Liste d'elements
+l_sujets = {ppn, user, tutoiement, fin}
 l_attributs = {db_birth, db_birthp, db_forma, hdb_status, hdb_createurs}
 l_tutoiement = {"tu", "te", "t'", "tes", "ton"}
 l_user = {"je", "moi", "m'", "mes", "mon"}
 l_dev = {"Manfred MadlnT", "Cedrick RibeT", "Hugo BommarT", "Laos GalmnT"}
-
+l_fin = {"bye", "au revoir", "quit","ciao", "adieu","bye-bye", "à une prochaine fois",
+}
 local f_data = "data/"
 
 
@@ -101,6 +103,7 @@ main:pattern('[#name '..tool.tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 main:pattern('['..tool.tag(quest)..' (#question)? .*? "?"?]')
 
 -- Reconnaitre fin de discussion
+--TODO supp
 main:pattern('['..tool.tag(exit)..tool.tag(fin)..' ]')
 
 -- Qestion sur la Date de naissance

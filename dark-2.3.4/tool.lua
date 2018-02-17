@@ -17,6 +17,20 @@ function tool.bls(tag)
 	return "<"..tag..">"
 end
 
+-- Lancer le systeme de dialogue
+function tool.init(txt)
+	local s = " ---- "
+	print("\n\t"..s..bvn..s.."\n")
+	bot_answer(txt)
+end
+
+
+-- Reponse du systeme de dialogue
+function bot_answer(answer)
+	print(BOT_NAME.." : "..answer.."\n")
+end
+
+
 
 -- Cree l'ensemble des lexiques
 function tool.create_lex(f_data)

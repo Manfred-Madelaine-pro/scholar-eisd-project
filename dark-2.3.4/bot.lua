@@ -21,37 +21,37 @@ local lp   = require 'line_processing'
 
 
 -- Variables globales
-local HISTORIQUE = false
-local turn         = 0
-local dialog_state = {}
+local enable_hist = false
+local turn = 0
+local dialog = {}
 local reponse = {}
 
--- Lancer le systeme de dialogue
-function init()
-	local s = " ---- "
-	print("\n\t"..s..bvn..s.."\n")
-	bot_answer(txt.pick_mdl(start))
+
+-- Main
+function bot.start(lst_attributs, hist)
+	l_attributs = lst_attributs
+	enable_hist = hist or false
+
+	db = dofile("database.lua")
+
+	tool.init(txt.pick_mdl(start))
+	chat_loop()
+	--test_fonctionnel()
 end
 
 
--- Reponse du systeme de dialogue
-function bot_answer(answer)
-	print(BOT_NAME.." : "..answer.."\n")
-end
-
-
--- Fonction d'exhange entre l'utilisateur et le systeme de dialogue
+-- Fonction d'echange entre l'utilisateur et le systeme de dialogue
 function chat_loop()
-	local line, loop = "", true
+	local loop = true
 	
 	while loop do
-		--reponse = {model= {}, sjt= "", vrb= "", res= "", gen= ""}
-		init_mdl()
+		init_rep()
 		io.write("> ")
 		line = io.read()
 		loop = bot_processing(line)
 	end
 end
+
 
 --[[ TODO 
 		Pattern pour 2 Q
@@ -60,10 +60,16 @@ end
 
 		Aff fusion de R1 é R2
 ]]--
-function test()
-	local t_simple = {
+function test_fonctionnel()
+	local test_ok = {
 		"Lieu de naissance ?",
+		"sep",
 		"Mélenchon ?",
+		"sep",
+	}
+	
+	local t_simple = {
+		-- TODO : voulez-vous une/CES information ?
 		"Lieu de naissance et date de naissance ?",
 		"Mélenchon et toi ?",
 		"Quelle est la date de naissance de Mélenchon ?",
@@ -83,21 +89,17 @@ function test()
 	}
 
 	for i, line in pairs(t_simple) do	
-		--init_mdl()
-		model= {{}, sjt= "", res= "", gen= ""}
+		init_rep()
 		print("> "..line)
 
 		--pause
-		io.write("\ncontinuer : ")
+		io.write("\n--- Entree pour continuer ---\n ")
 		io.read()
 		
-		loop = bot_processing(line)
+		bot_processing(line)
 	end
 end
 
-function init_mdl()
-	model= {{}, sjt= "", res= "", gen= ""}
-end
 
 -- Traitement d'une ligne de texte par le systeme de dialogue
 function bot_processing(line)
@@ -112,21 +114,20 @@ end
 
 
 function contextual_analysis(question)
+	-- TODO : gérer cette varialbe
 	quit = 0
 	-- on commence par recuperer hors contexte
-	dialog_state.hckey = find_keys(question)
+	dialog.hckey = find_keys(question)
 
-	-- Quitter la discussion
-	for i, att in ipairs(dialog_state.hckey) do	
+	-- TODO : ne plus Quitter la discussion comme ça
+	for i, att in ipairs(dialog.hckey) do	
 		if (att == -1) then quit = -1 end
 	end
 
-	dialog_state.hctypes = find_types(question)
+	dialog.hctypes = find_types(question)
 	
 	-- lien entre hors contexte et en contexte
 	hc_to_ec()
-
-	turn = turn + 1
 	
 	set_answer()
 	-- rempli le paterne choisi
@@ -139,12 +140,13 @@ end
 
 function find_keys(question)
 	local res = {}
-	local liste_sujet = {ppn, user, tutoiement}
 	
 	-- on cherche les sujets dans la phrase
-	for i, att in pairs(liste_sujet) do	
+	for i, att in pairs(l_sujets) do	
+		print(att)
 		if (#question[tool.tag(att)]) ~= 0 then
 			res[#res+1] = question:tag2str(tool.tag(att))[1]
+			print("res", res[#res])
 		elseif (#question[tool.tag(exit)]) ~= 0 then
 			res[#res+1] = -1
 		end
@@ -155,6 +157,7 @@ end
 
 function find_types(question)
 	local res = {}
+
 	-- On cherche les questions poses dans la phrase
 	for i, att in pairs(l_attributs) do	
 		if (#question[tool.tag(tool.qtag(att))]) ~= 0 then
@@ -167,10 +170,10 @@ end
 
 function hc_to_ec()
 	-- lien Hors context vesr En context sur les clés
-	dialog_state.eckey = update_context(dialog_state.hckey, dialog_state.hctypes, dialog_state.eckey)
+	dialog.eckey = update_context(dialog.hckey, dialog.hctypes, dialog.eckey)
 
 	-- lien Hors context vesr En context sur les types
-	dialog_state.ectype = update_context(dialog_state.hctypes, dialog_state.hckey, dialog_state.ectype)
+	dialog.ectype = update_context(dialog.hctypes, dialog.hckey, dialog.ectype)
 end
 
 
@@ -188,20 +191,20 @@ end
 -- Fixe la reponse du Syst de D en fonction element de la question
 function set_answer()
 	is_key = true
-	tab = dialog_state.eckey
-	att = dialog_state.ectype
+	tab = dialog.eckey
+	att = dialog.ectype
 
 	use_types(att, tab, is_key)
 end
 
 
 function create_answer(reponse)
-	dialog_state.gen = "answer = "..reponse.gen
+	dialog.gen = "answer = "..reponse.gen
 	local res = {}
 	for _, mdl in pairs(reponse.model) do
 		for balise, v in pairs(reponse) do
 			if (balise ~= "gen" and balise ~= "model") then
-				modifie = txt.fill_mdl(mdl, balise, reponse[i])
+				modifie = txt.fill_mdl(mdl, balise, reponse[balise])
 				
 				-- on actualise le modele uniquement s'il y a du nouveau
 				if (modifie) then mdl = modifie end
@@ -226,43 +229,6 @@ function create_answer(reponse)
 	end
 	print("generique")
 	bot_answer(rep)
-end
-
--- deprecated
-function rm_doublon(tab)
-	if #tab < 2 then return false end
-
-	for i = #tab, 1, -1 do
-		for j = i-1, 1, -1 do
-			if tab[i] == tab[j] then
-				table.remove(tab, j)
-				i = i-1
-				break
-			end
-		end
-	end
-
-	return tab
-end
-
-
--- rename
-function use_types(att, tab, is_key)
-	if(tab) then
-		for i, elm in pairs(tab) do	
-			print(elm, att)
-			mini_f(elm, att, is_key)
-		end
-
-	else mini_f(nil, att, is_key) end
-end
-
-
--- renam
-function mini_f(elm, att, is_key)
-	if is_key then use_types(elm, att, not is_key)
-
-	else reponse_bot(att, elm) end
 end
 
 
@@ -314,7 +280,7 @@ end
 function q_politicien(key, typ)
 	-- question sur un politicien
 	if not typ then
-		fill_response(mdl_Qtype, "quelle_information")
+		fill_response(mdl_Qtype, "quelle_information", key)
 	else
 		local bool = false
 		-- On cherche les questions poses dans la phrase
@@ -348,8 +314,8 @@ function search_tag(key, typ, q_tag)
 			fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 		else
 			key_is_used()
-			key_is_used(dialog_state[#dialog_state-2], key)
-			if key_is_used(dialog_state[#dialog_state-2], key) then
+			key_is_used(dialog[#dialog-2], key)
+			if key_is_used(dialog[#dialog-2], key) then
 				local s = search_in_db(db, key_value, "gender")
 				-- TODO : mettre écriture inclusive a la place
 				pronoun = "Il "
@@ -362,16 +328,6 @@ function search_tag(key, typ, q_tag)
 		return true
 	end
 
-	return false
-end
-
-
-function key_is_used(tab, key)
-	if(type(tab) == "table") then
-		for i, att in pairs(tab or {}) do	
-			if (key == att) then return true end
-		end
-	end
 	return false
 end
 
@@ -395,6 +351,15 @@ function gen_answer(sjt, res, type_val)
 end
 
 
+function choose_answer( choice )
+	if (choice == -1) then
+		fill_response(mdl_exit, "exit")
+		return false
+	end
+	return true
+end
+
+
 -- réponse pas assez humaine
 function get_forma(res, i)
 	local  date = search_in_db(res, i, "date")
@@ -412,21 +377,22 @@ end
 
 
 function update_history()
-	local ec_gen = dialog_state.gen    or "no ans"
-	local ec_key = dialog_state.eckey  or "no key"
-	local ec_typ = dialog_state.ectype or "no typ"
+	local ec_gen = dialog.gen    or "no ans"
+	local ec_key = dialog.eckey  or "no key"
+	local ec_typ = dialog.ectype or "no typ"
+	turn = turn+1
 
-	table.insert(dialog_state, turn)
-	table.insert(dialog_state, ec_key)
-	table.insert(dialog_state, ec_typ)
-	table.insert(dialog_state, ec_gen)	
+	table.insert(dialog, turn)
+	table.insert(dialog, ec_key)
+	table.insert(dialog, ec_typ)
+	table.insert(dialog, ec_gen)	
 	--TODO : rep bot
 end
 
 
 function aff_typ(k)
-	if(dialog_state.ectype) then
-		for j, t in pairs(dialog_state.ectype) do
+	if(dialog.ectype) then
+		for j, t in pairs(dialog.ectype) do
 			print(k, t)
 		end
 	else				
@@ -437,26 +403,33 @@ end
 -- deprec
 function affichage()
 	--key_n_type()
-	if(HISTORIQUE ) then historique() end	
+	if(enable_hist) then historique() end	
 end
 
 -- deprecated
 function key_n_type()
 	print("-Clé-", "-Type-")
-	if(#dialog_state.eckey >= 1) then
-		for i, k in pairs(dialog_state.eckey) do
+	if(#dialog.eckey >= 1) then
+		for i, k in pairs(dialog.eckey) do
 			aff_typ(k)
-			--print(k, dialog_state.ectype)
+			--print(k, dialog.ectype)
 		end
 	else
 		aff_typ(nil)
-		--print(nil, dialog_state.ectype)
+		--print(nil, dialog.ectype)
 	end
 end
 
+
+function init_rep()
+
+	reponse = {model= {}, sjt= "", res= "", gen= ""}
+end
+
+
 function historique()
-	print("\nHistorique :")
-	for index,value in pairs(dialog_state) do
+	print("\nhistorique :")
+	for index,value in pairs(dialog) do
 		res = ""
 		if type(value) == "table" then
 			for i, v in pairs(value) do
@@ -467,17 +440,56 @@ function historique()
 		end
 		print(index, res)
 
-		if index == #dialog_state then print() end
+		if index == #dialog then print() end
 	end
 	print()
 end
 
-function choose_answer( choice )
-	if (choice == -1) then
-		fill_response(mdl_exit, "exit")
-		return false
+
+function key_is_used(tab, key)
+	if(type(tab) == "table") then
+		for i, att in pairs(tab or {}) do	
+			if (key == att) then return true end
+		end
 	end
-	return true
+	return false
+end
+
+
+-- deprecated
+function rm_doublon(tab)
+	if #tab < 2 then return false end
+
+	for i = #tab, 1, -1 do
+		for j = i-1, 1, -1 do
+			if tab[i] == tab[j] then
+				table.remove(tab, j)
+				i = i-1
+				break
+			end
+		end
+	end
+
+	return tab
+end
+
+
+-- rename
+function use_types(att, tab, is_key)
+	if(tab) then
+		for i, elm in pairs(tab) do	
+			mini_f(elm, att, is_key)
+		end
+
+	else mini_f(nil, att, is_key) end
+end
+
+
+-- renam
+function mini_f(elm, att, is_key)
+	if is_key then use_types(elm, att, not is_key)
+
+	else reponse_bot(att, elm) end
 end
 
 
@@ -503,17 +515,6 @@ function search_in_db(db, politicien, ...)
   end
 
   if (b == 0) then return -1 end
-end
-
-
--- Main
-function bot.start(lst_attributs, hist)
-	l_attributs = lst_attributs
-	HISTORIQUE = hist or false
-	db = dofile("database.lua")
-	init()
-	--chat_loop()
-	test()
 end
 
 
