@@ -60,19 +60,22 @@ end
 		Aff fusion de R1 é R2
 ]]--
 function test_fonctionnel()
-	local test_ok = {
+	local t_fini = {
 		"Lieu de naissance ?",
 		"sep",
 		"Mélenchon ?",
 		"sep",
 		"qui sont tes createurs ?",
 		"sep",
-		"tu",
-		"ou",
+		"ou ?",
+		"qui sont mes createurs ?",
 	}
 	
 	local t_simple = {
-		"bye",
+		"moi",
+		"sep",
+		"tu",
+		"sep",
 		-- TODO : voulez-vous une/CES information ?
 		"Lieu de naissance et date de naissance ?",
 	}
@@ -118,7 +121,7 @@ end
 function contextual_analysis(question)
 	-- on commence par recuperer les donnees hors contexte
 	dialog.hckey   = find_elm(question, l_sujets, true)
-	dialog.hctypes = find_elm(question, l_attributs, true)
+	dialog.hctypes = find_elm(question, l_attributs, false)
 	
 	-- puis on fait le lien entre hors contexte et en contexte
 	hc_to_ec()
@@ -189,31 +192,6 @@ function set_answer()
 end
 
 
-function analyse_elm(att, tab, is_key)
-	if(tab) then
-		for i, elm in pairs(tab) do	
-			get_pattern(elm, att, is_key)
-		end
-
-	else get_pattern(nil, att, is_key) end
-end
-
-
-function get_pattern(elm, att, is_key)
-	-- analyse des types
-	if is_key then analyse_elm(elm, att, not is_key)
-
-	-- choix du paterne
-	elseif key then
-		q_politicien(att, elm)
-	elseif typ then
-		fill_response(mdl_Qinfo, "quel politicien")
-	else
-		fill_response(mdl_idk, "idk")
-	end
-end
-
-
 function create_answer(reponse)
 	dialog.gen = "answer = "..reponse.gen
 	local res = {}
@@ -232,9 +210,7 @@ function create_answer(reponse)
 		res[#res+1] = mdl
 	end
 
-	rm_doublon(res)	
-	print("res apr",# res)
-
+	tool.rm_doublon(res)	
 	rep = ""
 
 	for i, v in pairs(res) do 
@@ -248,6 +224,33 @@ function create_answer(reponse)
 end
 
 
+function analyse_elm(att, tab, is_key)
+	if(tab) then
+		for i, elm in pairs(tab) do	
+			get_pattern(elm, att, is_key)
+		end
+
+	else get_pattern(nil, att, is_key) end
+end
+
+
+function get_pattern(elm, att, is_key)
+	-- analyse des types
+	if is_key and elm then analyse_elm(elm, att, not is_key)
+
+	-- choix du paterne
+	elseif cas_special(att, elm) then 
+		print("cas spécial !")
+	elseif elm then
+		search_pattern(att, elm)
+	elseif att then
+		fill_response(mdl_Qinfo, "quel politicien")
+	else
+		fill_response(mdl_idk, "idk")
+	end
+end
+
+
 -- Rempli les attributs necessaires a la generation de la reponse
 function fill_response(mdl, gen, sjt, res)
 		reponse.model[#reponse.model + 1] = txt.pick_mdl(mdl)
@@ -257,40 +260,43 @@ function fill_response(mdl, gen, sjt, res)
 end
 
 
--- rename & rebuild
-function q_politicien(key, typ)
-	local m_mdl = ""
-	local m_key = key
+function cas_special(key, typ)
 	local m_tutoie, m_user = false, false
 
-	-- question sur un politicien
 	if tool.in_list(key, l_tutoiement) then m_tutoie = true
-	elseif tool.in_list(key, l_user) user = true end
+	elseif tool.in_list(key, l_user) then m_user = true end
 
+--[[
 	if not typ then
 		if m_tutoie then m_key = "moi" end
 
 		fill_response(mdl_Qtype, "quelle_information", m_key)
 
-	-- Question sur les createurs du systeme de dialogue
-	elseif typ == hdb_createurs and m_tutoie then
+	-- Question sur les createurs 
+	elseif typ == hdb_createurs and ( m_tutoie or m_user) then
 		tab, res = "\n\t", ""
-		for i, att in pairs(l_dev) do
-			res = res..tab..att
+		
+		if m_tutoie then
+			m_mdl = mdl_creatr_b
+			for i, att in pairs(l_dev) do
+				res = res..tab..att
+			end
+		else
+			m_mdl = mdl_creatr_u
 		end
-		fill_response(mdl_creatr, "mes_createurs", "Mes", res)
+		fill_response(m_mdl, "createurs", "", res)
 	
 	else
-		if(not m_tutoie) then
-			local bool = false
-			-- On cherche les questions poses dans la phrase
+		local q_found = false
+		if(not m_tutoie and not m_user) then
+			-- On cherche les questions posees dans la phrase
 			for i, att in pairs(l_attributs) do	
-				bool = search_tag(key, typ, att)
-				if (bool) then break end
+				q_found = search_tag(key, typ, att)
+				if (q_found) then break end
 			end
 		end
 
-		if (not bool) then 
+		if (not q_found) then 
 			if m_tutoie then 
 				m_mdl = mdl_no_rep
 			else
@@ -298,6 +304,29 @@ function q_politicien(key, typ)
 			end
 
 			fill_response(m_mdl, "non_gere")
+		end
+	end
+]]
+	if(m_tutoie or m_user) then	return true end
+	return false
+end
+
+function search_pattern(key, typ)
+	
+	if not typ then
+		fill_response(mdl_Qtype, "quelle_information", key)
+
+	else
+		local q_found = false
+		
+		-- On cherche les questions posees dans la phrase
+		for i, att in pairs(l_attributs) do	
+			q_found = search_tag(key, typ, att)
+			if (q_found) then break end
+		end		
+
+		if (not q_found) then 
+			fill_response(mdl_no_gere, "non_gere")
 		end
 	end
 end
@@ -320,9 +349,7 @@ function search_tag(key, typ, q_tag)
 			-- key error
 			fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 		else
-			key_is_used()
-			key_is_used(dialog[#dialog-2], key)
-			if key_is_used(dialog[#dialog-2], key) then
+			if tool.key_is_used(dialog[#dialog-2], key) then
 				local s = search_in_db(db, key_value, "gender")
 				-- TODO : mettre écriture inclusive a la place
 				pronoun = "Il "
@@ -391,32 +418,6 @@ function update_history()
 end
 
 
-function aff_typ(k)
-	if(dialog.ectype) then
-		for j, t in pairs(dialog.ectype) do
-			print(k, t)
-		end
-	else				
-		print(k, nil)
-	end
-end
-
-
--- deprecated
-function key_n_type()
-	print("-Clé-", "-Type-")
-	if(#dialog.eckey >= 1) then
-		for i, k in pairs(dialog.eckey) do
-			aff_typ(k)
-			--print(k, dialog.ectype)
-		end
-	else
-		aff_typ(nil)
-		--print(nil, dialog.ectype)
-	end
-end
-
-
 function init_rep()
 
 	reponse = {model= {}, sjt= "", res= "", gen= ""}
@@ -451,34 +452,6 @@ function historique()
 		if index == #dialog then print() end
 	end
 	print()
-end
-
-
-function key_is_used(tab, key)
-	if(type(tab) == "table") then
-		for i, att in pairs(tab or {}) do	
-			if (key == att) then return true end
-		end
-	end
-	return false
-end
-
-
--- deprecated
-function rm_doublon(tab)
-	if #tab < 2 then return false end
-
-	for i = #tab, 1, -1 do
-		for j = i-1, 1, -1 do
-			if tab[i] == tab[j] then
-				table.remove(tab, j)
-				i = i-1
-				break
-			end
-		end
-	end
-
-	return tab
 end
 
 

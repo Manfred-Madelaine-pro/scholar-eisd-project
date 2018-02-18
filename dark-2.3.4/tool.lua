@@ -64,7 +64,34 @@ function tool.in_list(elm, list)
 end
 
 
+function tool.key_is_used(tab, key)
+	if(type(tab) == "table") then
+		for i, att in pairs(tab or {}) do	
+			if (key == att) then return true end
+		end
+	end
+	return false
+end
+
+
 -- deprecated
+function tool.rm_doublon(tab)
+	if #tab < 2 then return false end
+
+	for i = #tab, 1, -1 do
+		for j = i-1, 1, -1 do
+			if tab[i] == tab[j] then
+				table.remove(tab, j)
+				i = i-1
+				break
+			end
+		end
+	end
+
+	return tab
+end
+
+
 function tool.print_table(res)
 	if type(res) == "table" then
 		for index,value in pairs(res) do

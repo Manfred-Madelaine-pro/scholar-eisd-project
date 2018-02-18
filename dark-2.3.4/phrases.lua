@@ -26,7 +26,7 @@ start = {
 mdl_birth = {tool.bls(sjt).." est né le "..tool.bls(res)}
 mdl_birthp = {tool.bls(sjt).." est né à "..tool.bls(res)}
 mdl_forma = {tool.bls(sjt).." a pour formation: "..tool.bls(res)}
-mdl_Qsjt = {"Que souhaitez vous savoir sur "..tool.bls(sjt).." ?"}
+mdl_Qtype = {"Que souhaitez vous savoir sur "..tool.bls(sjt).." ?"}
 
 mdl_Qinfo = {"Sur quel politicien voulez-vous une information ?"}
 
@@ -42,8 +42,8 @@ mdl_no_rep = {
 	"Eh ! non mais... ça ne se pose pas comme question !"
 }
 
-mdl_creatr = {tool.bls(sjt).." vénérables créateurs sont: "..tool.bls(res).."\n\nJe les remercie sincèrement de m'avoir donné vie."}
-
+mdl_creatr_b = {"Mes vénérables créateurs sont "..tool.bls(res).."\n\nJe les remercie sincèrement de m'avoir donné vie."}
+mdl_creatr_u = {"Vos créateurs sont vos parents bien sûr !"}
 
 
 mdl_no_gere = {
