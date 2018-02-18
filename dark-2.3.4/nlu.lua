@@ -151,9 +151,9 @@ main:pattern('[#Qcreateurs "qui" .{,3}? /createurs?/]')
 main:pattern('[#gram_sujet '..tool.list_tags(l_sujets)..']')
 main:pattern('[#gram_info '..tool.list_tags(l_attributs, true)..']')
 main:pattern('[#gram_elm #neg | #gram_sujet | #gram_info | "(" #gram_quest ")" ]')
-main:pattern('[#gram_sen ( #gram_elm #AND? )+ ]')
+main:pattern('[#gram_sen #gram_elm ( #AND? #gram_elm )+ ]')
 
-main:pattern('[#gram_quest #gram_quest #AND #gram_sen | #gram_sen ]')
+--main:pattern('[#gram_quest #gram_quest #AND #gram_sen | #gram_sen ]')
 
 
 
@@ -179,13 +179,13 @@ m_tag = {
 
 test = {
 	
-	["#negation"] = "magenta",
+	["#neg"] = "magenta",
 	["#birth"] = "red",
 
 	--["#gram_info"] = "magenta",
 	--["#gram_sujet"] = "blue",
 	--["#gram_elm"] = "green",
-	["#gram_quest"] = "green",
+	--["#gram_quest"] = "green",
 	["#gram_sen"] = "red",
 	["#AND"] = "yellow",
 

@@ -72,7 +72,7 @@ function test_fonctionnel()
 	}
 	
 	local t_simple = {
-		"(non moi tu Melenchon ou f naissance) et f ou et f non tu et moi",
+		"(non moi et (tu Melenchon ou) et f naissance) et f ou et f non tu et moi",
 		-- TODO : voulez-vous une/CES information ?
 	}
 	local t_cmplx = {
