@@ -3,3 +3,6 @@ no
 ne
 n'
 pas
+sauf
+excepte
+sans

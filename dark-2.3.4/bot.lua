@@ -72,14 +72,14 @@ function test_fonctionnel()
 	}
 	
 	local t_simple = {
-		"moi",
+		"(non moi tu Melenchon ou f naissance) et f ou et f non tu et moi",
+		-- TODO : voulez-vous une/CES information ?
+	}
+	local t_cmplx = {
 		"sep",
 		"tu",
 		"sep",
-		-- TODO : voulez-vous une/CES information ?
 		"Lieu de naissance et date de naissance ?",
-	}
-	local t_cmplx = {
 		"Mélenchon et toi ?",
 		"Quelle est la date de naissance de Mélenchon ?",
 		"Lieu de naissance et date de naissance de Mélenchon ?",
@@ -249,6 +249,22 @@ function get_pattern(elm, att, is_key)
 		fill_response(mdl_idk, "idk")
 	end
 end
+
+
+function cas_simple()
+	-- la question est composee d'un unique element
+end
+
+
+function cas_normal()
+	-- la question est composee de deux elements ou plus
+end
+
+
+function cas_complexe()
+	-- la question est composee de deux questions ou plus
+end
+
 
 
 -- Rempli les attributs necessaires a la generation de la reponse

@@ -44,10 +44,13 @@ hdb_createurs = "createurs"
 -- Liste d'elements
 l_sujets = {ppn, user, tutoiement, fin}
 l_attributs = {db_birth, db_birthp, db_forma, hdb_status, hdb_createurs}
+l_et = {"et", "ainsi que"}
+
 l_tutoiement = {"tu", "te", "t'", "tes", "ton"}
 l_user = {"je", "moi", "m'", "mes", "mon"}
 l_dev = {"Manfred MadlnT", "Cedrick RibeT", "Hugo BommarT", "Laos GalmnT"}
 l_fin = {"bye", "au revoir", "quit","ciao", "adieu","bye-bye", "à une prochaine fois"}
+
 local f_data = "data/"
 
 
@@ -67,9 +70,10 @@ main:lexicon("#lieuN", {"lieu de naissance", "où", "ou"})
 main:lexicon("#formation", {"formation"})
 main:lexicon(tool.tag(tutoiement), l_tutoiement)
 main:lexicon(tool.tag(user), l_user)
+main:lexicon("#AND", l_et)
 -- vouvoiement ?
 main:lexicon("#question", {"qui", "quelle", "quoi", "comment", "ou", "quand"})
-
+main:lexicon("#neg", {"non","no","ne","n'","pas","sauf","excepte","sans"})
 
 
 -- Paterne avec expressions régulières 
@@ -100,6 +104,10 @@ main:pattern('[#name '..tool.tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 
 -- Reconnaitre une question (pas utile vu que l'utilisateur n'utilise pas de ponct)
 main:pattern('['..tool.tag(quest)..' (#question)? .*? "?"?]')
+
+
+
+	----- Analyse d'une question -----
 
 -- Reconnaitre fin de discussion
 --TODO supp
@@ -139,7 +147,17 @@ main:pattern('[#negation '..tool.tag(neg)..' .{,3}? "pas"]')
 main:pattern('[#Qcreateurs "qui" .{,3}? /createurs?/]')
 
 
-tags = {
+-- Reconnaissance de la grammaire dans une question
+main:pattern('[#gram_sujet '..tool.list_tags(l_sujets)..']')
+main:pattern('[#gram_info '..tool.list_tags(l_attributs, true)..']')
+main:pattern('[#gram_elm #neg | #gram_sujet | #gram_info | "(" #gram_quest ")" ]')
+main:pattern('[#gram_sen ( #gram_elm #AND? )+ ]')
+
+main:pattern('[#gram_quest #gram_quest #AND #gram_sen | #gram_sen ]')
+
+
+
+m_tag = {
 	["#Qbirthplace"] = "green",
 	["#Qbirth"] = "green",
 	["#Qstatut"] = "green",
@@ -148,6 +166,8 @@ tags = {
 	
 	["#negation"] = "red",
 	["#birth"] = "red",
+
+	["#gram_sujet"] = "blue",
 	["#name"] = "blue",
 	--["#lieu"] = "red",
 	["#date"] = "magenta",
@@ -156,3 +176,23 @@ tags = {
 	[tool.tag(exit)] = "yellow",
 	[tool.tag(quest)] = "magenta",
 }
+
+test = {
+	
+	["#negation"] = "magenta",
+	["#birth"] = "red",
+
+	--["#gram_info"] = "magenta",
+	--["#gram_sujet"] = "blue",
+	--["#gram_elm"] = "green",
+	["#gram_quest"] = "green",
+	["#gram_sen"] = "red",
+	["#AND"] = "yellow",
+
+	--["#lieu"] = "red",
+	["#date"] = "magenta",
+
+	[tool.tag(exit)] = "yellow",
+}
+
+tags = test

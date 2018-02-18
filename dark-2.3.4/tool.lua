@@ -48,6 +48,19 @@ function tool.new_lex(tag, f_data)
 end
 
 
+function tool.list_tags(l_tags, is_quest)
+	res = ""
+	for i, tag in pairs(l_tags) do
+		if is_quest then
+			tag = tool.qtag(tag)
+		end
+		res = res..tool.tag(tag)
+		if i < #l_tags then res = res.." | " end
+	end
+	return res
+end
+
+
 function tool.save_db(db, filename)
 	local out_file = io.open(filename..".lua", "w")
 	out_file:write("return ")
