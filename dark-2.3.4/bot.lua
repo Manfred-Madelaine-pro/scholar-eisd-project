@@ -21,7 +21,7 @@ local lp   = require 'line_processing'
 
 
 -- Variables globales
-local enable_hist = false
+local enable_hist = true
 local turn = 0
 local dialog = {}
 local reponse = {}
@@ -34,8 +34,8 @@ function bot.start(lst_attributs)
 	db = dofile("database.lua")
 
 	tool.init(txt.pick_mdl(start))
-	chat_loop()
-	--test_fonctionnel()
+	--chat_loop()
+	test_fonctionnel()
 end
 
 
@@ -129,61 +129,25 @@ function contextual_analysis(question)
 	-- on rempli le paterne choisi et l'affiche a l'ecran
 	create_answer(reponse)
 	update_history()
-	historique()
 
 	return check_exit()
 end
 
 
--- deprec
-function choose_answer( choice )
-	if (choice == -1) then
-		fill_response(mdl_exit, "exit")
-		return false
-	end
-	return true
-end
-
-
---deprec
-function find_keys(question)
-	local res = {}
-	
-	-- on cherche les sujets dans la phrase
-	for i, att in pairs(l_sujets) do	
-		if (#question[tool.tag(att)]) ~= 0 then
-			res[#res+1] = question:tag2str(tool.tag(att))[1]
-			print("res", res[#res])
-		elseif (#question[tool.tag(exit)]) ~= 0 then
-			res[#res+1] = -1
-		end
-	end
-	return res
-end
-
---deprec
-function find_types(question)
-	local res = {}
-
-	-- On cherche les questions poses dans la phrase
-	for i, att in pairs(l_attributs) do	
-		if (#question[tool.tag(tool.qtag(att))]) ~= 0 then
-			res[#res+1] = att
-		end
-	end
-	return res
-end
+-- TDOD		fill_response(mdl_exit, "exit")
 
 
 function find_elm(question, l_elm, is_key)
 	local res = {}
 
-	-- On cherche les questions poses dans la phrase
+	-- On cherche les sujets dans la phrase ou les questions posees
 	for i, att in pairs(l_elm) do	
+		-- sujets
 		if is_key then
 			if (#question[tool.tag(att)]) ~= 0 then
 				res[#res+1] = question:tag2str(tool.tag(att))[1]
 			end
+		-- questions
 		else
 			if (#question[tool.tag(tool.qtag(att))]) ~= 0 then
 				res[#res+1] = att
@@ -215,13 +179,38 @@ function update_context(cond1, cond2, val)
 end
 
 
--- Fixe la reponse du Syst de D en fonction element de la question
+-- Fixe la reponse du Systeme de Dialogue en fonction element de la question
 function set_answer()
-	is_key = true
 	tab = dialog.eckey
 	att = dialog.ectype
+	
+	-- analyse des clefs
+	analyse_elm(att, tab, true)
+end
 
-	use_types(att, tab, is_key)
+
+function analyse_elm(att, tab, is_key)
+	if(tab) then
+		for i, elm in pairs(tab) do	
+			get_pattern(elm, att, is_key)
+		end
+
+	else get_pattern(nil, att, is_key) end
+end
+
+
+function get_pattern(elm, att, is_key)
+	-- analyse des types
+	if is_key then analyse_elm(elm, att, not is_key)
+
+	-- choix du paterne
+	elseif key then
+		q_politicien(att, elm)
+	elseif typ then
+		fill_response(mdl_Qinfo, "quel politicien")
+	else
+		fill_response(mdl_idk, "idk")
+	end
 end
 
 
@@ -230,6 +219,7 @@ function create_answer(reponse)
 	local res = {}
 	for _, mdl in pairs(reponse.model) do
 		for balise, v in pairs(reponse) do
+			-- TODO essayer sans cette condition
 			if (balise ~= "gen" and balise ~= "model") then
 				modifie = txt.fill_mdl(mdl, balise, reponse[balise])
 				
@@ -241,8 +231,7 @@ function create_answer(reponse)
 		-- on ajoute le modele rempli au resultat final
 		res[#res+1] = mdl
 	end
-	print("mdl", #reponse.model)
-	print("res avt",# res)
+
 	rm_doublon(res)	
 	print("res apr",# res)
 
@@ -259,24 +248,12 @@ function create_answer(reponse)
 end
 
 
-function reponse_bot(key, typ)
-	if key then
-		q_politicien(key, typ)
-	elseif typ then
-		fill_response(mdl_Qinfo, "quel politicien")
-	else
-		fill_response(mdl_idk, "idk")
-	end
-end
-
-
 -- Rempli les attributs necessaires a la generation de la reponse
 function fill_response(mdl, gen, sjt, res)
 		reponse.model[#reponse.model + 1] = txt.pick_mdl(mdl)
 		reponse.gen = gen 
 		reponse.sjt = sjt
 		reponse.res = res
-		-- TODO : ajouter la rep du bot opas ici !
 end
 
 
@@ -284,33 +261,27 @@ end
 function q_politicien(key, typ)
 	local m_mdl = ""
 	local m_key = key
-	local tutoie = false
+	local m_tutoie, m_user = false, false
+
 	-- question sur un politicien
-	if tool.in_list(key, l_tutoiement) then
-		tutoie = true
-	end
+	if tool.in_list(key, l_tutoiement) then m_tutoie = true
+	elseif tool.in_list(key, l_user) user = true end
 
 	if not typ then
-		if tutoie then 
-			m_mdl = mdl_Qsjt
-			m_key = "moi"
-		else
-			m_mdl = mdl_Qtype
-		end
+		if m_tutoie then m_key = "moi" end
 
-		fill_response(m_mdl, "quelle_information", m_key)
+		fill_response(mdl_Qtype, "quelle_information", m_key)
 
 	-- Question sur les createurs du systeme de dialogue
-	elseif typ == hdb_createurs and tutoie then
-		tab = "\n\t"
-		res = ""
+	elseif typ == hdb_createurs and m_tutoie then
+		tab, res = "\n\t", ""
 		for i, att in pairs(l_dev) do
 			res = res..tab..att
 		end
-		fill_response(mdl_creatr, "mes_createurs", "", res)
+		fill_response(mdl_creatr, "mes_createurs", "Mes", res)
 	
 	else
-		if(not tutoie) then
+		if(not m_tutoie) then
 			local bool = false
 			-- On cherche les questions poses dans la phrase
 			for i, att in pairs(l_attributs) do	
@@ -320,7 +291,7 @@ function q_politicien(key, typ)
 		end
 
 		if (not bool) then 
-			if tutoie then 
+			if m_tutoie then 
 				m_mdl = mdl_no_rep
 			else
 				m_mdl = mdl_no_gere
@@ -413,7 +384,10 @@ function update_history()
 	table.insert(dialog, ec_key)
 	table.insert(dialog, ec_typ)
 	table.insert(dialog, ec_gen)	
+	table.insert(dialog, reponse.model)	
 	--TODO : rep bot
+
+	historique()
 end
 
 
@@ -505,25 +479,6 @@ function rm_doublon(tab)
 	end
 
 	return tab
-end
-
-
--- rename
-function use_types(att, tab, is_key)
-	if(tab) then
-		for i, elm in pairs(tab) do	
-			mini_f(elm, att, is_key)
-		end
-
-	else mini_f(nil, att, is_key) end
-end
-
-
--- renam
-function mini_f(elm, att, is_key)
-	if is_key then use_types(elm, att, not is_key)
-
-	else reponse_bot(att, elm) end
 end
 
 

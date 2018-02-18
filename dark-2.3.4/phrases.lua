@@ -42,9 +42,8 @@ mdl_no_rep = {
 	"Eh ! non mais... ça ne se pose pas comme question !"
 }
 
-mdl_creatr = {"Mes vénérables créateurs sont: "..tool.bls(res).."\n\nJe les remercie sincèrement de m'avoir donné vie."}
+mdl_creatr = {tool.bls(sjt).." vénérables créateurs sont: "..tool.bls(res).."\n\nJe les remercie sincèrement de m'avoir donné vie."}
 
-mdl_Qtype = {"Que souhaitez vous savoir sur "..tool.bls(sjt).." ?"}
 
 
 mdl_no_gere = {
