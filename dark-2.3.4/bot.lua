@@ -52,13 +52,6 @@ function chat_loop()
 end
 
 
---[[ TODO 
-		Pattern pour 2 Q
-		Analyser Q1, gen rep
-		Na Q2, gen Rep
-
-		Aff fusion de R1 é R2
-]]--
 function test_fonctionnel()
 	local t_fini = {
 		"Lieu de naissance ?",
@@ -68,11 +61,16 @@ function test_fonctionnel()
 		"qui sont tes createurs ?",
 		"sep",
 		"ou ?",
+		"sep",
 		"qui sont mes createurs ?",
+		"sep",
+		"Melenchon quel parti",
 	}
 	
 	local t_simple = {
-		"(non moi et (tu Melenchon ou) et f naissance) et f ou et f non tu et moi",
+		"Melenchon quel parti",
+		"bye",
+		--"(Melenchon ou sa f et naissance). (f et non ou tu)",
 		-- TODO : voulez-vous une/CES information ?
 	}
 	local t_cmplx = {
@@ -98,22 +96,26 @@ function test_fonctionnel()
 		init_rep()
 		print("> "..line)
 
+		bot_processing(line)
+
 		--pause
 		io.write("\n--- Appuyez sur une touche pour continuer ---\n ")
-		io.read()
-		
-		bot_processing(line)
+		io.read()		
 	end
 end
 
 
 -- Traitement d'une ligne de texte par le systeme de dialogue
 function bot_processing(line)
+	dialog.question = line
+
 	-- traitement de la ligne de texte
 	seq = lp.process(line)
 	print(seq:tostring(tags))
 
 	-- analyse de la sequence
+	--find_sen(seq)
+
 	return contextual_analysis(seq)
 end
 
@@ -122,7 +124,6 @@ function contextual_analysis(question)
 	-- on commence par recuperer les donnees hors contexte
 	dialog.hckey   = find_elm(question, l_sujets, true)
 	dialog.hctypes = find_elm(question, l_attributs, false)
-	
 	-- puis on fait le lien entre hors contexte et en contexte
 	hc_to_ec()
 	
@@ -137,7 +138,21 @@ function contextual_analysis(question)
 end
 
 
--- TDOD		fill_response(mdl_exit, "exit")
+-- Renvoie la liste des phrases contenues dans la question
+function find_sen(question)
+	tool.print_table(tool.tagstr(question, tool.tag(gram_sen)))
+	local l_questions = tool.tagstr(question, tool.tag(gram_sen))
+	dialog.hckey = {}
+	dialog.hctypes = {}
+	print()
+	for i, quest in pairs(l_questions) do	
+		quest = lp.process(quest)
+		print(quest:tostring(tags))
+		dialog.hckey[#dialog.hckey + 1]   = find_elm(quest, l_sujets, true)
+		dialog.hctypes[#dialog.hctypes+1] = find_elm(quest, l_attributs, false)
+	
+	end
+end
 
 
 function find_elm(question, l_elm, is_key)
@@ -159,7 +174,6 @@ function find_elm(question, l_elm, is_key)
 	end
 	return res
 end
-
 
 
 function hc_to_ec()
@@ -219,6 +233,7 @@ function create_answer(reponse)
 		-- TODO : améliorer la transition entre 2 réponses
 		rep = rep.."\n" 
 	end
+
 	print("generique")
 	bot_answer(rep)
 end
@@ -251,20 +266,9 @@ function get_pattern(elm, att, is_key)
 end
 
 
-function cas_simple()
-	-- la question est composee d'un unique element
-end
-
-
-function cas_normal()
-	-- la question est composee de deux elements ou plus
-end
-
-
 function cas_complexe()
 	-- la question est composee de deux questions ou plus
 end
-
 
 
 -- Rempli les attributs necessaires a la generation de la reponse
@@ -280,52 +284,58 @@ function cas_special(key, typ)
 	local m_tutoie, m_user = false, false
 
 	if tool.in_list(key, l_tutoiement) then m_tutoie = true
-	elseif tool.in_list(key, l_user) then m_user = true end
-
---[[
-	if not typ then
-		if m_tutoie then m_key = "moi" end
-
-		fill_response(mdl_Qtype, "quelle_information", m_key)
-
-	-- Question sur les createurs 
-	elseif typ == hdb_createurs and ( m_tutoie or m_user) then
-		tab, res = "\n\t", ""
-		
-		if m_tutoie then
-			m_mdl = mdl_creatr_b
-			for i, att in pairs(l_dev) do
-				res = res..tab..att
-			end
-		else
-			m_mdl = mdl_creatr_u
-		end
-		fill_response(m_mdl, "createurs", "", res)
-	
-	else
-		local q_found = false
-		if(not m_tutoie and not m_user) then
-			-- On cherche les questions posees dans la phrase
-			for i, att in pairs(l_attributs) do	
-				q_found = search_tag(key, typ, att)
-				if (q_found) then break end
-			end
-		end
-
-		if (not q_found) then 
-			if m_tutoie then 
-				m_mdl = mdl_no_rep
-			else
-				m_mdl = mdl_no_gere
-			end
-
-			fill_response(m_mdl, "non_gere")
-		end
+	elseif tool.in_list(key, l_user) then m_user = true
+	elseif tool.in_list(key, l_fin) then 
+		fill_response(mdl_exit, "exit")
+		return true
 	end
-]]
+
+
+	--[[
+		if not typ then
+			if m_tutoie then m_key = "moi" end
+
+			fill_response(mdl_Qtype, "quelle_information", m_key)
+
+		-- Question sur les createurs 
+		elseif typ == hdb_createurs and ( m_tutoie or m_user) then
+			tab, res = "\n\t", ""
+			
+			if m_tutoie then
+				m_mdl = mdl_creatr_b
+				for i, att in pairs(l_dev) do
+					res = res..tab..att
+				end
+			else
+				m_mdl = mdl_creatr_u
+			end
+			fill_response(m_mdl, "createurs", "", res)
+		
+		else
+			local q_found = false
+			if(not m_tutoie and not m_user) then
+				-- On cherche les questions posees dans la phrase
+				for i, att in pairs(l_attributs) do	
+					q_found = search_tag(key, typ, att)
+					if (q_found) then break end
+				end
+			end
+
+			if (not q_found) then 
+				if m_tutoie then 
+					m_mdl = mdl_no_rep
+				else
+					m_mdl = mdl_no_gere
+				end
+
+				fill_response(m_mdl, "non_gere")
+			end
+		end
+	]]
 	if(m_tutoie or m_user) then	return true end
 	return false
 end
+
 
 function search_pattern(key, typ)
 	
@@ -333,69 +343,66 @@ function search_pattern(key, typ)
 		fill_response(mdl_Qtype, "quelle_information", key)
 
 	else
-		local q_found = false
-		
 		-- On cherche les questions posees dans la phrase
 		for i, att in pairs(l_attributs) do	
-			q_found = search_tag(key, typ, att)
-			if (q_found) then break end
+			if search_tag(key, typ, att) then break end
 		end		
-
-		if (not q_found) then 
-			fill_response(mdl_no_gere, "non_gere")
-		end
 	end
 end
 
 
 function search_tag(key, typ, q_tag)
-	if typ == q_tag then
+	if typ ~= q_tag then return false end
 
-		key_value = corr.corrector(key)
-		typ_value = q_tag
+	key_value = corr.corrector(key)
+	typ_value = q_tag
 
-		local res       = search_in_db(db, key_value, typ_value)
-		local name      = search_in_db(db, key_value, db_name)
-		local firstname = search_in_db(db, key_value, db_fname)
-		
-		if res == 0 then
-			-- type error
-			fill_response(mdl_t_err, "type_error")
-		elseif res == -1 then
-			-- key error
-			fill_response(mdl_k_err, "key_error : "..key_value, key_value)
-		else
-			if tool.key_is_used(dialog[#dialog-2], key) then
-				local s = search_in_db(db, key_value, "gender")
-				-- TODO : mettre écriture inclusive a la place
-				pronoun = "Il "
-				if (s == "F") then pronoun = "Elle " end
-				
-				gen_answer(pronoun, res, typ_value)
+	local res       = search_in_db(db, key_value, typ_value)
+	local name      = search_in_db(db, key_value, db_name)
+	local firstname = search_in_db(db, key_value, db_fname)
+	
+	if res == 0 then
+		-- type error
+		fill_response(mdl_t_err, "type_error")
+	elseif res == -1 then
+		-- key error
+		fill_response(mdl_k_err, "key_error : "..key_value, key_value)
+	else
+		if tool.key_is_used(dialog[#dialog-2], key) then
+			local s = search_in_db(db, key_value, "gender")
+			-- TODO : mettre écriture inclusive a la place
+			pronoun = "Il "
+			if (s == "F") then pronoun = "Elle " end
+			
+			gen_answer(pronoun, res, typ_value)
 
-			else gen_answer(firstname.." "..name.." ", res, typ_value) end
-		end
-		return true
+		else gen_answer(firstname.." "..name.." ", res, typ_value) end
 	end
 
-	return false
+	return true
 end
 
 
 -- Genere une reponse a partir d'un tableau ou d'un string
 function gen_answer(sjt, res, type_val)
+	print(sjt, res, type_val)
 	if type(res) == "table" then
 		rep = ""
 
 		-- Recherche de la formation
-		if (type_val == db_forma) then
-			for i = 1, #res do
+		for i = 1, #res do
+			if (type_val == db_forma) then
 				rep = rep.."\n\t"..get_forma(res, i)
+			else
+				rep = rep.."du "..res[i]
+				if i == #res-1 then rep = rep.." et " 
+					elseif i < #res then rep = rep..", "
+					end
 			end
-			fill_response(mdl_forma, type_val, sjt, rep)
 		end
+		fill_response(txt.get_mdl(type_val), type_val, sjt, rep)
+		
 	else
-		print("res", res)
 		fill_response(txt.get_mdl(type_val), res, sjt, res)
 	end
 end
@@ -405,13 +412,11 @@ end
 function get_forma(res, i)
 	local  date = search_in_db(res, i, "date")
 	local  name = search_in_db(res, i, "name")
-	local  lieu = search_in_db(res, i, "lieu")
 
 	t = ""
 
 	if (name ~= -1) then t = t..name.." " end
 	if (date ~= -1) then t = t.."en "..date.." " end
-	--if (lieu ~= -1) then t = t.."à "..lieu.." " end
 	
 	return t
 end
@@ -427,7 +432,7 @@ function update_history()
 	table.insert(dialog, ec_key)
 	table.insert(dialog, ec_typ)
 	table.insert(dialog, ec_gen)	
-	table.insert(dialog, reponse.model)	
+	table.insert(dialog, dialog.question )	
 	--TODO : rep bot
 
 	historique()

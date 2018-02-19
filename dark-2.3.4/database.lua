@@ -40,7 +40,6 @@ return {
 				date_deb = "21/02/2001",
 				date_fin = nil,
 				employeur = "L'état",
-
 			},
 			
 		},
@@ -51,13 +50,6 @@ return {
 			[4] = "France Insoumise",
 			
 		},
-		entourage = {
-			[1] = {
-				name = "Corbière",
-				firstname = "Alexis",
-			},
-		},
-
 		formation = {
 			[1] = {
 				name = "Baccalauréat",

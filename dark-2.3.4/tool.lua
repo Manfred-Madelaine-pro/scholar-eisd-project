@@ -122,6 +122,32 @@ function tool.print_table(res)
 end
 
 
+function havetag(seq, tag)
+	return #seq[tag] ~= 0
+end
+
+function tool.tagstr(seq, tag, lim_debut, lim_fin)
+	lim_debut = lim_debut or 1
+	lim_fin   = lim_fin   or #seq
+	if not havetag(seq, tag) then
+		return nil
+	end
+	local list = seq[tag]
+	local tab = {}
+	for i, position in ipairs(list) do
+		local debut, fin = position[1], position[2]
+		if debut >= lim_debut and fin <= lim_fin then
+			local tokens = {}
+			for i = debut, fin do
+				tokens[#tokens + 1] = seq[i].token
+			end
+			tab[#tab +1] = table.concat(tokens, " ")
+		end
+	end
+	return tab
+end
+
+
 -- Redéfiniton de la fonction de dark pour permettre l'utilisation de regex dans les fichiers de lexique
 function dark.lexicon(tag, list)
 	-- Vérifier que les arguments sont valides et si un fichier est fourni à la place d'une table, charger son contenu
