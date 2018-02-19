@@ -242,7 +242,6 @@ end
 function analyse_elm(l_types, l_keys, is_key)
 	if(l_keys) then
 		for i, key in pairs(l_keys) do
-			print_table(key)	
 			get_pattern(key, l_types, is_key)
 		end
 
@@ -252,14 +251,16 @@ end
 
 function get_pattern(key, typ, is_key)
 	-- analyse des types
+	print(key)
 	if is_key and key and typ then analyse_elm(key, typ, not is_key)
 
 	-- choix du paterne
-	elseif cas_special(typ, key) then 
+	elseif cas_special(key, typ) then 
 
 	elseif q_fermee(typ, key) then 
 		print("question fermee !")
 	elseif key and typ == nil then
+		print("yo")
 		search_pattern(key, nil)
 	elseif key then
 		search_pattern(typ, key)
@@ -301,6 +302,7 @@ function q_fermee(key, typ)
 end
 
 function cas_special(key, typ)
+	print("spe key", key)
 	local m_key = key
 	local m_mdl = ""
 	local m_tutoie, m_user = false, false
@@ -315,7 +317,7 @@ function cas_special(key, typ)
 		return true
 	else return false end
 
-
+	print("cas spécial")
 	if not typ then
 		if m_tutoie then m_key = "moi" end
 
@@ -345,7 +347,6 @@ function cas_special(key, typ)
 		fill_response(m_mdl, "non_gere")
 	end
 	return true
-	
 end
 
 
