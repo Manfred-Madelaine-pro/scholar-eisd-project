@@ -15,10 +15,11 @@ BOT_NAME     = "ugoBot"
 bvn = "Bienvenu dans le systeme de dialogue  de CDK, MFD, LAO & UGO"
 
 start = {
-	"Bonjour ! Je suis l'As des Politiciens Français. Comment puis-je vous aider ?",
+	"Bonjour ! Je suis"..BOT_NAME..", l'As des Politiciens Français. Comment puis-je vous aider ?",
 	"Bonjour, je m'appelle "..BOT_NAME..", que puis-je faire pour vous ?",
 	"Rebonjour ;)",
 	"Salut ! :)",
+	"cc cv ? ASVB stp ;)"
 }
 
 
@@ -35,18 +36,41 @@ mdl_Qparti = {tool.bls(sjt).."a été membre "..tool.bls(res).."."}
 
 mdl_Qtype = {"Que souhaitez vous savoir sur "..tool.bls(sjt).." ?"}
 
-mdl_Qinfo = {"Sur quel politicien voulez-vous une information ?"}
+mdl_Qinfo = {
+	"Sur quel politicien voulez-vous "..tool.bls(sjt).." ?",
+	"Sur qui voulez-vous "..tool.bls(sjt).." ?",
+}
 
 mdl_idk = {
+	"Il semblerait que je n'arrive ps comprendre votre question :/",
 	"Je ne vois vraiment pas quoi vous répondre :(",
 	"Comment puis répondre à cela ?",
+	"Error 404 incorrect sentence, sorry...",
 	"Nani ?",
+}
+
+mdl_help = {
+	"Vous pouvez poser une question sur :\n\z
+		\tun politicien français\n\z
+		\tle systeme de dialogue, c-à-d moi "..BOT_NAME.."\n\z
+		\tl'utilisateur, c-à-d vous\n\z
+		\tou sur plusieurs des individus cités ci-dessus\n\n\z
+
+	Les informations que vous pouvez demander sont les suivantes :\n\z
+		\tla date et le lieu de naissance\n\z
+		\tla formation\n\z
+		\tles créateurs\n\z
+		\tles partis politiques auxquel le politicien a adhéré\n\n\z
+	
+	Vous pouvez également quiter le dialogue en disant 'au revoir'.\z	
+	"
 }
 
 mdl_no_rep = {
 	"Je ne répondrai pas à cette question, vous êtes trop indiscret !",
 	"Comme si j'allais répondre à ça...",
-	"Eh ! non mais... ça ne se pose pas comme question !"
+	"Eh ! non mais... ça ne se pose pas comme question !",
+	"Cette information sur moi est confidentielle, je ne peux pas la révéler :("
 }
 
 mdl_creatr_b = {"Mes vénérables créateurs sont "..tool.bls(res).."\n\nJe les remercie sincèrement de m'avoir donné vie."}
@@ -67,11 +91,12 @@ mdl_basic = {tool.bls(sjt).." AAA "..tool.bls(res).."."}
 mdl_exit = {"Bye :P !", "à la prochaine :D !", "au revoir ;)", "ciao :3 !", "adieu T.T","bye-bye ^^", "à une prochaine fois :> "}
 
 
-function txt.fill_mdl(model, bal, val)
+-- Remplace la balise passee en parametre par sa valeur
+function txt.fill_mdl(model, balise, valeur)
 	txt = ""
 	for i, b in ipairs(balises) do
-		if (b == bal) then
-			txt = model:gsub(tool.bls(bal), val)
+		if (b == balise) then
+			txt = model:gsub(tool.bls(balise), valeur)
 		end
 	end
 	if txt ~= model then
@@ -105,26 +130,5 @@ function txt.get_mdl(nom)
 	return mdl
 end
 
-
--- deprecated
-function change(sen, ...)
-	local arg = {...}
-	for i, champ in ipairs(arg) do
-		sen = sen:gsub(tool.bls(balises[i]), champ)
-	end
-	return sen
-end
-
-
--- deprecated
-function txt.exec()
-	for i, phrase in pairs(liste_phrases or {}) do	
-		if phrase ~= "" then
-			phrase = change(phrase, "Manfred", "01/08")
-			print(phrase)
-		end
-	end
-end
- 
 
 return txt

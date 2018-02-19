@@ -21,7 +21,7 @@ end
 function tool.init(txt)
 	local s = " ---- "
 	print("\n\t"..s..bvn..s.."\n")
-	bot_answer(txt)
+	bot_answer(txt.." (entrez '$help' pour de l'aide)")
 end
 
 
@@ -125,6 +125,7 @@ end
 function havetag(seq, tag)
 	return #seq[tag] ~= 0
 end
+
 
 function tool.tagstr(seq, tag, lim_debut, lim_fin)
 	lim_debut = lim_debut or 1

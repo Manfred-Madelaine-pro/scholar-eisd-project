@@ -21,6 +21,7 @@ local lp   = require 'line_processing'
 
 
 -- Variables globales
+local POS_KEY = 3
 local enable_hist = true
 local turn = 0
 local dialog = {}
@@ -57,6 +58,7 @@ function test_fonctionnel()
 		"Lieu de naissance ?",
 		"sep",
 		"Mélenchon ?",
+		"ou",
 		"sep",
 		"qui sont tes createurs ?",
 		"sep",
@@ -65,26 +67,28 @@ function test_fonctionnel()
 		"qui sont mes createurs ?",
 		"sep",
 		"Melenchon quel parti",
+		"bye",
+		"sep",
+		"qui est le createurs de melu",
 	}
 	
 	local t_simple = {
-		"Melenchon quel parti",
-		"bye",
-		--"(Melenchon ou sa f et naissance). (f et non ou tu)",
-		-- TODO : voulez-vous une/CES information ?
-	}
-	local t_cmplx = {
-		"sep",
-		"tu",
+		"$help",
 		"sep",
 		"Lieu de naissance et date de naissance ?",
+		"sep",
+		--"(Melenchon ou sa f et naissance). (f et non ou tu)",
+	}
+	local t_cmplx = {
 		"Mélenchon et toi ?",
+		"sep",
 		"Quelle est la date de naissance de Mélenchon ?",
+		"sep",
 		"Lieu de naissance et date de naissance de Mélenchon ?",
 		
 		-- TODO : Tester le il : mélenchon pui ou
 
-		"melu ou f",
+		--"melu ou f",
 		--"bonjour",
 		--"tu ou f",
 		--"quelle est la date de naissance de Melenchon ? et sa formation ?"
@@ -92,7 +96,7 @@ function test_fonctionnel()
 		--"qui suis-je ?",
 	}
 
-	for i, line in pairs(t_simple) do	
+	for i, line in pairs(t_cmplx) do	
 		init_rep()
 		print("> "..line)
 
@@ -107,7 +111,7 @@ end
 
 -- Traitement d'une ligne de texte par le systeme de dialogue
 function bot_processing(line)
-	dialog.question = line
+	dialog.question = "quest = "..line
 
 	-- traitement de la ligne de texte
 	seq = lp.process(line)
@@ -124,6 +128,7 @@ function contextual_analysis(question)
 	-- on commence par recuperer les donnees hors contexte
 	dialog.hckey   = find_elm(question, l_sujets, true)
 	dialog.hctypes = find_elm(question, l_attributs, false)
+
 	-- puis on fait le lien entre hors contexte et en contexte
 	hc_to_ec()
 	
@@ -198,20 +203,17 @@ end
 
 -- Fixe la reponse du Systeme de Dialogue en fonction element de la question
 function set_answer()
-	tab = dialog.eckey
-	att = dialog.ectype
-	
 	-- analyse des clefs
-	analyse_elm(att, tab, true)
+	analyse_elm(dialog.ectype, dialog.eckey, true)
 end
 
 
 function create_answer(reponse)
 	dialog.gen = "answer = "..reponse.gen
 	local res = {}
+
 	for _, mdl in pairs(reponse.model) do
 		for balise, v in pairs(reponse) do
-			-- TODO essayer sans cette condition
 			if (balise ~= "gen" and balise ~= "model") then
 				modifie = txt.fill_mdl(mdl, balise, reponse[balise])
 				
@@ -219,7 +221,6 @@ function create_answer(reponse)
 				if (modifie) then mdl = modifie end
 			end
 		end
-
 		-- on ajoute le modele rempli au resultat final
 		res[#res+1] = mdl
 	end
@@ -234,32 +235,38 @@ function create_answer(reponse)
 		rep = rep.."\n" 
 	end
 
-	print("generique")
 	bot_answer(rep)
 end
 
 
-function analyse_elm(att, tab, is_key)
-	if(tab) then
-		for i, elm in pairs(tab) do	
-			get_pattern(elm, att, is_key)
+function analyse_elm(l_types, l_keys, is_key)
+	if(l_keys) then
+		for i, key in pairs(l_keys) do	
+			get_pattern(key, l_types, is_key)
 		end
 
-	else get_pattern(nil, att, is_key) end
+	else get_pattern(nil, l_types, is_key) end
 end
 
 
-function get_pattern(elm, att, is_key)
+function get_pattern(key, typ, is_key)
 	-- analyse des types
-	if is_key and elm then analyse_elm(elm, att, not is_key)
+	if is_key and key and typ then analyse_elm(key, typ, not is_key)
 
 	-- choix du paterne
-	elseif cas_special(att, elm) then 
-		print("cas spécial !")
-	elseif elm then
-		search_pattern(att, elm)
-	elseif att then
-		fill_response(mdl_Qinfo, "quel politicien")
+	elseif cas_special(typ, key) then 
+
+	elseif q_fermee(typ, key) then 
+		print("question fermee !")
+	elseif key and typ == nil then
+		search_pattern(key, nil)
+	elseif key then
+		search_pattern(typ, key)
+	elseif typ then
+		res = "cette information"
+		if(#typ > 1) then res = "ces informations" end
+
+		fill_response(mdl_Qinfo, "quel politicien", res)
 	else
 		fill_response(mdl_idk, "idk")
 	end
@@ -280,7 +287,21 @@ function fill_response(mdl, gen, sjt, res)
 end
 
 
+function q_fermee(key, typ)
+	if tool.in_list(key, l_confirm) then
+		print("yes")
+		
+	elseif tool.in_list(key, l_infirm) then
+		print("no")
+	
+	else return false end
+	
+	return true
+end
+
 function cas_special(key, typ)
+	local m_key = key
+	local m_mdl = ""
 	local m_tutoie, m_user = false, false
 
 	if tool.in_list(key, l_tutoiement) then m_tutoie = true
@@ -288,52 +309,42 @@ function cas_special(key, typ)
 	elseif tool.in_list(key, l_fin) then 
 		fill_response(mdl_exit, "exit")
 		return true
-	end
+	elseif key == "$ help"then
+		fill_response(mdl_help, "help")
+		return true
+	else return false end
 
 
-	--[[
-		if not typ then
-			if m_tutoie then m_key = "moi" end
+	if not typ then
+		if m_tutoie then m_key = "moi" end
 
-			fill_response(mdl_Qtype, "quelle_information", m_key)
+		fill_response(mdl_Qtype, "quelle_information", m_key)
 
-		-- Question sur les createurs 
-		elseif typ == hdb_createurs and ( m_tutoie or m_user) then
-			tab, res = "\n\t", ""
-			
-			if m_tutoie then
-				m_mdl = mdl_creatr_b
-				for i, att in pairs(l_dev) do
-					res = res..tab..att
-				end
-			else
-				m_mdl = mdl_creatr_u
-			end
-			fill_response(m_mdl, "createurs", "", res)
+	-- Question sur les createurs 
+	elseif typ == hdb_createurs and ( m_tutoie or m_user) then
+		tab, res = "\n\t", ""
 		
+		if m_tutoie then
+			m_mdl = mdl_creatr_b
+			for i, att in pairs(l_dev) do
+				res = res..tab..att
+			end
 		else
-			local q_found = false
-			if(not m_tutoie and not m_user) then
-				-- On cherche les questions posees dans la phrase
-				for i, att in pairs(l_attributs) do	
-					q_found = search_tag(key, typ, att)
-					if (q_found) then break end
-				end
-			end
-
-			if (not q_found) then 
-				if m_tutoie then 
-					m_mdl = mdl_no_rep
-				else
-					m_mdl = mdl_no_gere
-				end
-
-				fill_response(m_mdl, "non_gere")
-			end
+			m_mdl = mdl_creatr_u
 		end
-	]]
-	if(m_tutoie or m_user) then	return true end
-	return false
+		fill_response(m_mdl, "createurs", "", res)
+		
+	else
+		if m_tutoie then 
+			m_mdl = mdl_no_rep
+		else
+			m_mdl = mdl_no_gere
+		end
+
+		fill_response(m_mdl, "non_gere")
+	end
+	return true
+	
 end
 
 
@@ -354,7 +365,8 @@ end
 function search_tag(key, typ, q_tag)
 	if typ ~= q_tag then return false end
 
-	key_value = corr.corrector(key)
+	key_value = corr.corrector(key, l_sujets)
+	typ_value = corr.corrector(q_tag, l_attributs)
 	typ_value = q_tag
 
 	local res       = search_in_db(db, key_value, typ_value)
@@ -368,11 +380,11 @@ function search_tag(key, typ, q_tag)
 		-- key error
 		fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 	else
-		if tool.key_is_used(dialog[#dialog-2], key) then
+		if tool.key_is_used(dialog[#dialog-POS_KEY], key) then
 			local s = search_in_db(db, key_value, "gender")
-			-- TODO : mettre écriture inclusive a la place
-			pronoun = "Il "
+			pronoun = "Il/Elle "
 			if (s == "F") then pronoun = "Elle " end
+			if (s == "M") then pronoun = "Il " end
 			
 			gen_answer(pronoun, res, typ_value)
 
@@ -385,7 +397,6 @@ end
 
 -- Genere une reponse a partir d'un tableau ou d'un string
 function gen_answer(sjt, res, type_val)
-	print(sjt, res, type_val)
 	if type(res) == "table" then
 		rep = ""
 
@@ -432,8 +443,7 @@ function update_history()
 	table.insert(dialog, ec_key)
 	table.insert(dialog, ec_typ)
 	table.insert(dialog, ec_gen)	
-	table.insert(dialog, dialog.question )	
-	--TODO : rep bot
+	table.insert(dialog, dialog.question)
 
 	historique()
 end

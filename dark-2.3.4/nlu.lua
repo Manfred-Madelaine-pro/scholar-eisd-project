@@ -27,6 +27,7 @@ quest = "quest"
 temps = "temps"
 ppn   = "pnominal" -- pronom personel nom inal
 tutoiement = "tutoiement"
+help = "help"
 
 
 -- attributs d'un Politicien dans la bdd
@@ -46,11 +47,13 @@ hdb_createurs = "createurs"
 gram_sen = "gram_sen"
 
 -- Liste d'elements
-l_sujets = {ppn, user, tutoiement, fin}
+l_sujets = {ppn, user, tutoiement, fin, tool.qtag(help)}
 l_attributs = {db_birth, db_birthp, db_forma, hdb_status, hdb_createurs, db_parti}
 l_et = {"et", "ainsi que"}
+l_confirm = {"oui", "exact", "bien", "confirme"}
+l_infirm = {"non", "pas"}
 
-l_tutoiement = {"tu", "te", "t'", "tes", "ton"}
+l_tutoiement = {"tu", "te", "t'", "tes", "ton", "toi"}
 l_user = {"je", "moi", "m'", "mes", "mon"}
 l_dev = {"Manfred MadlnT", "Cedrick RibeT", "Hugo BommarT", "Laos GalmnT"}
 l_fin = {"bye", "au revoir", "quit","ciao", "adieu","bye-bye", "à une prochaine fois"}
@@ -69,8 +72,8 @@ tool.create_lex(f_data)
 
 main:lexicon("#day", {"lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"})
 
-main:lexicon("#dateN", {"date de naissance", "naissance"})
-main:lexicon("#lieuN", {"lieu de naissance", "où", "ou"})
+main:lexicon("#dateN", {"date de naissance"})
+main:lexicon("#lieuN", {"lieu de naissance", "Lieu de naissance", "où", "ou"})
 main:lexicon("#formation", {"formation"})
 main:lexicon(tool.tag(tutoiement), l_tutoiement)
 main:lexicon(tool.tag(user), l_user)
@@ -115,8 +118,6 @@ main:pattern('['..tool.tag(quest)..' (#question)? .*? "?"?]')
 	----- Analyse d'une question -----
 
 -- Reconnaitre fin de discussion
---TODO supp
-main:pattern('['..tool.tag(exit)..tool.tag(fin)..' ]')
 
 -- Qestion sur la Date de naissance
 main:pattern([[
@@ -152,6 +153,7 @@ main:pattern('[#negation '..tool.tag(neg)..' .{,3}? "pas"]')
 main:pattern('[#Qcreateurs "qui" .{,3}? /createurs?/]')
 main:pattern('[#Qparti /quels?/ .{,3}? /partis?/]')
 
+main:pattern('['..tool.tag(tool.qtag(help))..' "$" "help" ]')
 
 -- Reconnaissance de la grammaire dans une question
 main:pattern('[#gram_sujet '..tool.list_tags(l_sujets)..']')
@@ -169,6 +171,7 @@ m_tag = {
 	["#Qstatut"] = "green",
 	["#Qformation"] = "green",
 	["#Qcreateurs"] = "green",
+	["#Qhelp"] = "green",
 	["#Qparti"] = "red",
 	
 	["#negation"] = "red",
@@ -178,7 +181,6 @@ m_tag = {
 	["#date"] = "magenta",
 	["#birthplace"] = "green",
 
-	[tool.tag(exit)] = "yellow",
 }
 
 test = {
@@ -193,8 +195,6 @@ test = {
 	["#AND"] = "yellow",
 
 	--["#lieu"] = "red",
-
-	[tool.tag(exit)] = "yellow",
 }
 
 tags = m_tag
