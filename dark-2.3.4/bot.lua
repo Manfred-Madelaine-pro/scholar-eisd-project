@@ -241,7 +241,8 @@ end
 
 function analyse_elm(l_types, l_keys, is_key)
 	if(l_keys) then
-		for i, key in pairs(l_keys) do	
+		for i, key in pairs(l_keys) do
+			print_table(key)	
 			get_pattern(key, l_types, is_key)
 		end
 
