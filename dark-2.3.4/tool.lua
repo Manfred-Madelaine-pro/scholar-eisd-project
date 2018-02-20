@@ -21,12 +21,12 @@ end
 function tool.init(txt)
 	local s = " ---- "
 	print("\n\t"..s..bvn..s.."\n")
-	bot_answer(txt.." (entrez '$help' pour de l'aide)")
+	tool.bot_answer(txt.." (entrez '$help' pour de l'aide)")
 end
 
 
 -- Reponse du systeme de dialogue
-function bot_answer(answer)
+function tool.bot_answer(answer)
 	print(BOT_NAME.." : "..answer.."\n")
 end
 

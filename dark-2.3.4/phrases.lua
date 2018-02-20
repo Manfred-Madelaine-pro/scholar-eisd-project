@@ -7,15 +7,14 @@ local sjt = "sjt"
 local res  = "res"
 local vrb  = "vrb"
 
-local liste_phrases = {tool.bls(sjt).." est né le "..tool.bls(res)}
 local balises = {sjt, res, vrb}
 
 BOT_NAME     = "ugoBot"
 
-bvn = "Bienvenu dans le systeme de dialogue  de CDK, MFD, LAO & UGO"
+bvn = "Bienvenu dans le système de dialogue  de CDK, MFD, LAO & UGO"
 
 start = {
-	"Bonjour ! Je suis"..BOT_NAME..", l'As des Politiciens Français. Comment puis-je vous aider ?",
+	"Bonjour ! Je suis "..BOT_NAME..", l'As des Politiciens Français. Comment puis-je vous aider ?",
 	"Bonjour, je m'appelle "..BOT_NAME..", que puis-je faire pour vous ?",
 	"Rebonjour ;)",
 	"Salut ! :)",
@@ -26,6 +25,7 @@ mode = "Choissez un mode :\n\z
 	\t 1 - Mode Interactif\n\z
 	\t 2 - Mode Test\n\z
 "
+
 
 -- Models
 mdl_birth = {
@@ -46,15 +46,17 @@ mdl_Qinfo = {
 }
 
 mdl_idk = {
-	"Il semblerait que je n'arrive ps comprendre votre question :/",
+	"veuillez m'excuser, mais je n'arrive pas à comprendre votre question. Pouvez-vous la reformuler ?",
+	"Il semblerait que je n'arrive pas à comprendre votre question :/. Pouvez-vous la reformuler ?",
 	"Je ne vois vraiment pas quoi vous répondre :(",
-	"Comment puis-je répondre à cela ?",
 	"Error 404 incorrect sentence, sorry...",
+	"Comment puis-je répondre à cela ?",
 	"Nani ?",
 }
 
 
 mdl_life = {
+	"La puissance de calcul de cet ordinateur n'est pas assez grande pour me permettre de résoudre ce problème...",
 	"Hum, laissez-moi réfléchir… 42 !",
 }
 
@@ -68,10 +70,10 @@ mdl_help = {
 	Les informations que vous pouvez demander sont les suivantes :\n\z
 		\tla date et/ou le lieu de naissance\n\z
 		\tla formation\n\z
-		\tles créateurs\n\z
+		\tles créateurs (développeurs du système de dialogue ou parents)\n\z
 		\tles partis politiques auxquel le politicien a adhéré\n\n\z
 	
-	Vous pouvez également quiter le dialogue en disant 'au revoir'.\z	
+	Vous pouvez également quiter le dialogue en disant me 'au revoir'.\z	
 	"
 }
 
@@ -83,19 +85,17 @@ mdl_no_rep = {
 }
 
 mdl_creatr_b = {"Mes vénérables créateurs sont "..tool.bls(res).."\n\nJe les remercie sincèrement de m'avoir donné vie."}
-mdl_creatr_u = {"Vos créateurs sont vos parents bien sûr !"}
-
-
-mdl_no_gere = {
-	"Cette information n'est pas encore gérée par le système...",
-	"Error 404 "..tool.bls(sjt).." not found, sorry...",
-	"Nous ne reconnaissons pas encore "..tool.bls(sjt).."."
+mdl_creatr_u = {
+	"Vos créateurs sont vos parents bien sûr !",
+	"Et bien ma foi, ce sont vos parents je présume.",
 }
 
-mdl_t_err = {"Désolé, je n'ai pas cette information."}
+mdl_t_err = {"Désolé, je n'ai pas d'information sur "..tool.bls(sjt).."."}
 mdl_k_err = {"Désolé, je n'ai pas ".. tool.bls(sjt).." dans ma base de politiciens."}
 
 mdl_basic = {tool.bls(sjt).." -> "..tool.bls(res).."."}
+
+mdl_hist = {"Voici l'historique de notre conversation : \n"..tool.bls(sjt)}
 
 mdl_exit = {"Bye :P !", "à la prochaine :D !", "au revoir ;)", "ciao :3 !", "adieu T.T","bye-bye ^^", "à une prochaine fois :> "}
 
