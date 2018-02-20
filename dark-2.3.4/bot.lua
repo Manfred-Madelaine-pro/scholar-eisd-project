@@ -96,7 +96,7 @@ function test_fonctionnel()
 		--"qui suis-je ?",
 	}
 
-	for i, line in pairs(t_cmplx) do	
+	for i, line in pairs(t_fini) do	
 		init_rep()
 		print("> "..line)
 

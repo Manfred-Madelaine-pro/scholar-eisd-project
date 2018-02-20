@@ -45,6 +45,7 @@ hdb_createurs = "createurs"
 
 -- grammaire
 gram_sen = "gram_sen"
+gram_doubleQ = "question_double"
 
 -- Liste d'elements
 l_sujets = {ppn, user, tutoiement, fin, tool.qtag(help)}
@@ -160,6 +161,8 @@ main:pattern('[#gram_sujet '..tool.list_tags(l_sujets)..']')
 main:pattern('[#gram_info '..tool.list_tags(l_attributs, true)..']')
 main:pattern('[#gram_elm #neg | #gram_sujet | #gram_info ]')
 main:pattern('['..tool.tag(gram_sen)..' "(" .*? ")"  ]')
+
+main:pattern('['..tool.tag(gram_doubleQ)..' "(" .*? ")"  ]')
 
 --main:pattern('[#gram_quest #gram_quest #AND #gram_sen | #gram_sen ]')
 
