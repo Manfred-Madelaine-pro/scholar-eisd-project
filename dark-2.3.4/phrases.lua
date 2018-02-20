@@ -22,6 +22,10 @@ start = {
 	"cc cv ? ASVB stp ;)"
 }
 
+mode = "Choissez un mode :\n\z
+	\t 1 - Mode Interactif\n\z
+	\t 2 - Mode Test\n\z
+"
 
 -- Models
 mdl_birth = {
@@ -44,9 +48,14 @@ mdl_Qinfo = {
 mdl_idk = {
 	"Il semblerait que je n'arrive ps comprendre votre question :/",
 	"Je ne vois vraiment pas quoi vous répondre :(",
-	"Comment puis répondre à cela ?",
+	"Comment puis-je répondre à cela ?",
 	"Error 404 incorrect sentence, sorry...",
 	"Nani ?",
+}
+
+
+mdl_life = {
+	"Hum, laissez-moi réfléchir… 42 !",
 }
 
 mdl_help = {
@@ -57,7 +66,7 @@ mdl_help = {
 		\tou sur plusieurs des individus cités ci-dessus\n\n\z
 
 	Les informations que vous pouvez demander sont les suivantes :\n\z
-		\tla date et le lieu de naissance\n\z
+		\tla date et/ou le lieu de naissance\n\z
 		\tla formation\n\z
 		\tles créateurs\n\z
 		\tles partis politiques auxquel le politicien a adhéré\n\n\z
@@ -86,7 +95,7 @@ mdl_no_gere = {
 mdl_t_err = {"Désolé, je n'ai pas cette information."}
 mdl_k_err = {"Désolé, je n'ai pas ".. tool.bls(sjt).." dans ma base de politiciens."}
 
-mdl_basic = {tool.bls(sjt).." AAA "..tool.bls(res).."."}
+mdl_basic = {tool.bls(sjt).." -> "..tool.bls(res).."."}
 
 mdl_exit = {"Bye :P !", "à la prochaine :D !", "au revoir ;)", "ciao :3 !", "adieu T.T","bye-bye ^^", "à une prochaine fois :> "}
 

@@ -28,6 +28,7 @@ temps = "temps"
 ppn   = "pnominal" -- pronom personel nom inal
 tutoiement = "tutoiement"
 help = "help"
+life = "life"
 
 
 -- attributs d'un Politicien dans la bdd
@@ -45,10 +46,10 @@ hdb_createurs = "createurs"
 
 -- grammaire
 gram_sen = "gram_sen"
-gram_doubleQ = "question_double"
+gram_Gdouble = "question_double"
 
 -- Liste d'elements
-l_sujets = {ppn, user, tutoiement, fin, tool.qtag(help)}
+l_sujets = {ppn, user, tutoiement, fin, tool.qtag(help), life}
 l_attributs = {db_birth, db_birthp, db_forma, hdb_status, hdb_createurs, db_parti}
 l_et = {"et", "ainsi que"}
 l_confirm = {"oui", "exact", "bien", "confirme"}
@@ -58,7 +59,7 @@ l_tutoiement = {"tu", "te", "t'", "tes", "ton", "toi"}
 l_user = {"je", "moi", "m'", "mes", "mon"}
 l_dev = {"Manfred MadlnT", "Cedrick RibeT", "Hugo BommarT", "Laos GalmnT"}
 l_fin = {"bye", "au revoir", "quit","ciao", "adieu","bye-bye", "à une prochaine fois"}
-
+l_life = {"univers","vie", "la grande question sur"}
 local f_data = "data/"
 
 
@@ -83,6 +84,7 @@ main:lexicon("#SEP", {".",";", "!", "?"})
 -- vouvoiement ?
 main:lexicon("#question", {"qui", "quelle", "quoi", "comment", "ou", "quand"})
 main:lexicon("#neg", {"non","no","ne","n'","pas","sauf","excepte","sans"})
+main:lexicon("#42", l_life)
 
 
 -- Paterne avec expressions régulières 
@@ -112,7 +114,9 @@ main:pattern(' "ne" .*? "a" [#birthplace '..tool.tag(place)..']')
 main:pattern('[#name '..tool.tag(ppn)..' .{,2}? ( #POS=NNP+ | #W )+]')
 
 -- Reconnaitre une question (pas utile vu que l'utilisateur n'utilise pas de ponct)
-main:pattern('['..tool.tag(quest)..' (#question)? .*? "?"?]')
+main:pattern('['..tool.tag(quest)..' (#question)? .*? "?"? ]')
+
+main:pattern('/[Qq]uel/ .{,3}? "reponse" .{,3}? ['..tool.tag(life)..' #42 ]')
 
 
 
@@ -162,7 +166,15 @@ main:pattern('[#gram_info '..tool.list_tags(l_attributs, true)..']')
 main:pattern('[#gram_elm #neg | #gram_sujet | #gram_info ]')
 main:pattern('['..tool.tag(gram_sen)..' "(" .*? ")"  ]')
 
-main:pattern('['..tool.tag(gram_doubleQ)..' "(" .*? ")"  ]')
+main:pattern('['..tool.tag(gram_Gdouble)..' .{,2}? "(" .*? ")"  ]')
+
+-- Qestion sur la formation
+main:pattern([[
+	[]]..tool.tag(gram_Gdouble)..[[ 
+		#gram_sujet .{,2}? #gram_info #AND .{,2}? #gram_sujet .{,2}? #gram_info |
+		#gram_info .{,2}? #gram_sujet #AND .{,2}? #gram_sujet .{,2}? #gram_info |
+	]
+]])
 
 --main:pattern('[#gram_quest #gram_quest #AND #gram_sen | #gram_sen ]')
 
@@ -177,6 +189,8 @@ m_tag = {
 	["#Qhelp"] = "green",
 	["#Qparti"] = "red",
 	
+	[tool.tag(gram_Gdouble)] = "red",
+	[tool.tag(life)] = "red",
 	["#negation"] = "red",
 
 	["#name"] = "blue",

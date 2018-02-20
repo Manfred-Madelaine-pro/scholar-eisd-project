@@ -21,11 +21,11 @@ local lp   = require 'line_processing'
 
 
 -- Variables globales
-local POS_KEY = 3
-local enable_hist = true
 local turn = 0
-local dialog = {}
+local POS_KEY = 3
+local dialog  = {}
 local reponse = {}
+local enable_hist = true
 
 
 -- Main
@@ -34,9 +34,19 @@ function bot.start(lst_attributs)
 
 	db = dofile("database.lua")
 
-	tool.init(txt.pick_mdl(start))
-	--chat_loop()
-	test_fonctionnel()
+	print(mode)
+	io.write("> ")
+	line = ""
+	while(line ~= "1" or line ~= "2" ) do
+		line = io.read()
+		if(line == "1")	then
+			tool.init(txt.pick_mdl(start))
+			chat_loop()
+		elseif (line == "2") then
+			tool.init(txt.pick_mdl(start))
+			test_fonctionnel()
+		else print("réponse non valide") end
+	end
 end
 
 
@@ -62,20 +72,20 @@ function test_fonctionnel()
 		"sep",
 		"qui sont tes createurs ?",
 		"sep",
-		"ou ?",
-		"sep",
 		"qui sont mes createurs ?",
 		"sep",
 		"Melenchon quel parti",
 		"bye",
 		"sep",
 		"qui est le createurs de melu",
+		"sep",
+		"$help",
+		"sep",
+		"Quel est la réponse à la grande question sur la vie, l'univers et le reste",
 	}
 	
 	local t_simple = {
-		"$help",
-		"sep",
-		"Lieu de naissance et date de naissance ?",
+		"Lieu de naissance et date de naissance de melu",
 		"sep",
 		--"(Melenchon ou sa f et naissance). (f et non ou tu)",
 	}
@@ -96,7 +106,7 @@ function test_fonctionnel()
 		--"qui suis-je ?",
 	}
 
-	for i, line in pairs(t_fini) do	
+	for i, line in pairs(t_simple) do	
 		init_rep()
 		print("> "..line)
 
@@ -116,9 +126,6 @@ function bot_processing(line)
 	-- traitement de la ligne de texte
 	seq = lp.process(line)
 	print(seq:tostring(tags))
-
-	-- analyse de la sequence
-	--find_sen(seq)
 
 	return contextual_analysis(seq)
 end
@@ -212,10 +219,10 @@ function create_answer(reponse)
 	dialog.gen = "answer = "..reponse.gen
 	local res = {}
 
-	for _, mdl in pairs(reponse.model) do
+	for i, mdl in pairs(reponse.model) do
 		for balise, v in pairs(reponse) do
 			if (balise ~= "gen" and balise ~= "model") then
-				modifie = txt.fill_mdl(mdl, balise, reponse[balise])
+				modifie = txt.fill_mdl(mdl, balise, reponse[balise][i])
 				
 				-- on actualise le modele uniquement s'il y a du nouveau
 				if (modifie) then mdl = modifie end
@@ -251,12 +258,14 @@ end
 
 function get_pattern(key, typ, is_key)
 	-- analyse des types
-	print(key)
+	print(key, typ)
 	if is_key and key and typ then analyse_elm(key, typ, not is_key)
 
 	-- choix du paterne
-	elseif cas_special(key, typ) then 
-
+	elseif is_special(typ) then
+		cas_special(typ, key) 
+	elseif is_special(key) then
+		cas_special(key, typ) 
 	elseif q_fermee(typ, key) then 
 		print("question fermee !")
 	elseif key and typ == nil then
@@ -283,9 +292,9 @@ end
 -- Rempli les attributs necessaires a la generation de la reponse
 function fill_response(mdl, gen, sjt, res)
 		reponse.model[#reponse.model + 1] = txt.pick_mdl(mdl)
+		reponse.sjt[#reponse.sjt + 1]  = sjt
+		reponse.res[#reponse.res + 1]  = res
 		reponse.gen = gen 
-		reponse.sjt = sjt
-		reponse.res = res
 end
 
 
@@ -301,6 +310,18 @@ function q_fermee(key, typ)
 	return true
 end
 
+
+function is_special(elem)
+	local res = false 
+	if tool.in_list(elem, l_tutoiement) then res = true
+	elseif tool.in_list(elem, l_user) then res = true
+	elseif tool.in_list(elem, l_life) then res = true
+	elseif tool.in_list(elem, l_fin) then res = true
+	elseif elem == "$ help" then res = true end
+	return res
+end
+
+
 function cas_special(key, typ)
 	print("spe key", key)
 	local m_key = key
@@ -311,6 +332,9 @@ function cas_special(key, typ)
 	elseif tool.in_list(key, l_user) then m_user = true
 	elseif tool.in_list(key, l_fin) then 
 		fill_response(mdl_exit, "exit")
+		return true
+	elseif tool.in_list(key, l_life) then 
+		fill_response(mdl_life, "life")
 		return true
 	elseif key == "$ help"then
 		fill_response(mdl_help, "help")
@@ -444,8 +468,8 @@ function update_history()
 	table.insert(dialog, turn)
 	table.insert(dialog, ec_key)
 	table.insert(dialog, ec_typ)
-	table.insert(dialog, ec_gen)	
 	table.insert(dialog, dialog.question)
+	table.insert(dialog, ec_gen)	
 
 	historique()
 end
@@ -453,7 +477,7 @@ end
 
 function init_rep()
 
-	reponse = {model= {}, sjt= "", res= "", gen= ""}
+	reponse = {model= {}, sjt= {}, res= {}, gen= ""}
 end
 
 
