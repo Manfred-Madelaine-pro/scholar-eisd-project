@@ -42,9 +42,11 @@ function bot.start(lst_attributs)
 		if(line == "1")	then
 			tool.init(txt.pick_mdl(start))
 			chat_loop()
+			break
 		elseif (line == "2") then
 			tool.init(txt.pick_mdl(start))
 			test_fonctionnel()
+			break
 		else print("réponse non valide") end
 	end
 end
@@ -87,10 +89,10 @@ function test_fonctionnel()
 	local t_simple = {
 		"Lieu de naissance et date de naissance de melu",
 		"sep",
+		"Mélenchon et toi ?",
 		--"(Melenchon ou sa f et naissance). (f et non ou tu)",
 	}
 	local t_cmplx = {
-		"Mélenchon et toi ?",
 		"sep",
 		"Quelle est la date de naissance de Mélenchon ?",
 		"sep",
@@ -222,8 +224,12 @@ function create_answer(reponse)
 	for i, mdl in pairs(reponse.model) do
 		for balise, v in pairs(reponse) do
 			if (balise ~= "gen" and balise ~= "model") then
-				modifie = txt.fill_mdl(mdl, balise, reponse[balise][i])
-				
+				if (reponse[balise][i]) then
+					modifie = txt.fill_mdl(mdl, balise, reponse[balise][i])
+				else
+					modifie = txt.fill_mdl(mdl, balise, "NUL")
+				end
+
 				-- on actualise le modele uniquement s'il y a du nouveau
 				if (modifie) then mdl = modifie end
 			end
@@ -239,7 +245,9 @@ function create_answer(reponse)
 		rep = rep..v 
 
 		-- TODO : améliorer la transition entre 2 réponses
-		rep = rep.."\n" 
+		if i == #res-1 then
+			rep = rep.."\nEt, " 
+		else rep = rep.."\n" end 
 	end
 
 	bot_answer(rep)

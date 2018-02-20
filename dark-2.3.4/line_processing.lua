@@ -9,7 +9,7 @@ function lp.process(sen)
 	sen = c.cleaner(sen)
 	local seq = dark.sequence(sen)
 	main(seq)
-	traitement(seq)
+	--traitement(seq)
 	return seq 
 end
 
