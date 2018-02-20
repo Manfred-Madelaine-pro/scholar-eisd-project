@@ -77,12 +77,17 @@ dddd
 positionnement qui lui vaudra notamment le sobriquet de « Chávez français »[178].
 Sixième République et processus constituant[modifier | modifier le code]
 
-PARTISNORM SEP Organisation communiste internationaliste (OCI) 1972-1976 SEP Parti socialiste (PS) 1976-2008	Parti de gauche (PG) depuis 2008 SEP Front de gauche (FG) 2009-2016 SEP La France insoumise (FI) depuis 2016.
+PARTISNORM.
+Organisation communiste internationaliste (OCI) 1972-1976.
+Parti socialiste (PS) 1976-2008.
+Parti de gauche (PG) depuis 2008.
+Front de gauche (FG) 2009-2016.
+La France insoumise (FI) depuis 2016.
 
 FONCTIONNORM
 
-SEP Député français SEP En fonction depuis le 21 juin 2017 SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 4e des Bouches-du-Rhône SEP2 Législature REL XVe (Cinquième République) SEP2 Groupe politique REL FI SEP2 Prédécesseur REL Patrick Mennucci SEP2.
-SEP Député européen SEP 14 juillet 2009 – 18 juin 2017 SEP Élection REL 7 juin 2009 SEP Réélection  de REL 25 mai 2014 SEP blabla REL blabla.
+NOMF Député français NOMF En fonction depuis le 21 juin 2017 SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 4e des Bouches-du-Rhône SEP2 Législature REL XVe (Cinquième République) SEP2 Groupe politique REL FI SEP2 Prédécesseur REL Patrick Mennucci SEP2.
+NOMF Député européen NOMF 14 juillet 2009 – 18 juin 2017 SEP2 Élection REL 7 juin 2009 SEP2 Réélection  de REL 25 mai 2014 SEP2 blabla REL blabla.
 
 
 Circonscription
