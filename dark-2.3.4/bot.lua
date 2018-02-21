@@ -96,16 +96,13 @@ function test_fonctionnel()
 	}
 	
 	local t_simple = {
-		"affiche l'historique",
-		"melu f",
-		"sep",
 		"quand Macron a-t-il eu son Baccalauréat ?",
+		"melu f",
+		"affiche l'historique",
 		"sep",
 		"Lieu de naissance et date de naissance de melu",
 		"date de naissance et lieu de naissance de Melenchon et lieu de naissance de Macron ?",
 		"ok",
-		"sep",
-		"sep",
 		"sep",
 		-- ne répéter 2 fois la m réponse sur 2 lignes
 		-- sur une ligne
@@ -158,6 +155,7 @@ function contextual_analysis(question)
 		-- on commence par recuperer les donnees hors contexte
 		dialog.hckey   = find_elm(question, l_sujets, true)
 		dialog.hctypes = find_elm(question, l_attributs, false)
+		te = find_elm(question, att_secondaires, false, true)
 
 		-- puis on fait le lien entre hors contexte et en contexte
 		dialog.eckey, dialog.ectype = hc_to_ec(dialog.eckey, dialog.ectype, dialog.hckey, dialog.hctypes)
@@ -196,7 +194,7 @@ function cas_complexe(question)
 end
 
 
-function find_elm(question, l_elm, is_key)
+function find_elm(question, l_elm, is_key, is_secondaire)
 	local res = {}
 
 	-- On cherche les sujets dans la phrase ou les questions posees
@@ -209,8 +207,23 @@ function find_elm(question, l_elm, is_key)
 				end
 			end
 		-- questions
+		elseif is_secondaire then
+			print("eioss", att)
+			if (#question[tool.tag(att)]) ~= 0 then
+				for i,v in ipairs(question[tool.tag(att)]) do
+					res[#res+1] = question:tag2str(tool.tag(att))[i]
+				end
+			end
+			--TODO
+			--table.insert(res, tool.ee(question, att))
 		else
 			if (#question[tool.tag(tool.qtag(att))]) ~= 0 then
+				--TODO verif si ca marche
+				--[[print("verif")
+				for i,v in ipairs(question[tool.tag(tool.qtag(att))]) do
+					res[#res+1] = question:tag2str(tool.tag(tool.qtag(att)))[i]
+					print("eee", res[#res])
+				end]]
 				res[#res+1] = att
 			end
 		end

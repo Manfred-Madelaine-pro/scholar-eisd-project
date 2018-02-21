@@ -61,6 +61,16 @@ function tool.list_tags(l_tags, is_quest)
 end
 
 
+function tool.ee(question, att)
+	res = {}
+	if (#question[tool.tag(att)]) ~= 0 then
+		for i,v in ipairs(question[tool.tag(att)]) do
+			res[#res+1] = question:tag2str(tool.tag(att))[i]
+		end
+	end
+	return res
+end
+
 function tool.save_db(db, filename)
 	local out_file = io.open(filename..".lua", "w")
 	out_file:write("return ")

@@ -52,7 +52,7 @@ return {
 		},
 		formation = {
 			[1] = {
-				name = "Baccalauréat",
+				name = "Baccalaureat",
 				date = "1969",
 				lieu = "Lycée Rouget et Lisle",
 				mention = nil
@@ -113,7 +113,7 @@ return {
 		},
 		formation = {
 			[1] = {
-				name = "Baccalauréat, section scientifique",
+				name = "Baccalaureat, section scientifique",
 				date = "1995",
 				lieu = "Paris au lycée Henri-IV",
 				mention = "très bien"

@@ -42,7 +42,7 @@ db_forma  = "formation"
 db_birthp = "birthplace"
 
 -- attributs secondaires d'un Politicien dans la bdd
-db2_bac = "Baccalauréat"
+nd_forma = "secondaire"
 
 -- hors de la bdd
 hdb_status = "statut"
@@ -56,20 +56,22 @@ gram_sous_quest = "Xquestion"
 -- Liste d'elements
 l_sujets = {ppn, user, tutoiement, fin, tool.qtag(help), life, hist}
 l_attributs = {db_birth, db_birthp, db_forma, hdb_status, hdb_createurs, db_parti}
-_att_secondaires = {}
+att_secondaires = {nd_forma}
 
 l_et = {"et", "ainsi que"}
+
+-- TODO deprec
 l_confirm = {"oui", "exact", "bien", "confirme"}
 l_infirm = {"non", "pas"}
 
-l_tutoiement = {"tu", "te", "t'", "tes", "ton", "toi", "chatbot", "systeme de dialogue"}
-l_user = {"je", "moi", "m'", "mes", "mon"}
+l_tutoiement = {"[Tt]u", "te", "t'", "tes", "ton", "toi", "chatbot", "systeme de dialogue"}
+l_user = {"[Jj]e", "moi", "m'", "mes", "mon"}
 l_dev = {"Manfred MadlnT", "Cedrick RibeT", "Hugo BommarT", "Laos GalmnT"}
-l_fin = {"bye", "au revoir", "quit","ciao", "adieu","bye-bye", "a une prochaine fois"}
+l_fin = {"[Bb][Yy][Ee]", "[Aa]u revoir", "quit","[Cc]iao", "[Aa]dieu","bye-bye", "[Aa] une prochaine fois"}
 l_life = {"univers","vie", "la grande question sur"}
-l_help = { "aide moi"}
-l_hist = { "historique"}
-l_bac = { "bac", "b"}
+l_help = { "aide moi", "[Hh]elp"}
+l_hist = { "[Hh]istorique"}
+l_bac = { "bac", "[Bb]accalaureat", "[Dd]iplome", "[Ll]icence"}
 
 local f_data = "data/"
 
@@ -97,6 +99,7 @@ main:lexicon("#neg", {"non","no","ne","n'","pas","sauf","excepte","sans"})
 main:lexicon("#qhelp", l_help)
 main:lexicon("#42", l_life)
 main:lexicon(tool.tag(hist), l_hist)
+main:lexicon(tool.tag(nd_forma), l_bac)
 
 
 -- Paterne avec expressions régulières 
@@ -201,6 +204,7 @@ m_tag = {
 	["#Qhelp"] = "green",
 	["#Qparti"] = "red",
 	
+	[tool.tag(nd_forma)] = "red",
 	[tool.tag(gram_Qdouble)] = "red",
 	[tool.tag(life)] = "red",
 	["#negation"] = "red",
