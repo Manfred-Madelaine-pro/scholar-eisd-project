@@ -94,8 +94,12 @@ mdl_t_err = {"Désolé, je n'ai pas d'information sur "..tool.bls(sjt).."."}
 mdl_k_err = {"Désolé, je n'ai pas ".. tool.bls(sjt).." dans ma base de politiciens."}
 
 mdl_basic = {tool.bls(sjt).." -> "..tool.bls(res).."."}
+mdl_forma = {
+	tool.bls(sjt).."a pour formation"..tool.bls(res)..".",
+	"La formation de "..tool.bls(sjt).."est"..tool.bls(res)..".",
+}
 
-mdl_hist = {"Voici l'historique de notre conversation : \n"..tool.bls(sjt)}
+mdl_hist = {"Voici l'historique de notre conversation :\n"..tool.bls(sjt)}
 
 mdl_exit = {"Bye :P !", "à la prochaine :D !", "au revoir ;)", "ciao :3 !", "adieu T.T","bye-bye ^^", "à une prochaine fois :> "}
 
@@ -129,8 +133,8 @@ function txt.get_mdl(nom)
 		mdl = mdl_birthp
 	elseif (nom == "birth") then
 		mdl = mdl_birth
-	elseif (nom == mdl_forma) then
-		mdl = mdl_birth
+	elseif (nom == "formation") then
+		mdl = mdl_forma
 	elseif (nom == "parti") then
 		mdl = mdl_Qparti
 	elseif (nom == "profession") then

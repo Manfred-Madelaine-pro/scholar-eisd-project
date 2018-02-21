@@ -25,7 +25,7 @@ local turn = 0
 local POS_KEY = 3
 local dialog  = {}
 local reponse = {}
-local enable_hist = false
+local enable_hist = true
 
 
 -- Main
@@ -68,28 +68,20 @@ end
 
 function test_fonctionnel()
 	local t_fini = {
-		"Lieu de naissance ?",
-		"sep",
+		"Lieu de naissance ?","sep",
 		"Mélenchon ?",
-		"ou",
-		"sep",
-		"qui sont tes createurs ?",
-		"sep",
-		"qui sont mes createurs ?",
-		"sep",
+		"ou","sep",
+		"qui sont tes createurs ?",	"sep",
+		"qui sont mes createurs ?",	"sep",
 		"Melenchon quel parti",
-		"bye",
-		"sep",
-		"qui est le createurs de melu",
-		"sep",
+		"bye", "sep",
+		"qui est le createurs de melu",	"sep",
 		"$help",
 		"sep",
 		"Quel est la réponse à la grande question sur la vie, l'univers et le reste",
 		"sep",
-		"Lieu de naissance et date de naissance de melu",
-		"sep",
-		"Mélenchon et toi ?",
-		"sep",
+		"Lieu de naissance et date de naissance de melu", "sep",
+		"Mélenchon et toi ?", "sep",
 		"affiche l'historique",
 		"date de naissance et lieu de naissance de Melenchon et lieu de naissance de Macron ?",
 		"Lieu de naissance de melu et qui sont tes créateurs ?",
@@ -104,13 +96,15 @@ function test_fonctionnel()
 	}
 	
 	local t_simple = {
-		"Lieu de naissance et date de naissance de melu",
 		"affiche l'historique",
-		"date de naissance et lieu de naissance de Melenchon et lieu de naissance de Macron ?",
+		"melu f",
+		"sep",
 		"quand Macron a-t-il eu son Baccalauréat ?",
+		"sep",
+		"Lieu de naissance et date de naissance de melu",
+		"date de naissance et lieu de naissance de Melenchon et lieu de naissance de Macron ?",
 		"ok",
 		"sep",
-		"melu f",
 		"sep",
 		"sep",
 		-- ne répéter 2 fois la m réponse sur 2 lignes
@@ -134,7 +128,7 @@ function test_fonctionnel()
 		--"qui suis-je ?",
 	}
 
-	for i, line in pairs(t_fini) do	
+	for i, line in pairs(t_simple) do	
 		init_rep()
 		print("> "..line)
 
@@ -330,8 +324,8 @@ end
 -- Rempli les attributs necessaires a la generation de la reponse
 function fill_response(mdl, gen, sjt, res)
 		reponse.model[#reponse.model + 1] = txt.pick_mdl(mdl)
-		reponse.sjt[#reponse.sjt + 1]  = sjt
-		reponse.res[#reponse.res + 1]  = res
+		reponse.sjt[#reponse.sjt + 1] = sjt
+		reponse.res[#reponse.res + 1] = res
 		reponse.gen[#reponse.gen + 1] = gen 
 end
 
@@ -361,6 +355,7 @@ function is_special(elem)
 		end
 	end
 	if elem == "$ help" then res = true end
+	--TODO
 	--if elem == hdb_createurs then res = true end
 	
 	return res
@@ -452,11 +447,12 @@ function search_tag(key, typ, q_tag)
 		-- key error
 		fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 	else
+		-- Choix du pronom à utiliser
 		if tool.key_is_used(dialog[#dialog-POS_KEY], key) then
 			local s = search_in_db(db, key_value, "gender")
 			pronoun = "Il/Elle "
-			if (s == "F") then pronoun = "Elle " end
-			if (s == "M") then pronoun = "Il " end
+			if (s == "F") then pronoun = "Elle "
+			elseif (s == "M") then pronoun = "Il " end
 			
 			gen_answer(pronoun, res, typ_value)
 
@@ -475,13 +471,14 @@ function gen_answer(sjt, res, type_val)
 		-- Recherche de la formation
 		for i = 1, #res do
 			if (type_val == db_forma) then
-				rep = rep.."\n\t"..get_forma(res, i)
+				rep = rep.." un(e) "..get_forma(res, i)
+				if i == #res-1 then rep = rep.." et"
+				elseif i< #res then rep = rep.."," end
 			else
 				-- parti
 				rep = rep.."du "..res[i]
 				if i == #res-1 then rep = rep.." et " 
-					elseif i < #res then rep = rep..", "
-					end
+				elseif i < #res then rep = rep..", "end
 			end
 		end
 		fill_response(txt.get_mdl(type_val), type_val, sjt, rep)
@@ -500,7 +497,7 @@ function get_forma(res, i)
 	t = ""
 
 	if (name ~= -1) then t = t..name.." " end
-	if (date ~= -1) then t = t.."en "..date.." " end
+	if (date ~= -1) then t = t.."en "..date end
 	
 	return t
 end

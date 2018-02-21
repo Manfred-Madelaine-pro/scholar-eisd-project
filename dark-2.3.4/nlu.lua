@@ -41,6 +41,9 @@ db_fname  = "firstname"
 db_forma  = "formation"
 db_birthp = "birthplace"
 
+-- attributs secondaires d'un Politicien dans la bdd
+db2_bac = "Baccalauréat"
+
 -- hors de la bdd
 hdb_status = "statut"
 hdb_createurs = "createurs"
@@ -51,8 +54,10 @@ gram_Qdouble = "question_double"
 gram_sous_quest = "Xquestion"
 
 -- Liste d'elements
-l_sujets = {ppn, user, tutoiement, fin, tool.qtag(help), life}
+l_sujets = {ppn, user, tutoiement, fin, tool.qtag(help), life, hist}
 l_attributs = {db_birth, db_birthp, db_forma, hdb_status, hdb_createurs, db_parti}
+_att_secondaires = {}
+
 l_et = {"et", "ainsi que"}
 l_confirm = {"oui", "exact", "bien", "confirme"}
 l_infirm = {"non", "pas"}
@@ -64,6 +69,7 @@ l_fin = {"bye", "au revoir", "quit","ciao", "adieu","bye-bye", "a une prochaine 
 l_life = {"univers","vie", "la grande question sur"}
 l_help = { "aide moi"}
 l_hist = { "historique"}
+l_bac = { "bac", "b"}
 
 local f_data = "data/"
 
@@ -178,7 +184,7 @@ main:pattern('['..tool.tag(gram_sen)..' "(" .*? ")"  ]')
 -- Qestion sur la 
 main:pattern([[
 	[]]..tool.tag(gram_Qdouble)..[[ 
-		[]]..tool.tag(gram_sous_quest)..[[  ((.{,2}? #gram_sujet .{,2}? )+ | (.{,2}? #gram_info .{,2}? )+ )+ ] #AND []]..tool.tag(gram_sous_quest)..[[  ((.{,2}? #gram_sujet .{,2}? )+ | (.{,2}? #gram_info .{,2}? )+ ){2,4} ]
+		[]]..tool.tag(gram_sous_quest)..[[  ((.{,2}? #gram_sujet .{,2}? )+ | (.{,2}? #gram_info .{,2}? )+ ){2,4} ] #AND []]..tool.tag(gram_sous_quest)..[[  ((.{,2}? #gram_sujet .{,2}? )+ | (.{,2}? #gram_info .{,2}? )+ ){2,4} ]
 	]
 ]])
 
