@@ -1,0 +1,25 @@
+PRETAG Charles.
+NOMTAG Émile.
+Charles Émile Altorffer (né à Wœrth le 30 janvier 1881 et mort à Strasbourg le 6 août 1960) est un pasteur, fonctionnaire et homme politique alsacien.
+
+
+
+Après avoir étudié, de 1900 à 1906, la Théologie protestante à Strasbourg, Paris et Berlin, il fut ordonné en 1906 par l'ÉCAAL et devint vicaire à Masevaux, puis à Beblenheim et Westhoffen en 1906 et 1907. À partir de 1907 et jusqu'en 1919, il fut pasteur à Lembach, et ensuite à Wissembourg de 1919 à 1929. Il se montra extrêmement actif dans le domaine social, aidant en Alsace du Nord à la création de caisses d'épargne et de crédit, et à celles de garderies d'enfants, de centres d'infirmières, de bibliothèques populaires et de cours du soir pour adultes.
+Il était ardemment francophile et, quand l'Alsace redevint française, il fut un des fondateurs du Parti Démocratique et, le 16 novembre 1919, fut élu député du Bas-Rhin sur la liste du Bloc national. Mais de nombreux protestants lui reprochaient ses compromissions avec le catholicisme, et l'on allait jusqu'à voir en lui une créature de l'évêque. Le mode d'élection par scrutin de liste lui permit d'être réélu en 1924, mais avec le scrutin uninominal il échoua à Saverne le 29 mars 1928 devant l'autonomiste Camille Dahlet.
+Pendant ses deux mandats, de 1919 à 1928, il fut rapporteur de nombreux projets de loi qui appliquaient ou adaptaient à l'Alsace-Moselle la législation française, notamment dans le domaine de la législation fiscale et sociale et des pensions. Rapporteur attitré de la commission des douanes, il participa à l'élaboration de la loi de 1928 sur le régime des produits pétroliers. Après son échec électoral, Poincaré le nomma, le 26 mai 1929, directeur des Cultes pour les trois départements recouvrés.
+En 1939, il fut chargé de la direction des services des réfugiés d'Alsace-Lorraine à Périgueux et entra dans la Résistance où il fut très actif. Il reprit notamment la direction des œuvres sociales juives après leur fermeture par la Gestapo et répartit l'argent clandestinement transporté depuis Lyon, ce qui lui vaudra le titre de Juste parmi les nations en 2001[1].
+Revenu à Strasbourg en décembre 1944, il reprit ses fonctions de directeur du Service des Cultes pour l'Alsace et la Moselle, et demeura à ce poste jusqu'au 15 octobre 1949. Entre-temps en 1947, il fut élu au Conseil municipal de Strasbourg sur la liste RPF et devint 4e adjoint au maire.
+À la mort de Charles Frey, le 29 octobre 1955, il le remplaça comme maire de Strasbourg, jusqu'aux élections municipales du 14 mars 1959 après lesquelles il céda sa place à Pierre Pflimlin en raison de son âge. Durant son mandat il encouragea notamment la suppression des dernières lignes de tram et le transfert à la ville des terrains militaires de l'Esplanade.
+Il devint commandeur de la Légion d'honneur en 1959. Il collabora régulièrement au Messager évangélique, la revue protestante alsacienne, et écrivit un roman L'Appel de la Vallée (Strasbourg, 1956).
+Charles Altorffer est inhumé au cimetière Sainte-Hélène de Strasbourg[2]. Un quai de Strasbourg porte son nom[3].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député du Bas-Rhin NOMF 1919 – 1924 SEP2 Législature REL XIIe législature de la Troisième République française SEP2 Groupe politique REL Gauche républicaine démocratique.
+NOMF Député du Bas-Rhin NOMF 1914 – 1928 SEP2 Législature REL XIIIe législature de la Troisième République française SEP2 Groupe politique REL Gauche républicaine démocratique SEP2 Prédécesseur REL Charles Frey SEP2 Successeur REL Pierre Pflimlin SEP2 Date de naissance REL 30 janvier 1881 SEP2 Date de décès REL 6 août 1960 (à 79 ans) SEP2 Profession REL pasteur SEP2 Religion REL protestant SEP2 Résidence REL Bas-Rhin.

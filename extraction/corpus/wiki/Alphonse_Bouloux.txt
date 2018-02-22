@@ -1,0 +1,18 @@
+PRETAG Alphonse.
+NOMTAG Bouloux.
+Alphonse Bouloux, né le 30 septembre 1887 et mort le 15 avril 1978, est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+FONCTIONNORM
+
+NOMF Sénateur de la Vienne NOMF 8 décembre 1946 – 7 novembre 1948 SEP2 Groupe politique REL Groupe communiste SEP2 Date de naissance REL 30 septembre 1887 SEP2 Date de décès REL 15 avril 1978 (à 90 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL Parti communiste français SEP2 Profession REL instituteur.

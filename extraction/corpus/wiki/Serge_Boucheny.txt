@@ -1,0 +1,20 @@
+PRETAG Serge.
+NOMTAG Boucheny.
+Serge Boucheny, né le 22 mars 1929 à Paris, est un homme politique français.
+
+
+Député communiste de la 14e circonscription de Paris lors de la 3e législature, il succède à l'UNR Hubert Germain.
+Il devient sénateur le 26 juin 1969, en remplacement de Raymond Bossus, démissionnaire pour raisons de santé. Il est réélu lors des élections de 1977 mais ne se représente pas en 1986.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Sénateur de Paris NOMF 26 juin 1969 – 1er octobre 1986 SEP2 Groupe politique REL COM SEP2 Prédécesseur REL Raymond Bossus.
+NOMF Député de la 14e circonscription de Paris NOMF 3 avril 1967 – 30 mai 1968 SEP2 Législature REL 3e (Ve République) SEP2 Groupe politique REL COM SEP2 Prédécesseur REL Hubert Germain SEP2 Successeur REL Hubert Germain SEP2 Date de naissance REL 22 mars 1929 (88 ans) SEP2 Lieu de naissance REL Paris SEP2 Parti politique REL PCF SEP2 Profession REL Ouvrier rectifieur.

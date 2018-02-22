@@ -1,0 +1,15 @@
+PRETAG François.
+NOMTAG Perrin.
+François Perrin (24 juillet 1914 à Le Bouchage, Isère - 18 juillet 1964 à Cannes, Alpes-Maritimes) est un homme politique français.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la 7e circonscription de l'Isère NOMF 30 novembre 1958 – 1er juillet 1964 SEP2 Législature REL Ire, IIe (Cinquième République) SEP2 Successeur REL Maurice Cattin-Bazin (suppléant) SEP2 Date de naissance REL 24 juillet 1907 SEP2 Lieu de naissance REL Le Bouchage SEP2 Date de décès REL 18 juillet 1964 (à 56 ans) SEP2 Lieu de décès REL Cannes SEP2 Nationalité REL Française SEP2 Profession REL Fonctionnaire.

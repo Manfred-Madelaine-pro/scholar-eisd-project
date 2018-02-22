@@ -1,0 +1,22 @@
+PRETAG Dominique.
+NOMTAG Richard.
+Dominique Richard, né le 29 novembre 1954 à Cholet (Maine-et-Loire), est un homme politique français, spécialiste du secteur de l'audiovisuel. Il a été nommé Membre du CESE en Conseil des Ministres le 5 octobre 2011.
+Député (2002-2007), de la 2e circonscription de Maine-et-Loire (2e).
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) CDS.
+PART Centre des démocrates sociaux (CDS).
+PART Union pour un mouvement populaire (UMP).
+PART Union des démocrates et indépendants (UDI).
+FONCTIONNORM
+
+NOMF Député de la 2e circonscription de Maine-et-Loire NOMF 19 juin 2002 – 19 juin 2007(5 ans) SEP2 Élection REL 16 juin 2002 SEP2 Législature REL XIIe SEP2 Groupe politique REL UMP SEP2 Prédécesseur REL Hubert Grimault SEP2 Successeur REL Marc Goua SEP2 Date de naissance REL 29 novembre 1954 (63 ans) SEP2 Lieu de naissance REL Cholet (Maine-et-Loire) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF-CDSUMPUDI SEP2 Diplômé de REL Université d'Angers.

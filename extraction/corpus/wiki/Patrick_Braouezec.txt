@@ -1,0 +1,37 @@
+PRETAG Patrick.
+NOMTAG Braouezec.
+Patrick Braouezec (prononcer Braouézec), né le 11 décembre 1950 à Paris (Seine), est un homme politique français. Ancien député-maire de Saint-Denis, il est président de Plaine Commune depuis 2005.
+
+
+
+Issu d'une famille d'origine bretonne, il est instituteur à Saint-Denis pendant une vingtaine d'années puis maire de 1991[1] à 2004.
+Pendant sa mandature, la ville connaît un nouvel essor autour du Stade de France[2].
+Il est élu député communiste de Seine-Saint-Denis en 1993. Après la victoire de la gauche aux élections législatives anticipées de 1997 et sa réélection, le secrétaire national du Parti communiste français (PCF) Robert Hue s'oppose à son entrée dans le gouvernement de Lionel Jospin, le jugeant « incontrôlable »[3]
+Il quitte la fonction de maire en 2005, à laquelle lui a succédé son ancien premier adjoint, Didier Paillard, pour prendre la présidence de la Communauté d'agglomération Plaine Commune où il succède à Jacques Poulet.
+Il est réélu député le 17 juin 2007, pour la XIIIe législature (2007-2012), dans la 2e circonscription de la Seine-Saint-Denis.
+Au sein du Parti communiste, il fait partie du mouvement des refondateurs. Pour l'élection présidentielle de 2007, il soutient la candidature de José Bové[3], bien que 81 % des militants de son parti se soient prononcés en faveur de Marie-George Buffet lors d'un vote interne le 20 décembre 2006[réf. souhaitée].
+Patrick Braouezec souhaitait représenter les communistes au sein du Front de gauche à l'occasion des élections régionales de 2010. Le Parti communiste lui préfère Pierre Laurent, coordinateur du PCF, comme tête de liste « Ensemble pour des régions solidaires, écologiques et citoyennes » en Île-de-France. À cette occasion, un de ses principaux soutiens dans le département Stéphane Gatignon quitte le PCF pour rejoindre les écologistes[4]. Le 16 février 2010, au micro d'Europe 1 Soir, il annonce qu'il restera « loyal » envers le PCF jusqu'au deuxième tour des régionales, mais qu'il quittera ce parti au lendemain de ces élections pour fonder un nouveau mouvement[5].
+Le 25 mars 2010, il annonce dans un entretien accordé au Monde qu'il quitte le PCF et souhaite participer à une meilleure structuration de la Fédération pour une alternative sociale et écologique[6]. Alors qu'il avait annoncé en janvier 2010 sa décision de ne pas se représenter aux élections législatives de 2012, il déclare en mars 2011 qu'il briguera finalement sa succession[7].
+Il prend la succession de Philippe Séguin à la tête de la Fondation du football[8]. Il est, avec Laurent Davenas, l'un des deux membres de la commission d'enquête interne à la Fédération française de football, chargée de faire la lumière sur l'affaire des quotas.
+Lors de l'entre-deux tours des élections législatives, il annonce qu'il se maintient face au candidat du parti socialiste Mathieu Hanotin arrivé devant lui[9], en dépit d'accords électoraux prévoyant son désistement. Il reçoit le soutien de Marie-George Buffet et de François Asensi, au lendemain du dépôt des candidatures, lui-même ayant pourtant bénéficié du retrait de Stéphane Gatignon (candidat EELV-PS-PRG) dans sa circonscription au nom du « désistement républicain ». Patrick Braouezec est battu par son adversaire socialiste au second tour[10],[11].
+Après les élections municipales de 2014, il est réélu à la tête de Plaine commune. Il déclare toutefois « Je resterai un certain temps, le temps de préparer ma succession dans de bonnes conditions, comme je l'ai fait à Saint-Denis où j'ai été maire. Je ne donnerai aucun nom, mais je ne cache pas que je porterai un regard particulier sur Saint-Denis »[12].
+Patrick Braouezec est également président du conseil d'administration de Plaine Commune Développement.
+La presse rapporte en janvier 2017 son prochain ralliement au parti En marche ! créé par Emmanuel Macron[13]. En mars 2017, à plus de six semaines du premier tour, il annonce dans une tribune publiée par Le Monde qu'il appelle à voter pour Emmanuel Macron à la présidentielle, sans adhérer au mouvement : « Je pense qu’Emmanuel Macron est le seul candidat à permettre de ne pas se retrouver devant cette situation » d'un second tour opposant la droite et l'extrême-droite. Il dit vouloir « travailler pour que la nécessaire alliance de tous les progressistes se concrétise. C'est le seul rempart à la barbarie. » Pour l'élection législative, il appelle localement à voter pour le candidat communiste[3],[14]. En août 2017, il fait déjà part de sa « déception » vis-à-vis d’Emmanuel Macron[15]
+À l'occasion de la Fête de l'Humanité de 2017, il reprend sa carte d'adhérent au PCF. Il appelle à « créer les conditions d'un rassemblement populaire très large avec l'ensemble des progressistes sans a priori, sans rejeter, sans principes arrêtés » et qu'il faut « se différencier avec l'attitude de Jean-Luc Mélenchon qui considère qu'il y a un chef, un projet et qu'il n'y a pas à discuter, qu'il n'y a pas à négocier avec qui que ce soit[16] ».
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF) .
+PART Ensemble ! (Ensemble !) .
+FONCTIONNORM
+
+NOMF Président de l'établissement public territorial Plaine Commune NOMF En fonction depuis le 19 janvier 2016.
+NOMF Président de la communauté d'agglomération Plaine Commune NOMF 11 janvier 2005 – 31 décembre 2015.
+NOMF Député de la 2e circonscription de la Seine-Saint-Denis NOMF 2 avril 1993 – 17 juin 2012 SEP2 Élection REL 28 mars 1993 SEP2 Réélection REL 1er juin 199716 juin 200217 juin 2007 SEP2 Prédécesseur REL Marcelin Berthelot (PCF) SEP2 Successeur REL Mathieu Hanotin (PS) SEP2 Prédécesseur REL Marcelin Berthelot (PCF) SEP2 Successeur REL Didier Paillard (PCF).
+NOMF Conseiller municipal de Saint-Denis NOMF 10 décembre 2004 –.
+NOMF Conseiller métropolitain de Saint-Denis à la Métropole du Grand Paris NOMF 1er janvier 2016 – SEP2 Date de naissance REL 11 décembre 1950 (67 ans) SEP2 Lieu de naissance REL Paris (Seine) SEP2 Nationalité REL Française SEP2 Parti politique REL PCF (jusque 2010)Ensemble ! (2010-2015)PCF (2017-).

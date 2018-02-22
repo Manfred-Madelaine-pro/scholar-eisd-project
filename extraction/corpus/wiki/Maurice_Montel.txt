@@ -1,0 +1,20 @@
+PRETAG Maurice.
+NOMTAG Montel.
+Maurice Montel, né le 10 juin 1900 à Espaly-Saint-Marcel (Haute-Loire) et mort le 14 mai 1996 à Clermont-Ferrand (Puy-de-Dôme), est un homme politique français.
+
+
+
+Adhérent au Parti de la Jeune République, député Gauche indépendante du Cantal de 1936 à 1940 et SFIO de 1945 à 1946, il vota « Non » lors du vote historique du 10 juillet 1940, refusant les pleins pouvoirs au maréchal Philippe Pétain.
+Il fut le dernier survivant de ces 80 parlementaires qui osèrent s'opposer, dans un contexte très hostile, à Philippe Pétain.
+Pour sa sépulture qui eut lieu à Ruynes-en-Margeride, son village dont il fut maire de nombreuses années durant, Philippe Séguin, alors président de l'Assemblée nationale, était présent, témoignant du respect et de l'admiration des députés.
+Maurice Montel fit sa carrière professionnelle dans les assurances.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-19401945-1946 NOMF 1936 – SEP2 Gouvernement REL Troisième République-Quatrième République SEP2 Groupe politique REL GI (1936-1940)SFIO (1945-1946) SEP2 Date de naissance REL 10 juin 1900 SEP2 Lieu de naissance REL Espaly-Saint-Marcel (Haute-Loire) SEP2 Date de décès REL 14 mai 1996 (à 95 ans) SEP2 Lieu de décès REL Clermont-Ferrand SEP2 Résidence REL Cantal.

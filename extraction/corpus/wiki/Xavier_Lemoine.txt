@@ -1,0 +1,24 @@
+PRETAG Xavier.
+NOMTAG Lemoine.
+Xavier Lemoine, né le 13 juillet 1960 à Boulogne-Billancourt, est un homme politique français. Il est vice-président du Parti chrétien-démocrate, il est maire de Montfermeil depuis juin 2002.
+
+
+
+Origines, jeunesse et formation.
+Xavier Lemoine est originaire de Vendée. Issu d’une famille nombreuse, il est père de sept enfants et grand père de deux petits-enfants. Il a travaillé jeune dans la marine, avant d'étudier à l'Institut des relations publiques et de la communication d'Angers[1].
+Carrière politique.
+Membre du Mouvement pour la France puis de l'UMP, il est maire de Montfermeil depuis juin 2002 et est réélu avec 60,23 % des voix au premier tour en mars 2008 ; on le retrouve en 2009, 7e de la liste UMP aux élections européennes (Île-de-France) présenté par le Forum des républicains sociaux (FRS), l'un des partis fondateurs de l'UMP[2]. Il annonce son adhésion au Parti chrétien-démocrate lors de sa fondation en juin 2009[3]. Il est réélu maire en mars 2014, avec 61,34 % des voix (4 285 bulletins) au premier tour de scrutin.
+Il est élu le 21 janvier 2016 conseiller métropolitain délégué de la métropole du Grand Paris[4].
+Le 20 juillet 2016, il est investi par le parti Les Républicains dans la douzième circonscription de la Seine-Saint-Denis pour les législatives 2017 [5] avant que cette investiture ne lui soit retirée pour être confiée à l'UDI Ludovic Toro. Il ne parraine aucune candidature pour l'élection présidentielle de 2017[6].
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (Les Républicains).
+PART Parti chrétien-démocrate (PCD).
+FONCTIONNORM

@@ -1,0 +1,24 @@
+PRETAG Jacques.
+NOMTAG Médecin.
+Jacques Médecin, né le 5 mai 1928 à Nice (Alpes-Maritimes) et mort le 17 novembre 1998 à Punta del Este (Uruguay), est un homme politique français, maire de Nice de 1965 à 1990, secrétaire d'État au Tourisme en 1976 dans le gouvernement Barre I.
+
+
+
+Jacques Médecin est issu d'une famille d'hommes politiques niçois : son père, Jean Médecin fut maire de Nice pendant 37 ans et son grand-père, Alexandre Médecin, fut conseiller général de la ville.
+Après des études de droit à Paris, il est élu conseiller général des Alpes-Maritimes en 1961 puis, à la mort de son père en 1965, maire de Nice à l'âge de 37 ans. Dans ces responsabilités, il construit une réputation sur un style autoritaire, interventionniste et clientéliste.
+Condamné par la justice française pour plusieurs affaires de corruption, Jacques Médecin évite plusieurs peines de prison ferme en s'exilant en Uruguay de septembre 1990 jusqu'à son extradition en novembre 1994. Il repart pour l'Uruguay en 1996 jusqu'à sa mort.
+
+
+
+
+
+
+Personnalité extravertie et impulsive, anticommuniste, Jacques Médecin a été membre du CNI, du Centre républicain, des Républicains indépendants, et du RPR. Lors du débat sur le projet de loi autorisant l'interruption volontaire de grossesse, défendu par Simone Veil en 1974, il se prononce contre l'avortement[3], déclarant notamment que « l'avortement, c'est un meurtre »[4] et parlant de « barbarie organisée et couverte par la loi comme elle le fut par les nazis », alors que la ministre qui porte le projet est une rescapée de la Shoah[5]. La même année, il projette de jumeler Nice avec Le Cap, en Afrique du Sud, alors sous le régime de l'apartheid[6]. En 1981, il vote contre l'abolition de la peine de mort, et demande par la suite son rétablissement, notamment lors d'une manifestation en 1985[7]. Il se rapproche alors du FN, dont il avait déclaré dans National-Hebdo partager « 99,9 % des idées »[8],[9]. Dans les derniers mois de sa carrière politique, il cesse d'être apparenté RPR à la suite de propos contestés sur des membres juifs du conseil municipal. Il reçoit enfin Jean-Marie Le Pen en visite officielle à la mairie de Nice en septembre 1990.
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP).
+PART Rassemblement pour la République (RPR).
+FONCTIONNORM
+
+NOMF Député des Alpes-Maritimes NOMF 5 mars 1967 – 12 juin 1988(21 ans, 3 mois et 7 jours) SEP2 Groupe politique REL PDM (1967-1973)RDS (1973-1978)UDF (1978-1981)RPR (1981-1988).
+NOMF Président duconseil général des Alpes-Maritimes NOMF 1973 – 1990 SEP2 Prédécesseur REL Francis Palmero SEP2 Successeur REL Charles Ginésy SEP2 Date de naissance REL 5 mai 1928 SEP2 Lieu de naissance REL Nice, Alpes-Maritimes (France) SEP2 Date de décès REL 17 novembre 1998 (à 70 ans) SEP2 Lieu de décès REL Punta del Este, Maldonado (Uruguay) SEP2 Nationalité REL Française SEP2 Parti politique REL CNIPRPR SEP2 Père REL Jean Médecin SEP2 Profession REL Journaliste.

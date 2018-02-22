@@ -1,0 +1,17 @@
+PRETAG Jean-Claude.
+NOMTAG Rolinat.
+Jean-Claude Rolinat, né en 1944, est un journaliste et écrivain français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (Front national).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

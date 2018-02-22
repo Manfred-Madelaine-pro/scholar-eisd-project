@@ -1,0 +1,27 @@
+PRETAG Jean.
+NOMTAG Jadé.
+Jean Yves Jadé est né le 29 mars 1890 à Brest (Finistère) et décédé le 4 juillet 1936 à Quimper (Finistère).
+
+
+
+Profondément croyant, à 18 ans il compose L'Holocauste dont extrait : "O Divin Holocauste de l'humanité, sois mon guide et mon soutien jusqu'à la dernière minute : donne-moi un peu de cet amour immense qui t'embrasait sur le gibet du Golgotha".
+Il exerçait la profession d'avocat dans sa ville natale.
+Appelé lors de la première guerre mondiale, il se bat comme lieutenant d'infanterie au 336° Régiment d'Infanterie, et est blessé deux fois.
+À 29 ans, il est élu Député du Finistère le 16 novembre 1919, sur la liste républicaine et démocratique d'union nationale. À la Chambre, il fait partie de la commission d'assurance et prévoyance sociale, puis de différentes autres : législation civile et criminelle, marine marchande, douanes, armée. Il s'inscrit au groupe des républicains de gauche. En 1923 et 1924, il est nommé secrétaire de la Chambre.
+Il est réélu député le 11 mai 1924 sur la liste d'union républicaine.
+À la Chambre il fait partie du "groupe des quatorze" qui fonde le Parti démocrate populaire, parti centriste, ancêtre du MRP. Il est alors membre de la commission de l'armée et de celle de la marine marchande.
+En 1928, candidat républicain démocrate dans la 2° circonscription de Quimper, il est élu au second tour contre Georges Le Bail, autre avocat, de gauche. Il est membre de la commission de la marine militaire et de celle des régions libérées.
+Aux législatives de 1932, il est battu de quelque 269 voix par Jean Perrot, radical-socialiste.
+Ses diverses propositions de loi et ses interventions manifestent son souci permanent de défendre les anciens combattants et victimes de guerre, les marins pêcheurs, la marine marchande et l'agriculture.
+De santé déficiente à la suite de ses blessures de guerre, travailleur inlassable, il meurt d'épuisement à Quimper le 4 juillet 1936, à l'âge de 46 ans.
+Il a publié un ouvrage sur les accidents de travail pendant la guerre.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1932 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL RDG (1919-1924)Démocrates (1924-1928)DP (1928-1932) SEP2 Date de naissance REL 29 mars 1890 SEP2 Date de décès REL 4 juillet 1936 SEP2 Résidence REL Finistère.

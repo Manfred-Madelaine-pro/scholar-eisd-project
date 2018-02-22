@@ -1,0 +1,16 @@
+PRETAG Jean-Philippe.
+NOMTAG Magnen.
+Jean-Philippe Magnen, né le 15 juillet 1967 à Paris, est un homme politique français. Porte-parole d'Europe Écologie Les Verts entre 2012 et 2013, il a été 3e vice-président du Conseil régional des Pays de la Loire.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Europe Écologie Les Verts (EELV).
+FONCTIONNORM

@@ -1,0 +1,21 @@
+PRETAG Georges.
+NOMTAG Mazerand.
+Georges Mazerand est un homme politique français né le 14 avril 1876 et décédé le 16 mars 1968 à Cirey-sur-Vezouze, en Meurthe-et-Moselle.
+Fils de Jean-Baptiste Mazerand (1841-1917), lui-même industriel, et ancien maire de Cirey-sur-Vezouze. Il est industriel de profession et entre en politique en devenant conseiller municipal et conseiller général de sa ville natale dès 1919. Il devient maire en 1925 et est constamment réélu à ces deux postes jusqu'à la chute de la Troisième République - il est révoqué par le gouvernement de Vichy de sa fonction de maire en 1942 [1] - et après la Seconde Guerre mondiale jusqu'en 1958, date de sa démission à ces deux postes.
+En 1919, il se présente aux élections législatives en 3e position sur la liste de Bloc national, derrière Albert Lebrun et Louis Marin. Membre de l'Alliance démocratique, il rejoint le groupe des Républicains de gauche. Réélu en 1924 et 1928, cette dernière fois au scrutin uninominal, il reste fidèle à ce groupe parlementaire.
+De nouveau réélu en 1932[2] , il rejoint cette fois le groupe de la Gauche radicale, qui regroupe les députés de la mouvance radicale indépendante. Il s'inscrit ensuite au nouveau groupe de la Gauche démocratique et radicale indépendante, nouvelle dénomination de la même formation parlementaire. Alors qu'il était combattu par les républicains nationaux et les organisations catholiques[3] , il est soutenu par eux, avec réticence, en 1936 car il est hostile au Front populaire.
+Député discret, il ne prend pas part au vote du 10 juillet 1940 sur la remise des pleins pouvoirs au Maréchal Pétain et est ensuite destitué de son poste de maire par le régime de Vichy. Il est en 1944 déporté au titre de sa résistance et connait le camp de Neuengamme puis un camp en Tchécoslovaquie avant d'être libéré et de retourner à Cirey-sur-Vezouze en juin 1945. Le 22 juin 1945, il est nommé délégué à l'Assemblée consultative provisoire en sa qualité de déporté[4].
+Sous la Quatrième République, il se présente en 1946 en deuxième position sur la liste de Louis Marin, mais ne sera pas élu, le scrutin étant alors par liste et non par arrondissement. Il devient vice-président du Conseil général de Meurthe-et-Moselle et est nommé commandeur de la Légion d'honneur.
+Il s'éteint dans son village natal à l'âge de 91 ans.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL RDG (1919-1932)GR (1932-1936)GDRI (1936-1940) SEP2 Date de naissance REL 14 avril 1876 SEP2 Date de décès REL 16 mars 1968 (à 91 ans) SEP2 Résidence REL Meurthe-et-Moselle.

@@ -1,0 +1,53 @@
+PRETAG Mireille.
+NOMTAG d'Ornano.
+Mireille d’Ornano, née le 29 juin 1951 à Angoulême, est une femme politique française.
+Membre du RPR, du Front national, du MNR puis des Patriotes, elle est conseillère régionale de Rhône-Alpes de 2010 à 2014, conseillère municipale de Grenoble de 1989 à 1995 et depuis 2014, ainsi que députée européenne depuis 2014.
+
+
+Engagée en 1986 au Rassemblement pour la République (RPR)[1], elle opte finalement pour le Front national où elle s'est présentée depuis les années 1980 dans plus de vingt scrutins locaux, devenant la responsable départementale FN de l'Isère.
+Elle est élue pour la première fois au comité central du FN lors du congrès de 1990, puis réélue en 1994 et 1997[2]. Elle rejoint le Mouvement national républicain (MNR) lors de la scission du parti en 1998-1999[2].
+Aux élections européennes de 1999, elle est candidate sur la liste MNR[3]. Elle revient au FN l'année suivante.
+Elle réintègre les instances dirigeantes du FN en 2007[2].
+À l'issue des élections régionales de 2010, elle est élue conseillère régionale de la région Rhône-Alpes sur la liste FN conduite par Bruno Gollnisch.
+Elle se présente aux élections législatives de 2012 dans la première circonscription de l'Isère et obtient 7,7 % des suffrages exprimés, derrière Geneviève Fioraso, Jean-Claude Peyrin, Marie-Christine Tardy et Éric Piolle.
+Elle conduit la liste FN à Grenoble pour les élections municipales de 2014. Elle obtient 12,6 % des suffrages exprimés au premier tour et décide de maintenir sa liste au second tour[1]. Elle perd plus d'un millier d'électeurs en l'espace d'une semaine et recule de quatre points entre les deux tours, mais décroche néanmoins deux sièges au conseil municipal de Grenoble et un siège à la métropole, dans l'opposition dans les deux cas.
+Elle devient députée européenne lors des élections européennes de 2014, élue dans la région Sud-est sur la liste conduite par Jean-Marie Le Pen.
+Elle se porte candidate, en binôme avec Éric Guironnet de Massas, aux élections départementales de 2015 dans le canton de Charvieu-Chavagneux, dans l'Isère rhodanienne. Elle arrive en tête du premier tour avec 35,5 % des suffrages exprimés, puis est battue au second tour par un binôme UMP avec 41,5 %.
+Le 1er mai 2016, contre l'avis de la direction du FN, elle participe au rassemblement en hommage à Jeanne d'Arc organisé par Jean-Marie Le Pen, s'exposant ainsi à d'éventuelles sanctions[4]. Elle est alors écartée de ses fonctions de responsable départementale du FN en Isère[5].
+Elle annonce, le 25 septembre 2017, son départ du Front national pour rejoindre Les Patriotes, parti politique créé par Florian Philippot, démissionnaire du parti[5]. L'association devient peu après un parti politique, dont elle devient la référente pour l'Isère et référente nationale pour l'écologie[6].
+Vie personnelle.
+Mère de cinq enfants, Mireille d'Ornano a été secrétaire de direction chargée du recouvrement à la médecine du travail interentreprises de l'Isère (MT2I)[1],[7].
+
+Parcours politique.
+Engagée en 1986 au Rassemblement pour la République (RPR)[1], elle opte finalement pour le Front national où elle s'est présentée depuis les années 1980 dans plus de vingt scrutins locaux, devenant la responsable départementale FN de l'Isère.
+Elle est élue pour la première fois au comité central du FN lors du congrès de 1990, puis réélue en 1994 et 1997[2]. Elle rejoint le Mouvement national républicain (MNR) lors de la scission du parti en 1998-1999[2].
+Aux élections européennes de 1999, elle est candidate sur la liste MNR[3]. Elle revient au FN l'année suivante.
+Elle réintègre les instances dirigeantes du FN en 2007[2].
+À l'issue des élections régionales de 2010, elle est élue conseillère régionale de la région Rhône-Alpes sur la liste FN conduite par Bruno Gollnisch.
+Elle se présente aux élections législatives de 2012 dans la première circonscription de l'Isère et obtient 7,7 % des suffrages exprimés, derrière Geneviève Fioraso, Jean-Claude Peyrin, Marie-Christine Tardy et Éric Piolle.
+Elle conduit la liste FN à Grenoble pour les élections municipales de 2014. Elle obtient 12,6 % des suffrages exprimés au premier tour et décide de maintenir sa liste au second tour[1]. Elle perd plus d'un millier d'électeurs en l'espace d'une semaine et recule de quatre points entre les deux tours, mais décroche néanmoins deux sièges au conseil municipal de Grenoble et un siège à la métropole, dans l'opposition dans les deux cas.
+Elle devient députée européenne lors des élections européennes de 2014, élue dans la région Sud-est sur la liste conduite par Jean-Marie Le Pen.
+Elle se porte candidate, en binôme avec Éric Guironnet de Massas, aux élections départementales de 2015 dans le canton de Charvieu-Chavagneux, dans l'Isère rhodanienne. Elle arrive en tête du premier tour avec 35,5 % des suffrages exprimés, puis est battue au second tour par un binôme UMP avec 41,5 %.
+Le 1er mai 2016, contre l'avis de la direction du FN, elle participe au rassemblement en hommage à Jeanne d'Arc organisé par Jean-Marie Le Pen, s'exposant ainsi à d'éventuelles sanctions[4]. Elle est alors écartée de ses fonctions de responsable départementale du FN en Isère[5].
+Elle annonce, le 25 septembre 2017, son départ du Front national pour rejoindre Les Patriotes, parti politique créé par Florian Philippot, démissionnaire du parti[5]. L'association devient peu après un parti politique, dont elle devient la référente pour l'Isère et référente nationale pour l'écologie[6].
+Vie personnelle.
+Mère de cinq enfants, Mireille d'Ornano a été secrétaire de direction chargée du recouvrement à la médecine du travail interentreprises de l'Isère (MT2I)[1],[7].
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement pour la République (RPR) 1986-v. 1990.
+PART Front national (FN) v. 1990-1998.
+PART Mouvement national républicain (MNR) 1998-1999.
+PART Front national (FN) 1999-2017.
+PART Florian Philippot (LP) depuis 2017.
+FONCTIONNORM
+
+NOMF Députée européenne NOMF En fonction depuis le 1er juillet 2014(3 ans, 7 mois et 17 jours) SEP2 Élection REL 25 mai 2014 SEP2 Législature REL 8e SEP2 Groupe politique REL NI (2014-2015)ENL (2015-2017)ELDD (depuis 2017).
+NOMF Conseillère régionale de Rhône-Alpes NOMF 21 mars 2010 – 24 juin 2014(4 ans, 3 mois et 3 jours).
+NOMF Président NOMF Conseillère municipale de Grenoble.
+NOMF Conseillère municipale de Grenoble NOMF En fonction depuis le 4 avril 2014(3 ans, 10 mois et 14 jours) SEP2 Date de naissance REL 29 juin 1951 (66 ans) SEP2 Lieu de naissance REL Angoulême (Charente) SEP2 Nationalité REL française SEP2 Parti politique REL RPR (1986-v. 1990)FN (v. 1990-1998)MNR (1998-1999)FN (1999-2017)LP (depuis 2017) SEP2 Profession REL secrétaire de direction.

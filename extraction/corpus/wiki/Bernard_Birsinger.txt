@@ -1,0 +1,17 @@
+PRETAG Bernard.
+NOMTAG Birsinger.
+Bernard Birsinger (né le 1er septembre 1954 dans le 18e arrondissement de Paris, décédé le 25 août 2006 à Bunus, Pyrénées-Atlantiques), est un homme politique français.
+Il était membre du Parti communiste français, maire de Bobigny et avait été député de la Seine-Saint-Denis.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la 5e circonscription de la Seine-Saint-Denis NOMF 5 juillet 1997 – 18 juin 2002(4 ans, 11 mois et 13 jours) SEP2 Gouvernement REL Ve république SEP2 Groupe politique REL PCF SEP2 Prédécesseur REL Jean-Claude Gayssot (PCF) SEP2 Successeur REL Jean-Christophe Lagarde (UDF) SEP2 Prédécesseur REL Georges Valbon (PCF) SEP2 Successeur REL Catherine Peyge (PCF) SEP2 Date de naissance REL 1er septembre 1954 SEP2 Lieu de naissance REL Paris XVIIIe SEP2 Date de décès REL 25 août 2006 (à 51 ans) SEP2 Lieu de décès REL Bunus SEP2 Profession REL Électrotechnicien SEP2 Résidence REL Cinquième circonscription de la Seine-Saint-Denis.

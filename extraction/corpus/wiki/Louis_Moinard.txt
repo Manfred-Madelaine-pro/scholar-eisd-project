@@ -1,0 +1,16 @@
+PRETAG Louis.
+NOMTAG Moinard.
+Louis Moinard, né le 31 octobre 1930 à Nieul-sur-l'Autise (Vendée), agriculteur, est un homme politique français, sénateur de Vendée de 1987 à 2004.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de la Vendée NOMF 27 février 1987 – 30 septembre 2004 SEP2 Élection REL 24 septembre 1995 SEP2 Groupe politique REL Union centriste SEP2 Prédécesseur REL Louis Caiveau SEP2 Successeur REL Michel Bossard SEP2 Date de naissance REL 31 octobre 1930 (87 ans) SEP2 Lieu de naissance REL Nieul-sur-l'Autise SEP2 Nationalité REL Française.

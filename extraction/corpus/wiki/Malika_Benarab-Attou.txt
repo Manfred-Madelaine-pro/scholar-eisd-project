@@ -1,0 +1,27 @@
+PRETAG Malika.
+NOMTAG Benarab-Attou.
+Malika Benarab-Attou, née le 25 mars 1963 à Aïn Benian (Algérie), est une femme politique française, députée européenne entre 2009 et 2014. Élue sur les listes d'Europe Écologie Les Verts, elle quitte ce parti en février 2014 pour Nouvelle Donne.
+
+
+
+Née en Algérie dans une famille kabyle, Malika Benarab-Attou arrive en France en 1968, accompagnée de sa mère et de ses frères pour rejoindre son père, ouvrier chez Renault. Ils s'installent aux Abrets, et elle y passe son enfance avant d'habiter Lyon où elle poursuivra ses études. Dans les années 1980, elle travaille comme formatrice pour adultes pour des publics en insertion. Parallèlement, elle milite dans la lutte antiraciste[1] et pour l'égalité des droits, tout en restant à l'écart de SOS Racisme, qu'elle juge instrumentalisé politiquement.
+Diplômée de l’École nationale supérieure de sécurité sociale (EN3S) et titulaire d'un DEA de société contemporaine du Maghreb à l'université Paris VIII[2], elle devient cadre à la Caisse primaire d'assurance maladie de Chambéry. Elle rejoint Les Verts en 2002[3], et habite à Chambéry depuis 2006.
+Aux élections européennes de juin 2009, elle est présentée en troisième position sur la liste d'Europe Écologie dans la circonscription Sud-Est. En Savoie, où la liste des Verts est soutenue par le Mouvement Région Savoie (allié à travers l'Alliance libre européenne aux écologistes européens), Europe Écologie obtient le résultat élevé de 19,61 %[4] des suffrages, et Malika Benarab-Attou est élue députée européenne.
+Au Parlement européen, elle est membre de la commission de la culture et de l'éducation qui concerne également la politique de la jeunesse, du sport, des médias et du multilinguisme. Elle est également membre de la commission de l'emploi et des affaires sociales qui traite notamment des questions relatives à l'intégration sociale et à l'amélioration des conditions de travail.
+Malika Benarab-Attou est en outre membre de l'Assemblée parlementaire de l'Union pour la Méditerranée et la délégation pour les relations avec les pays du Maghreb. À la différence des commissions, qui préparent les actes législatifs qui seront adoptés ou rejetés en séance plénière, les délégations n'ont pas de compétences législatives mais permettent aux députés de voyager dans des pays tiers pour discuter des projets d'association avec ses partenaires[5].
+En septembre 2013, elle lance le groupe d'amitié UE-Maghreb. Via un blog dédié et l'organisation de différents événements, le groupe se positionne comme un espace de propositions, d'analyses et de questionnements dans le but de contribuer à un débat public sur la question de l'intégration maghrébine tout en renforçant les liens entre le nord et le sud de la Méditerranée[6].
+En désaccord avec la politique de son parti (EELV) dans le gouvernement français et écartée des listes des élections européennes de 2014[7], elle rejoint en février 2014 le mouvement Nouvelle Donne[8].
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts) 2002-2010.
+PART Europe Écologie Les Verts (EELV) 2010-2014.
+PART Nouvelle Donne (parti politique) (Nouvelle Donne) depuis 2014.
+FONCTIONNORM
+
+NOMF Députée européenne NOMF 14 juillet 2009 – 30 juin 2014 SEP2 Élection REL 7 juin 2009 SEP2 Législature REL 7e SEP2 Date de naissance REL 25 mars 1963 (54 ans) SEP2 Lieu de naissance REL Aïn Benian (Algérie) SEP2 Nationalité REL Française SEP2 Parti politique REL Les Verts (2002-2010)EELV (2010-2014)Nouvelle Donne (depuis 2014) SEP2 Diplômé de REL EN3SUniversité Paris VIII SEP2 Profession REL Cadre à la CPAM.

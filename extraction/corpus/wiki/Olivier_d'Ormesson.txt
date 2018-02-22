@@ -1,0 +1,16 @@
+PRETAG Olivier.
+NOMTAG d'Ormesson.
+Olivier d'Ormesson, né le 5 août 1918 à Biarritz et mort le 24 octobre 2012 au Teilloy, commune d'Ouzouer-sur-Trézée (Loiret)[1],[2], est un homme politique français. Membre de l'Académie de Versailles, il fut maire d'Ormesson-sur-Marne (Val-de-Marne) de 1947 à 1998, conseiller général de 1955 à 1999, député de 1958 à 1962 et brièvement en 1986, et enfin député européen de 1979 à 1989.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1958-19621986-1988 NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL IPAS (1958-1962)FN-RN (1986) SEP2 Date de naissance REL 5 août 1918 SEP2 Lieu de naissance REL Biarritz SEP2 Date de décès REL 24 octobre 2012 (à 94 ans) SEP2 Lieu de décès REL Ouzouer-sur-Trézée SEP2 Résidence REL Lézignan-la-Cèbe.

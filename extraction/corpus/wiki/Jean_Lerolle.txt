@@ -1,0 +1,21 @@
+PRETAG Jean.
+NOMTAG Lerolle.
+Jean Joseph Lerolle, né le 12 mai 1873 et décédé le 25 février 1962 dans le 7e arrondissement de Paris, est un homme politique français.
+
+
+
+Jean est le fils de Paul Lerolle (1846-1912) et Marie Caroline Delacommune, son épouse[1]. Il est le neveu du peintre Henry Lerolle.
+Il épouse le 19 octobre 1901 Denise Étiennette Chausson[1], fille du compositeur Ernest Chausson.
+Avocat à Paris, il est vice-président de l'Association catholique de la jeunesse française. Il est député de la Seine de 1912 à 1919, inscrit au groupe de l'Action libérale et de 1928 à 1936, inscrit au groupe des démocrates populaires. Il collabore au Sillon et au journal l’Âme française.
+Après la guerre, il quitte la vie politique et se consacre à diverses associations catholiques, animant notamment les Semaines sociales de France.
+Il succède à l'académicien Georges Goyau à la présidence de l'Académie d'éducation et d'études sociales (AES)[2].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

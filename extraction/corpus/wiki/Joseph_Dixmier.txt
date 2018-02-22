@@ -1,0 +1,16 @@
+PRETAG Joseph.
+NOMTAG Dixmier.
+Joseph Dixmier, né le 4 septembre 1894 à Varennes-sur-Morge (Puy-de-Dôme) et mort le 13 février 1980 à Nice (Alpes-Maritimes), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la 5e circonscription du Puy-de-Dôme NOMF 30 novembre 1958 – 9 octobre 1962 SEP2 Date de naissance REL 4 septembre 1894 SEP2 Lieu de naissance REL Varennes-sur-Morge (Puy-de-Dôme) SEP2 Date de décès REL 13 février 1980 (à 85 ans) SEP2 Lieu de décès REL Nice (Alpes-Maritimes) SEP2 Nationalité REL Française.

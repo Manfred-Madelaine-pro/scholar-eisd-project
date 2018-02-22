@@ -1,0 +1,18 @@
+PRETAG Philippe.
+NOMTAG Latombe.
+Philippe Latombe, né le 21 avril 1975 à Paris, est un cadre bancaire et un homme politique français.
+Membre du Mouvement démocrate, MoDem, et investi par La République en marche, il est élu député de la première circonscription de la Vendée (Challans) le 18 juin 2017.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Député français NOMF En fonction depuis le 21 juin 2017(7 mois et 21 jours) SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 1re circonscription de la Vendée SEP2 Législature REL XVe SEP2 Groupe politique REL Modem et apparentés SEP2 Prédécesseur REL Alain Lebœuf SEP2 Nom de naissance REL Philippe Alcibiade Marie-Joseph Latombe[1] SEP2 Date de naissance REL 21 avril 1975 (42 ans) SEP2 Lieu de naissance REL Paris (France) SEP2 Nationalité REL Française SEP2 Parti politique REL Modem (depuis 2016)EM (2016-2017)LREM (depuis 2017) SEP2 Diplômé de REL Université de Rennes-IUniversité de Nantes SEP2 Profession REL Cadre bancaire.

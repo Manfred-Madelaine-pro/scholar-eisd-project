@@ -1,0 +1,22 @@
+PRETAG Sylvie.
+NOMTAG Goddyn.
+Sylvie Goddyn, née le 24 juin 1964 à Lille (Nord), est une femme politique française, membre du Front national (FN).
+Elle est conseillère régionale du Nord-Pas-de-Calais entre 2004 et 2015[1] et députée européenne depuis 2014.
+
+
+Elle est mère de deux enfants[2]. Elle rejoint le Front national en septembre 1989[3]. Elle est membre du Comité central et assistante parlementaire au Parlement européen avant son élection dans cette même assemblée[2].
+Elle a été conseillère municipale à Roubaix entre 2001 et 2008[2]. En 2014, elle est tête de liste lors des élections municipales à Marcq-en-Barœul, où elle habite[2], et est élue conseillère municipale d'opposition.
+Lors des législatives de 2017, elle est candidate dans la 3e circonscription du Nord[4], où elle obtient 48,70 % des suffrages exprimés au second tour.
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN).
+FONCTIONNORM
+
+NOMF Députée européenne NOMF En fonction depuis le 1er juillet 2014(3 ans, 7 mois et 10 jours) SEP2 Élection REL 25 mai 2014 SEP2 Législature REL 8e SEP2 Groupe politique REL NI (2014-2015)ENL (depuis 2015).
+NOMF Conseillère régionale du Nord-Pas-de-Calais NOMF 28 mars 2004 – 13 décembre 2015(11 ans, 8 mois et 15 jours) SEP2 Élection REL 28 mars 2004 SEP2 Réélection REL 21 mars 2010 SEP2 Date de naissance REL 24 juin 1964 (53 ans) SEP2 Lieu de naissance REL Lille (Nord) SEP2 Nationalité REL Française SEP2 Parti politique REL FN.

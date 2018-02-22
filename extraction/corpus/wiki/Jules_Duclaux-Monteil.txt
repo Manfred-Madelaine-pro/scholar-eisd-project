@@ -1,0 +1,20 @@
+PRETAG Jules.
+NOMTAG Duclaux-Monteil.
+Jules Duclaux-Monteil est un homme politique français né le 31 juillet 1848 à Vernaison (Rhône) et décédé le 2 avril 1939 à Paris.
+Propriétaire terrien, il succède à son père comme maire des Vans et conseiller général, malgré plusieurs invalidations. Il reste conseiller général jusqu'en 1930, et préside le conseil général de 1928 à 1930. Après deux échecs, il est élu député de l'Ardèche en 1902, et conserve ce siège jusqu'en 1930, date à laquelle il est élu sénateur. Il siège au Sénat jusqu'en 1939. À la Chambre, il siège avec les progressistes puis à la Fédération républicaine. Il est questeur de la Chambre de 1920 à 1928.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .
+NOMF Sénateur de la Troisième République (d) NOMF .

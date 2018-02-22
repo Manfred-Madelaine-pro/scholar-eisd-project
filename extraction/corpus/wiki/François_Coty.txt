@@ -1,0 +1,19 @@
+PRETAG François.
+NOMTAG Coty.
+Joseph Marie François Spoturno dit François Coty est un industriel et homme politique français, né à Ajaccio le 3 mai 1874 et mort à Louveciennes le 25 juillet 1934.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Comité central bonapartiste (Comité central bonapartiste).
+PART Solidarité française (Solidarité française).
+FONCTIONNORM
+
+NOMF Sénateur de la Corse NOMF 8 juillet 1923 – 10 avril 1924 SEP2 Nom de naissance REL Joseph Marie François Spoturno SEP2 Date de naissance REL 3 mai 1874 SEP2 Lieu de naissance REL Ajaccio SEP2 Date de décès REL 25 juillet 1934 (à 60 ans) SEP2 Lieu de décès REL Louveciennes SEP2 Nationalité REL Française SEP2 Parti politique REL Comité central bonapartisteSolidarité française SEP2 Profession REL Chef d'entrepriseParfumeurÉditeur de presse.

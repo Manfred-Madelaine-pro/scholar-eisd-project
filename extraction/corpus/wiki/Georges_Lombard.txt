@@ -1,0 +1,17 @@
+PRETAG Georges.
+NOMTAG Lombard.
+Georges Lombard est un homme politique français né le 14 mars 1925 à Paris et mort à Brest le 13 septembre 2010[1]. Membre du Centre national des indépendants et paysans puis de Progrès et démocratie moderne.
+
+
+Après des études secondaires, il se porte vers les études de droit et le métier d’avocat, qu’il exerce au barreau de Brest dès 1949. En 1958 il entame une carrière politique en devenant député du Finistère. Maire de Brest de 1959 à 1973, il fonde la Communauté Urbaine de Brest, dont il devient le premier président de 1974 à 1977, puis de 1983 à 1989.
+Il est conseiller général du canton de Brest-Saint-Marc jusqu’en 1992, sénateur de 1971 à 1989. Il a également été conseiller régional. De 1972 à 1974 il est président du Comité d'étude et de liaisons des intérêts bretons (Celib) et premier président de l’Institut culturel de Bretagne, de 1981 à 1986.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1958-1962puis 1967-1968Sénateur 1971-1989 NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL IPAS (1958-1962)PDM (1967-1968)UC (1971-1989) SEP2 Date de naissance REL 14 mars 1925 SEP2 Date de décès REL 13 septembre 2010 (à 85 ans) SEP2 Résidence REL Finistère.

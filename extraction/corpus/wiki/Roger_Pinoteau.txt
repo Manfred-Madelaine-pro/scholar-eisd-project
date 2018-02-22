@@ -1,0 +1,21 @@
+PRETAG Roger.
+NOMTAG Pinoteau.
+Roger Pinoteau, né le 2 avril 1910 à Reuilly (Indre) et mort le 13 octobre 1986 à Paris, est un homme politique français.
+
+
+Roger Pinoteau est médecin-chef adjoint de l'Assistance publique.
+Il commence sa carrière politique en 1936 comme secrétaire de la conférence Molé, institution fondée en 1832 avec le but d'étudier les « questions de législation, d'économie politique et de politique générale »[1], ainsi que des Jeunes de l'Union nationale des combattants. Après la guerre, il est élu en 1953 conseiller de Paris et devient vice-président du Conseil. Il conserve son siège jusqu'en 1965. Entre-temps, il est candidat dans la 3e circonscription de la Seine aux législatives de 1956 mais sa liste n'arrive qu'en quatrième position, derrière celles de Jean-Louis Vigier, Pierre Guérard et Édouard Tercinet.
+Il est élu député de la 30e circonscription de la Seine, comme indépendant. Candidat lors des quatre élections suivantes, en 1962, 1967, 1968 et 1973, il est chaque fois battu. En 1962, son adversaire UNR Marc Saintout est élu au premier tour avec 10 253 voix contre 7 668.
+Il a été vice-président du Comité de France[2] et secrétaire général du Conseil national de l'Ordre des médecins. Il fut également dans les années 1960-1970, président général de la Société académique Arts-Sciences-Lettres.
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNI).
+FONCTIONNORM
+
+NOMF Député de la 30e circonscription de Paris NOMF 9 décembre 1958 – 9 octobre 1962 SEP2 Législature REL 1re (Ve République) SEP2 Groupe politique REL IPAS SEP2 Prédécesseur REL circonscription créée SEP2 Successeur REL Marc Saintout SEP2 Date de naissance REL 2 avril 1910 SEP2 Lieu de naissance REL Reuilly (Indre) SEP2 Date de décès REL 13 octobre 1986 (à 76 ans) SEP2 Lieu de décès REL Paris SEP2 Parti politique REL CNI SEP2 Profession REL Médecin.

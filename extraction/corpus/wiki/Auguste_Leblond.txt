@@ -1,0 +1,25 @@
+PRETAG Auguste.
+NOMTAG Leblond.
+Auguste Leblond (29 février 1856 Rouen - 18 février 1934 Rouen) est un entrepreneur de peinture et de vitrerie, comme son père, avec un rôle actif dans le syndicat patronal du bâtiment.
+
+
+
+Il fait ses études au lycée de Rouen et succède à son père à la tête d'une entreprise de peinture en bâtiments.
+Il est ensuite le président fondateur de l'Union des syndicats professionnels rouennais[1].
+Républicain modéré, il entra en 1900 en politique et fut élu maire de Rouen de 1902 à 1914 et de 1914 à 1919 avant d'occuper les postes de conseiller général (1907), de député (1910) puis de sénateur (1913).
+Il introduit l'usage des poubelles à Rouen. Il préside les cérémonies du Millénaire normand en 1911 et reçoit à cette occasion le président Armand Fallières.
+En 1911, il reçoit la grand-croix de l'ordre de Saint-Olaf[2]. En 1924, il est nommé chevalier de la Légion d'honneur[3],[4].
+Il demeurait 11 rue Louette puis 8 rue Pouchet à Rouen.
+Une rue de Rouen porte son nom.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 24 avril 1910 – 20 septembre 1913.
+NOMF Sénateur NOMF 21 septembre 1913 – 10 janvier 1920.
+NOMF Conseiller général de Seine-Maritime NOMF Maire de Rouen SEP2 Prédécesseur REL Marcel Cartier SEP2 Successeur REL Lucien Valin SEP2 Nom de naissance REL Charles Auguste Marie Leblond SEP2 Date de naissance REL 29 février 1856 SEP2 Lieu de naissance REL Rouen SEP2 Date de décès REL 18 février 1934 (à 77 ans) SEP2 Lieu de décès REL Rouen SEP2 Nationalité REL Français SEP2 Profession REL Entrepreneur.

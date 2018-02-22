@@ -1,0 +1,21 @@
+PRETAG André.
+NOMTAG Barbier.
+André Barbier, né le 3 mars 1885 à Darney et mort le 7 avril 1962 dans sa ville natale, est un homme politique français.
+
+
+
+Sorti diplômé de l'École nationale vétérinaire d'Alfort en 1907, il revient dans les Vosges pour exercer sa profession en milieu rural. Mobilisé en août 1914 en qualité de vétérinaire-major, il ne revient à la vie civile qu'en mars 1919. Élu aussitôt conseiller municipal de Darney, il sera constamment réélu, maire de sa commune de 1930 à sa mort.
+Membre de l'Alliance démocratique, il est élu député à la faveur d'une élection législative partielle en 1926 et conserve son siège jusqu'en 1932. Battu aux élections législatives de cette année, il patiente jusqu'en 1934 pour retrouver un siège de parlementaire, comme sénateur des Vosges.
+Bien que n'ayant pas pris part au vote du 10 juillet sur la remise des pleins pouvoirs au Maréchal Pétain, il conserve ses fonctions de maire de Darney sous l'Occupation et est nommé membre du Conseil national. Il préside le conseil départemental des Vosges.
+Ces fonctions lui valent d'être déclaré inéligible à la Libération ; il est toutefois blanchi par un Jury d'honneur, ce qui lui permet d'être élu député à la première Assemblée nationale Constituante sur la Liste gaulliste républicaine et d'action démocratique.
+Il ne se représente pas aux élections dû à la seconde Assemblée nationale Constituante mais conduit la Liste gaulliste d'union républicaine aux premières élections législatives de la Quatrième République, en 1946. En 1951, il est réélu avec le soutien du Centre national des indépendants et paysans ainsi que du Rassemblement des gauches républicaines. Il ne sollicite pas le renouvellement de son mandat parlementaire en 1956 mais conserve en revanche ses fonctions de maire de Darney ainsi que la présidence du Conseil général.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1926-1932puis 1945-1955Sénateur 1934-1940 NOMF GouvernementTroisième République-Quatrième République SEP2 Gouvernement REL Troisième République-Quatrième République SEP2 Groupe politique REL ADS (1928-1932)UR (1934-1940)RI (1945-1955) SEP2 Date de naissance REL 3 mars 1885 SEP2 Date de décès REL 7 avril 1962 (à 77 ans) SEP2 Résidence REL Vosges.

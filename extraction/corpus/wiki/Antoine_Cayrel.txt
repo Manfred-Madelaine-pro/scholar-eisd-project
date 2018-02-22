@@ -1,0 +1,23 @@
+PRETAG Antoine.
+NOMTAG Cayrel.
+Antoine Cayrel est un homme politique français de gauche, né le 23 avril 1885 à Sigean et décédé le 13 septembre 1970 à Mérignac.
+
+
+Maire du Bouscat de 1925 à 1944 et conseiller général de 1922 à 1940
+
+Député SFIO de la Gironde de 1924 à 1928.
+Député PSdF puis Gauche indépendante de la Gironde de 1932 à 1942.
+
+En 1933, il est exclu de la SFIO avec le groupe des "récidivistes d'Angoulême" et est l'un des fondateurs du Parti socialiste de France.
+Sous l'Occupation, il est membre du Conseil national instauré par Vichy. En septembre 1940, il est pendant trois semaines commissaire général du ministère de l'Intérieur chargé des réfugiés.
+A la Libération, il abandonne la politique pour se lancer dans les affaires.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1924-1928puis 1932-1942 NOMF 1924 – SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL SFIO (1924-1928)PSdF (1932-1936)GI (1936-1942) SEP2 Date de naissance REL 23 avril 1885 SEP2 Date de décès REL 13 septembre 1970 (à 85 ans) SEP2 Résidence REL Gironde.

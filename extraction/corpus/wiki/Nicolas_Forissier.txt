@@ -1,0 +1,37 @@
+PRETAG Nicolas.
+NOMTAG Forissier.
+Nicolas Forissier, né le 17 février 1961 à Paris, est un homme politique français.
+
+Sa fille aînée, Mathilde, 26 ans, et le compagnon de celle-ci, Pierre-Vladimir Lobadowsky, 27 ans, sont morts à Katmandou le 25 avril 2015 [note A] au moment du séisme au Népal[5],[6]. La mère de Mathilde Forissier est Florence Gardey de Soos, ancienne journaliste à L'Écho du Berry[7].
+
+Nicolas Forissier fait partie du groupe UMP. Il est maire de La Châtre depuis 1995 et président de l'UMP pour le département de l'Indre[1].
+Élu député de la 2e circonscription de l'Indre le 2 avril 1993, il est réélu en 1997, 2002 et 2007 avant d'être battu par la candidate du parti socialiste et maire-adjointe d'Issoudun, Isabelle Bruneau. Il est de nouveau réélu dans la même circonscription en 2017.
+Nicolas Forissier était secrétaire d'État chargé de l'agriculture, de l'alimentation, de la pêche et des affaires rurales, de mars 2004 à mai 2005, dans le gouvernement de Jean-Pierre Raffarin[2].
+Nicolas Forissier, président de la fédération départementale des Républicains, a été nommé par Nicolas Sarkozy en juin 2015 secrétaire national du mouvement[3].
+Il parraine Laurent Wauquiez pour le congrès des Républicains de 2017, scrutin lors duquel est élu le président du parti[4].
+Vie privée.
+Sa fille aînée, Mathilde, 26 ans, et le compagnon de celle-ci, Pierre-Vladimir Lobadowsky, 27 ans, sont morts à Katmandou le 25 avril 2015 [note A] au moment du séisme au Népal[5],[6]. La mère de Mathilde Forissier est Florence Gardey de Soos, ancienne journaliste à L'Écho du Berry[7].
+
+Parcours politique.
+Nicolas Forissier fait partie du groupe UMP. Il est maire de La Châtre depuis 1995 et président de l'UMP pour le département de l'Indre[1].
+Élu député de la 2e circonscription de l'Indre le 2 avril 1993, il est réélu en 1997, 2002 et 2007 avant d'être battu par la candidate du parti socialiste et maire-adjointe d'Issoudun, Isabelle Bruneau. Il est de nouveau réélu dans la même circonscription en 2017.
+Nicolas Forissier était secrétaire d'État chargé de l'agriculture, de l'alimentation, de la pêche et des affaires rurales, de mars 2004 à mai 2005, dans le gouvernement de Jean-Pierre Raffarin[2].
+Nicolas Forissier, président de la fédération départementale des Républicains, a été nommé par Nicolas Sarkozy en juin 2015 secrétaire national du mouvement[3].
+Il parraine Laurent Wauquiez pour le congrès des Républicains de 2017, scrutin lors duquel est élu le président du parti[4].
+Vie privée.
+Sa fille aînée, Mathilde, 26 ans, et le compagnon de celle-ci, Pierre-Vladimir Lobadowsky, 27 ans, sont morts à Katmandou le 25 avril 2015 [note A] au moment du séisme au Népal[5],[6]. La mère de Mathilde Forissier est Florence Gardey de Soos, ancienne journaliste à L'Écho du Berry[7].
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Député de l'IndreÉlu dans la 2e circonscription NOMF En fonction depuis le 21 juin 2017(7 mois et 30 jours) SEP2 Élection REL 18 juin 2017 SEP2 Prédécesseur REL Isabelle Bruneau SEP2 Prédécesseur REL Bernard Pousset SEP2 Successeur REL Isabelle Bruneau (PS) SEP2 Prédécesseur REL André Laignel SEP2 Successeur REL Bernard Pousset.
+NOMF Conseiller régional du Centre-Val de Loire NOMF En fonction depuis le 18 décembre 2015(2 ans, 2 mois et 2 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Président NOMF Secrétaire d'Etat chargé de l'Agriculture, de l’Alimentation de la Pêcheet des Affaires rurales.
+NOMF Président NOMF GouvernementJean-Pierre Raffarin III SEP2 Gouvernement REL Jean-Pierre Raffarin III SEP2 Élection REL 18 juin 1995 SEP2 Prédécesseur REL Maurice Tissandier SEP2 Date de naissance REL 17 février 1961 (57 ans) SEP2 Lieu de naissance REL Paris SEP2 Nationalité REL  Française SEP2 Parti politique REL UMP SEP2 Diplômé de REL Université Paris IV-SorbonneScience Po Paris SEP2 Profession REL Chef d'entreprise.

@@ -1,0 +1,30 @@
+PRETAG Léon.
+NOMTAG Debouverie.
+Léon Paul Debouverie né à Lannoy (Nord) le 3 juin 1889, décédé à Amiens (Somme) le 10 mars 1950 est un homme politique français.
+
+
+
+Une promotion sociale à la force du poignet.
+D’origine flamande, Léon Debouverie est issu d’une famille ouvrière de l’industrie textile. Il était orphelin de père, sa mère éleva seule ses deux enfants. Après avoir obtenu son certificat d’études primaires, il suivit des cours du soir à l’Institut technique de Roubaix et obtint un diplôme de comptabilité et de commerce. Il devint comptable dans une filature de sa ville natale. Il fut influencé par le catholicisme social et le Sillon de Marc Sangnier.
+Pendant la Grande Guerre, il combattit à Verdun avant de faire partie en novembre 1916, en qualité de lieutenant, de la mission militaire française en Roumanie. De retour en France en 1918, il fut blessé le 13 juin. Pour sa bravoure au combat, il fut décoré de la croix de l'ordre de la Couronne de Roumanie, de la Croix de guerre 1914-1918 et fut fait chevalier de la Légion d’honneur.
+Un chef d’entreprise.
+Rendu à ses foyers, Léon Debouverie devint directeur commercial de la Grande Brasserie coopérative de Lille. Devenu veuf en 1927, resté seul avec six enfants, il s’installa à Amiens et fonda une entreprise d’importation et de commercialisation d’hydrocarbures et de transport routier de marchandises.
+Marqué par le catholicisme social, il fut membre de la Jeune République puis du Parti démocrate populaire.
+Un homme politique.
+En 1940, il resta à Amiens après le bombardement de la ville le 19 mai, malgré l’ordre d’évacuation. Dans une cité occupée par l’armée allemande, avec un centre ville anéanti par les bombardements, Léon Debouverie, avec l’aide de quelques concitoyens, mit toute son énergie à remettre en ordre de marche les services publics, organisant le ravitaillement des habitants et l’inhumation des morts. De ce fait, le 17 juin 1940, il fut nommé maire d’Amiens par les autorités d’occupation.
+Mais ses relations avec l’occupant étaient si mauvaises qu’il dut démissionner. Il s’était opposé à la réquisition par l’armée allemande de 250 quintaux de blé et à la réquisition des camions de son entreprise pour leur transport. Il fut condamné en juillet 1941 par un tribunal militaire allemand à deux mois de prison. Son domicile fut perquisitionné à deux reprises le 15 août et le 26 août et des tracts anti-allemands et favorables aux anglais y furent découverts. Un nouveau procès le condamna à neuf mois d’emprisonnement (ce qui faisait onze au total), peine qu’il purgea à la prison de Saarbrücken. À son retour en France en juillet 1942, il fut assigné à résidence à Soissons jusqu’à la Libération.
+En 1945, il se présenta sous l’étiquette MRP aux élections cantonales où il fut battu. Il conduisit la liste MRP à l’élection de la première Assemblée constituante le 21 octobre 1945 et fut élu avec un autre colistier.
+La vie parlementaire le déçut et il ne sollicita pas sa réélection le 2 juin 1946. Il quitta le MRP car il était hostile à l’alliance avec le PCF.
+En 1947, il fut élu conseiller municipal sur la liste du MRP et, c’est au cours d’une séance du conseil municipal, pendant une de ses interventions, qu’il mourut brutalement, le 10 mars 1950.
+
+
+
+
+
+
+
+PARTISNORM
+PART Démocrate chrétien (démocrate chrétien).
+FONCTIONNORM
+
+NOMF Député de la première Assemblée nationale constituante (Somme) NOMF 21 octobre 1945 – 2 juin 1946 SEP2 Nom de naissance REL Léon Paul Debouverie SEP2 Date de naissance REL 3 juin 1889 SEP2 Lieu de naissance REL Lannoy SEP2 Date de décès REL 10 mars 1950 (à 60 ans) SEP2 Lieu de décès REL Amiens SEP2 Nationalité REL  France SEP2 Parti politique REL courant : démocrate chrétien SEP2 Diplômé de REL Institut Technique Roubaisien SEP2 Profession REL Commerçant en hydrocarbures.

@@ -1,0 +1,32 @@
+PRETAG André.
+NOMTAG Diligent.
+André Diligent, né le 10 mai 1919 à Roubaix (Nord) et décédé à Villeneuve-d'Ascq (Nord) le 3 février 2002, est un homme politique français.
+
+
+
+Famille.
+André Diligent est le fils de Victor Diligent, grande figure du Sillon dans le Nord et animateur de la fédération PDP. Il est issu d'une famille profondément catholique, filleul de Marc Sangnier, fondateur du Sillon, André Diligent fait ses études au collège Notre-Dame-des-Victoires de Roubaix avant d'entrer, en 1937, à la Faculté libre de droit de Lille. Avocat de profession, il entame une carrière politique au lendemain de la seconde guerre mondiale.
+Il est mobilisé lors de la Seconde Guerre mondiale, et est affecté à Marrakech où il termine ses études de droit. Il rentre en novembre 1942 en France où il devient secrétaire d'un syndicat de confectionneurs, entre dans la Résistance, et est choisi comme commissaire régional adjoint à la Libération chargé de Radio-Lille. Il épouse Danielle qui décède en 1970 et il aura une fille Anne qui décède en 2006.
+Carrière professionnelle.
+En 1975, il devient actionnaire du groupe Nord-Eclair-éditions, éditeur du quotidien régional Nord-Eclair puis président de son Conseil d'administration de 1979 à 1989. Il est aussi avocat à Roubaix et assurera notamment la défense de Mamadou Ndiaye, chiropracteur accusé par l'ordre des médecins.
+
+
+
+En 1975, il devient actionnaire du groupe Nord-Eclair-éditions, éditeur du quotidien régional Nord-Eclair puis président de son Conseil d'administration de 1979 à 1989. Il est aussi avocat à Roubaix et assurera notamment la défense de Mamadou Ndiaye, chiropracteur accusé par l'ordre des médecins.
+
+André Diligent est le fils de Victor Diligent, grande figure du Sillon dans le Nord et animateur de la fédération PDP. Il est issu d'une famille profondément catholique, filleul de Marc Sangnier, fondateur du Sillon, André Diligent fait ses études au collège Notre-Dame-des-Victoires de Roubaix avant d'entrer, en 1937, à la Faculté libre de droit de Lille. Avocat de profession, il entame une carrière politique au lendemain de la seconde guerre mondiale.
+Il est mobilisé lors de la Seconde Guerre mondiale, et est affecté à Marrakech où il termine ses études de droit. Il rentre en novembre 1942 en France où il devient secrétaire d'un syndicat de confectionneurs, entre dans la Résistance, et est choisi comme commissaire régional adjoint à la Libération chargé de Radio-Lille. Il épouse Danielle qui décède en 1970 et il aura une fille Anne qui décède en 2006.
+Carrière professionnelle.
+En 1975, il devient actionnaire du groupe Nord-Eclair-éditions, éditeur du quotidien régional Nord-Eclair puis président de son Conseil d'administration de 1979 à 1989. Il est aussi avocat à Roubaix et assurera notamment la défense de Mamadou Ndiaye, chiropracteur accusé par l'ordre des médecins.
+
+
+
+PARTISNORM
+PART Mouvement républicain populaire (MRP).
+PART Centre des démocrates sociaux (CDS).
+PART Union pour la démocratie française (UDF).
+FONCTIONNORM
+
+NOMF Sénateur du Nord NOMF 25 septembre 1983 – 30 septembre 2001 SEP2 Prédécesseur REL Octave Bajeux (UCDP) SEP2 Prédécesseur REL Eugène Motte (UNR) SEP2 Successeur REL Victor Provo (PS).
+NOMF Député Européen NOMF 16 juillet 1979 – 23 juillet 1984 SEP2 Prédécesseur REL 1ère élections européennes au suffrage universel direct SEP2 Successeur REL Georges Donnez (UDF).
+NOMF Député de la 8e circonscription du Nord NOMF 30 novembre 1958 – 9 octobre 1962 SEP2 Prédécesseur REL - SEP2 Successeur REL Pierre Herman (UNR-UDT) SEP2 Prédécesseur REL Pierre Prouvost (PS) SEP2 Successeur REL René Vandierendonck (UDF-CDS) SEP2 Nom de naissance REL André Diligent SEP2 Date de naissance REL 10 mai 1919 SEP2 Lieu de naissance REL Roubaix (Nord) SEP2 Date de décès REL 3 février 2002 (à 82 ans) SEP2 Lieu de décès REL Villeneuve-d'Ascq (Nord) SEP2 Nationalité REL  Français SEP2 Parti politique REL MRPCDSUDF SEP2 Profession REL Avocat.

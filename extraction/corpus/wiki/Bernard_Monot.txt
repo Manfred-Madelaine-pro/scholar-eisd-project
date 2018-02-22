@@ -1,0 +1,33 @@
+PRETAG Bernard.
+NOMTAG Monot.
+Bernard Monot, né le 3 juillet 1962 à Nice, est un économiste et homme politique français.
+Issu de la société civile, il devient stratégiste économique du Front national (FN). Il est élu député français au parlement européen de la circonscription Massif central-Centre à l'occasion des élections européennes de 2014.
+
+
+Bernard Monot est sympathisant du Front national depuis la fin des années 1970, mais n'adhère au parti qu'en 1989[6]. À partir de 2005, il devient, avec Bruno Lemaire[7] et Jean-Richard Sulzer, l'un des principaux conseillers du Front national[6] et en particulier de Marine Le Pen sur les dossiers économiques, sous le pseudonyme de Nicolas Pavillon[8]. Il revendique en particulier la modélisation du « plan de désendettement de la France » de Marine Le Pen, et affirme être à l'initiative de la « doctrine du FN sur la monnaie, le financement de l'État, l'emploi et les retraites »[4].
+Le 24 février 2014, à l’occasion d’une conférence de presse à Chartres, Marine Le Pen présente Bernard Monot à la presse et l’annonce officiellement comme tête de liste FN-RBM pour les élections européennes de 2014 dans la circonscription Massif central-Centre[9].
+Le 25 mai 2014, il est élu député européen, et termine premier dans la circonscription Massif central-Centre avec 24,18 % des suffrages[4].
+
+Bernard Monot est né le 3 juillet 1962 à Nice[1].
+Éducation.
+Il effectue une école supérieure de commerce et un DESS en économie entre 1982 et 1988 puis étudie à HEC en 1998-1999[2].
+Vie professionnelle.
+Il travaille comme cambiste, puis financier[2], chez Natixis, Allianz et HSBC, avant de rejoindre la Caisse des dépôts et consignations[3],[4] en 2008.
+Ses compétences professionnelles vont de l'analyse économique à la gestion financière des entreprises, en passant par la stratégie d'investissement, l'actuariat, l'économétrie et la gestion actif-passif[réf. nécessaire].
+Parallèlement à sa carrière, il participe à des cercles de réflexion[Lesquels ?] se préoccupant des problèmes récurrents de la France dans le domaine de l'économie et du social. Ses travaux de recherche personnelle lui permettent de conclure en 2005 à l'avènement proche d'une grande transformation mondiale du modèle macroéconomique[5].
+Parcours politique.
+Bernard Monot est sympathisant du Front national depuis la fin des années 1970, mais n'adhère au parti qu'en 1989[6]. À partir de 2005, il devient, avec Bruno Lemaire[7] et Jean-Richard Sulzer, l'un des principaux conseillers du Front national[6] et en particulier de Marine Le Pen sur les dossiers économiques, sous le pseudonyme de Nicolas Pavillon[8]. Il revendique en particulier la modélisation du « plan de désendettement de la France » de Marine Le Pen, et affirme être à l'initiative de la « doctrine du FN sur la monnaie, le financement de l'État, l'emploi et les retraites »[4].
+Le 24 février 2014, à l’occasion d’une conférence de presse à Chartres, Marine Le Pen présente Bernard Monot à la presse et l’annonce officiellement comme tête de liste FN-RBM pour les élections européennes de 2014 dans la circonscription Massif central-Centre[9].
+Le 25 mai 2014, il est élu député européen, et termine premier dans la circonscription Massif central-Centre avec 24,18 % des suffrages[4].
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) depuis 1989.
+FONCTIONNORM
+
+NOMF Député européen NOMF En fonction depuis le 1er juillet 2014(3 ans, 7 mois et 19 jours) SEP2 Élection REL 25 mai 2014 SEP2 Législature REL 8e SEP2 Groupe politique REL NI (2014-2015)ENL (depuis 2015) SEP2 Date de naissance REL 3 juillet 1962 (55 ans) SEP2 Lieu de naissance REL Nice (Alpes-Maritimes) SEP2 Nationalité REL Français SEP2 Parti politique REL FN (depuis 1989) SEP2 Profession REL FinancierÉconomiste.

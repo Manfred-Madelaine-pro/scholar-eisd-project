@@ -1,0 +1,21 @@
+PRETAG Jean-Maurice.
+NOMTAG Le.
+Jean-Maurice Le Corbeiller est un homme politique français né le 14 septembre 1859 à Bourg-la-Reine (Hauts-de-Seine) et décédé le 10 mars 1936 à Paris.
+Auteur dramatique de théâtre, rédacteur au journal des Débats de 1886 à 1892, il collabore aussi au Gaulois et au Figaro. Il entre en politique en 1899 au sein de la Ligue de la patrie française, où il donne de nombreuses conférences. Il est élu conseiller municipal de Paris en 1908, Président du Conseil municipal en 1920-1921, et député de la Seine de 1921 à 1936, inscrit à l'Entente républicaine démocratique, puis à la fédération républicaine.
+En mai 1920, il est nommé membre du comité directeur de la Ligue des patriotes présidée par Maurice Barrès[1].
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF DéputéSeine NOMF 1921-1936.
+NOMF Conseiller municipalParis NOMF à partir de 1908.

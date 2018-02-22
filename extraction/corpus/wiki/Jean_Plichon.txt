@@ -1,0 +1,41 @@
+PRETAG Jean.
+NOMTAG Plichon.
+Jean Plichon, né le 14 juin 1863 à Bailleul (Nord) et mort à Oxelaëre (Nord) le 22 septembre 1936, est un industriel et homme politique français.
+
+
+
+Milieu social.
+Issu d'une famille bourgeoise catholique établie de longue date dans la Flandre-Maritime, dont le berceau était la petite localité de Bailleul, Jean Plichon est le fils de Charles Ignace Plichon, député royaliste du Nord sous la monarchie de Juillet (1846-1848), le Second Empire (1857-1870) et la Troisième République (élu en 1871, 1876, 1877, 1881 et 1885[3]), ministre des Travaux publics, et de Marie Constance Boittelle, (nièce de Symphorien Boittelle), une fille du banquier et industriel Alexis Boittelle, l'un des principaux fondateurs de l'industrie houillère du Nord, administrateur des Mines de Béthune.
+Il devient ingénieur de l'Ecole Centrale des Arts et Manufactures ( sorti troisième de la promotion 1886 ) et entre à la Compagnie des mines de Béthune[4], dont sa famille est actionnaire. Il en devient rapidement l'un des administrateurs: il est secrétaire du conseil d'administration en 1899[5].
+L'administrateur de sociétés.
+Comme son père, il accède à la présidence du conseil d'administration de la Compagnie des mines de Béthune. Il administre également plusieurs autres firmes minières, sidérurgiques et bancaires: président puis président d'honneur de la Cie des Mines de Blanzy, président de 1927 à 1936 de Kali Sainte-Thérèse[6], administrateur de la Société générale de crédit industriel et commercial, à partir de 1910[7], de la Banque Scalbert, des aciéries de Denain et Anzin ( Usinor-Denain, de 1913 à 1936[8] ) notamment.
+Il est aussi vice-président de Comité central des houillères de France et de la Société des agriculteurs de France, membre du comité directeur de l'Association de l'industrie et de l'agriculture françaises et administrateur de l'UIMM.
+Son frère Pierre est aussi administrateur des Mines de Béthune. Deux des enfants de Jean Plichon épousent des membres de la famille Thiriez, industriels du textile du Nord.
+L'homme politique.
+Il succède à son père comme Conseiller général du Canton de Bailleul-Sud-Ouest et député du Nord, de 1889 à 1936, avec un bref intermède au Sénat (1920-24). Rallié à la République, ce catholique a été vice-président de l'ALP avant 1914. Il se montre protectionniste au Parlement.
+Représentant d'une région sinistrée et envahie - Bailleul a beaucoup souffert - il intervient souvent, notamment au Sénat, en faveur des départements dévastés. Officier de réserve, il est un membre influent de la commission de l'armée où sa participation à l'élaboration des grandes lois militaires fut importante. Il étudie aussi les problèmes sociaux et intervient dans les discussions sur les projets de loi sur les retraites ouvrières et les assurances sociales.
+Après les élections de 1932, sa santé se dégrade et à partir de 1933 il ne peut plus faire que de courtes apparitions dans les couloirs du Palais Bourbon. Il meurt, âgé de 73 ans, le 22 septembre 1936, à Oxelaere, où il résidait depuis 1918, sa maison de Bailleul ayant été détruite pendant la guerre. À sa place, siégeait déjà à la Chambre son neveu, Jean-Pierre Plichon.
+L'ancien combattant de la Grande Guerre.
+Malgré son âge - il a 51 ans en 1914- il prend part à la guerre, y gagne la Légion d'honneur et la Croix de guerre et la termine avec le grade de lieutenant-colonel, titre dont il fera désormais précéder son nom.
+Il a été le premier président en 1921 du Groupement des Coopératives de Reconstruction. des Églises dévastées de France[9].
+
+
+
+
+
+
+
+PARTISNORM
+PART Action libérale (Action libérale).
+PART Entente républicaine démocratique (ERD).
+PART Union républicaine démocratique (URD).
+FONCTIONNORM
+
+NOMF Député de la 2e circonscription d'Hazebrouck NOMF 22 avril 1928 – 31 mai 1936 SEP2 Prédécesseur REL lui-même SEP2 Successeur REL Jean-Pierre Plichon (Républicains indépendants).
+NOMF Député du Nord(scrutin majoritaire-proportionnel par département) NOMF 11 mai 1924 – 31 mai 1928.
+NOMF Sénateur du Nord[1] NOMF 11 janvier 1920 – 5 janvier 1924.
+NOMF Député du Nord(scrutin majoritaire-proportionnel par département) NOMF 16 novembre 1919 – 20 janvier 1920 SEP2 Prédécesseur REL lui-même SEP2 Successeur REL -.
+NOMF Député de la 2e circonscription d'Hazebrouck NOMF 27 avril 1902 – 7 décembre 1919 SEP2 Prédécesseur REL lui-même SEP2 Successeur REL lui-même.
+NOMF Député de la 2e circonscription d'Hazebrouck NOMF 20 août 1893 – 31 mai 1902 SEP2 Prédécesseur REL lui-même SEP2 Successeur REL lui-même.
+NOMF Député de la 2e circonscription d'Hazebrouck NOMF 22 septembre 1889 – 14 octobre 1893 SEP2 Prédécesseur REL Charles Plichon (Union des Droites) SEP2 Successeur REL lui-même.
+NOMF Conseiller général du Nord(élu pour le Canton de Bailleul-Sud-Ouest) NOMF 20 août 1888 – 19 août 1919[2] SEP2 Prédécesseur REL Charles Plichon (Union des droites) SEP2 Successeur REL Paul Perrier (Radicaux indépendants) SEP2 Nom de naissance REL Jean, Ignace, Alexis, Winoc Plichon SEP2 Date de naissance REL 14 juin 1863 SEP2 Lieu de naissance REL Bailleul (Nord) SEP2 Date de décès REL 22 septembre 1936 (à 73 ans) SEP2 Lieu de décès REL Oxelaëre (Nord) SEP2 Nature du décès REL Maladie SEP2 Nationalité REL  Français SEP2 Parti politique REL Action libéraleERDURD SEP2 Père REL Charles Ignace Plichon SEP2 Mère REL Marie Constance Boittelle SEP2 Conjoint REL Jeanne Leduc SEP2 Entourage REL Jean-Pierre Plichon SEP2 Diplômé de REL Ecole des arts et manufactures de Paris SEP2 Profession REL Administrateur de sociétés SEP2 Religion REL Catholicisme.

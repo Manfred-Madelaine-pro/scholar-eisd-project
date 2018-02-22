@@ -1,0 +1,17 @@
+PRETAG Édouard.
+NOMTAG Corbedaine.
+Édouard Corbedaine est un homme politique français né le 11 novembre 1879 à Guinglange et mort à Thicourt (Moselle) le 17 octobre 1950.
+Président de la Chambre d'agriculture de la Moselle, Édouard Corbedaine entre en politique en 1908 sous l'Empire en devenant maire de Thicourt puis, après la Grande Guerre, conseiller général de Faulquemont en 1919, sous les couleurs de l'Alliance démocratique. En 1933, il devient sénateur de la Moselle et rejoint le groupe centriste de l'Union républicaine.
+Le 10 juillet 1940, il ne prend pas part au vote sur la remise des pleins pouvoirs au Maréchal Pétain et se retire dans sa ville de Thicourt où il décède en 1950.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1933-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Union républicaine SEP2 Date de naissance REL 11 novembre 1879 SEP2 Date de décès REL 17 octobre 1950 (à 70 ans) SEP2 Résidence REL Moselle.

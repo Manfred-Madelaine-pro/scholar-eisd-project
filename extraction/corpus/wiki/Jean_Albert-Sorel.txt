@@ -1,0 +1,17 @@
+PRETAG Jean.
+NOMTAG Albert-Sorel.
+Jean Albert-Sorel (né le 7 novembre 1902 à Paris et mort le 16 avril 1981 à Équemauville, France) est un avocat, journaliste et homme politique français, député de la deuxième circonscription de Paris de 1958 à 1962.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP).
+FONCTIONNORM
+
+NOMF Député de la 4e circonscription de Paris NOMF 30 novembre 1958 – 9 octobre 1962 SEP2 Législature REL 1re (Ve République) SEP2 Prédécesseur REL circonscription créée SEP2 Successeur REL Pierre Bas SEP2 Date de naissance REL 7 novembre 1902 SEP2 Lieu de naissance REL Paris 6e (France) SEP2 Date de décès REL 16 avril 1981 (à 78 ans) SEP2 Lieu de décès REL Équemauville (France) SEP2 Parti politique REL CNIP SEP2 Profession REL avocat, journaliste.

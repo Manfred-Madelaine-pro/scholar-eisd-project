@@ -1,0 +1,25 @@
+PRETAG Philippe.
+NOMTAG Colombani.
+Philippe Colombani, né le 11 octobre 1954 à Versailles, est un journaliste, homme politique et dessinateur de presse français, également connu sous le pseudonyme d'Aramis.
+
+
+
+Dans les années 1970, il collabore à Aspects de la France (Action française). En 1978, à la demande de l'auteur de romans policiers A.D.G., il intègre la rubrique littéraire de l'hebdomadaire Minute que dirige Jean Bourdier.
+Sous le pseudonyme d'Aramis, il illustre différents périodiques (Présent, Le Crapouillot, L'Idiot international, Valeurs actuelles, Minute-La France, Perspectives...).
+Monarchiste, ami de Jean-François Chiappe, il adhère au Front national en 1986 à l'occasion de la candidature de l'avocat royaliste Georges-Paul Wagner dans les Yvelines. Élu conseiller régional d'Île-de-France, il est réélu en 1992 et 1998. Membre du Bureau politique, il dirige la formation des cadres du FN.
+Il se voit confier la rédaction en chef du quotidien Le Français, lancé en octobre 1994 par des proches de Bruno Mégret. Le journal cessera de paraître en juin 1995.
+En 1998, il rompt de manière définitive avec le mouvement lepéniste et rejoint le Mouvement national républicain (MNR) de Bruno Mégret. Il est candidat sur la liste MNR aux élections européennes de 1999[1]. Il quitte ensuite ce parti en 2001 et siège au banc des non-inscrits de la région Île-de-France.
+Élu divers droite d'opposition à la mairie de Versailles en 2001, il ne se représente pas lors des élections régionales de 2004. Il est ensuite administrateur du mouvement local Union pour le renouveau de Versailles (URV), dirigé par Henry de Lesquen[2].
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (Front national) .
+PART Mouvement national républicain (MNR).
+FONCTIONNORM
+
+NOMF Conseiller régional d'Île-de-France NOMF 16 mars 1986 – 28 mars 2004 SEP2 Surnom REL Aramis SEP2 Date de naissance REL 11 octobre 1954 (63 ans) SEP2 Lieu de naissance REL Versailles (Yvelines) SEP2 Nationalité REL  française SEP2 Parti politique REL Front national, puisMNR SEP2 Profession REL Dessinateur de presseJournaliste.

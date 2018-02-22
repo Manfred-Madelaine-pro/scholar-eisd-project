@@ -1,0 +1,25 @@
+PRETAG André.
+NOMTAG Aubry.
+André Aubry, né à Valognes (Manche) le 1er août 1931 est un homme politique français, ancien sénateur-maire d'Antony.
+
+
+
+Ce fils de deux employés de la SNCF fréquente l'école publique et privée et obtient un CAP d’ajusteur[1].
+Il entame sa carrière professionnelle à Antony en 1947 et adhère l'année suivante au Parti communiste français, au syndicat Renault et à l’Union locale CGT. Il prend des responsabilités syndicales à partir de 1950, anime le syndicat CGT de l'usine Krieg et Zivy à Montrouge entre 1955 et 1962, le syndicat des métaux de cette commune et l’union locale, et siège à l’Union départementale de la Seine[1].
+Formé par le PCF, il appartient au bureau régional de l’UJCF en 1956, au comité fédéral de Seine-Sud à partir de 1955 puis de Seine-Ouest (Hauts-de-Seine) à partir de 1966 et à des associations de locataires et au Secours populaire[1].
+Entré au conseil municipal d’Antony en 1955[1], il est élu sénateur des Hauts-de-Seine le 22 septembre 1968[2] et conseiller général en 1976. En 1977, il est élu maire d'Antony[1], et ne se représente pas au Sénat[2]. Lors des municipales de 1983, sa liste sort en tête, mais le scrutin est annulé pour fraude, et le RPR Patrick Devedjian bat l'équipe du maire sortant de 697 voix[3]. Il reste cependant conseiller municipal jusqu'en 2008, s'opposant à la politique, notamment urbanistique, de son successeur[4]. Il quitte le conseil général en 1988.
+Jusqu'en 2015, il dirige un hebdomadaire politique local, Antony-Hebdo[5].
+Il est président d'honneur de l'Association d'amitié franco-coréenne[6], après l'avoir présidé durant plusieurs années[Combien ?].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Sénateur des Hauts-de-Seine NOMF 22 septembre 1968 – 2 octobre 1977(9 ans et 10 jours) SEP2 Prédécesseur REL Georges Suant SEP2 Successeur REL Patrick Devedjian.
+NOMF Conseiller général des Hauts-de-Seine NOMF 14 mars 1976 – 20 octobre 1988(12 ans, 7 mois et 6 jours) SEP2 Nom de naissance REL André Raymond Louis Aubry SEP2 Date de naissance REL 1er aout 1931 (86 ans) SEP2 Lieu de naissance REL Valognes SEP2 Nationalité REL  Française SEP2 Parti politique REL PCF SEP2 Profession REL ajusteur.

@@ -1,0 +1,20 @@
+PRETAG Jean.
+NOMTAG Marie.
+Jean Marie[1] Beaupuy est un homme politique français, né le 28 novembre 1943 à la Chapelle-sur-Loire. Député européen ADLE élu dans la circonscription Est en juin 2004, il se représente en 2009 dans celle du Massif Central - Centre comme tête de liste du MoDem, mais il n'est pas réélu.
+Il est actuellement trésorier du Parti démocrate européen[2] et membre du bureau du Mouvement européen international[3].
+
+
+
+Diplômé de l’école supérieure des sciences commerciales d’Angers, Jean Marie Beaupuy a créé la société Stratégie Formation à Reims en 1975.
+Il a été conseiller général de la Marne de 1979 à 2004 et adjoint au Maire de Reims de 1983 à 1995 et responsable des espaces verts de 2001 à 2008. Il se présente aux élections municipales de Reims de 2008 sous les couleurs du MoDem et devient conseiller municipal[4]. Il a été également député européen entre 2004 et 2009 au sein du groupe de l'Alliance des démocrates et des libéraux pour l'Europe. Il siège dans la commission du développement régional et la commission spéciale sur les défis politiques et les ressources budgétaires pour une Union européenne durable après 2013 et en tant que suppléant en Commission de l'emploi et des affaires sociales[5],[6].
+Il est trésorier du Parti démocrate européen depuis 2012 et également président du Mouvement Européen Marne et membre du bureau du Mouvement européen international.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député européen NOMF 20 juillet 2004 - 13 juillet 2009.

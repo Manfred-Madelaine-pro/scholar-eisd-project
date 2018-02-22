@@ -1,0 +1,15 @@
+PRETAG Jean-Pierre.
+NOMTAG Foucher.
+Jean-Pierre Foucher, est né le 13 août 1943 à Clamart (Hauts-de-Seine) est un homme politique français, professeur honoraire de pharmacognosie à la faculté de pharmacie de l' Université Paris-Sud dont il fut vice-président. Membre de l'Académie nationale de Pharmacie, il en a été le président en 2014.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1988 – 2002 SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL UDF SEP2 Date de naissance REL 13 août 1943 (74 ans) SEP2 Résidence REL Douzième circonscription des Hauts-de-Seine.

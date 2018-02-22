@@ -1,0 +1,18 @@
+PRETAG Arthur.
+NOMTAG Mirouel.
+Marie Léon Arthur Mirouel est un homme politique français né le 29 avril 1872 à Dompcevrin dans la Meuse et décédé le 6 août 1951.
+Exploitant agricole, un temps vice-président de la chambre départementale d'agriculture, il entre en politique en 1900 en devenant conseiller municipal de son village natal en 1900, maire en 1912, puis conseiller d'arrondissement entre 1913 et 1914, date à laquelle il devient conseiller général de Pierrefitte-sur-Aire. Proche de Raymond Poincaré, il lui propose à plusieurs reprises de se démettre en sa faveur de son mandat de conseiller général.
+En 1935, il se présente à l'élection sénatoriale partielle consécutive au décès de ce dernier, sous les couleurs de l'Alliance démocratique. Il rejoint le groupe centriste de l'Union républicaine après son élection.
+Le 10 juillet 1940, il ne prend pas part au vote sur la remise des pleins pouvoirs au Maréchal Pétain et décède en 1951.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1935-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Union républicaine SEP2 Date de naissance REL 29 avril 1872 SEP2 Date de décès REL 6 août 1951 (à 79 ans) SEP2 Résidence REL Meuse.

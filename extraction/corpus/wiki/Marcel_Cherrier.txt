@@ -1,0 +1,18 @@
+PRETAG Marcel.
+NOMTAG Cherrier.
+Marcel Cherrier, né le 3 novembre 1901 à Bourges (Cher) et mort le 22 août 1985 à Bourges (Cher), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+FONCTIONNORM
+
+NOMF Député du Cher NOMF 21 octobre 1945 – 8 décembre 1958 SEP2 Date de naissance REL 3 novembre 1901 SEP2 Lieu de naissance REL Bourges (Cher) SEP2 Date de décès REL 22 août 1985 (à 83 ans) SEP2 Lieu de décès REL Bourges (Cher) SEP2 Nationalité REL Française SEP2 Parti politique REL Parti communiste français.

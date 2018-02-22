@@ -1,0 +1,26 @@
+PRETAG Josu.
+NOMTAG Jon.
+Josu Jon Imaz San Miguel, né le 6 septembre 1963 à Zumarraga (Guipuscoa, Espagne), est un homme politique basque espagnol. Marié et père de trois enfants, il réside à Saint-Sébastien (Guipuscoa).
+
+
+
+Docteur en sciences chimiques de l’université du Pays basque – Euskal Herriko Unibertsitatea. Licencié de la Faculté de sciences chimiques de l'université de Deusto à Saint-Sébastien. Prix extraordinaire de fin d’études. Spécialisé dans les polymères. Formation en direction générale d’entreprises en 1989-1990, dans le cadre du Plan de formation de la Direction générale d’Ikasbide-Groupe coopératif Mondragón. Achève sa thèse doctorale à l’École supérieure d’ingénieurs industriels de Bilbao en 1994.
+En décembre 1986 il est envoyé par le Centre technologique INASMET au Centre français CETIM de Nantes, avec une bourse du Ministère de l’Industrie et de l’Énergie dans son programme de formation de chercheurs à l’étranger.
+Responsable de l’Aire de composites et polymères d’INASMET dans la période 1987-1989. S’incorpore au Groupe coopératif Mondragón dans la période 1989-1991 comme promoteur industriel. Responsable du Département de marketing et relations extérieures d’INASMET pour la période 1991-1994.
+En juin 1994 il est élu eurodéputé aux élections au Parlement européen, charge qu’il exerce jusqu’à sa nomination le 7 janvier 1999 en tant que conseiller de l’Industrie, du Commerce et du Tourisme du Gouvernement basque et porte-parole du Gouvernement basque.
+À partir du Conseil de Gouvernement du 17 juillet 2001, il est de nouveau titulaire du portefeuille de l'Industrie, du Commerce et du Tourisme du Gouvernement basque et son porte-parole, charges qu’il exerce jusqu’au 13 janvier 2004.
+Finalement, lors de l’Assemblée générale d’Euzko Alderdi Jeltzalea - Parti nationaliste basque, tenue les 17 et 18 janvier 2004, il est élu président de l’Euzkadi Buru Batzar (bureau national).
+En 2006 il reçoit la Creu de Sant Jordi, distinction décernée par la Generalitat de Catalogne.
+Il quitte son poste de Président du Parti nationaliste basque en 2008, et est remplacé par Iñigo Urkullu.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (PNV-EAJ).
+FONCTIONNORM
+
+NOMF Député européen NOMF 19 juillet 1994 – 5 janvier 1999 SEP2 Élection REL 12 juin 1994 SEP2 Législature REL 4e SEP2 Groupe politique REL PPE SEP2 Date de naissance REL 6 septembre 1963 (54 ans) SEP2 Lieu de naissance REL Zumarraga (Espagne) SEP2 Nationalité REL espagnole SEP2 Parti politique REL PNV-EAJ.

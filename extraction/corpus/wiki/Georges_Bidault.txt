@@ -1,0 +1,49 @@
+PRETAG Georges.
+NOMTAG Bidault.
+Georges Bidault, né le 5 octobre 1899 à Moulins (Allier) et mort le 26 janvier 1983 à Cambo-les-Bains (Pyrénées-Atlantiques), Compagnon de la Libération, est un résistant et un homme d'État français.
+
+Georges Bidault a épousé le 27 décembre 1945 dans le 7e arrondissement de Paris, Suzanne Borel, première femme à avoir été attachée d'ambassade en 1930, et qui devint directrice-adjointe de son cabinet ; elle a largement inspiré le personnage de « Mademoiselle Crapotte » dans le roman autobiographique de son collègue le diplomate-écrivain Roger Peyrefitte La Fin des ambassades (Roger Peyrefitte s'y moque aussi du côté « petit prof » de Georges Bidault). Suzanne Borel apparaît également dans les Propos secrets de Roger Peyrefitte.
+Georges Bidault est inhumé au cimetière de La Celle-les-Bordes dans les Yvelines[22].
+
+
+Jeunesse et professorat.
+Il est issu d'une famille de propriétaires ruraux catholiques et plusieurs membres de sa famille ont appartenu au clergé.
+Georges Bidault est le fils de Georges Bidault (né en 1848), agent d'assurances à Moulins et de Louise Traverse (1860-1901)[1],[2],[3].
+Il fit ses études primaires et secondaires au lycée Saint-Louis-de-Gonzague, établissement tenu par des jésuites français chassés par la politique anticléricale de la IIIe République, à Bollengo dans le nord de l'Italie. Ses premières convictions politiques semblent avoir été forgées par la lecture d'une biographie du catholique libéral Charles de Montalembert. En 1916, il est reçu au baccalauréat avec une mention assez bien.
+Georges Bidault obtient une licence d'histoire à la Sorbonne à l'âge de 18 ans, il est appelé sous les drapeaux au 92e régiment d'infanterie en 1918, mais est encore à l'instruction lorsque survient l'armistice du 11 novembre. Pour terminer son service militaire, Georges Bidault est affecté de 1919 à 1921 comme soldat-professeur à l'École Militaire d'Infanterie de Saint-Maixent. Il sera rappelé en 1921, lors de la première occupation de la Ruhr ordonnée par Aristide Briand. Il préside la Conférence Olivaint en 1922. Revenu à la Sorbonne, il est reçu premier à l'agrégation d'histoire et géographie en 1925[4], devant Pierre Brossolette et Louis Joxe. De 1925 à 1926, il enseigne à Valenciennes[3].
+De 1926 à 1931, Georges Bidault est affecté à Reims[5], il y noue des liens étroits avec l'un de ses élèves, le futur sociologue Roger Caillois qui, en 1971 écrit, à son ancien professeur : « L'Histoire est, de loin, la moindre part de l'enseignement que j'ai reçu de vous. Vous m'avez appris bien davantage du côté du style et de la conduite de vie. »[6]. Nommé ensuite de 1931 à 1940 au lycée Louis-le-Grand, à Paris, il a pour élèves Jean Ferniot et Jean d'Ormesson, qui évoquera plus tard « l'éloquence froide » de son professeur et son « originalité d'esprit »[7].
+Le militant démocrate-chrétien.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti démocrate populaire (PDP).
+PART Mouvement républicain populaire (MRP).
+PART Front national (FN) 1972.
+FONCTIONNORM
+
+NOMF Président du gouvernement provisoire de la République françaiseet Ministre des Affaires étrangères(Chef de l’État de facto et chef du gouvernement) NOMF 24 juin – 16 décembre 1946(5 mois et 22 jours) SEP2 Chef de l'État REL Lui-même.
+NOMF Président du Conseil NOMF GouvernementBidault I SEP2 Gouvernement REL Bidault I SEP2 Prédécesseur REL Félix Gouin SEP2 Successeur REL Vincent Auriol (chef de l'État, président de l'Assemblée nationale)Léon Blum (chef du gouvernement, président du GPRF).
+NOMF Président du Conseil des ministres français NOMF 28 octobre 1949 – 24 juin 1950(7 mois et 27 jours).
+NOMF Président NOMF Président du ConseilLui-même.
+NOMF Président du Conseil NOMF GouvernementBidault IIBidault III SEP2 Gouvernement REL Bidault IIBidault III SEP2 Prédécesseur REL Henri Queuille SEP2 Successeur REL Henri Queuille.
+NOMF Président NOMF Président du ConseilHenri Queuille.
+NOMF Président du Conseil NOMF GouvernementQueuille II SEP2 Gouvernement REL Queuille II.
+NOMF Président NOMF Président du ConseilHenri Queuille.
+NOMF Président du Conseil NOMF GouvernementQueuille III SEP2 Gouvernement REL Queuille III.
+NOMF Vice-président du Conseil des ministreset Ministre de la Défense nationale NOMF 11 août 1951 – 8 mars 1952(6 mois et 26 jours).
+NOMF Président NOMF Président du ConseilRené PlevenEdgar Faure.
+NOMF Président du Conseil NOMF GouvernementPleven IIFaure I SEP2 Gouvernement REL Pleven IIFaure I SEP2 Prédécesseur REL Jules Moch SEP2 Successeur REL René Pleven.
+NOMF Ministre des Affaires étrangères NOMF 10 septembre 1944 – 24 juin 1946(1 an, 9 mois et 14 jours) SEP2 Chef de l'État REL Charles de GaulleFélix Gouin.
+NOMF Président du Conseil NOMF Gouvernementde Gaulle I et IIGouin SEP2 Gouvernement REL de Gaulle I et IIGouin SEP2 Prédécesseur REL René Massigli (CFLN) SEP2 Successeur REL Lui-même.
+NOMF Président NOMF Président du ConseilPaul RamadierRobert Schuman.
+NOMF Président du Conseil NOMF GouvernementRamadier I et IISchuman I SEP2 Gouvernement REL Ramadier I et IISchuman I SEP2 Prédécesseur REL Lui-même SEP2 Successeur REL Robert Schuman.
+NOMF Président NOMF Président du ConseilRené MayerJoseph Laniel.
+NOMF Président du Conseil NOMF GouvernementMayerLaniel I et II SEP2 Gouvernement REL MayerLaniel I et II SEP2 Prédécesseur REL Robert Schuman SEP2 Successeur REL Pierre Mendès France.
+NOMF Député de la Loire NOMF 21 octobre 1945 – 10 juin 1946(7 mois et 20 jours) SEP2 Élection REL 21 octobre 1945 SEP2 Législature REL Ire Assemblée nationale constituante SEP2 Groupe politique REL MRP SEP2 Élection REL 2 juin 1946 SEP2 Législature REL 2e Assemblée nationale constituante SEP2 Groupe politique REL MRP SEP2 Élection REL 10 novembre 1946 SEP2 Réélection REL 17 juin 19512 janvier 1956 SEP2 Législature REL Ire, IIe, IIIe (Quatrième République) SEP2 Groupe politique REL MRP.
+NOMF Député de la LoireÉlu dans la 6e circonscription NOMF 30 novembre 1958 – 9 octobre 1962(3 ans, 11 mois et 10 jours) SEP2 Élection REL 30 novembre 1958 SEP2 Législature REL Ire (Cinquième République) SEP2 Groupe politique REL NI SEP2 Successeur REL Paul Rivière.
+NOMF Président du MRP NOMF mai 1949 – mai 1952(3 ans) SEP2 Prédécesseur REL Maurice Schumann SEP2 Successeur REL Pierre-Henri Teitgen SEP2 Nom de naissance REL Georges Augustin Bidault SEP2 Date de naissance REL 5 octobre 1899 SEP2 Lieu de naissance REL Moulins (Allier) SEP2 Date de décès REL 26 janvier 1983 (à 83 ans) SEP2 Lieu de décès REL Cambo-les-Bains(Pyrénées-Atlantiques) SEP2 Nationalité REL française SEP2 Parti politique REL PDPMRPFN (1972) SEP2 Conjoint REL Suzanne Borel SEP2 Profession REL Professeur SEP2 Religion REL Catholicisme.

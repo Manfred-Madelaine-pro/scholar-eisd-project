@@ -1,0 +1,41 @@
+PRETAG Alain.
+NOMTAG Peyrefitte.
+Alain Peyrefitte, né le 26 août 1925 à Najac dans l'Aveyron, mort le 27 novembre 1999 à Paris, est un homme d'État, diplomate et écrivain français, membre de l’Académie française.
+Il a partagé sa vie entre action et réflexion. Ministre du général de Gaulle, de Georges Pompidou et de Valéry Giscard d'Estaing, il fait des passages marquants aux ministères de l’Information (création de l’ORTF), de la Recherche scientifique (accélération du programme de dissuasion nucléaire français) et de la Justice (loi liberté et sécurité). Il est élu député dans toutes les législatures de la Ve République, puis sénateur en 1995.
+Écrivain à succès avec Le Mal français et Quand la Chine s'éveillera… le monde tremblera, son œuvre majeure est La Société de confiance. Proche du fondateur de la Ve République, son livre d’entretiens C’était de Gaulle fait référence. Il collabore à de nombreux journaux et prend en 1983 la présidence du comité éditorial du Figaro. Son œuvre lui vaut d’être élu à l’Académie française le 10 février 1977.
+
+Vers 18-20 ans, il se convertit au catholicisme et devient pratiquant[4], ses parents n'étant eux-mêmes pas très croyants[6].
+En 1947, lors du pélerinage des étudiants à Chartres, il rencontre Monique Luton (Paris, 4 novembre 1924 - Paris, 9 janvier 2005), écrivain sous le nom de plume de Claude Orcival[4],[6].
+Ils se marient le 14 décembre 1948, et de cette union naîtront cinq enfants : quatre filles, Florence, Christel, Véronique et Emmanuelle, et un fils, Benoît[6].
+Après ses études, Alain Peyrefitte fait une retraite d'un an au couvent dominicain de Corbara en Corse, pendant laquelle il met par écrit le programme de sa vie : « 1948-1958 : vie diplomatique ; 1958-1968 : vie politique ; 1968-1978 : vie littéraire »[4].
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la nouvelle République (UNR) UDR.
+PART Union pour la nouvelle République (UDR) RPR.
+PART Rassemblement pour la République (RPR).
+FONCTIONNORM
+
+NOMF Sénateur de Seine-et-Marne NOMF 2 octobre 1995 – 27 novembre 1999(4 ans, 1 mois et 25 jours) SEP2 Élection REL 24 septembre 1995.
+NOMF Député de Seine-et-Marne NOMF 17 janvier 1982 – 24 septembre 1995 SEP2 Réélection REL 17 janvier 198216 mars 198612 juin 198828 mars 1993 SEP2 Circonscription REL 4e circonscription (1982-1986)Proportionnelle (1986-1988)4e circonscription (1988-1995) SEP2 Législature REL VIIe, VIIIe, IXe et Xe SEP2 Groupe politique REL RPR SEP2 Prédécesseur REL Marc Fromion (invalidé)Claude Eymard-Duvernay SEP2 Successeur REL Christian Jacob SEP2 Réélection REL 12 mars 1978 SEP2 Circonscription REL 4e circonscription SEP2 Législature REL VIe SEP2 Groupe politique REL RPR SEP2 Prédécesseur REL Étienne Pinte SEP2 Successeur REL Claude Eymard-Duvernay SEP2 Réélection REL 23 juin 196811 mars 1973 SEP2 Circonscription REL 4e circonscription SEP2 Législature REL IVe et Ve SEP2 Groupe politique REL UDR SEP2 Prédécesseur REL Roger Pezout SEP2 Successeur REL Étienne Pinte SEP2 Réélection REL 5 mars 1967 SEP2 Circonscription REL 4e circonscription SEP2 Législature REL IIIe SEP2 Groupe politique REL UD-Ve SEP2 Prédécesseur REL Roger Pezout SEP2 Successeur REL Roger Pezout SEP2 Réélection REL 18 novembre 1962 SEP2 Circonscription REL 4e circonscription SEP2 Législature REL IIe SEP2 Groupe politique REL UNR-UDT SEP2 Prédécesseur REL Michel Vincent SEP2 Successeur REL Roger Pezout SEP2 Élection REL 30 novembre 1958 SEP2 Circonscription REL 4e circonscription SEP2 Législature REL Ire SEP2 Groupe politique REL UNR SEP2 Successeur REL Michel Vincent.
+NOMF Président NOMF GouvernementRaymond Barre II et III SEP2 Gouvernement REL Raymond Barre II et III SEP2 Prédécesseur REL Olivier Guichard SEP2 Successeur REL Maurice Faure.
+NOMF Ministre des Affaires culturelles et de l'Environnement NOMF 2 mars 1974 – 27 mai 1974(2 mois et 25 jours).
+NOMF Président NOMF GouvernementPierre Messmer III SEP2 Gouvernement REL Pierre Messmer III SEP2 Prédécesseur REL Maurice Druon(Affaires culturelles)Robert Poujade (Environnement) SEP2 Successeur REL Michel Guy (Affaires culturelles,secrétaire d'État)Gabriel Péronnet(Environnement, secrétaire d'État).
+NOMF Ministre chargé des Réformes administratives NOMF 6 avril 1973 – 27 février 1974(10 mois et 21 jours).
+NOMF Président NOMF GouvernementPierre Messmer II SEP2 Gouvernement REL Pierre Messmer II SEP2 Prédécesseur REL Roger Frey (indirectement) SEP2 Successeur REL Jean-Jacques Servan-Schreiber (indirectement).
+NOMF Ministre de l'Éducation nationale NOMF 7 avril 1967 – 28 mai 1968(1 an, 1 mois et 21 jours).
+NOMF Président NOMF GouvernementGeorges Pompidou IV SEP2 Gouvernement REL Georges Pompidou IV SEP2 Prédécesseur REL Christian Fouchet SEP2 Successeur REL Georges Pompidou (intérim)François-Xavier Ortoli.
+NOMF Ministre délégué à la Recherche scientifique et aux Questions atomiques et spatiales NOMF 8 janvier 1966 – 1er avril 1967(1 an, 2 mois et 24 jours).
+NOMF Président NOMF GouvernementGeorges Pompidou III SEP2 Gouvernement REL Georges Pompidou III SEP2 Prédécesseur REL Yvon Bourges (ministre) SEP2 Successeur REL Maurice Schumann (ministre) SEP2 Prédécesseur REL André Dujeu SEP2 Successeur REL Robert Chevalier.
+NOMF Ministre de l'Information NOMF 28 novembre 1962 – 8 janvier 1966(3 ans, 1 mois et 11 jours).
+NOMF Président NOMF GouvernementGeorges Pompidou II SEP2 Gouvernement REL Georges Pompidou II SEP2 Prédécesseur REL Christian Fouchet (ministredélégué) SEP2 Successeur REL Yvon Bourges (secrétaire d'État).
+NOMF Ministre délégué aux Rapatriés NOMF 11 septembre 1962 – 28 novembre 1962(2 mois et 17 jours).
+NOMF Président NOMF GouvernementGeorges Pompidou I SEP2 Gouvernement REL Georges Pompidou I SEP2 Prédécesseur REL Robert Boulin (secrétaire d'État) SEP2 Successeur REL François Missoffe (ministre).
+NOMF Président NOMF GouvernementGeorges Pompidou I SEP2 Gouvernement REL Georges Pompidou I SEP2 Prédécesseur REL Christian de La Malène SEP2 Successeur REL Christian Fouchet (ministredélégué) SEP2 Date de naissance REL 26 août 1925 SEP2 Lieu de naissance REL Najac (Auvergne, France) SEP2 Date de décès REL 27 novembre 1999 (à 74 ans) SEP2 Lieu de décès REL Paris (XVIe, France) SEP2 Nationalité REL  France SEP2 Parti politique REL UNR - UDR - RPR SEP2 Conjoint REL Monique Luton SEP2 Diplômé de REL École normale supérieureENA SEP2 Profession REL DiplomateÉcrivain SEP2 Religion REL Catholicisme.

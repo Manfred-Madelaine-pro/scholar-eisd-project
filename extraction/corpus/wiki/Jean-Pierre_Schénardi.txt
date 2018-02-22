@@ -1,0 +1,54 @@
+PRETAG Jean-Pierre.
+NOMTAG Schénardi.
+Jean-Pierre Schénardi, né le 27 avril 1937 et mort le 6 avril 2004 est un homme politique français, membre du Front national.
+Il est député du Val-de-Marne de 1986 à 1988.
+
+Il est l'époux de Lydia Schénardi, membre du bureau politique et du comité central du FN et secrétaire départementale de la fédération des Alpes-Maritimes.
+
+
+Famille.
+Il est né le 27 avril 1937 à Courbevoie (Hauts-de-Seine, Île-de-France). Il devient technicien en bâtiment.
+D'origine italienne, Il est le fils du maçon Pierre Schenardi né à Vincennes (Val-de-Marne, Île-de-France) en 1914, lui-même fils d’un paysan du val de Nure (province de Plaisance, Émilie-Romagne, Italie). Pierre s’installa à son compte à Nogent-sur-Marne (Val-de-Marne) après la Seconde Guerre mondiale.
+Carrière professionnelle.
+Jean-Pierre entre en 1957 dans l’entreprise devenue prospère dont son père se retire en 1970. La société continue à construire jusqu’en 1984 et cesse son activité en 1997[1].
+Carrière politique.
+Après avoir figuré en seconde place sur la liste d’Olivier d’Ormesson aux législatives de 1986, il devint député du Val-de-Marne, lorsque d’Ormesson choisit de se consacrer à son mandat de député européen. Il le restera jusqu’en 1988, année de la dissolution de l’Assemblée[2].
+Il se représente alors mais n'est pas réélu.
+Il fut de nombreuses fois candidat à la mairie de Grasse. Il est connu pour avoir conclu, lors de l'élection partielle de 1987, un accord avec le maire sortant UDF Hervé de Fontmichel.
+Il fut aussi conseiller municipal de Chennevières-sur-Marne et conseiller régional d'Île-de-France.
+Il décède le 6 avril 2004 à l’âge de 67 ans au cours d’un voyage au Burkina Faso.
+Vie privée.
+Il est l'époux de Lydia Schénardi, membre du bureau politique et du comité central du FN et secrétaire départementale de la fédération des Alpes-Maritimes.
+
+
+
+Jean-Pierre entre en 1957 dans l’entreprise devenue prospère dont son père se retire en 1970. La société continue à construire jusqu’en 1984 et cesse son activité en 1997[1].
+Carrière politique.
+Après avoir figuré en seconde place sur la liste d’Olivier d’Ormesson aux législatives de 1986, il devint député du Val-de-Marne, lorsque d’Ormesson choisit de se consacrer à son mandat de député européen. Il le restera jusqu’en 1988, année de la dissolution de l’Assemblée[2].
+Il se représente alors mais n'est pas réélu.
+Il fut de nombreuses fois candidat à la mairie de Grasse. Il est connu pour avoir conclu, lors de l'élection partielle de 1987, un accord avec le maire sortant UDF Hervé de Fontmichel.
+Il fut aussi conseiller municipal de Chennevières-sur-Marne et conseiller régional d'Île-de-France.
+Il décède le 6 avril 2004 à l’âge de 67 ans au cours d’un voyage au Burkina Faso.
+Vie privée.
+Il est l'époux de Lydia Schénardi, membre du bureau politique et du comité central du FN et secrétaire départementale de la fédération des Alpes-Maritimes.
+
+Il est né le 27 avril 1937 à Courbevoie (Hauts-de-Seine, Île-de-France). Il devient technicien en bâtiment.
+D'origine italienne, Il est le fils du maçon Pierre Schenardi né à Vincennes (Val-de-Marne, Île-de-France) en 1914, lui-même fils d’un paysan du val de Nure (province de Plaisance, Émilie-Romagne, Italie). Pierre s’installa à son compte à Nogent-sur-Marne (Val-de-Marne) après la Seconde Guerre mondiale.
+Carrière professionnelle.
+Jean-Pierre entre en 1957 dans l’entreprise devenue prospère dont son père se retire en 1970. La société continue à construire jusqu’en 1984 et cesse son activité en 1997[1].
+Carrière politique.
+Après avoir figuré en seconde place sur la liste d’Olivier d’Ormesson aux législatives de 1986, il devint député du Val-de-Marne, lorsque d’Ormesson choisit de se consacrer à son mandat de député européen. Il le restera jusqu’en 1988, année de la dissolution de l’Assemblée[2].
+Il se représente alors mais n'est pas réélu.
+Il fut de nombreuses fois candidat à la mairie de Grasse. Il est connu pour avoir conclu, lors de l'élection partielle de 1987, un accord avec le maire sortant UDF Hervé de Fontmichel.
+Il fut aussi conseiller municipal de Chennevières-sur-Marne et conseiller régional d'Île-de-France.
+Il décède le 6 avril 2004 à l’âge de 67 ans au cours d’un voyage au Burkina Faso.
+Vie privée.
+Il est l'époux de Lydia Schénardi, membre du bureau politique et du comité central du FN et secrétaire départementale de la fédération des Alpes-Maritimes.
+
+
+
+PARTISNORM
+PART Front national (FN) 1977-2004.
+FONCTIONNORM
+
+NOMF Député du Val-de-Marne NOMF 1er avril 1986 – 14 mai 1988 SEP2 Groupe politique REL FN-RN SEP2 Prédécesseur REL Olivier d'Ormesson SEP2 Date de naissance REL 27 avril 1937 SEP2 Date de décès REL 6 avril 2004 (à 66 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL FN (1977-2004) SEP2 Conjoint REL Lydia Schénardi SEP2 Profession REL Technicien en bâtiment.

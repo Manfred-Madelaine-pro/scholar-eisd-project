@@ -1,0 +1,27 @@
+PRETAG François.
+NOMTAG Delapierre.
+François Delapierre, né le 4 novembre 1970 à Paris 20e et mort le 20 juin 2015 à Paris 13e, est un homme politique français. Attaché territorial de profession[1], il est, de 2010 à sa mort, secrétaire national du Parti de gauche et conseiller régional d'Île-de-France.
+
+Compagnon de Charlotte Girard[10], maître de conférences en droit constitutionnel[11] et présidente de la commission nationale du Parti de gauche pour la Constituante et la VIe République[12], puis coresponsable du projet présidentiel de 2017 de Jean-Luc Mélenchon, L'Avenir en commun[13], Delapierre est le père de deux filles, Valentine et Félicie[10].
+Polémique.
+Un récit dépréciatif de l'enterrement de François Delapierre a été publié en illustration d'un portrait à charge de Jean-Luc Mélenchon paru dans M, le magazine du Monde environ 2 ans après les faits[14], relayé par d'autres médias nationaux[15], et a été à l'origine de vives réactions de la part de ses proches et dénoncé comme une instrumentalisation indigne[16],[17],[18],[19].
+
+
+Études et premiers engagements politiques.
+Fils d'une enseignante du secondaire et d'un chercheur en économie du CNRS. Créateur du club de tarot et de scrabble « qui rassemblait déconneurs du tarot et intellos du scrabble », François Delapierre est élu délégué de classe et au conseil d'administration du collège de son quartier où, issu d'un milieu assez aisé, il découvre la diversité et les inégalités sociales[2]. Marqué par la victoire de la droite aux élections législatives de 1986[2], il anime dès l'automne la grève au lycée Rousseau de Montmorency[3] (Val-d'Oise) contre le projet de loi Devaquet[4].
+Il adhère par la suite au Parti socialiste et milite activement au sein du courant Gauche socialiste à sa création en 1988, animé notamment par Jean-Luc Mélenchon, Julien Dray et Marie-Noëlle Lienemann. Il devient membre de la direction de l'association SOS Racisme en 1986. Cofondateur de la Fédération indépendante et démocratique lycéenne (FIDL), il en devient en 1988 son second président. Diplômé de l'Institut d'études politiques de Paris (Sciences-Po Paris)[2]. Il y apprécie la diversité des matières étudiées et la découverte de la sociologie mais se démarque de « cette sociabilité mondaine » et de « cet entre soi de classes politiques[2]. »
+Il poursuit ses études à l'université de Nanterre, où il obtient un DEA en sociologie, après avoir soutenu un mémoire sur les emplois de proximité[4],[5]. Il devient à cette époque militant à l'UNEF-ID, et y animera la Tendance sursaut ou le déclin (TSOD) jusqu'en 1994. De 1998 à 1999, il sera le secrétaire général de l'association, alors présidée par Fodé Sylla[3], l'engageant alors activement dans des campagnes contre le Front national. En 1998 il rédige, avec la collaboration d'Alexis Corbière, Un apartheid à la française (éditions Bérénice/Parole d'Aube), ouvrage militant qui entend répondre à ceux qui veulent établir une « préférence nationale ».
+Carrière politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS) 1986-2008.
+PART Parti de gauche (PG) 2008-2015.
+FONCTIONNORM
+
+NOMF Conseiller régional d'Île-de-France NOMF 21 mars 2010 – 20 juin 2015(5 ans, 2 mois et 30 jours) SEP2 Élection REL 14 et 21 mars 2010 SEP2 Successeur REL Kheira Genc SEP2 Surnom REL Delap SEP2 Date de naissance REL 4 novembre 1970 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 20 juin 2015 (à 44 ans) SEP2 Lieu de décès REL Paris SEP2 Nature du décès REL Tumeur du cerveau SEP2 Nationalité REL Française SEP2 Parti politique REL PS (1986-2008)PG (2008-2015) SEP2 Diplômé de REL Université Paris Ouest Nanterre La DéfenseInstitut d'études politiques de Paris SEP2 Profession REL Attaché territorial.

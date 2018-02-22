@@ -1,0 +1,16 @@
+PRETAG François.
+NOMTAG Pichat.
+François Pichat est un homme politique français né le 23 juillet 1843 à Saint-Christophe-entre-deux-Guiers (Isère) et décédé le 18 avril 1914 à Saint-Laurent-du-Pont (Isère).
+Agent-voyer à Saint-Laurent-du-Pont, il devient conseiller municipal en 1885, maire en 1888 et conseiller général en 1889. Il est député de l'Isère, inscrit au groupe de l'Action libérale, de 1902 à 1906. Ses interventions portent sur la défense des chartreux, et notamment de la Grande Chartreuse, ce qui provoque de vifs incidents de séance avec les radicaux et notamment Émile Combes.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

@@ -1,0 +1,45 @@
+PRETAG Josu.
+NOMTAG Erkoreka.
+Josu Iñaki Erkoreka Gervasio, né le 3 juillet 1960 à Bermeo, est un homme politique et professeur de droit administratif espagnol.
+Il est conseiller à la Gouvernance publique et à l’Auto-gouvernement ainsi que porte-parole du Gouvernement basque depuis le 28 novembre 2016.
+
+Il est marié et père de deux enfants.
+Il a écrit un livre avec Iñaki Anasagasti intitulé Deux familles basque : Areilza et Aznar dans lequel il raconte l'histoire de Manuel Aznar Zubigaray, le grand-père de José María Aznar.
+Formation et carrière professionnelle.
+Josu Erkoreka est titulaire d'une licence en droit, obtenue à l'université de Deusto en 1982. Il obtient son doctorat à l'université du Pays basque et exerce en tant que professeur de droit administratif à Deusto et à l'école des pratiques juridiques de l'université du Pays basque.
+Il est conseiller juridique au secrétariat général du régime juridique du gouvernement basque, en situation de services spéciaux.
+Parlementaire national et porte-parole.
+Il est secrétaire général de 1990 à 1995 puis directeur de l'Institut basque de l'Administration publique (IVAP) de 1995 à 2000. Il est élu député au Congrès des députés lors des élections générales du 12 mars 2000 pour la circonscription de Biscaye. Il reçoit en 2002 le prix du député "révélation". Il est réélu lors du scrutin du 14 mars 2004 et devient porte-parole du groupe parlementaire basque en remplacement d'Iñaki Anasagasti élu sénateur. De nouveau réélu lors des scrutins du 9 mars 2008 et du 20 novembre 2011, il continue à la tête du groupe parlementaire. En 2008, il est primé comme meilleur orateur par l'Association des journalistes parlementaires (APP)[1].
+Retour sur le plan régional.
+Il est nommé conseiller à l'Administration publique et à la Justice ainsi que porte-parole du gouvernement basque par le lehendakari Iñigo Urkullu le 17 décembre 2012 et abandonne en conséquence son mandat de parlementaire national. Il est remplacé par Aitor Esteban à la direction du groupe parlementaire.
+Avec la nomination du deuxième gouvernement d'Iñigo Urkullu, le 28 novembre 2016, il change d'attributions et se charge de la Gouvernance publique et de l'Auto-gouvernement tout en conservant le porte-parolat[2]. Au vu des bonnes relations qu'il entretient avec la vice-présidente Soraya Sáenz de Santamaría et avec divers cadres du PSOE dont Alfredo Pérez Rubalcaba, sa nomination est perçue comme un réchauffement des relations entre le gouvernement central et la communauté autonome du Pays basque après des années d'éloignement[3].
+
+
+Vie privée.
+Il est marié et père de deux enfants.
+Il a écrit un livre avec Iñaki Anasagasti intitulé Deux familles basque : Areilza et Aznar dans lequel il raconte l'histoire de Manuel Aznar Zubigaray, le grand-père de José María Aznar.
+Formation et carrière professionnelle.
+Josu Erkoreka est titulaire d'une licence en droit, obtenue à l'université de Deusto en 1982. Il obtient son doctorat à l'université du Pays basque et exerce en tant que professeur de droit administratif à Deusto et à l'école des pratiques juridiques de l'université du Pays basque.
+Il est conseiller juridique au secrétariat général du régime juridique du gouvernement basque, en situation de services spéciaux.
+Parlementaire national et porte-parole.
+Il est secrétaire général de 1990 à 1995 puis directeur de l'Institut basque de l'Administration publique (IVAP) de 1995 à 2000. Il est élu député au Congrès des députés lors des élections générales du 12 mars 2000 pour la circonscription de Biscaye. Il reçoit en 2002 le prix du député "révélation". Il est réélu lors du scrutin du 14 mars 2004 et devient porte-parole du groupe parlementaire basque en remplacement d'Iñaki Anasagasti élu sénateur. De nouveau réélu lors des scrutins du 9 mars 2008 et du 20 novembre 2011, il continue à la tête du groupe parlementaire. En 2008, il est primé comme meilleur orateur par l'Association des journalistes parlementaires (APP)[1].
+Retour sur le plan régional.
+Il est nommé conseiller à l'Administration publique et à la Justice ainsi que porte-parole du gouvernement basque par le lehendakari Iñigo Urkullu le 17 décembre 2012 et abandonne en conséquence son mandat de parlementaire national. Il est remplacé par Aitor Esteban à la direction du groupe parlementaire.
+Avec la nomination du deuxième gouvernement d'Iñigo Urkullu, le 28 novembre 2016, il change d'attributions et se charge de la Gouvernance publique et de l'Auto-gouvernement tout en conservant le porte-parolat[2]. Au vu des bonnes relations qu'il entretient avec la vice-présidente Soraya Sáenz de Santamaría et avec divers cadres du PSOE dont Alfredo Pérez Rubalcaba, sa nomination est perçue comme un réchauffement des relations entre le gouvernement central et la communauté autonome du Pays basque après des années d'éloignement[3].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (EAJ-PNV).
+FONCTIONNORM
+
+NOMF Conseiller à la Gouvernance publique et à l'Auto-gouvernementdu Gouvernement basque NOMF En fonction depuis le 28 novembre 2016(1 an, 2 mois et 24 jours).
+NOMF Président NOMF GouvernementUrkullu II SEP2 Gouvernement REL Urkullu II SEP2 Prédécesseur REL Lui-même (Justice et Administrations publiques).
+NOMF Président NOMF GouvernementUrkullu I et II SEP2 Gouvernement REL Urkullu I et II SEP2 Prédécesseur REL Idoia Mendia.
+NOMF Conseiller à la Justice et aux Administrations publiquesdu Gouvernement basque NOMF 17 décembre 2012 – 28 novembre 2016(3 ans, 11 mois et 11 jours).
+NOMF Président NOMF GouvernementUrkullu I SEP2 Gouvernement REL Urkullu I SEP2 Prédécesseur REL Idoia Mendia SEP2 Successeur REL Lui-même (Gouvernance publique et autogouvernement)María Jesús San José (Travail et Justice) SEP2 Législature REL VIIIe, IXe, Xe SEP2 Prédécesseur REL Iñaki Anasagasti SEP2 Successeur REL Aitor Esteban.
+NOMF Député aux Cortes Generales NOMF 12 mars 2000 – 17 décembre 2012(12 ans, 9 mois et 5 jours) SEP2 Élection REL 12 mars 2000 SEP2 Réélection REL 14 mars 20049 mars 200820 novembre 2011 SEP2 Circonscription REL Biscaye SEP2 Législature REL VIIe, VIIIe, IXe, Xe SEP2 Groupe politique REL Basque (EAJ-PNV) SEP2 Nom de naissance REL Josu Iñaki Erkoreka Gervasio SEP2 Date de naissance REL 3 juillet 1960 (57 ans) SEP2 Lieu de naissance REL Bermeo (Espagne) SEP2 Nationalité REL Espagnole SEP2 Parti politique REL EAJ-PNV SEP2 Diplômé de REL Université de Deusto SEP2 Profession REL Professeur de droit.

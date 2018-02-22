@@ -1,0 +1,37 @@
+PRETAG Christine.
+NOMTAG Cloarec.
+Christine Cloarec, née le 28 octobre 1964 à Noisy-le-Sec (Seine-Saint-Denis), est une femme politique française, membre du parti La République en marche !. Elle est élue députée de la cinquième circonscription d'Ille-et-Vilaine lors des élections législatives de 2017.
+
+Mère d'une famille recomposée de quatre enfants, elle vit dans le Pays de Vitré depuis 1998[5].
+
+Aux élections municipales de 2008, Christine Cloarec est élue au conseil municipal de Vitré[3] puis réélue lors des élections de 2014[4]. A cette occasion, elle devient également conseillère communautaire de Vitré Communauté. Depuis 2014, elle est conseillère municipale déléguée chargée de la jeunesse et de la vie associative[5].
+Elle adhère en 2010 au parti radical valoisien qui rejoint l'Union des démocrates et indépendants. Elle se rapproche ensuite de l'Alliance centriste de Jean Arthuis[2].
+Elle participe depuis janvier 2017[2] au mouvement En marche ! qui l'investit sur la cinquième circonscription d'Ille-et-Vilaine pour les élections législatives de 2017. Le 18 juin 2017, elle remporte le second tour de l'élection en battant la députée sortante LR, Isabelle Le Callennec, par 53,3% des voix exprimées[6]. Sa victoire face à la députée sortante et vice-présidente des Républicains est, selon la presse, une « surprise »[7]. Membre de la commission des affaires sociales[1], elle siège dans le groupe La République en Marche[8].
+Dans le cadre des discussions sur le projet de loi relatif à l’orientation et la réussite des étudiants[9], la commission des Affaires Sociales la désigne, le 21 novembre 2017[10], Rapporteure pour avis sur les articles 3 et 4. Ces articles visent à la suppression du régime dérogatoire de sécurité sociale pour les étudiants et à l’instauration d’une contribution unique « vie étudiante » destinée à favoriser l’accompagnement social, sanitaire, culturel et sportif. En tant que Rapporteure pour avis, elle participe et conduit plusieurs auditions d’acteurs du secteurs qui la conduisent à proposer plusieurs amendements. Un avis, sous forme de rapport[11], est également rédigé. Elle le présente en séance publique, le mardi 12 décembre 2017[12].
+Vie privée.
+Mère d'une famille recomposée de quatre enfants, elle vit dans le Pays de Vitré depuis 1998[5].
+
+Jeunesse, carrière professionnelle.
+Christine Cloarec naît le 28 octobre 1964 à Noisy-le-Sec, en Seine-Saint-Denis[1]. Elle arrive en Bretagne en 1979 et étudie à Rennes pour devenir professeur d'éducation physique. Elle travaille d'abord auprès de jeunes en difficulté d’insertion sociale et professionnelle et de détenus en réinsertion puis devient professeur de danse, à Vitré et à Étrelles[2].
+Parcours politique.
+Aux élections municipales de 2008, Christine Cloarec est élue au conseil municipal de Vitré[3] puis réélue lors des élections de 2014[4]. A cette occasion, elle devient également conseillère communautaire de Vitré Communauté. Depuis 2014, elle est conseillère municipale déléguée chargée de la jeunesse et de la vie associative[5].
+Elle adhère en 2010 au parti radical valoisien qui rejoint l'Union des démocrates et indépendants. Elle se rapproche ensuite de l'Alliance centriste de Jean Arthuis[2].
+Elle participe depuis janvier 2017[2] au mouvement En marche ! qui l'investit sur la cinquième circonscription d'Ille-et-Vilaine pour les élections législatives de 2017. Le 18 juin 2017, elle remporte le second tour de l'élection en battant la députée sortante LR, Isabelle Le Callennec, par 53,3% des voix exprimées[6]. Sa victoire face à la députée sortante et vice-présidente des Républicains est, selon la presse, une « surprise »[7]. Membre de la commission des affaires sociales[1], elle siège dans le groupe La République en Marche[8].
+Dans le cadre des discussions sur le projet de loi relatif à l’orientation et la réussite des étudiants[9], la commission des Affaires Sociales la désigne, le 21 novembre 2017[10], Rapporteure pour avis sur les articles 3 et 4. Ces articles visent à la suppression du régime dérogatoire de sécurité sociale pour les étudiants et à l’instauration d’une contribution unique « vie étudiante » destinée à favoriser l’accompagnement social, sanitaire, culturel et sportif. En tant que Rapporteure pour avis, elle participe et conduit plusieurs auditions d’acteurs du secteurs qui la conduisent à proposer plusieurs amendements. Un avis, sous forme de rapport[11], est également rédigé. Elle le présente en séance publique, le mardi 12 décembre 2017[12].
+Vie privée.
+Mère d'une famille recomposée de quatre enfants, elle vit dans le Pays de Vitré depuis 1998[5].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti radical (Parti radical) 2010-2012.
+PART Union des démocrates et indépendants (UDI) AC.
+PART Alliance centriste (AC) 2012-2017.
+PART La République en marche ! (EM/LREM) depuis 2017.
+FONCTIONNORM
+
+NOMF Députée française NOMF En fonction depuis le 21 juin 2017(7 mois et 27 jours) SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 5e d'Ille-et-Vilaine SEP2 Législature REL XVe (Cinquième République) SEP2 Groupe politique REL LREM SEP2 Prédécesseur REL Isabelle Le Callennec SEP2 Date de naissance REL 28 octobre 1964 (53 ans) SEP2 Lieu de naissance REL Noisy-le-Sec (Seine-Saint-Denis, France) SEP2 Nationalité REL Française SEP2 Parti politique REL Parti radical (2010-2012)UDI-AC (2012-2017)EM/LREM (depuis 2017) SEP2 Diplômée de REL Université Rennes-IIUniversité Nancy-I SEP2 Profession REL Professeure de danse SEP2 Résidence REL Vitré (Ille-et-Vilaine).

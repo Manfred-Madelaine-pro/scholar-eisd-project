@@ -1,0 +1,18 @@
+PRETAG Jean.
+NOMTAG Le.
+Jean Le Lann est un homme politique français, membre du Centre des démocrates sociaux, né le 20 mars 1914 à Berrien (Finistère) et mort le 22 mai 1985 à Fougères (Ille-et-Vilaine) à 71 ans.
+Vétérinaire de profession, il a été élu conseiller général du canton de Fougères-Sud lors des élections cantonales de 1961 ; il a occupé ce siège pendant 24 ans.
+Il est devenu député CD de la cinquième circonscription d'Ille-et-Vilaine lors des élections législatives de 1962. Il n’effectue qu’un mandat à l’Assemblée nationale.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 25 novembre 1962 – 2 avril 1967 SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL Centre SEP2 Date de naissance REL 20 mars 1914 SEP2 Date de décès REL 22 mai 1985 (à 71 ans) SEP2 Résidence REL Cinquième circonscription d'Ille-et-Vilaine.

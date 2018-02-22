@@ -1,0 +1,24 @@
+PRETAG Guy_de.
+NOMTAG Boysson.
+Guy Marie Xavier Jacques de Boysson, né le 5 août 1918 à Chindrieux et décédé à Paris 4e le 4 décembre 2012, est un banquier et homme politique français.
+
+
+D'une vieille famille catholique, il est le fils de Louis de Boysson, directeur de la Compagnie de Paris-Orléans, et de Marie Jeanne d'Anglejan-Châtillon. Il suivit ses études au Grand séminaire de Lyon, au lycée Janson-de-Sailly, aux facultés de droit de Paris et de Lyon, puis à l'École libre des sciences politiques. Il sortit diplômé en sciences politiques et docteur en droit. Engagé dans la Résistance au sein des maquis FTP, il est décoré de la croix de guerre.
+Secrétaire général des Forces unies de la jeunesse patriotique, il devient membre de l'Assemblée consultative provisoire le 8 novembre 1944. Il y est rapporteur du budget de la jeunesse, de l'éducation physique et des sports au cours de la séance du 29 mars 1945.
+Boysson fut président de la Fédération mondiale de la jeunesse démocratique, à ce titre il organisa le Congrès de la Paix de Prague, et associé-gérant des Éditions du jeune combattant. Il est le directeur de publication du magazine Miroir Sprint jusqu’en 1948.
+Guy de Boysson est député communiste de l'Aveyron de 1945 à 1948, puis il est élu conseiller de l'Union française au titre de l'Assemblée nationale en 1948. Il y siège jusqu'en 1952.
+Entré en 1952 à la Banque commerciale pour l'Europe du Nord comme conseiller, il en devient le directeur en 1957, puis le président-directeur général en 1965. En 1979, le journaliste d'investigation Jean Montaldo s'empara du contenu des poubelles placées devant le siège de la banque et pût ainsi établir les liens financiers entre le Parti Communiste Français et l'Union Soviétique.
+Il avait épousé Geneviève Chevrillon, nièce et petite-nièce des académiciens André Chevrillon et Hippolyte Taine.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF DéputéAveyron NOMF 1945-1948.

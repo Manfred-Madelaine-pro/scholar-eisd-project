@@ -1,0 +1,17 @@
+PRETAG Étienne.
+NOMTAG Le.
+Étienne Le Poullen est un homme politique français né le 4 décembre 1877 et décédé le 11 septembre 1963 à Dompierre-du-Chemin, en Ille-et-Vilaine.
+Fondateur de l'Association des anciens combattants de Dompierre-du-Chemin, il est élu au conseil municipal de la ville en 1904, et devient maire en 1919. En 1924, il est élu conseiller général d'Ille-et-Vilaine. En 1933, il se présente à une élection législative partielle sur un programme libéral et conservateur, prônant la réforme fiscale, la liberté religieuse et la représentation proportionnelle.
+Élu, il s'inscrit au groupe de la Fédération républicaine en demeure membre après sa réélection en 1936. Il intervient essentiellement sur des questions agricoles et sociale, et copréside l'Intergroupe de défense du cuir et de la chaussure. Le 10 juillet 1940, Étienne Le Poullen approuve la remise des pleins pouvoirs au Maréchal Pétain.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1933-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL FR SEP2 Date de naissance REL 4 décembre 1877 SEP2 Date de décès REL 11 septembre 1963 (à 85 ans) SEP2 Résidence REL Ille-et-Vilaine.

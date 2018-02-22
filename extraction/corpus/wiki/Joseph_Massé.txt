@@ -1,0 +1,18 @@
+PRETAG Joseph.
+NOMTAG Massé.
+Joseph Massé est un artiste et un homme politique français né le 11 mars 1878 à Bordeaux en Gironde et décédé le 15 janvier 1946 à Soye-en-Septaine, dans le Cher.
+Diplômé de l'École des beaux-arts de Lyon, il est d'abord peintre puis s'établit comme céramiste à Soye-en-Septaine avant d'être mobilisé pendant la Première Guerre mondiale. Il entre en politique en devenant en 1911 conseiller général de Levet, puis maire de Soye-en-Septaine à partir de 1919, deux mandats qu'il conservera jusqu'à la chute de la Troisième République.
+Membre de la conservatrice Fédération républicaine, il se présente aux élections législatives de 1936. Élu, il rejoint le groupe des Indépendants d'union républicaine et nationale, le plus à droite de la Chambre des députés. Comme député, il intervient sur des questions culturelles, économiques ou agricoles et s'oppose fermement à la politique du Front populaire.
+Antisémite, il s'exclame lors d'une séance parlementaire, en février 1938 : « Nous en avons assez d’être gouvernés par les Juifs »[1]. Joseph Massé vote, le 10 juillet 1940, en faveur de la remise des pleins pouvoirs au Maréchal Pétain.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL IURN SEP2 Date de naissance REL 11 mars 1878 SEP2 Date de décès REL 15 janvier 1946 (à 67 ans) SEP2 Résidence REL Cher.

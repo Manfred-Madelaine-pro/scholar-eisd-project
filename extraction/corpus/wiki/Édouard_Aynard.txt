@@ -1,0 +1,26 @@
+PRETAG Édouard.
+NOMTAG Aynard.
+Mathieu dit Édouard Aynard (Lyon, 1er janvier 1837 - Paris, 25 juin 1913) est un banquier et un homme politique lyonnais, catholique et libéral, ancien député du Rhône et grand mécène. Il est officier de la Légion d'honneur[1].
+
+
+
+
+
+
+
+Études au Collège d'Oullins et en Angleterre.
+Chef de la Maison Aynard et fils, fabrique de draps militaires puis maison de banque en 1857.
+Administrateur de la succursale de la Banque de France à Lyon du 10 janvier 1867 au 31 décembre 1890.
+Régent de la Banque de France, VIIe Siège du 29 janvier 1891 jusqu'à son décès.
+Conseiller municipal de Lyon.
+1871, ouvre une agence à Londres en s'associant à Alphonse Rüffer. Cette branche devient Maison A. Ruffer & Sons en 1886.
+Député de la 8e circonscription de Lyon de 1889 à 1913 comme républicain progressiste.
+Président de la Chambre de commerce en 1889.
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1889 – 1913 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL Républicain progressiste SEP2 Date de naissance REL 1er janvier 1837 SEP2 Date de décès REL 25 juin 1913 (à 76 ans) SEP2 Résidence REL Rhône.

@@ -1,0 +1,19 @@
+PRETAG Henri.
+NOMTAG Durand.
+Henri Durand est un homme politique, député de la Drôme, né à Rousset-les-Vignes le 14 décembre 1919, et décédé le 30 mars 2010.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Indépendants et paysans d'action sociale (Indépendants et paysans d'action sociale).
+FONCTIONNORM
+
+NOMF Députés de la Drôme NOMF 1er mars 1959 – 9 octobre 1962 SEP2 Législature REL IVe (Cinquième République).
+NOMF Conseiller général de la Drôme NOMF 1949 – SEP2 Date de naissance REL 14 décembre 1919 SEP2 Lieu de naissance REL Rousset-les-Vignes SEP2 Date de décès REL 30 mars 2010 (à 90 ans) SEP2 Lieu de décès REL Bourg-de-Péage SEP2 Nationalité REL  Française SEP2 Parti politique REL Indépendants et paysans d'action sociale SEP2 Profession REL Chapelier.

@@ -1,0 +1,21 @@
+PRETAG Georges.
+NOMTAG Gaillemin.
+Georges Gaillemin, né le 9 décembre 1919 à Cornimont dans les Vosges et mort le 17 mai 1958 à Neuilly-sur-Seine, est un homme politique français.
+
+
+
+Georges Gaillemin est le fils du docteur Louis Gaillemin qui fut maire de Cornimont, conseiller général et député de Remiremont de 1934 jusqu'à son entrée au Sénat en 1939. Comme son père, il fait des études en médecine et entre dans la Résistance. Tandis que son père est déporté, Georges Gaillemin participe activement aux combats de la Libération en qualité de médecin FFI. Le 27 octobre 1944, il est gravement blessé, la veine jugulaire sectionnée.
+En 1949, il devient conseiller général du canton de Saulxures-sur-Moselotte. Aux élections législatives du 17 juin 1951, quatrième sur la liste gaulliste de Maurice Lemaire, Georges Gaillemin n'est pas élu. Il profite cependant de l'élection partielle consécutive au décès du député Jacques Ducreux pour devancer Robert Chambeiron, candidat de l'Union progressiste soutenu par le Parti communiste. Il siège parmi les Républicains sociaux. Il a alors 32 ans.
+En 1955, il est nommé secrétaire d'âge de l'Assemblée nationale. Il intervient à plusieurs reprises pour attirer l'attention du gouvernement sur la crise qui affecte l'industrie textile.
+Après la dissolution de l'Assemblée par Edgar Faure, il est réélu en 1956 en ayant composé sa propre liste avec l'investiture du Centre national des indépendants et paysans et de l'Action républicaine et sociale.
+Le 15 mai 1958, Georges Gaillemin s'apprête à conduire une délégation parlementaire à Formose en sa qualité de président du groupe d'amitié France-Chine quand il est terrassé à Orly d'une congestion cérébrale probablement liée à l'hypertension chronique due à ses blessures de guerre. Il décède deux jours plus tard à l'hôpital américain de Neuilly sans avoir repris connaissance.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1952-1958 NOMF GouvernementIVe République SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL ARS (1952-1956)IPAS (1956-1958) SEP2 Date de naissance REL 9 décembre 1919 SEP2 Date de décès REL 17 mai 1958 (à 38 ans) SEP2 Résidence REL Vosges.

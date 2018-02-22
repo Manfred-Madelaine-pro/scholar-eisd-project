@@ -1,0 +1,40 @@
+PRETAG Roger.
+NOMTAG Frey.
+Roger Frey est un homme politique français, né le 11 juin 1913 à Nouméa (Nouvelle-Calédonie) et mort le 13 septembre 1997 à Neuilly-sur-Seine (Hauts-de-Seine). Il fut ministre de l’Intérieur et président du Conseil constitutionnel, il est considéré comme l’un des « barons du gaullisme ».
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la nouvelle République (UNR) 1958-1962.
+PART 1958 (1958) 1962.
+PART 1962 (1962).
+PART Union pour la nouvelle République (UNR-UDT) 1962-1967.
+PART 1962 (1962) 1967.
+PART 1967 (1967).
+PART Union pour la nouvelle République (UD-Ve) 1967-1968.
+PART 1967 (1967) 1968.
+PART 1968 (1968).
+PART Union des démocrates pour la République (UDR) 1968-1974.
+PART 1968 (1968) 1974.
+PART 1974 (1974).
+FONCTIONNORM
+
+NOMF Président du Conseil constitutionnel NOMF 5 mars 1974 – 4 mars 1983(8 ans, 11 mois et 27 jours) SEP2 Prédécesseur REL Gaston Palewski SEP2 Successeur REL Daniel Mayer.
+NOMF Ministre d'ÉtatMinistre des Réformes administratives NOMF 7 janvier 1971 – 5 juillet 1972(1 an, 5 mois et 28 jours).
+NOMF Président NOMF GouvernementJacques Chaban-Delmas SEP2 Gouvernement REL Jacques Chaban-Delmas SEP2 Prédécesseur REL Louis Joxe(ministre, indirectement)Philippe Malaud(secrétaire d'État) SEP2 Successeur REL Alain Peyrefitte (indirectement).
+NOMF Ministre d'ÉtatMinistre des Relations avec le Parlement NOMF 5 avril 1967 – 7 janvier 1971(3 ans, 9 mois et 2 jours).
+NOMF Président NOMF GouvernementGeorges Pompidou IVMaurice Couve de MurvilleJacques Chaban-Delmas SEP2 Gouvernement REL Georges Pompidou IVMaurice Couve de MurvilleJacques Chaban-Delmas SEP2 Prédécesseur REL Pierre Dumas SEP2 Successeur REL Jacques Chirac.
+NOMF Ministre de l'Intérieur NOMF 6 mai 1961 – 1er avril 1967(5 ans, 10 mois et 26 jours).
+NOMF Président NOMF GouvernementMichel DebréGeorges Pompidou I, II et III SEP2 Gouvernement REL Michel DebréGeorges Pompidou I, II et III SEP2 Prédécesseur REL Pierre Chatenet SEP2 Successeur REL Christian Fouchet.
+NOMF Ministre délégué auprès du Premier ministre NOMF 5 février 1960 – 6 mai 1961(1 an, 3 mois et 1 jour).
+NOMF Président NOMF GouvernementMichel Debré SEP2 Gouvernement REL Michel Debré SEP2 Prédécesseur REL Aimée Batier SEP2 Successeur REL Charles Magaud.
+NOMF Ministre de l'Information NOMF 8 janvier 1959 – 5 février 1960(1 an et 28 jours).
+NOMF Président NOMF GouvernementMichel Debré SEP2 Gouvernement REL Michel Debré SEP2 Prédécesseur REL Jacques Soustelle SEP2 Successeur REL Louis Terrenoire.
+NOMF Député de la 11e circonscription de Paris NOMF 2 avril 1973 – 4 mars 1974 SEP2 Réélection REL 11 mars 1973 SEP2 Législature REL Ve SEP2 Groupe politique REL UDR SEP2 Prédécesseur REL Charles Magaud SEP2 Successeur REL Charles Magaud SEP2 Réélection REL 30 juin 1968 SEP2 Législature REL IVe SEP2 Groupe politique REL UDR SEP2 Réélection REL 12 mars 1967 SEP2 Législature REL IIIe SEP2 Groupe politique REL UD-Ve SEP2 Prédécesseur REL Jean-Claude Servan-Schreiber SEP2 Successeur REL Aimée Batier SEP2 Réélection REL 19 septembre 1965 (partielle) SEP2 Législature REL IIe SEP2 Groupe politique REL UNR-UDT SEP2 Prédécesseur REL Raphaël Touret SEP2 Successeur REL Jean-Claude Servan-Schreiber SEP2 Élection REL 18 novembre 1962 SEP2 Législature REL IIe SEP2 Groupe politique REL UNR-UDT SEP2 Prédécesseur REL Raphaël Touret SEP2 Successeur REL Raphaël Touret SEP2 Date de naissance REL 11 juin 1913 SEP2 Lieu de naissance REL Nouméa(Nouvelle-Calédonie) SEP2 Date de décès REL 13 septembre 1997 (à 84 ans) SEP2 Lieu de décès REL Neuilly-sur-Seine(Hauts-de-Seine) SEP2 Parti politique REL UNR (1958-1962)UNR-UDT (1962-1967)UD-Ve (1967-1968)UDR (1968-1974) SEP2 Profession REL Industriel.

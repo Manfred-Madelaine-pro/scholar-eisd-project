@@ -1,0 +1,18 @@
+PRETAG Laurent.
+NOMTAG Bilbeau.
+Laurent Bilbeau, né le 3 mai 1911 à Chalivoy-Milon (Cher) et mort le 29 juillet 1979, est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député de la 3e circonscription du Cher NOMF 12 mars 1967 – 30 mai 1968 SEP2 Date de naissance REL 3 mai 1911 SEP2 Lieu de naissance REL Chalivoy-Milon (Cher) SEP2 Date de décès REL 29 juillet 1979 (à 68 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL PCF.

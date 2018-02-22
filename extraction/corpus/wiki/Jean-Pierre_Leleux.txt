@@ -1,0 +1,43 @@
+PRETAG Jean-Pierre.
+NOMTAG Leleux.
+Jean-Pierre Leleux, né le 8 mai 1947 à Gand (Belgique), est un homme politique français, membre de l'UMP.
+Il est sénateur des Alpes-Maritimes depuis 2008, maire de Grasse de 1995 à 2014 et président de la communauté d'agglomération Pôle Azur Provence.
+
+
+
+Il est Grassois depuis qu'il a quatre ans, âge auquel il est arrivé dans la capitale des parfums avec ses parents.
+Après une carrière dans l'enseignement (il a notamment enseigné à l'École supérieure de management des entreprises (ESPEME) de Nice), il se lance dans la politique en 1983, et adhère au Parti républicain. La même année, il est élu conseiller municipal de Grasse sur la liste UDF d'Hervé de Fontmichel. Réélu en 1987 à ce poste, il devient adjoint au maire chargé de la Police municipale, de la circulation et des transports. Aux élections municipales de 1989, la majorité sortante est reconduite, et il devient deuxième adjoint au maire.
+En 1989, Jean-Pierre Leleux est élu conseiller général des Alpes-Maritimes dans le canton de Grasse-Sud. Il sera réélu en 1992.
+En 1991, il s'oppose au traité de Maastricht à l'occasion du référendum et rejoint la droite souverainiste de Philippe de Villiers sur les listes duquel il figurera aux élections européennes de 1994.
+En 1995, en rupture avec Hervé de Fontmichel, il présente sa propre liste MPF à l'élection municipale, et emporte la mairie au deuxième tour avec 35,05 % des voix dans une quadrangulaire contre le maire sortant (UDF) Hervé de Fontmichel (12,97 %), Claude Leroux, candidat du RPR (28,47 %) et Claude Mayaffre, candidat du PCF (23,57 %).
+En 1997, il se présente à l'élection législative. La droite part désunie : à sa candidature s'ajoutent celle de Michèle Tabarot, maire UDF-DL du Cannet et le RPR Pierre Bachelet, député sortant. Comme les deux autres, Jean-Pierre Leleux est battu dès le premier tour.
+En 1998, il est candidat à sa propre succession aux élections cantonales dans le canton de Grasse-Sud. Mais il perd au second tour, dans une triangulaire en recueillant 36 % des voix contre le candidat des Verts Jean-Raymond Vinciguerra (37 %) et le FN Daniel Rioux (27 %).
+En 2000, il réintègre la famille libérale en rejoignant Démocratie libérale.
+Le 18 mars 2001, il est réélu maire de Grasse à la tête d'une coalition de la droite comprenant le RPR, DL, le MPF et le RPF avec 55,44 % des voix face au candidat de la gauche unie Georges Vassalo, ancien maire, et le divers droite Paul Fourquet, son ancien premier adjoint.
+La même année, il est élu président du Pôle Azur Provence, la nouvelle communauté d'agglomération du Pays de Grasse.
+En 2002, il est élu suppléant de Michèle Tabarot, députée (UMP).
+En 2004, il gagne les élections cantonales dans le canton de Grasse-Nord, cette fois-ci contre le socialiste Thierry Lautard et le FN Jean-Marc Degioanni. Il est alors nommé vice-président du conseil général des Alpes-Maritimes chargé de la cohésion sociale et du renouvellement urbain.
+Le 25 mars 2005, il est promu chevalier de la Légion d'honneur pour ses « 33 années d'activités professionnelles, de services civils, militaires et de fonctions électives » et est décoré le 13 octobre par le ministre délégué à l'aménagement du territoire et président du conseil général des Alpes-Maritimes, Christian Estrosi.
+En 2007, il est réélu suppléant de Michèle Tabarot, députée (UMP), dès le premier tour. La même année, il obtient la Marianne d'Or, le prix d'excellence des municipalités de France des mains de Christian Poncelet, président du Sénat.
+En 2008, il est réélu maire de Grasse et devient le premier maire de l'histoire de la cité à être élu dès le premier tour. En juillet, il obtient la Marianne de Platine à l'occasion du 25e anniversaire de la Marianne d'Or. En septembre, il est investi par l'UMP pour être tête de liste de l'UMP-NC aux élections sénatoriales dans le département des Alpes-Maritimes. Le 21 septembre, sa liste décroche trois sièges sur cinq et il est élu sénateur[1]. Il a pris ses fonctions le 1er octobre 2008 et démissionne de son mandat de conseiller général de Grasse-Nord pour cause de cumul de mandat.
+En octobre 2013, il annonce qu'il ne sera pas candidat aux élections municipales de 2014, pour ne pas à avoir à quitter son poste de sénateur en 2017, lorsque la loi portant sur le non-cumul des mandats sera effective[2]. Il est réélu sénateur le 28 septembre 2014 sur une liste divers droite qu'il conduit, ayant été écarté de la liste officielle de l'UMP[3].
+Il soutient François Fillon pour la primaire présidentielle des Républicains de 2016.
+Il parraine Laurent Wauquiez pour le congrès des Républicains de 2017, scrutin lors duquel est élu le président du parti[4].
+Jean-Pierre Leleux a été choisi par la ministre de la Culture pour siéger à la Commission nationale du patrimoine et de l'architecture (CNPA) avec Jacqueline Dubois, députée LREM de la Dordogne, en qualité de représentante de l'Assemblée nationale [5].
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) MPF.
+PART Mouvement pour la France (MPF) DL.
+PART Démocratie libérale (parti politique) (DL) UMP.
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Sénateur des Alpes-Maritimes NOMF En fonction depuis le 1er octobre 2008 SEP2 Élection REL 21 septembre 2008 SEP2 Réélection REL 28 septembre 2014 SEP2 Prédécesseur REL Hervé de Fontmichel SEP2 Successeur REL Jérôme Viaud.
+NOMF Conseiller général du canton de Grasse-Nord NOMF 28 mars 2004 – 1er novembre 2008 SEP2 Prédécesseur REL Thierry Lautard SEP2 Successeur REL Jérôme Viaud.
+NOMF Conseiller général du canton de Grasse-Sud NOMF 9 novembre 1986 – 22 mars 1998 SEP2 Prédécesseur REL Hervé de Fontmichel SEP2 Successeur REL Jean-Raymond Vinciguerra SEP2 Date de naissance REL 8 mai 1947 (70 ans) SEP2 Lieu de naissance REL Gand (Flandre-Orientale) SEP2 Parti politique REL UDF, MPF, DL, UMP SEP2 Profession REL Enseignant en économie.

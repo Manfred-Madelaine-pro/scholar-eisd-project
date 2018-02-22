@@ -1,0 +1,19 @@
+PRETAG Jean-Marc.
+NOMTAG Brûlé.
+Jean-Marc Brûlé, né le 16 juin 1965 à Caen (Calvados), est un homme politique français, conseiller régional d'Île-de-France. Fondateur de la commission Asie des Verts, il est secrétaire national adjoint d'Europe Écologie chargé des élections et des institutions[1] et est président de L'Atelier, un centre de ressources régional de l'économie sociale et solidaire[2].
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts) Europe Écologie.
+PART Europe Écologie (Europe Écologie).
+FONCTIONNORM
+
+NOMF Conseiller régional d'Île-de-France NOMF En fonction depuis le 28 mars 2004 SEP2 Date de naissance REL 16 juin 1965 (52 ans) SEP2 Lieu de naissance REL Caen SEP2 Parti politique REL Les Verts - Europe Écologie.

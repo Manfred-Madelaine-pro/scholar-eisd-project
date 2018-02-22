@@ -1,0 +1,19 @@
+PRETAG André.
+NOMTAG Capron.
+André Capron est un homme politique français, né André Robert Augustin Capron à Paris (XIIe) le 23 août 1854 et mort à Cannes le 18 octobre 1930, inhumé au Cimetière du Grand Jas (Cannes), député des Alpes-Maritimes sous la Troisième République.
+
+
+Fils de Désiré Capron (Rouen 1815-Paris 1894), comptable, collaborateur du journal ouvrier L'Atelier, c'est un disciple de Buchez, rédacteur à la Voix du Peuple et La Coopération, fervent défenseur de la classe ouvrière et des mouvements coopératifs, en 1870, proche d'Eugène Varlin, il participa aux travaux de la Commission consultative s'efforçant de fédérer les coopératives de consommation ; et de Marie Robot (Sennecey-le-Grand 1828 - Paris 1866).
+Bachelier ès Lettres et propriétaire-rentier, il est élu conseiller municipal de Cannes en mai 1892 et devient maire de cette ville en janvier 1902. Élu conseiller général de Cannes en juillet 1902, il devient ensuite député en 1928, élu au deuxième tour dans la 2e circonscription de Grasse, par 6.331 voix contre 4.691 à Octave Homberg.
+Il appartient à la tendance des républicains progressistes (centre gauche), qui deviendra le parti de la Fédération républicaine.
+Le 2 juin 1890 il épouse à Cannes, Adela Weisweiller (Madrid, 11 février 1845 - Cannes, 23 janvier 1925), veuve en 1882 de David Guillaume Ettling (financier Allemand). Adela Capron était la fille du baron Daniel de Weisweiller, financier, représentant de la banque Rothschild à Madrid, originaire de Francfort-sur-le-Main. Lors de son mariage, il a entre autres pour témoin le maire Eugène Gazagnaire, notaire chez qui il a également fait établir un contrat de mariage.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1928-1930 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL URD SEP2 Date de naissance REL 23 août 1854 SEP2 Date de décès REL 18 octobre 1930 SEP2 Résidence REL Alpes-Maritimes.

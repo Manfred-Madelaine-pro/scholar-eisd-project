@@ -1,0 +1,22 @@
+PRETAG Roger_de.
+NOMTAG Saivre.
+Roger de Saivre, né à Paris le 14 mai 1908 et mort dans cette même ville le 13 décembre 1964, est un homme politique français.
+
+
+
+Fils d'un industriel, Roger de Saivre mène des études de droit en vue de devenir avocat tout en militant dès 1927 au sein des phalanges universitaires des Jeunesses patriotes (JP). Commissaire général des phalanges, orateur reconnu (il est vice-président de la conférence Molé-Tocqueville[1], qu'il préside en 1936[2]) et bagarreur notoire (il est gravement blessé lors d'une rixe en marge d'une conférence de Pierre Do-Dinh en 1929[3]), le jeune homme devient bientôt l'un des principaux animateurs de la ligue nationaliste et anticommuniste de Pierre Taittinger, dont il dirige l'hebdomadaire, Le National, à partir de 1932. Après les manifestations du 6 février 1934, pendant lesquelles il a mené les troupes des JP[4], il fait partie de la commission exécutive du PRNS[5], nouvel avatar des JP, dont il préside le mouvement de jeunesse, les Jeunesses nationales. Lors des élections législatives de 1936, il se présente comme « Républicain national » à Segré en Maine-et-Loire[6], obtenant 5796 voix contre 7953 au député sortant, Albert Blanchoin (Jeune République, Front populaire), qui est ainsi réélu dès le premier tour.
+Mobilisé en 1939, il est fait prisonnier en juin 1940. Après sa libération, il rallie Vichy où il crée, avec Henri Pugibet, la Jeunesse de France et d'Outre-mer, un mouvement de jeunesse acquis aux idées de la Révolution nationale. À la demande d'Henry du Moulin de Labarthète, il devient chef-adjoint du cabinet civil du maréchal Pétain en juillet 1941. Pétainiste mais hostile aux Allemands, il doit démissionner en décembre 1942 après avoir protesté contre l'invasion de la Zone libre. Il sera également radié de l'Ordre de la Francisque. Ayant essayé de rejoindre le commandement en chef du général Giraud en Afrique du Nord, il est arrêté avant la frontière espagnole par les Allemands en même temps que le prince Louis Napoléon. Incarcéré au château du Hâ, puis à Fresnes, il est déporté à Dachau en avril 1943 puis interné au Kommando de Füssen-Plansee entre août 1943 et mai 1945.
+Après la Libération, De Saivre se réengage en politique pour la réhabilitation du maréchal Pétain et l'amnistie des partisans du chef de l’État français. Avec son cousin Jacques Isorni, il fonde l'Union des nationaux indépendants et républicains (UNIR), dont il devient secrétaire général. Lors des législatives de 1951, l'UNIR obtient quatre sièges : De Saivre est élu à Oran. En novembre de la même année, il participe à la fondation de l'Association pour défendre la mémoire du maréchal Pétain (ADMP). Siégeant à l'Assemblée nationale au sein du groupe du Centre républicain d'action paysanne et sociale (CRAPS), De Saivre participe à diverses commissions parlementaires et prend régulièrement la parole, notamment en faveur de l'amnistie des épurés et de la défense de l'empire colonial français.
+Engagé comme officier de réserve pendant la guerre d'Algérie, Roger de Saivre entre en contact avec le Comité de salut public au lendemain du coup d'État du 13 mai 1958. Malade depuis plusieurs années, il meurt en 1964.
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Entente républicaine) .
+FONCTIONNORM
+
+NOMF Député d'Oran NOMF 1951 – 1955 SEP2 Législature REL IIe (IVe République) SEP2 Groupe politique REL CRAPS SEP2 Date de naissance REL 14 mai 1908 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 13 décembre 1964 (à 56 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL Français SEP2 Parti politique REL Entente républicaine[1]PRNSUNIR SEP2 Profession REL AvocatJournaliste.

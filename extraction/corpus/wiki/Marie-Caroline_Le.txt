@@ -1,0 +1,25 @@
+PRETAG Marie-Caroline.
+NOMTAG Le.
+Marie-Caroline Le Pen (prononcé [lə pɛn]), née le 23 janvier 1960 à Neuilly-sur-Seine en France, est une femme politique française.
+Elle est l'aînée des trois filles de Jean-Marie Le Pen et de sa première épouse Pierrette Lalanne.
+
+Marie-Caroline Le Pen naît le 23 janvier 1960 à Neuilly-sur-Seine ; elle a pour parrains Jean-Louis Tixier-Vignancour[1] et Jacques Dominati[2],[3].
+Elle étudie au lycée Camille-Sée, dans le 15e arrondissement de Paris[4].
+
+
+Vie privée.
+Marie-Caroline Le Pen naît le 23 janvier 1960 à Neuilly-sur-Seine ; elle a pour parrains Jean-Louis Tixier-Vignancour[1] et Jacques Dominati[2],[3].
+Elle étudie au lycée Camille-Sée, dans le 15e arrondissement de Paris[4].
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) 1975-1998.
+PART Mouvement national républicain (MNR) 1998-2000.
+FONCTIONNORM
+
+NOMF Conseillère régionale d'Île-de-France NOMF 22 mars 1992 – 28 mars 2004(12 ans et 6 jours) SEP2 Élection REL 22 mars 1992 SEP2 Réélection REL 15 mars 1998 SEP2 Nom de naissance REL Marie-Caroline Le Pen SEP2 Date de naissance REL 23 janvier 1960 (58 ans) SEP2 Lieu de naissance REL Neuilly-sur-Seine (France) SEP2 Nationalité REL Française SEP2 Parti politique REL FN (1975-1998)MNR (1998-2000) SEP2 Père REL Jean-Marie Le Pen SEP2 Mère REL Pierrette Lalanne SEP2 Fratrie REL Yann Le PenMarine Le Pen SEP2 Conjoint REL Philippe Olivier SEP2 Profession REL Agent immobilier SEP2 Religion REL Catholique.

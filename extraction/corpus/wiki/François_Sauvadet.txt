@@ -1,0 +1,37 @@
+PRETAG François.
+NOMTAG Sauvadet.
+François Sauvadet, né le 20 avril 1953 à Dijon (Côte-d'Or), est un homme politique français, membre de l'UDI.
+
+
+
+Fils d'agriculteurs, il passe son baccalauréat au lycée Montchapet de Dijon. Il obtient un DUT en gestion d'entreprise à l'IUT de Troyes, puis termine sa formation à l'UFR de sciences sociales de l'université de Reims Champagne-Ardenne.
+De 1977 à 1993, il est journaliste au service politique du Bien public.
+Élu député de la 4e circonscription de la Côte-d'Or de façon ininterrompue du 28 mars 1993 au 17 août 2016, il est élu une première fois le 28 mars 1993, réélu le 1er juin 1997, le 9 juin 2002 au 1er tour face au jeune candidat du Parti radical de gauche, Patrick Molinoz[1], le 10 juin 2007, également au 1er tour[2], et finalement le 20 juin 2012.
+En 1994, il achète une maison en vieille pierre avec piscine pour en faire sa permanence parlementaire. Déboursant l'équivalent de 124 000 euros, il rembourse ensuite les mensualités de son prêt avec ses frais de mandat, une pratique alors légale mais interdite à partir de 2015[3].
+Ancien membre du Pôle républicain indépendant et libéral, il fait partie jusqu'en 2007 du groupe UDF dont il a été porte-parole. Le 29 mai 2007, il crée, avec Hervé Morin et d'autres députés centristes ayant fait le choix de soutenir Nicolas Sarkozy à l'élection présidentielle, le Nouveau Centre. Il en devient président du groupe parlementaire à l'Assemblée nationale, le 19 juin 2007. Il est désigné vice-président du NC au sein de son organisation provisoire[4].
+Le 20 mars 2008, François Sauvadet est élu président du conseil général de la Côte-d'Or et choisit d'abandonner son mandat de maire de Vitteaux[5].
+Le 29 juin 2011, il est nommé ministre de la Fonction publique dans le troisième gouvernement François Fillon à la faveur d'un remaniement qui fait suite à la désignation de Christine Lagarde à la tête du FMI. Il est à l'origine d'une loi qui porte son nom (loi du 12 mars 2012) et qui dispose de mesures favorables à la déprécarisation dans la fonction publique et à la promotion des femmes aux plus hautes fonctions de l'État, des hôpitaux et des collectivités locales[réf. nécessaire]. Son siège de député sera alors vacant, son suppléant Christian Myon étant décédé, en octobre 2007, d'un accident de voiture.
+Il participe à la création de l'UDI avec Jean-Louis Borloo et, après décision de ce dernier de quitter ses mandats politiques, se porte candidat à la succession de ce dernier à la présidence du groupe UDI à l'Assemblée nationale en avril 2014. Il est battu par le député Philippe Vigier par 16 voix contre 12 (plus un vote blanc)[6]. Le 13 juin 2014, il propose sa candidature à la présidence de l'UDI[7], laquelle n'est finalement pas retenue. Il apporte finalement son soutien à Jean-Christophe Lagarde. Le 30 août 2014, il plaide pour un programme de gouvernement commun UMP-UDI[8].
+Le 21 avril 2015, il déclare sa candidature à la présidence du conseil régional de Bourgogne - Franche-Comté[9], en concurrence avec Alain Joyandet qui s'était porté candidat le 12 décembre 2014[10]. Les atermoiements pour la désignation de la tête de liste UMP-UDI le font envisager d'adhérer au parti en formation « Les Républicains » succédant, le 30 mai 2015, à l'UMP[11]. Conduisant finalement la liste Les Républicains-UDI-MoDem à l'élection régionale de 2015 en Bourgogne-Franche-Comté, il est battu par la socialiste Marie-Guite Dufay. Il s'est engagé, pendant cette campagne, à quitter son mandat de député, ce qu'il confirme le 13 décembre 2015 à la télévision[12]. Le 18 mars 2016, en session plénière du conseil régional de Bourgogne-Franche-Comté il est chahuté sur sa promesse de démissionner de son mandat de député[13]. En mai 2016, il n'a toujours pas démissionné[14]. Le 9 août 2016, il annonce finalement son départ de l'assemblée nationale. Cependant aucune élection législative partielle n'est possible, sa démission intervenant moins d’un an avant les élections législatives de 2017[15]. Il reste président du conseil départemental de Côte d'Or et conserve son siège au conseil régional de Bourgogne-Franche-Comté.
+Lors de la primaire des Républicains de 2016, il soutient François Fillon au second tour contre Alain Juppé[16].
+Il a été membre du groupe d'études sur le problème du Tibet de l'Assemblée nationale[17].
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) NC.
+PART Nouveau Centre (NC) UDI.
+PART Union des démocrates et indépendants (UDI).
+FONCTIONNORM
+
+NOMF Président du conseil général puis départemental de la Côte-d'Or NOMF En fonction depuis le 20 mars 2008(9 ans et 11 mois) SEP2 Élection REL 20 mars 2008 SEP2 Prédécesseur REL Louis de Broissia.
+NOMF Conseiller régional de Bourgogne-Franche-ComtéPrésident du groupe Union des républicains de la droite et du centre NOMF En fonction depuis le 3 janvier 2016(2 ans, 1 mois et 17 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Président NOMF Ministre de la Fonction publique34e ministre de la Fonction Publique de la Ve République.
+NOMF Ministre de la Fonction publique34e ministre de la Fonction Publique de la Ve République NOMF 29 juin 2011 – 10 mai 2012(10 mois et 11 jours).
+NOMF Président NOMF GouvernementFrançois Fillon III SEP2 Gouvernement REL François Fillon III SEP2 Prédécesseur REL François Baroin SEP2 Successeur REL Marylise Lebranchu.
+NOMF Président du Groupe Nouveau Centrede l'Assemblée nationale NOMF 26 juin 2007 – 29 juin 2011(4 ans et 3 jours) SEP2 Législature REL XIIIe SEP2 Prédécesseur REL Création du groupe SEP2 Successeur REL Yvan Lachaud.
+NOMF Député de la 4e circonscriptionde la Côte-d'Or NOMF 2 avril 1993 – 17 aout 2016(24 ans, 10 mois et 18 jours) SEP2 Élection REL 28 mars 1993 SEP2 Prédécesseur REL Gilbert Mathieu SEP2 Successeur REL Yolaine de Courson SEP2 Élection REL 18 juin 1995 SEP2 Prédécesseur REL Gilbert Mathieu SEP2 Successeur REL Bernard Paut SEP2 Date de naissance REL 20 avril 1953 (64 ans) SEP2 Lieu de naissance REL Dijon (Côte-d'Or) SEP2 Nationalité REL Français SEP2 Parti politique REL UDF, NC et UDI SEP2 Profession REL Journaliste.

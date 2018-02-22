@@ -1,0 +1,22 @@
+PRETAG Léon.
+NOMTAG Jozeau-Marigné.
+Léon Jozeau-Marigné, né le 21 juillet 1909 à Angers en Maine-et-Loire et mort le 18 juillet 2003 à Avranches, est un homme politique français.
+
+
+
+Fils d'un fonctionnaire des Postes à Angers, il étudie le droit à l'université catholique d'Angers, s'installe à Avranches comme avoué en 1935, puis soutient sa thèse de doctorat en droit à la faculté de Caen (L'autorisation préfectorale et les ventes judiciaires d'immeubles, Avranches, impr. de l'Avranchin, 1942, in-8°, 140 p.).
+Il accepte le Régime de Vichy, malgré l'institution d'une législation antisémite en octobre 1940 et l'entrée officielle, le même mois, dans "la voie de la collaboration", une nomination au conseil municipal d'Avranches en février 1941 pendant la Seconde Guerre mondiale et s'associe à la motion municipale d'hommage à Pétain du 1er mars 1941 par laquelle "Le Maire et le Conseil municipal d'Avranches, dès leur première réunion, tiennent à assurer M. le Maréchal de France,Philippe Pétain, Chef de l'Etat Français, de leur immense admiration, de leur filial attachement et de leur entier dévouement à l'œuvre de redressement national" (source : procès-verbal officiel de la séance du 1er mars 1941) mais démissionne en 1943, refusant la compromission avec les autorités allemandes [référence nécessaire]. En 1948, il est élu sénateur sous l'étiquette de l'Union des Républicains et des Indépendants, et préside la commission de la reconstruction du Conseil de la République, et siège au Haut conseil à l'aménagement du territoire en 1957.
+Il s'impose dans le canton d'Avranches comme conseiller général en 1951 et maire du chef-lieu en 1953.
+Réélu après le rétablissement du Sénat, il est nommé vice-président entre 1962 et 1965, représente la France au Parlement européen de 1966 à 1978, et préside la commission des Lois entre 1971 et 1983. En parallèle, il devient l'homme fort du département de la Manche, en présidant le conseil général pendant 20 ans, à partir de 1968, et le conseil régional de Basse-Normandie à deux reprises. Il préside également l'assemblée des présidents des conseillers généraux, de la commission supérieures des Caisses d'Épargne de France. En 1969, il prône le non au référendum.
+Reconnu comme un fin juriste, Alain Poher, président du Sénat, le nomme pour 9 ans au conseil constitutionnel en 1983, l'obligeant à abandonner ses mandats, à l'exception de la présidence du département. À l'époque, il écrit pour se justifier : « C'est dans l'esprit d'obligation de réserve que je désire ne conserver qu'un seul mandat, mon mandat de conseiller général, que les électeurs d'Avranches m'ont confié il y a à peine une année et cela dans une très large majorité. Avec une quasi unanimité, l'ensemble des conseillers généraux de la Manche m'ont demandé d'en assumer la présidence. C'est le seul mandat que je conserverai, mais qui pour moi et une attache certaine à ce département de la Manche où je continuerai à habiter. »[1]. Mais, battu à la surprise générale par le candidat socialiste aux cantonales de 1988, la présidence du département échoie à Pierre Aguiton, à la suite de sa défaite contre le candidat socialiste dans son canton. À la fin de son mandat au Conseil constitutionnel, il est nommé membre honoraire du Parlement.
+Il a également été membre du Haut Conseil de l'aménagement du territoire en 1957, et juge titulaire à la Haute Cour de justice en 1968.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de la Manche NOMF 7 novembre 1948 – 3 mars 1983(34 ans, 3 mois et 24 jours) SEP2 Gouvernement REL IVe RépubliqueVe République SEP2 Groupe politique REL Union des Républicains et des Indépendants SEP2 Date de naissance REL 21 juillet 1909 SEP2 Lieu de naissance REL Angers SEP2 Date de décès REL 18 juillet 2003 (à 93 ans) SEP2 Lieu de décès REL Avranches SEP2 Nationalité REL Française SEP2 Profession REL Avoué SEP2 Résidence REL Manche.

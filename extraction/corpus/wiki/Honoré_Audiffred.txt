@@ -1,0 +1,29 @@
+PRETAG Honoré.
+NOMTAG Audiffred.
+Honoré Audiffred de son vrai nom Jean-Honoré Audiffred, né le 12 décembre 1840 à Jausiers (Alpes-de-Haute-Provence) et décédé le 27 octobre 1917 à Saint-Pierre-la-Noaille (Loire), est un homme politique français.
+
+
+
+Il est le fils de Jean Audiffred, négociant, riche marchand de toiles à Roanne et de Joséphine Caire[1].
+Il exerçait la profession d'avocat au barreau de Roanne. Il est sous-préfet de Roanne du 4 septembre 1870 au 4 avril 1871.
+Il est nommé conseiller municipal de Roanne et conseiller général du canton de Saint-Haon-le-Châtel en 1871, il est élu président du Conseil général de la Loire de 1895 à 1902. Il fut maire de Saint-Pierre-la-Noaille de 1900 à 1912[2].
+Brièvement élu sénateur en 1894, il préfère alors rester député et renonce à son poste de sénateur. Il retrouve un siège de sénateur en 1904, succédant à Pierre Waldeck-Rousseau, décédé. Il conserve son siège de sénateur jusqu'à son décès en 1917.
+C'est un parlementaire très actif, inscrit au groupe de l'Union républicaine à la Chambre, et à la Gauche républicaine au Sénat. Il est président de la commission chargée d'examiner la loi sur les menées anarchistes en 1894, rapporteur de la loi de 1894 sur les caisses de retraites des ouvriers mineurs. Il est président de la commission des assurances et de la prévoyance sociale.
+Il est membre de l'Association nationale républicaine en 1888, il la préside à partir de 1894 et en fait l'une des composantes fondatrices de la Fédération républicaine en 1903.
+Honoré Audiffred est à l'origine de la création, en 1901, de la Caisse des recherches scientifiques (CRS), ancêtre du CNRS. Celle-ci est destinée à « encourager la recherche plutôt qu'à récompenser la découverte et à aider les savants capables de réaliser les découvertes appelées à délivrer l'humanité des fléaux qui la déciment »[3].
+Il mourut en cours de mandat, le 27 octobre 1917, et son éloge funèbre fut prononcé à la séance du Sénat du 6 novembre 1917, par le président Antonin Dubost.
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+FONCTIONNORM
+
+NOMF Sénateur de la Loire NOMF 30 décembre 1894 – 21 janvier 1895(22 jours) SEP2 Élection REL 30 décembre 1894 SEP2 Élection REL 23 octobre 1904 SEP2 Réélection REL 7 janvier 1906 SEP2 Groupe politique REL Gauche républicaine.
+NOMF Député de la Loire NOMF 6 avril 1879 – 19 décembre 1904(25 ans, 8 mois et 13 jours) SEP2 Élection REL 6 avril 1879 SEP2 Réélection REL 21 août 188118 octobre 18856 octobre 188920 août 18938 mai 189811 mai 1902 SEP2 Législature REL IIe, IIIe, IVe, Ve, VIe, VIIe, VIIIe (Troisième République) SEP2 Groupe politique REL Union républicaine (1879-1889).
+NOMF Président du Conseil général de la Loire NOMF 1895 – 1902(7 ans) SEP2 Prédécesseur REL Étienne Brossard SEP2 Successeur REL Gabriel Réal.
+NOMF Conseiller général du canton de Saint-Haon-le-Châtel NOMF 1892 – 1904(12 ans) SEP2 Prédécesseur REL M. Bouvet SEP2 Successeur REL Benoît Perrichon SEP2 Nom de naissance REL Jean-Honoré Audiffred SEP2 Date de naissance REL 12 décembre 1840 SEP2 Lieu de naissance REL Jausiers(Alpes-de-Haute-Provence) SEP2 Date de décès REL 27 octobre 1917 (à 76 ans) SEP2 Lieu de décès REL Saint-Pierre-la-Noaille(Loire) SEP2 Nationalité REL Française SEP2 Parti politique REL Fédération républicaine SEP2 Profession REL Avocat.

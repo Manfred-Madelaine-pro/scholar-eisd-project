@@ -1,0 +1,35 @@
+PRETAG Martine.
+NOMTAG Lehideux.
+Martine Lehideux, née le 27 mai 1933 dans le 20e arrondissement de Paris, est une femme politique française, longtemps militante du Front national, sous les couleurs duquel elle a été députée européenne et conseillère régionale d’Île-de-France. Après son départ du FN, elle a rejoint le Parti de la France (PDF).
+
+
+
+Une des fondatrices du Front national.
+Nièce de François Lehideux, ministre de l'Industrie sous le régime de Vichy[1], Martine Lehideux fait partie des membres fondateurs du Front national en 1972 avec son mari André Dufraisse, ancien du Parti populaire français de Jacques Doriot, qui avait combattu au côté des nazis dans la Légion des volontaires français contre le bolchevisme (LVF)[2].
+Titulaire du baccalauréat, elle est diplômée de la Croix-Rouge et exerce la profession de secrétaire médicale[3].
+En 1953, elle adhère au Mouvement européen[4].
+Militante catholique, elle est la fondatrice du Cercle national des femmes d'Europe, une organisation affiliée au FN. Dans le cadre de cette organisation, elle défend notamment une conception conservatrice de la famille qu'elle considère comme le « socle de notre identité et de notre avenir ». De même, elle milite pour faire abroger les lois sur l'IVG et le PACS[2]. Elle est surnommée « Mamie Panzer » au regard du passé de son mari[5].
+Mandats.
+Elle est la sœur de l'ancien député européen Bernard Lehideux, militant centriste, fidèle de Valéry Giscard d'Estaing puis de François Bayrou au sein de l'UDF et du Mouvement démocrate. Ils furent tous les deux conseillers régionaux au conseil régional d'Île-de-France, dans des groupes opposés.
+Elle est élue au Parlement européen en 1984, où elle siège jusqu'en 1994.
+Martine Lehideux et le Front national.
+En 1985, elle participe à la rédaction du programme du FN en vue des élections législatives de l'année suivante, intitulé Pour la France[6],[7].
+En janvier 1998, elle est chargée de la réintégration dans le contre-gouvernement du FN supervisé par Jean-Claude Martinez[8].
+Jean-Marie Le Pen lui confie, en 2002, le dossier des 500 parrainages, avant de le lui retirer en raison d'un manque de signatures[2].
+Lors des élections municipales de 2008 à Paris, elle est tête de liste FN dans le 16e arrondissement de Paris.
+Le 27 janvier 2009, elle annonce, dans un communiqué commun avec Martial Bild, son départ du groupe Front national au conseil régional d'Île-de-France, groupe auquel elle appartenait depuis mars 1992[9], pour fonder un nouveau groupe, intitulé « Groupe des nationaux et indépendants »[10],[11]. Ce nouveau groupe, qui sera présidé par Martine Lehideux, devrait également inclure les conseillers régionaux Myriam Baeckeroot, Michel Bayvet (membre du bureau politique du FN) et Michel de Rostolan, tandis que Martine Lehideux indiquait ultérieurement à l'AFP que Jean-François Touzé, démissionnaire du FN depuis, pourrait également rejoindre le groupe.
+Depuis 2010, Martine Lehideux est membre du conseil national du Parti de la France de Carl Lang. Lors des élections législatives de 2012, elle est candidate dans la 4e circonscription de l'Aisne où elle obtient 0,96 % des suffrages[12].
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) 1972-2009.
+PART Parti de la France (PDF) depuis 2009.
+FONCTIONNORM
+
+NOMF Députée européenne NOMF 24 juillet 1984 – 18 juillet 1994(9 ans, 11 mois et 24 jours) SEP2 Élection REL 17 juin 1984 SEP2 Réélection REL 15 juin 1989 SEP2 Législature REL 2e et 3e.
+NOMF Conseillère régionale d'Île-de-France NOMF 22 mars 1992 – 21 mars 2010(17 ans, 11 mois et 25 jours) SEP2 Date de naissance REL 27 mai 1933 (84 ans) SEP2 Lieu de naissance REL Paris SEP2 Nationalité REL Française SEP2 Parti politique REL FN (1972-2009)PDF (depuis 2009) SEP2 Fratrie REL Bernard Lehideux SEP2 Conjoint REL André Dufraisse SEP2 Profession REL Secrétaire médicale SEP2 Religion REL Catholicisme.

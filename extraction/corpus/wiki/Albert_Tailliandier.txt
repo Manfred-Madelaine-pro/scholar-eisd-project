@@ -1,0 +1,20 @@
+PRETAG Albert.
+NOMTAG Tailliandier.
+Albert Tailliandier, né le 28 avril 1875 à Fresnoy-en-Gohelle (Pas-de-Calais) et mort le 25 mars 1917 à Bapaume (Pas-de-Calais), est un homme politique français.
+
+
+
+Docteur en droit, avocat au Conseil d’État et à la Cour de cassation, Albert Tailliandier est le fils d'Henri Tailliandier, député du Pas-de-Calais, et le frère de Maurice Tailliandier, lui aussi député. En 1914, son père, candidat aux élections législatives, meurt entre les deux tours. Albert se présente à sa place et est élu. Il succède également à son père à la mairie de Fresnoy-en-Gohelle. Il siège à la Fédération républicaine. Le 25 mars 1917, alors qu'il distribue des secours à la mairie de Bapaume, il est tué par l'explosion d'une bombe.
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

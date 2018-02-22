@@ -1,0 +1,21 @@
+PRETAG Alexandre.
+NOMTAG Bachelet.
+Alexandre Bachelet est un homme politique français, enseignant de profession, né le 6 janvier 1866 à Saudemont (Pas-de-Calais) et mort le 1er août 1945 dans le 16e arrondissement de Paris.
+Fils d'ouvriers, Alexandre Bachelet suit ses parents qui s'installent à Saint-Ouen, près de Paris. Il devient ouvrier lui-même, mais prépare, puis obtient, le brevet d'enseignement primaire, et devient instituteur, puis répétiteur, et enfin inspecteur des études (c'est-à-dire surveillant général) au collège Chaptal de Paris.
+Militant socialiste (il adhère à la SFIO après l'unification) et franc-maçon[1], Alexandre Bachelet devient conseiller municipal et adjoint au maire de Saint-Ouen en 1912. La même année, il devient conseiller général de la Seine et secrétaire du conseil général. Réélu au conseil municipal en 1919, il devient premier adjoint.
+Après le congrès de Tours, il adhère au Parti communiste, mais il est exclu dès janvier 1923, notamment parce qu'il refuse de quitter la franc-maçonnerie. Il milite dès lors dans des mouvements politiques situés entre le PC et la SFIO : le Parti communiste unitaire, puis le Comité central de l'Union socialiste communiste, et enfin le Parti d'unité prolétarienne (PUP), à partir de 1930.
+Candidat malheureux du Cartel des gauches aux élections législatives de 1924, il conserve cependant ses mandats locaux. Il est élu sénateur en 1927, grâce aux voix des élus communistes, avec qui il a gardé de bonnes relations personnelles. Il est réélu en 1936.
+Le 31 janvier 1937, il approuve le ralliement du PUP à la SFIO.
+Le 10 juillet 1940, il vote contre les pleins pouvoirs au maréchal Pétain. En raison de son âge, il ne s'engage pas dans la Résistance. Il est cependant président du comité local de Libération et maire de Saint-Ouen d'août 1944 à mai 1945, date à laquelle la liste SFIO, qu'il mène, est battue par la liste communiste. Il meurt peu après.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de la Seine (1927-1942) NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Date de naissance REL 6 janvier 1866 SEP2 Date de décès REL 1er août 1945 (à 79 ans).

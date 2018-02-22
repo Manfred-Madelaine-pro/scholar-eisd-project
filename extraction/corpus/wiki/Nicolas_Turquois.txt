@@ -1,0 +1,26 @@
+PRETAG Nicolas.
+NOMTAG Turquois.
+Nicolas Turquois est un homme politique français, né le 26 juillet 1972 à Tours (Indre-et-Loire). Il est l'actuel député - MoDem - de la 4e circonscription de la Vienne[1].
+
+
+
+Marié et père de trois enfants, Nicolas Turquois est élu conseiller municipal en 2001 d'Ouzilly-Vignolles, petite commune associée à Moncontour. Il démissionne de ce poste en 2006, à la suite de la réforme de l'intercommunalité et également en raison de son opposition au président de l'époque [2].
+En 2006, l'agriculteur, ingénieur agronome de formation, rejoint l'UDF[2].
+En 2010, il est tête de liste Modem dans la Vienne pour les élections régionales.
+Depuis cette année-là, il occupe le poste de président départemental du Mouvement démocrate pour la Vienne[2],[3].
+En 2012, il est investi par son parti pour être candidat aux élections législatives. Il sera éliminé dès le premier tour avec 2.61 % des voix.
+En 2014, il est réélu conseiller municipal de Moncontour et élu maire-délégué d'Ouzilly-Vignolles, commune faisant partie de la Communauté de Communes du Pays Loudunais [2].
+Conformément à la proposition d'alliance de gouvernement proposé par François Bayrou à Emmanuel Macron, certaines circonscriptions sont réservées à des candidats MoDem. Nicolas Turquois est investi dans la quatrième circonscription de la Vienne sous la bannière de la majorité présidentielle (MoDem-La République en marche).
+Le 11 juin 2017, soir du premier tour de l'élection législative, il arrive en tête, face à Anne-Florence Bourat, la candidate de la droite et du centre (LR-UDI), battant ainsi la députée sortante Véronique Massonneau (écologiste, soutenue par le Parti socialiste), dès le premier tour.
+Le 18 juin 2017, il est élu au second tour avec 51,34% des voix.
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Député de la 4e circonscription de la Vienne NOMF En fonction depuis le 21 juin 2017(8 mois) SEP2 Législature REL XVe SEP2 Prédécesseur REL Véronique Massonneau SEP2 Date de naissance REL 26 juillet 1972 (45 ans) SEP2 Lieu de naissance REL Tours SEP2 Nationalité REL française SEP2 Parti politique REL MoDem SEP2 Profession REL agriculteur.

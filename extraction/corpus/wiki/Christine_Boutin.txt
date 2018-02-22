@@ -1,0 +1,50 @@
+PRETAG Christine.
+NOMTAG Boutin.
+Christine Boutin, née Christine Martin le 6 février 1944 à Levroux (Indre), est une femme politique française, membre successivement ou concomitamment de l'UDF, de l'UMP et du FRS-PCD.
+Élue députée dans les Yvelines à partir de 1986, elle se réclame des valeurs catholiques et s'oppose notamment au PACS, puis au mariage homosexuel.
+Après avoir fondé son propre mouvement, le Forum des républicains sociaux (FRS), elle se présente à l'élection présidentielle de 2002, à laquelle elle arrive avant-dernière en recueillant 1,2 % des suffrages au premier tour. Entre 2007 et 2009, elle est ministre du Logement et de la Ville, puis uniquement du Logement. Lors de son départ du gouvernement, le FRS devient le Parti chrétien-démocrate (PCD).
+Elle se retire de la vie politique en 2017.
+
+
+
+Origines, études et vie de famille.
+Christine Boutin, née Martin, est la fille de Xavier Martin, journaliste, et de Bernadette Durand, femme au foyer. Sa mère meurt alors qu'elle n'a que cinq ans. Son grand-père, Romain Martin, était chef de gare à Nantes. Issue d'une famille essentiellement berrichonne, dans le Berry depuis le XVIIe siècle, son trisaïeul Godefroy Étienne Martin fut maire de Reuilly (Indre)[1].
+Elle effectue sa scolarité à Tours, puis des études de droit à l'université de Paris II Assas. Après une maîtrise de droit public et d'économie industrielle (option échanges mondiaux) [réf. nécessaire], elle change d'orientation professionnelle et devient, comme son père, journaliste[2].
+En 1967, Christine Martin épouse Louis Boutin, son cousin germain[3], informaticien[4], dont elle a trois enfants : Loïc, Armelle et Pierre-Yves[5],[6].
+Un mariage catholique entre cousins germains étant invalide du point de vue du droit canonique[7], sauf dispense papale, l'existence d'une telle dispense a fait l'objet de commentaires[8],[9], notamment dans le contexte de l'opposition de la présidente du Parti chrétien-démocrate au mariage homosexuel[10].
+Carrière professionnelle.
+
+Attachée de presse au CNRS (1964-1969) ;
+Adjointe au chef de service du secrétariat général du Crédit agricole (1973-1979) ;
+Journaliste à Dossier familial, le mensuel du Crédit agricole (jusqu'en 1986) ;
+Consulteur[11] du Conseil pontifical pour la famille au Saint-Siège (1995)[12].
+
+Carrière politique.
+Selon Christine Boutin, c'est l'adoption de la loi Veil en 1975, dépénalisant l'avortement, qu'elle compare « à un coup de poignard dans le cœur », qui est à l'origine de son engagement en politique[13].
+
+
+
+
+Attachée de presse au CNRS (1964-1969) ;
+Adjointe au chef de service du secrétariat général du Crédit agricole (1973-1979) ;
+Journaliste à Dossier familial, le mensuel du Crédit agricole (jusqu'en 1986) ;
+Consulteur[11] du Conseil pontifical pour la famille au Saint-Siège (1995)[12].
+
+Carrière politique.
+Selon Christine Boutin, c'est l'adoption de la loi Veil en 1975, dépénalisant l'avortement, qu'elle compare « à un coup de poignard dans le cœur », qui est à l'origine de son engagement en politique[13].
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) UMP.
+PART Union pour un mouvement populaire (UMP) FRS-PCD.
+PART Parti chrétien-démocrate (FRS-PCD).
+FONCTIONNORM
+
+NOMF Présidente d'honneur du Parti chrétien-démocrate NOMF En fonction depuis le 3 octobre 2013(4 ans, 4 mois et 17 jours) SEP2 Prédécesseur REL Poste créé.
+NOMF Présidente du Parti chrétien-démocrate NOMF 20 juin 2009 – 10 juillet 2013(4 ans et 20 jours) SEP2 Prédécesseur REL Création du parti SEP2 Successeur REL Charles-Henri Jamin (intérim)Jean-Frédéric Poisson.
+NOMF Ministre du Logement[N 1] NOMF 18 mai 2007 – 23 juin 2009(2 ans, 1 mois et 5 jours).
+NOMF Président NOMF GouvernementFillon I, Fillon II SEP2 Gouvernement REL Fillon I, Fillon II SEP2 Prédécesseur REL Jean-Louis Borloo SEP2 Successeur REL Nathalie Kosciusko-Morizet.
+NOMF Députée française NOMF 2 avril 1986 – 19 juillet 2007(21 ans, 3 mois et 17 jours) SEP2 Élection REL 12 juin 1988 SEP2 Circonscription REL Yvelines (1986-1988)10e des Yvelines (1988-2007) SEP2 Prédécesseur REL scrutin propotionnel SEP2 Successeur REL Jean-Frédéric Poisson.
+NOMF Conseillère générale puis départementale des YvelinesÉlue dans le canton de Rambouillet NOMF 22 mars 1982 – 20 octobre 2017(35 ans, 6 mois et 29 jours) SEP2 Avec REL Georges Bénizé SEP2 Élection REL 21 mars 1992 SEP2 Prédécesseur REL Guy Malandain SEP2 Successeur REL Clarisse Demont SEP2 Élection REL 20 mars 1977 SEP2 Prédécesseur REL Bernard Lévêque SEP2 Successeur REL Jérôme Broussard SEP2 Nom de naissance REL Christine Marcelle Valérie Cécile Marie Martin SEP2 Date de naissance REL 6 février 1944 (74 ans) SEP2 Lieu de naissance REL Levroux (Indre) SEP2 Nationalité REL française SEP2 Parti politique REL UDF, UMP, FRS-PCD SEP2 Profession REL journaliste SEP2 Religion REL catholicisme.

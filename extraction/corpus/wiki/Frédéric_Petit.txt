@@ -1,0 +1,30 @@
+PRETAG Frédéric.
+NOMTAG Petit.
+Frédéric Petit, né en 1961 à Marseille (Bouches-du-Rhône), est député de la septième circonscription des Français établis hors de France (Europe centrale et orientale), élu lors des élections législatives de 2017.
+
+
+
+Frédéric Petit est né en 1961, à Marseille, d’un père Ingénieur et d’une mère professeur d’anglais. Il grandit en Lorraine, où son père est venu travailler dans la sidérurgie. Il fait sa scolarité au lycée Schuman, puis entre en mathématique supérieure au lycée Fabert.
+Il est titulaire d’un diplôme d’ingénieur environnement de l’Institut polytechnique de Lorraine (ENSGSI et ENS de Géologie), il a suivi des études d’histoire, de lettres modernes, et de musicologie à l’université de Metz, et un DUT de gestion des entreprises et des administrations. Il est médiateur, membre de la Chambre nationale des praticiens de la médiation. Il est propriétaire d’un brevet concernant l’équilibrage des gros réseaux de chaleur urbains (INPI).
+En septembre 1982, il effectue un service national civil de 16 mois au Cameroun, et à son retour, il décide de s’engager à temps plein dans un projet social dans la ZUP de Borny, à Metz. Il y passe onze années comme directeur du Comité de Gestion des Centres Sociaux de Borny.
+Il épouse en 1990 à Cracovie Agnieszka Malecka. Ils se sont rencontrés en 1986 lors d’échanges étudiants.
+En 1994, il prend la direction du centre interculturel de Bévoye, expérience transfrontalière de rencontres de jeunes Européens.
+En 1998, il rejoint la Compagnie générale de Chauffe, l’ancêtre du groupe Veolia Energie, qui lui offre en 2000 l’opportunité de s’installer en Europe centrale (Lituanie puis Pologne) où le groupe se développait à l’époque activement.
+De 2005 à 2009, il dirige Onyx Polska (Véolia Environnement). Il est élu par la profession président du Syndicat des Employeurs du Traitement des Déchets polonais. Il participe à ce titre aux travaux du Parlement polonais (Sejm).
+En 2009 et 2010, il travaille à son compte, et effectue des missions d’ingénierie et de management de transition très diverses en Europe (captage de méthane dans les vieilles mines du Donbass, conseil à un député européen Polonais pour la Cop 15, audits de réseau de chaleur dans les payse de l’Est,...) avant qu’en août 2010, le groupe Consolis (ex Bonna Sabla) lui propose de partir en Egypte, au départ pour redynamiser sa filiale égyptienne, puis pour des objectifs rapidement moins ambitieux sur le plan économique après le Printemps Arabe. Après 5 années, il revient en Pologne, toujours pour le groupe Consolis, pour créer « Consolis Central Europe ». Il dirige cette société et les filiales qui lui sont rattachées (Roumanie, Hongrie, Lituanie, Pologne, République Tchèque, Serbie, Ukraine). Il quitte le groupe Consolis en août 2016. Il vit aujourd’hui à Varsovie avec son épouse et sa fille cadette, son ainée est installée et travaille à Varsovie. Ses attaches en Pologne sont également à Cracovie, dont son épouse est originaire, et en France au Tholonet, dans les Bouches du Rhône.
+Il séjourne en Égypte de 2010 à 2015 pour le groupe de BTP Consolis (ro) (Bonna Sabla).
+Frédéric Petit a été adjoint au Maire de Maizery (Moselle, 70 habitants) de 1995 à 2001. Il est adhérent du Modem depuis 2007.
+En 2017, il s'engage en tant que membre de la société civile au sein de Fédération des Français de l'étranger du MoDem et est finalement investi à ce titre dans le cadre des accords entre En Marche ! et ce parti lors des élections législatives[1].
+Il est élu au 2e tour contre le député sortant socialiste pro-Macron, recueillant 62,9 % des suffrages exprimés contre 37,1 % à son concurrent Pierre-Yves Le Borgn'[2].
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Député de la 7e circonscription des Français établis hors de France NOMF En fonction depuis le 21 juin 2017(7 mois et 22 jours) SEP2 Élection REL 17 juin 2017.
+NOMF Président NOMF Premier ministreÉdouard Philippe SEP2 Premier ministre REL Édouard Philippe SEP2 Groupe politique REL MoDem SEP2 Prédécesseur REL Pierre-Yves Le Borgn’ SEP2 Date de naissance REL 10 février 1961 (57 ans) SEP2 Lieu de naissance REL Marseille (France) SEP2 Nationalité REL Française SEP2 Parti politique REL Mouvement démocrate SEP2 Profession REL Ingénieur et manager de transition SEP2 Site web REL fredericpetit.eu.

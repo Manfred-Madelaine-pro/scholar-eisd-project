@@ -1,0 +1,31 @@
+PRETAG Michèle.
+NOMTAG Vullien.
+Michèle Vullien, née le 18 janvier 1944, est une femme politique française. Elle est actuellement sénatrice du Rhône.
+
+
+
+Michèle Vullien commence sa carrière politique en se présentant à la mairie de Dardilly. Elle est élue maire lors des municipales de 1995 et est réélue en 2001, 2008[2] et 2014[3],[4].
+Elle est élue conseillère générale du canton d'Écully lors des cantonales de 2001. Candidate à sa propre succession lors du renouvellement de 2008, elle est battue par Éric Poncet[5],[6],[7],[8].
+En 2012, Michèle Vullien est promue chevalier de la Légion d'honneur[9].
+Le 23 avril 2014, elle passe de la 11e vice-présidence[10] à la 2e vice-présidence de la communauté urbaine de Lyon[11],[12]. En juillet 2017, elle est élue 4e vice-présidente du conseil de la métropole de Lyon[13].
+En 2014, le sénateur Michel Mercier lui propose d'être candidate sur sa liste lors des sénatoriales[14]. Elle figure en 2e position sur la liste UDI, mais elle n'est pas élue[15],[16].
+En 2016, elle remplace Hélène Geoffroy[17] à la présidence de Médialys[18]. Elle quitte cette fonction en 2017 au retour de cette dernière, mais elle reste membre du conseil d'administration (2e collège)[19].
+Elle soutient Emmanuel Macron à la présidentielle de 2017[20].
+Durant l'été 2017, Gérard Larcher propose la nomination de Michel Mercier au Conseil constitutionnel[21],[22],[23],[24],[25],[26] ; mais il est mis en cause dans une affaire de détournement de fonds publics, ce qui le pousse à renoncer à cette fonction avant sa prestation de serment[27],[28]. À la suite de la démission de ce dernier[29],[30],[31],[32], elle devient sénatrice du Rhône le 1er octobre 2017[33]. Touchée par le cumul des mandats, elle démissionne de ses mandats de maire et de vice-présidente de la métropole de Lyon ; néanmoins, elle continue de siéger comme conseillère municipale. Rose-France Fournillon lui succède à la tête de la municipalité[34],[35],[36],[37].
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Conseillère municipale de Dardilly NOMF En fonction depuis le 19 octobre 2017 SEP2 Maire REL Rose-France Fournillon.
+NOMF Président NOMF Groupe politiqueUC SEP2 Groupe politique REL UC SEP2 Prédécesseur REL Michel Mercier.
+NOMF Président NOMF Maire de Dardilly SEP2 Prédécesseur REL Daniel Le Maire SEP2 Successeur REL Rose-France Fournillon.
+NOMF Président NOMF 11e vice-présidente de la communauté urbaine de Lyon.
+NOMF Président NOMF Conseillère générale du canton d'Écully.
+NOMF Conseillère générale du canton d'Écully NOMF 2001 – 2008.
+NOMF Président NOMF SuccesseurÉric Poncet SEP2 Successeur REL Éric Poncet SEP2 Date de naissance REL 18 janvier 1944 (74 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL UDFMoDemUDI[1].

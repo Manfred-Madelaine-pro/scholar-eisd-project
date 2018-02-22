@@ -1,0 +1,32 @@
+PRETAG Marc.
+NOMTAG Dolez.
+Marc Dolez, né le 21 octobre 1952 à Douai (Nord), est un homme politique français, ancien membre du Parti socialiste et ancien membre du Parti de gauche qu'il a cofondé avec Jean-Luc Mélenchon.
+
+
+
+Il est élu député le 16 juin 2002, pour la XIIe législature (2002-2007), dans la circonscription du Nord (17e), avec près de 60 % des suffrages exprimés au second tour, face à la candidate de l'UMP Françoise Prouvost[1]. Il siège au sein du groupe socialiste jusqu'en novembre 2008.
+Opposé au remaniement précipité du bureau national du PS à la suite de l'échec du 21 avril 2002, et notamment la promotion annoncée de Laurent Fabius au poste de porte-parole, Marc Dolez démissionne de cette instance en juin 2002.
+Lors du Congrès de Dijon du Parti socialiste, il crée sa propre motion Forces militantes qui obtiendra 4,7 % des voix, soit sous la barre des 5 % requise pour être présent dans les instances nationales. À la faveur d'un accord avec le courant Nouveau Monde, il intègre cependant le bureau national. Il est également élu Premier secrétaire fédéral de la fédération du Nord jusqu'en 2005.
+Seul député socialiste à avoir voté « non » lors du vote du Congrès à Versailles autorisant la ratification du traité constitutionnel européen, il a mené campagne contre l'avis majoritaire de son parti lors du référendum du 29 mai 2005.
+Membre du courant Nouveau Parti socialiste (tendance Alternative socialiste), il refuse la synthèse du congrès du Mans et quitte le NPS, pour former un nouveau courant avec Gérard Filoche, Forces militantes pour la démocratie et le socialisme. Cette alliance fut de courte durée : Forces militantes se sépare de Démocratie et socialisme, le courant animé par Gérard Filoche, au cours de la campagne présidentielle de 2007.
+Il est réélu député en juin 2007 dans sa circonscription, avec plus de 62 % des suffrages exprimés au second tour, toujours aux dépens de Françoise Prouvost[2].
+Il signe la motion de Benoît Hamon en septembre 2008 dans le cadre du Congrès de Reims du PS, aux côtés de personnalités comme Jean-Luc Mélenchon, Henri Emmanuelli et Marie-Noëlle Lienemann[3].
+Le 7 novembre 2008 a lieu le vote des militants socialistes pour départager les différentes motions. La motion soutenue par Ségolène Royal arrive en tête avec environ 29 % des suffrages exprimés, tandis que celle conduite par Benoît Hamon arrive en quatrième position avec moins de 19 %. Les trois motions issues de la majorité sortante capitalisent au total 80 % des voix. Pour Marc Dolez, seule une première place pour la motion qu'il soutenait et une alliance majoritaire, par la suite, avec celle conduite par Martine Aubry aurait permis de dégager une majorité réellement nouvelle[4]. Tirant les conséquences de cet échec, lui et Jean-Luc Mélenchon font part de leur décision, « par fidélité à leurs engagements » et dans un souci d'indépendance d'action, de quitter le Parti socialiste, pour créer un nouveau mouvement « sans concession face à la droite »[5]. Ils ont annoncé « la construction d'un nouveau parti de gauche » et appelé « à la constitution d'un front de forces de gauche pour les élections européennes »[6]. Cet appel trouve très tôt un écho favorable auprès du Parti communiste français, par la voix du député européen Francis Wurtz, qui leur propose une union pour créer un « Front progressiste européen »[7]. Dans cette logique, Marc Dolez annonce qu'il quitte le groupe Socialiste, radical, citoyen et divers gauche à l'Assemblée nationale pour rejoindre le groupe de la Gauche démocrate et républicaine, au sein duquel siègent les députés du PCF et des Verts[8].
+Il est réélu député le 17 juin 2012, avec 100 % des suffrages exprimés, Monique Amghar (PS) s'étant désistée.
+Le 19 décembre 2012, il annonce qu'il quitte le Parti de gauche tout en restant associé au Front de gauche. Il juge les propos de Jean-Luc Mélenchon comme trop centrés sur une critique du Parti socialiste. « Nos propositions sont rendues souvent inaudibles à cause de l'outrance du verbe (…) Je ne crois pas à la thèse de deux gauches irréconciliables ni au mythe du recours (…) Je ne me résoudrai jamais à considérer que le gouvernement va échouer et que nous serons là à ramasser les morceaux. Si la social-démocratie devait s'effondrer, je crains que ce ne soit au profit de la droite extrême. », déclare-t-il[9].
+Le 5 mai 2015, il fait partie des trois députés du groupe Gauche démocrate et républicaine votants en faveur de la loi sur le renseignement[10].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS) 1972-2008.
+PART Parti de gauche (PG) 2008-2012.
+PART Sans étiquette (SE) depuis 2012.
+FONCTIONNORM
+
+NOMF Député de la 17e circonscription du Nord NOMF 12 juin 1997 – 20 juin 2017(20 ans et 8 jours) SEP2 Élection REL 1er juin 1997 SEP2 Réélection REL 16 juin 2002 • 17 juin 2007 • 17 juin 2012 SEP2 Prédécesseur REL Jacques Vernier (RPR) SEP2 Successeur REL Dimitri Houbron SEP2 Élection REL 12 juin 1988 SEP2 Prédécesseur REL aucun (scrutin proportionnel) SEP2 Successeur REL Jacques Vernier (RPR).
+NOMF Conseiller régional de Nord-Pas-de-Calais NOMF 17 mars 1986 – 15 mars 1998(11 ans, 11 mois et 26 jours) SEP2 Date de naissance REL 21 octobre 1952 (65 ans) SEP2 Lieu de naissance REL Douai (Nord) SEP2 Nationalité REL française SEP2 Parti politique REL PS (1972-2008)PG (2008-2012)SE (depuis 2012) SEP2 Père REL Carlos Dolez.

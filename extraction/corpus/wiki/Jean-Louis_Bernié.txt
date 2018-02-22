@@ -1,0 +1,19 @@
+PRETAG Jean-Louis.
+NOMTAG Bernié.
+Jean-Louis Bernié, né le 22 août 1953 à Quérigut (Ariège), est un homme politique français.
+
+
+
+Jean-Louis Bernié est le fils de Raymond Bernié qui fut conseiller régional, maire de Quérigut de 1977 à 1989, et maire-adjoint de Pamiers[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Chasse, pêche, nature et traditions (CPNT).
+FONCTIONNORM
+
+NOMF Député européen NOMF 20 juillet 1999 – 19 juillet 2004 SEP2 Élection REL 13 juin 1999 SEP2 Législature REL 5e Parlement européen SEP2 Date de naissance REL 22 août 1953 (64 ans) SEP2 Lieu de naissance REL Quérigut (Ariège) SEP2 Nationalité REL  Française SEP2 Parti politique REL CPNT.

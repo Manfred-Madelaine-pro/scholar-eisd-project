@@ -1,0 +1,27 @@
+PRETAG Jacques.
+NOMTAG Fourcade.
+Jacques Marie Joseph Manuel Fourcade est un homme politique français, né le 27 avril 1902 à Paris 9e et mort le 5 septembre 1959 à Villechauve (Loir-et-Cher), dans un accident de voiture (il avait perdu le contrôle de son véhicule).
+
+
+Il est le fils de Manuel Fourcade, bâtonnier de l'ordre et sénateur des Hautes-Pyrénées, et le petit-fils de l'avocat Henry du Buit, bâtonnier de l'ordre des avocats de Paris.
+Diplômé des sciences politiques et docteur en droit, il devient, en 1928, secrétaire de la conférence du stage. En 1931, il devient directeur du cabinet de Léon Bérard, ministre de la Justice.
+Il est élu conseiller général du canton de Vic-en-Bigorre en 1937.
+Fourcade assure la défense de l'ancien ministre Guy La Chambre lors du Procès de Riom.
+En 1947, il est élu conseiller de l'Union française par le Conseil de la République, et devient président de l'Assemblée de l'Union française le 11 janvier 1950. Il est député des Hautes-Pyrénées de 1951 à 1959 (Républicains indépendants, puis Indépendants et paysans d'action sociale). À l'Assemblée, il est président de la Commission des territoires d'Outre-Mer et membre de la Commission de la justice et de législation.
+En 1953, il est candidat à l'élection présidentielle française (CNIP), mais n'obtient que 6.68% au premier tour.
+Il devient président de la Haute Cour de justice le 28 février 1957 et membre du Comité consultatif constitutionnel en 1958.
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP).
+FONCTIONNORM
+
+NOMF Président de la Haute Cour de justice NOMF 28 février 1957 –.
+NOMF Député des Hautes-Pyrénées NOMF 17 juin 1951 – 5 septembre 1959.
+NOMF Président de l'Assemblée de l'Union française NOMF 11 janvier 1950 – juin 1951.
+NOMF Conseiller général du canton de Vic-en-Bigorre NOMF 17 octobre 1937 – SEP2 Date de naissance REL 27 avril 1902 SEP2 Date de décès REL 5 septembre 1959 (à 57 ans) SEP2 Parti politique REL CNIP SEP2 Père REL Manuel Fourcade SEP2 Profession REL Avocat.

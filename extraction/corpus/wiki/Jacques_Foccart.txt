@@ -1,0 +1,24 @@
+PRETAG Jacques.
+NOMTAG Foccart.
+Jacques Foccart[1], né Jacques Koch-Foccart[a] le 31 août 1913 à Ambrières-le-Grand (Mayenne) et mort le 19 mars 1997 à Paris, est un homme d'affaires et un homme politique français.
+Il a diverses activités commerciales avant de devenir secrétaire général de l'Élysée aux affaires africaines et malgaches de 1960 à 1974. Il est aussi l'un des fondateurs du SAC. On le considère comme l’homme de l'ombre du gaullisme. Notamment, il a été un personnage central dans la création du concept de « Françafrique » et a été considéré comme l’un des « barons du gaullisme »[réf. nécessaire].
+
+
+
+Origines et enfance.
+Jacques Foccart est le fils de Guillaume Koch-Foccart (1876-1925) — planteur-exportateur de bananes, consul de la principauté de Monaco en Guadeloupe, maire de Gourbeyre (Guadeloupe) de 1908 à 1921 — et d'Elmire Courtemanche de la Clémandière, une Béké guadeloupéenne.
+Jacques Foccart grandit dans le château du Tertre mayennais jusqu'à l'âge de trois ans alors que ses parents sont repartis en Guadeloupe. En 1916, son père, revenu en France pour la mort de son propre père, emmène son fils avec lui en Guadeloupe. Jacques a six ans lorsque ses parents reviennent en métropole. Jacques Foccart conserve ensuite des liens forts avec cette colonie devenue département d'outre-mer en 1946. Élève du lycée de l’Immaculée-Conception à Laval d'avril 1921 à avril 1935, il entre dans la vie professionnelle comme prospecteur commercial chez Renault. Il est ensuite employé dans une société commerciale d'import-export qui traite avec l'outre-mer.
+La Seconde Guerre mondiale.
+Après son service militaire effectué dans les années 1930, Jacques Foccart devient sergent de réserve. Il est mobilisé à la caserne Chanzy de Châlons-sur-Marne en août 1939 comme sous-officier à l'état-major de l'aviation. Démobilisé en août 1940 à Agen après l'armistice de juin 1940, il regagne Paris.
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement du peuple français (RPF).
+FONCTIONNORM
+
+NOMF Président NOMF PrédécesseurCréation du poste SEP2 Prédécesseur REL Création du poste SEP2 Successeur REL René Journiac SEP2 Prédécesseur REL Louis Terrenoire SEP2 Successeur REL Michel Anfrol SEP2 Nom de naissance REL Jacques Koch-Foccart SEP2 Surnom REL Monsieur Afrique SEP2 Date de naissance REL 31 août 1913 SEP2 Lieu de naissance REL Ambrières-le-Grand(Mayenne) SEP2 Date de décès REL 19 mars 1997 (à 83 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL Française SEP2 Parti politique REL RPF SEP2 Père REL Guillaume Koch-Foccart SEP2 Mère REL Elmire Courtemanche de la Clémandière.

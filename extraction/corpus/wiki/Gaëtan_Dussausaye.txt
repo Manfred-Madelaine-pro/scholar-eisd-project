@@ -1,0 +1,32 @@
+PRETAG Gaëtan.
+NOMTAG Dussausaye.
+Gaëtan Dussausaye, né le 5 avril 1994 à Brétigny-sur-Orge (Essonne), est un homme politique français.
+Président du Front national de la jeunesse depuis 2014, il est également membre du comité central et du bureau politique du Front national depuis cette même année.
+
+
+
+Gaëtan Dussausaye grandit au Plessis-Pâté avec une mère infirmière, un père directeur marketing dans une grande entreprise française, deux frères et une sœur[1]. Ses parents ne sont pas politisés et n'ont jamais voté pour le FN[1].
+Il obtient un baccalauréat littéraire, mention "Bien", en 2011[1]. Durant ses années de lycée, il dirige un groupe de « metal festif », les Bursting Creepy[1]. Il dit commencer à s'intéresser à la politique après avoir observé des discriminations entre élèves au collège et au lycée[2],[1].
+Il étudie à l'université Paris-I, où il obtient une licence en philosophie et lettres modernes, puis un master en philosophie politique[3]. Ayant entamé un master de philosophie[Contradiction], il abandonne ses études après son accession à la présidence du FNJ[1].
+Au Front national.
+Après un bref passage au sein de cercle de mémoire en l'honneur du général de Gaulle dans l'Essonne[4], il rejoint le Front national en 2011 : sa mère exige alors qu’il milite à Paris, loin du village familial[1]. Il débute en tant que militant dans le cadre de la campagne présidentielle de 2012[réf. nécessaire]. Il est successivement responsable adjoint du FNJ de Paris et secrétaire départemental-Jeune de Paris[1].
+Le 8 octobre 2014, Marine Le Pen le nomme directeur national du Front national de la jeunesse[3],[1]. Il bénéficie notamment du soutien de Wallerand de Saint-Just et succède à Julien Rochedy « qui peinait à faire consensus »[1].
+À l'occasion du congrès du FN de novembre 2014, il intègre le comité central (nommé par Marine Le Pen) et le bureau politique[2]. Il est permanent salarié au siège du FN à Nanterre[2].
+Campagnes.
+
+En 2014, il se présente aux élections municipales dans le 11e arrondissement de Paris[5] et réalise un score de 5,5% des voix.
+En 2015, il se porte candidat aux élections départementales dans le canton de Brétigny-sur-Orge[1].
+En 2017, pour les élections législatives, il se présente dans la deuxième circonscription de l'Oise[6].
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) depuis 2011.
+FONCTIONNORM
+
+NOMF Président NOMF PrédécesseurJulien Rochedy SEP2 Prédécesseur REL Julien Rochedy SEP2 Nom de naissance REL Gaëtan Dussausaye SEP2 Date de naissance REL 5 avril 1994 (23 ans) SEP2 Lieu de naissance REL Brétigny-sur-Orge (Essonne) SEP2 Nationalité REL Française SEP2 Parti politique REL FN (depuis 2011) SEP2 Diplômé de REL Université Paris-I.

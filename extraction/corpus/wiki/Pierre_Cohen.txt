@@ -1,0 +1,28 @@
+PRETAG Pierre.
+NOMTAG Cohen.
+Pierre Cohen, né le 20 mars 1950 à Bizerte (Tunisie), est un homme politique français, député socialiste de 1997 à 2012, maire de Toulouse et président de la communauté urbaine de Toulouse Métropole de 2008 à 2014.
+
+
+
+Fils d'une catholique française et d'un militaire juif tunisien[1], qu'il suit en Allemagne en 1958 puis à Mazamet en 1964, Pierre Cohen obtient, après son bac en 1968, un doctorat en informatique à l'université Paul-Sabatier, et devient ingénieur de recherche en informatique à l'IRIT, jusqu'en 1997[2].
+Membre du parti socialiste depuis 1974, il milite au sein du CERES. Élu conseiller municipal à Ramonville-Saint-Agne en 1983, il est d'abord chargé de la petite enfance avant d'en devenir maire en 1989. Impliqué dans les politiques de préventions au GIP et CISD, il est aussi à l'origine du Festival de rue de Ramonville. Conseiller régional entre 1986 et 1992, il se met en congé du parti socialiste un temps après l'entrée de la France dans la Guerre du Golfe. Il vote ensuite « non » au référendum sur le traité de Maastricht, mais ne rejoint pas Jean-Pierre Chevènement au Mouvement des Citoyens, et se rapproche de Lionel Jospin en 1995[2].
+Il est élu député en 1997 dans la 3e circonscription de la Haute-Garonne. Réélu en 2002, puis en 2007, il est membre de l'Office parlementaire d'évaluation des choix scientifiques et technologiques. Après avoir été membre pendant 12 ans de la commission économique et sociale où il a particulièrement défendu les questions liées à la recherche et à l'enseignement supérieur, il a ensuite terminé son parcours à l'Assemblée Nationale en tant que membre de la commission des affaires étrangères.
+Il a également participé à la création du groupe parlementaire Espace, destiné à défendre la recherche, l'industrie et les applications spatiales françaises et européennes[3].
+Le 16 mars 2008, à la tête d'une liste unitaire de la gauche (PS, PCF, MRC, PRG, Verts), il devance au second tour des municipales à Toulouse le maire sortant Jean-Luc Moudenc (50,42 % contre 49,58 %[4] soit avec seulement 1 209 voix d'avance).
+Le 6 février 2009, il devient président de la communauté urbaine du Grand Toulouse.
+Le 30 mars 2014, sa liste PS-PCF-PRG-MRC est battue par la liste de Jean-Luc Moudenc UMP-UDI-MoDem qui obtient 52,06 % des voix et 53 sièges aux élections municipales de Toulouse. Sa liste n'obtenant que 16 sièges, il n'est pas réélu maire après les élections municipales de 2014 à Toulouse.
+Il soutient Benoît Hamon au second tour de la primaire citoyenne de 2017[5]. Après sa victoire à la primaire, il est nommé responsable thématique « Innovation territoriale » de sa campagne présidentielle[6],[7].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (Parti socialiste).
+PART Génération·s, le mouvement (Génération·s) depuis 2017.
+FONCTIONNORM
+
+NOMF Président de la FNESR NOMF 19 juin 2012 – 14 mars 2016(3 ans, 8 mois et 24 jours) SEP2 Prédécesseur REL Marylise Lebranchu SEP2 Successeur REL François Rebsamen SEP2 Élection REL 16 mars 2008 SEP2 Prédécesseur REL Jean-Luc Moudenc SEP2 Successeur REL Jean-Luc Moudenc SEP2 Prédécesseur REL Francis Barousse SEP2 Successeur REL Christophe Lubac.
+NOMF Député de la 3e circonscriptionde la Haute-Garonne NOMF 12 juin 1997 – 19 juin 2012(15 ans et 7 jours) SEP2 Élection REL 1er juin 1997 SEP2 Réélection REL 16 juin 200217 juin 2007 SEP2 Législature REL XIe, XIIe et XIIIe SEP2 Groupe politique REL SOC (1997-2007)SRC (2007-2012) SEP2 Prédécesseur REL Serge Didier SEP2 Successeur REL Jean-Luc Moudenc (circonscription redécoupée) SEP2 Nom de naissance REL Pierre Cohen SEP2 Date de naissance REL 20 mars 1950 (67 ans) SEP2 Lieu de naissance REL Bizerte (Tunisie) SEP2 Nationalité REL française SEP2 Parti politique REL Parti socialisteGénération·s (depuis 2017) SEP2 Diplômé de REL Université Paul-Sabatier.

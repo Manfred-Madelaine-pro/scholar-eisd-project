@@ -1,0 +1,18 @@
+PRETAG Gilbert.
+NOMTAG Biessy.
+Gilbert Biessy, né le 20 juillet 1934 à Montferrat (Isère) et mort le 13 octobre 2015, est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député de la 2e circonscription de l'Isère NOMF 2 avril 1993 – 19 juin 2007(14 ans, 2 mois et 17 jours) SEP2 Législature REL Xe, XIe, XIIe (Cinquième République) SEP2 Prédécesseur REL Jean-Pierre Luppi SEP2 Successeur REL Michel Issindou SEP2 Prédécesseur REL Georges Kioulou SEP2 Successeur REL Renzo Sulli SEP2 Date de naissance REL 20 juillet 1934 SEP2 Lieu de naissance REL Montferrat (Isère) SEP2 Date de décès REL 13 octobre 2015 (à 81 ans) SEP2 Nationalité REL  Français SEP2 Parti politique REL PCF SEP2 Profession REL Technicien.

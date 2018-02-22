@@ -1,0 +1,21 @@
+PRETAG Édouard.
+NOMTAG Carlier.
+Édouard Carlier, né le 21 décembre 1905 à Lillers et mort le 24 avril 1991, est un homme politique français, membre du Parti communiste. Il est député du Pas-de-Calais de 1962 à 1968 puis de 1973 à 1978, conseiller général du Pas-de-Calais, conseiller régional du Nord-Pas-de-Calais ainsi qu'adjoint au maire de Béthune.
+
+
+Né à Lillers en 1905, Édouard Carlier est cheminot et militant syndical CGTU à partir de 1929 avant de rejoindre le PCF en 1934. Résistant pendant la Seconde Guerre mondiale, Carlier entame une carrière politique après la guerre. Au sein du Parti communiste, il intègre le conseil municipal de Béthune[1]. Il est également élu conseiller général du Pas-de-Calais en 1967 dans le canton de Béthune puis dans celui de Béthune-Nord à partir de 1973 et conserve ce mandat jusqu'en 1985.
+Édouard Carlier est élu en 1962 député du Pas-de-Calais en étant soutenu par le PCF. Réélu en 1967, il est battu l'année suivante par Hubert Dupont-Fauville. Cinq ans plus tard, Carlier bat Dupont-Fauville au deuxième tour des élections législatives[2]. En 1978, c'est Jacques Mellick qui lui succède à l'Assemblée nationale.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député de la 9e circonscription du Pas-de-Calais NOMF 25 novembre 1962 – 30 mai 1968 SEP2 Prédécesseur REL Maurice Cassez (MRP) SEP2 Successeur REL Hubert Dupont-Fauville (UDR).
+NOMF Député de la 9e circonscription du Pas-de-Calais NOMF 2 avril 1973 – 1er avril 1978 SEP2 Prédécesseur REL Hubert Dupont-Fauville (UDR) SEP2 Successeur REL Jacques Mellick (PS).
+NOMF Conseiller général du Pas-de-Calais NOMF 1967 – 1985 SEP2 Prédécesseur REL Maurice Cassez (MRP) SEP2 Successeur REL Jacques Mellick (PS) SEP2 Date de naissance REL 21 décembre 1905 SEP2 Lieu de naissance REL Lillers (Pas-de-Calais, France) SEP2 Date de décès REL 24 avril 1991 (à 85 ans) SEP2 Parti politique REL PCF.

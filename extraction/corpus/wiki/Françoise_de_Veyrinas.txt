@@ -1,0 +1,22 @@
+PRETAG Françoise_de.
+NOMTAG Veyrinas.
+Françoise de Veyrinas, née Françoise Marie Émilie Gardey de Soos le 4 septembre 1943 à Alzonne (Aude) et décédée le 16 août 2008 au domaine de Bonétis à Montréal (Aude), est une femme politique française.
+
+
+
+Françoise Gardey de Soos, épouse de Veyrinas, est née dans une ancienne famille du sud-ouest de la France. Élue municipale UDF, puis UMP de Toulouse sans discontinuer depuis 1983, elle est première adjointe de sa ville de 1995 à 2008, et vice-présidente de la Communauté d'agglomération du Grand Toulouse. Elle siège au Conseil régional Midi-Pyrénées puis au Conseil général de Haute-Garonne. Elle est également membre du Parlement européen, à la suite de la démission de François Bayrou. Spécialiste des questions sociales, elle est brièvement, de mai à novembre 1995, Secrétaire d'État aux Quartiers en difficulté dans le premier gouvernement Juppé (elle en est écartée avec 7 autres femmes secrétaires d'État qui avaient été nommées en même temps qu'elle, surnommées « les Juppettes »). Elle rejoint l'UMP en 2002.
+Élue députée UDF-CDS en 1993, elle échoue ensuite par trois fois aux législatives en 1997, 2002 et en 2007.
+Après le départ de Philippe Douste-Blazy au ministère de la Santé, Françoise de Veyrinas est nommée maire de Toulouse du 30 avril 2004 au 5 mai 2004 en attendant l'élection par le conseil municipal de Jean-Luc Moudenc. En 2008, bien que réélue conseillère municipale sur la liste du maire sortant Jean-Luc Moudenc, cette liste ayant été battue, elle siégea dans l'opposition municipale au nouveau maire socialiste Pierre Cohen.
+De mai 2003 à sa mort, Françoise de Veyrinas est présidente du Conseil national des missions locales.
+Françoise de Veyrinas est décédée le 16 août 2008, à 64 ans, des suites d’un cancer. De nombreux hommages ont salué cette femme de « courage et de conviction », selon son rival socialiste local Pierre Cohen[1], présent à ses obsèques le 19 août. Elle est inhumée au cimetière d'Alzonne, localité voisine de Montréal, où elle possédait le domaine de Bonétis, venu de son grand-père maternel, Georges Satgé, qui fut conseiller général du canton d'Alzonne de 1949 à 1961.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Président NOMF Premier ministreAlain Juppé SEP2 Premier ministre REL Alain Juppé SEP2 Gouvernement REL Juppé I.
+NOMF Députée de la 6e circonscription de la Haute-Garonne NOMF 2 avril 1993 – 18 juin 1995(2 ans, 2 mois et 16 jours) SEP2 Élection REL 28 mars 1993 SEP2 Législature REL Xe SEP2 Groupe politique REL UDFC SEP2 Prédécesseur REL Hélène Mignon SEP2 Successeur REL Alain Barrès SEP2 Groupe politique REL UMP SEP2 Prédécesseur REL Philippe Douste-Blazy SEP2 Successeur REL Jean-Luc Moudenc SEP2 Date de naissance REL 4 septembre 1943 SEP2 Lieu de naissance REL Alzonne (Aude) SEP2 Date de décès REL 16 août 2008 (à 64 ans) SEP2 Lieu de décès REL Montréal (Aude) SEP2 Nationalité REL Française SEP2 Conjoint REL François Hébrard de Veyrinas SEP2 Religion REL Catholicisme.

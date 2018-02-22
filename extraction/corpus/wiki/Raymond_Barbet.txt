@@ -1,0 +1,31 @@
+PRETAG Raymond.
+NOMTAG Barbet.
+Raymond Barbet est un homme politique français, membre du Parti communiste français (PCF), né le 18 novembre 1902 à Chartres et mort le 8 mars 1978 à Nanterre.
+
+
+
+À la tête d'une famille de cinq enfants, ses parents quittent Chartres pour Nanterre en 1915.
+Reconnu pupille de la Nation à la suite de la mort de son père, Raymond Barbet travaille comme apprenti ajusteur chez De Dion-Bouton pendant trois ans. Il s'inscrit au syndicat CGTU des métaux en 1923, puis à la section communiste de Nanterre l'année suivante. En 1929, il rejoint les ateliers de la SCNF comme ajusteur et milite dès lors au syndicat des ateliers de Batignolles.
+En 1935, au premier tour des élections municipales de Nanterre, il obtient 35,68 % des voix contre 40,3 % au maire conservateur sortant Fernand Croy et 23 % pour les socialistes de la SFIO. Malgré l'opposition des maires socialistes de Puteaux et Suresnes, les socialistes de Nanterre soutiennent pour la plupart la liste communiste de Raymond Barbet qui l'emporte au second tour avec 51 % contre 47,46 % à son adversaire. Un an plus tard, le futur secrétaire général du PCF, Waldeck Rochet, emporte la circonscription de Colombes-Nanterre, puis démissionne du conseil général de la Seine. Raymond Barbet le remplace en emportant dès le premier tour la deuxième circonscription du canton de Puteaux le 28 février 1937.
+En octobre 1939, le conseil municipal est suspendu par décret du président de la République, et remplacé par une délégation spéciale nommée. Raymond Barbet, déchu de ses mandats, est arrêté le 19 décembre 1939 et interné à Fort-Barraux d’où il s’évade en septembre 1940. Il devient l'un des dirigeants de la Résistance dans le secteur des cheminots à Paris.
+Raymond Barbet reprend ses fonctions à la mairie de Nanterre le 22 août 1944. Lors des élections municipales de 1945, sa liste est reconduite avec 53 % des suffrages, afin de mener la reconstruction de l'après-guerre.
+Conseiller général de 1945 à 1967, il devient vice-président du conseil général de la Seine dans les années soixante.
+Le 25 octobre 1948, Raymond Barbet est révoqué par le ministre de l'Intérieur, Jules Moch, pour avoir organisé la solidarité avec les mineurs de charbon en grève. Il redevient maire le 28 mai 1950.
+En 1951, la municipalité obtient l’autorisation de fonder son Office public HLM. Au moment de son départ du poste de maire en 1973, l'Office compte 6 000 logements. Du fait de ses constructions, la ville passe de 53 000 habitants en 1954 à 70 457 en 1959. Le maire va ainsi réduire la taille du bidonville situé à l'emplacement de l'actuelle préfecture, de 14 000 personnes à 4 000 en 1971.
+En 1959, un an après avoir échoué aux élections législatives dans la circonscription de Nanterre-Suresnes (actuelle quatrième circonscription des Hauts-de-Seine), Raymond Barbet augmente de cinq points son score de 1953 pour obtenir 57,95 % des suffrages aux municipales.
+En 1962, l'Organisation armée secrète (OAS) organise un attentat contre le domicile de Raymond Barbet qui s'en tire indemne.
+Réélu en 1965, il obtient en 1971 une large victoire au premier tour (63,7 %) avec, pour la première fois depuis la guerre, le soutien du parti socialiste.
+Il est élu député communiste de la Seine de 1962 à 1967, puis des Hauts-de-Seine de 1967 à 1978[1], alors qu'il a déjà passé le relais de maire de Nanterre à Yves Saudmont en mai 1973. Il s'éteint dix jours avant les élections du 18 mars 1978 où la jeune communiste Jacqueline Fraysse lui succède à l'Assemblée nationale.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+FONCTIONNORM
+
+NOMF Député de la Seine(33e circonscription) NOMF 1962 – 1967 SEP2 Gouvernement REL Ve République.
+NOMF Député des Hauts-de-Seine NOMF 1967 – 1978 SEP2 Groupe politique REL Communiste SEP2 Date de naissance REL 18 novembre 1902 SEP2 Lieu de naissance REL Chartres SEP2 Date de décès REL 8 mars 1978 (à 75 ans) SEP2 Lieu de décès REL Nanterre SEP2 Parti politique REL Parti communiste français.

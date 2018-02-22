@@ -1,0 +1,24 @@
+PRETAG Philippe.
+NOMTAG Olmi.
+Philippe Olmi est un homme politique français, né le 4 août 1891 à Nice (Alpes-Maritimes) et mort le 1er mai 1980 au même lieu.
+Ancien combattant de la Première Guerre mondiale, titulaire de la croix de guerre, il entame en 1919 une carrière d'ingénieur d'abord dans le domaine de la chimie avant de renouer avec sa formation agronomique et de prendre la tête d'une exploitation agricole dans le Var, tout en entamant une carrière politique locale : en 1930, il est élu conseiller d'arrondissement à Nice.
+Mobilisé en 1939, il participe ensuite à la Résistance.
+Candidat aux élections législatives de juin 1946 sur la liste menée par Jean Médecin, il n'est élu qu'aux élections suivantes, en novembre, et siège alors sur les bancs de l'union des républicains d'action sociale.
+L'année suivante, il emporte la maire de Villefranche-sur-Mer.
+De nouveau candidat aux législatives sur la liste de Jean Médecin en 1951, il bénéficie de l'apparentement de cette liste de centre-droit avec celle du RPF d'Edouard Corniglion-Molinier et siège à l'assemblée nationale pour un deuxième mandat.
+En début de législature, il s'illustre dans la défense de l'école privée.
+Brièvement secrétaire d'Etat dans le gouvernement de Joseph Laniel (1953-54), il défend des positions de plus en plus clairement à droite.
+En 1956, il ne sollicite pas le renouvellement de son mandat de député. Il se consacre alors principalement à sa commune et au lancement d'un journal, L'Action Nice Côte-d'Azur.
+Il a eu neuf enfants de Blandine Louche-Pélissier. Il est le grand-père de Véronique Olmi.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1946 – 1955 SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL RAPS (1946-1951)CRAPS (1951-1955) SEP2 Date de naissance REL 4 août 1891 SEP2 Date de décès REL 1er mai 1980 (à 88 ans) SEP2 Résidence REL Alpes-Maritimes.

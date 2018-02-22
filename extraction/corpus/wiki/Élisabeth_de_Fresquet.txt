@@ -1,0 +1,19 @@
+PRETAG Élisabeth_de.
+NOMTAG Fresquet.
+Élisabeth de Fresquet, née le 16 juin 1949 à Orsay dans l'Essonne, est une femme politique et ancienne pilote automobile française.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (Union pour la démocratie française).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Conseillère régionale NOMF .

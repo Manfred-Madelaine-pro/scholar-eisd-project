@@ -1,0 +1,16 @@
+PRETAG Charles.
+NOMTAG Péchin.
+Charles Péchin, né le 22 juin 1871 à Dampierre-les-Bois (Doubs) et mort le 12 septembre 1949 à Valentigney (Doubs), est un médecin et homme politique français.
+Il fut député de la Fédération républicaine (URD) puis de l'Alliance démocratique (ARD) de la Seine de 1928 à 1936 et Sous-secrétaire d'État aux Travaux Publics et à la Marine Marchande du 20 février au 3 juin 1932 dans le gouvernement André Tardieu (3).
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1928-1936 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL URD (1928-1932)CR (1932-1936) SEP2 Date de naissance REL 22 juin 1871 SEP2 Date de décès REL 12 septembre 1949 (à 78 ans) SEP2 Résidence REL Seine.

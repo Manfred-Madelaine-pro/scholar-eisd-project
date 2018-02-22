@@ -1,0 +1,23 @@
+PRETAG Marie-George.
+NOMTAG Buffet.
+Marie-George Buffet, née Marie-George Kosellek le 7 mai 1949 à Sceaux (Hauts-de-Seine), est une femme politique française. Elle est députée de la Seine-Saint-Denis depuis 2002.
+Elle a été ministre de la Jeunesse et des Sports du gouvernement Jospin (1997-2002), secrétaire nationale du Parti communiste français (2001-2010) et candidate à l'élection présidentielle de 2007.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Députée de la Seine-Saint-DenisÉlue dans la 4e circonscription NOMF En fonction depuis le 19 juin 2002(15 ans, 8 mois et 1 jour) SEP2 Élection REL 16 juin 2002 SEP2 Réélection REL 17 juin 200717 juin 201218 juin 2017 SEP2 Législature REL XIIe, XIIIe, XIVe et XVe SEP2 Groupe politique REL GDR SEP2 Prédécesseur REL Daniel Feurtet SEP2 Législature REL XIe SEP2 Prédécesseur REL Louis Pierna SEP2 Successeur REL Daniel Feurtet.
+NOMF Président NOMF LégislatureXIVe SEP2 Législature REL XIVe.
+NOMF Président NOMF PrédécesseurRobert Hue SEP2 Prédécesseur REL Robert Hue SEP2 Successeur REL Pierre Laurent.
+NOMF Ministre de la Jeunesse et des Sports NOMF 4 juin 1997 – 6 mai 2002(4 ans, 11 mois et 2 jours).
+NOMF Président NOMF GouvernementLionel Jospin SEP2 Gouvernement REL Lionel Jospin SEP2 Prédécesseur REL Guy Drut SEP2 Successeur REL Jean-François Lamour SEP2 Nom de naissance REL Marie-George Kosellek SEP2 Date de naissance REL 7 mai 1949 (68 ans) SEP2 Lieu de naissance REL Sceaux (Hauts-de-Seine, France) SEP2 Nationalité REL française SEP2 Parti politique REL PCF.

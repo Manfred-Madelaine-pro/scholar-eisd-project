@@ -1,0 +1,20 @@
+PRETAG Léon.
+NOMTAG Bérard.
+Léon Bérard, né le 6 janvier 1876 à Sauveterre-de-Béarn (Basses-Pyrénées) et mort le 24 février 1960 à Paris, est un avocat et homme politique français.
+
+
+
+Après des études secondaires à Orthez et à Pau, il étudie le droit à Paris et s’y inscrit au barreau. Il est remarqué par Raymond Poincaré qui en fait son secrétaire dans son cabinet d’avocat.
+Léon Bérard entame une carrière politique locale dans les Basses-Pyrénées en devenant maire de Sauveterre-de-Béarn en mai 1904, puis conseiller général en juillet 1907. Lors des élections législatives de 1910, il obtient avec l’appui de Louis Barthou l’investiture du comité républicain et il est élu député de l’arrondissement d’Orthez. À la Chambre des députés, il s’inscrit au groupe de la Gauche démocratique. Il entame très vite une carrière ministérielle en devenant sous-secrétaire d’État aux Beaux-Arts en janvier 1912. Il est réélu député de l’arrondissement d’Orthez en 1914, puis, dans le cadre du scrutin départemental, sur la liste de « concentration républicaine » de Louis Barthou en 1919. Il sera réélu à la tête de cette liste en 1924.
+En plus de ses nombreuses activités politiques, il est membre du prix littéraire La Renaissance fondé en 1921 par son ami Henry Lapauze et le reste jusqu'en 1940. En 1921, il est le président du jury qui couronne Alexandre Arnoux pour Indice 33, puis laisse la présidence à Colette dès l'année suivante.
+Il est nommé ministre de l'Instruction publique et des Beaux-arts en 1919, puis de 1921 à 1924. Son passage rue de Grenelle est marqué, en 1921, par le relèvement des traitements des fonctionnaires et, en 1923, par une réforme unifiant le premier cycle des études secondaires et instituant le latin obligatoire dès la sixième. Cette réforme revenait à supprimer le système créé en 1902 et caractérisé par la mise en place d'une filière secondaire « moderne », alors très contestée. Bérard défend ardemment sa réforme à la Chambre des députés, face à Georges Leygues et Édouard Herriot. Lors de ces séances, il réplique en latin à Édouard Herriot, partisan de l'enseignement moderne et de l'école unique. Malgré l'hostilité des radicaux, le projet est adopté, mais rapidement enterré par la victoire électorale du Cartel des gauches en 1924. Cette bataille en faveur du latin et de la formation classique vaudra à Bérard le soutien de la droite nationaliste maurrassienne.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1910-1927Sénateur 1927-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GD (1910-1914)RDG (1914-1919)GRD (1919-1927)UR (1927-1940) SEP2 Date de naissance REL 6 janvier 1876 SEP2 Date de décès REL 24 février 1960 (à 84 ans) SEP2 Résidence REL Basses-Pyrénées.

@@ -1,0 +1,35 @@
+PRETAG Edmond.
+NOMTAG Bloud.
+Edmond Bloud (de son nom de naissance Edmond Antony Joseph Bloud), né le 10 décembre 1876 à Paris et mort le 16 mai 1948 à Neuilly-sur-Seine (Seine) est un éditeur et homme politique français.
+
+Il se marie le 30 mai 1900 à Chaumont-en-Vexin (Oise) avec Marie Danse (1878-1959), fille de Jules Danse (1838-1924), clerc de notaire et de Marie Vandelet (1854-1925).
+De ce mariage naîtront cinq enfants :
+
+Jean Bloud (1902-1989), marié avec Madeleine Nissou (1905-1999).
+Louis Bloud (1903-1981), marié avec Marie-Thérèse Jousseaume (1910-2009).
+Agnès Bloud (1905-1964), mariée avec André Dorémus (1899-1997).
+Monique Bloud (1908-1919).
+Anne-Marie Bloud.
+
+
+
+Edmond Bloud est le fils de Benoît Bloud (1843-1904), libraire au carrefour de l'Observatoire à Paris, propriétaire de la maison d'édition Bloud et Cie, originaire de Verna (Isère)[1], et de Catherine Boisseau (1846-1937). Il est le frère d'Henri Bloud (1875-1935), éditeur.
+Il suivit des études de droit tout en préparant les licences ès lettres et ès langues vivantes.
+En 1902, il devient associé de la maison d'édition Bloud et Cie avec son frère et son père ; il en prend la direction le 29 avril 1911 en créant, en association à 40 % avec Francisque Gay, les éditions Bloud et Gay[2] spécialisées dans les publications catholiques, qui compteront des succursales à Barcelone et à Dublin.
+Edmond Bloud fut membre du Comité catholique de propagande français à l'étranger. En 1915, il fonde, sur demande de Paul Claudel et de Théophile Delcassé, ministre des Affaires étrangères, le Comité catholique des amitiés françaises à l'étranger. Il est conférencier et auteur de diverses études politiques sur l'Allemagne et le pangermanisme mais aussi sur le Parti démocrate populaire (PDP), devenu le Mouvement républicain populaire (MRP).
+De 1927 à 1942, il est maire de Neuilly-sur-Seine, durant son mandat il fait construire l'hôpital de la ville de Neuilly-sur-Seine, inauguré en 1935. Il fut également conseiller général du canton de Neuilly-sur-Seine de 1920 à 1929.
+Le 22 avril 1928, proche du mouvement Le Sillon, il se présente aux élections législatives sur la liste des Comités républicains nationaux, libéraux et anticartellistes (Union républicaine et démocratique). Élu à une forte majorité député de la Seine dans la 9e circonscription de Saint-Denis, il est réélu au premier tour en 1932 sur la liste du Groupe républicain et social de Georges Pernot. Quatre ans plus tard, en 1936, il laisse son siège à Henri de Kérillis et ne se consacre plus qu'à sa maison d'édition et à ses fonctions municipales.
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (FD).
+PART Parti démocrate populaire (PDP).
+FONCTIONNORM
+
+NOMF Député de la Seine NOMF 22 avril 1928 – 31 mai 1936(8 ans, 1 mois et 9 jours) SEP2 Élection REL 22 avril 1928 SEP2 Réélection REL 1er mai 1932 SEP2 Gouvernement REL XIVe, XVe (Troisième République) SEP2 Groupe politique REL Union républicaine démocratique (1928-1932)Républicain et social (1932-1936) SEP2 Successeur REL Henri de Kérillis SEP2 Prédécesseur REL Ernest Deloison SEP2 Successeur REL Max Roger.
+NOMF Conseiller général de la SeineÉlu dans le canton de Neuilly-sur-Seine NOMF 1920 – 1929(9 ans) SEP2 Prédécesseur REL Création du canton SEP2 Successeur REL M. Villeneuve SEP2 Nom de naissance REL Edmond Antony Joseph Bloud SEP2 Date de naissance REL 10 décembre 1876 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 16 mai 1948 (à 71 ans) SEP2 Lieu de décès REL Neuilly-sur-Seine (Seine) SEP2 Sépulture REL Cimetière ancien de Neuilly-sur-Seine SEP2 Nationalité REL française SEP2 Parti politique REL FDPDP SEP2 Profession REL Éditeur SEP2 Religion REL Catholicisme.

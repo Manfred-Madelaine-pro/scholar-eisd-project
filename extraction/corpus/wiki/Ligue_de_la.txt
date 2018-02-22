@@ -1,0 +1,14 @@
+PRETAG Ligue_de.
+NOMTAG la.
+La Ligue de la Jeune République était un parti politique français créé en 1912 par Marc Sangnier, dans le prolongement du Sillon après que ce dernier fut désavoué par le pape Pie X. La Jeune République représentait un courant catholique social opposé, avant guerre, à celui du Parti démocrate populaire orienté au centre-droit. Elle s'est ralliée au socialisme « personnaliste » prôné par Emmanuel Mounier. La Jeune République ne dépassa jamais 2 à 3 % des voix lors des élections législatives. En 1936, elle soutint le Front populaire, et après un court regain à la Libération, déclina jusqu'aux années 1980, après avoir refusé de fusionner avec le parti socialiste.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM

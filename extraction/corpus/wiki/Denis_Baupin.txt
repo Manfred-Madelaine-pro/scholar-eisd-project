@@ -1,0 +1,39 @@
+PRETAG Denis.
+NOMTAG Baupin.
+Denis Baupin, né le 2 juin 1962 à Cherbourg, est un homme politique français.
+Membre des Verts puis d'Europe Écologie Les Verts de 1989 à 2016, il est adjoint au maire de Paris, Bertrand Delanoë, entre 2001 et 2014 et député de la 10e circonscription de Paris de 2012 à 2017.
+
+Denis Baupin a été le compagnon de Mireille Ferri, ancienne vice-présidente du conseil régional d'Île-de-France[35]. Il est le père d'un garçon, né en avril 2007[36] de son union avec Pauline Véron, adjointe à la maire de Paris. Il a aussi deux enfants d'Emmanuelle Cosse (des jumeaux nés en 2013), avec laquelle il s'est marié le 20 juin 2015[37].
+Il se définit comme « libertin incompris »[34] et reconnaît avoir « longtemps été dans le registre de la séduction et dans une forme de libertinage correspondant à la culture des écologistes[38]. »
+
+
+Jeunesse.
+Denis Baupin est né à Cherbourg dans une famille de la petite bourgeoisie normande. Son père, Charles Baupin, est expert-comptable et commissaire aux comptes[1]. Épousant les thèses antimilitaristes du début des années 1980, il évite le service militaire et choisit l’objection de conscience[2].
+En 1984, il sort ingénieur de l'École centrale Paris[3], et devient trois ans plus tard directeur de l'association de solidarité internationale Terre des hommes, où il restera trois ans[4].
+Carrière politique.
+Adhérent des Verts depuis 1989[5], conseiller du Groupe Vert au Parlement européen pour les questions sur le tiers-monde puis conseiller politique de Dominique Voynet au ministère de l'Environnement et de l'Aménagement du territoire de 1997 à 1998. Il est conseiller du 20e arrondissement depuis 1995[4].
+Il fonde Agir pour l'environnement[6] en 1997 et Écolosphère.net[7] en 2009.
+Il est l'un des quatre porte-parole des Verts de 1998 à 2002[8].
+Il incarne entre 2001 et 2008, comme adjoint au maire de Paris, chargé des transports, de la circulation, du stationnement et de la voirie, la politique visant à réduire la place des voitures dans l'espace public au profit des transports alternatifs (protection des couloirs de bus, tramway des Maréchaux, Vélib', Noctiliens, quartiers verts, extension aux jours fériés de la fermeture dominicale des voies sur berge, Paris Plages). Ses opposants le surnomment souvent « le Khmer vert »[9]. Airparif constate une baisse des émissions d'oxydes d'azote de 32 % entre 2002 et 2007, dont une partie provient de l'amélioration du parc automobile, les évolutions de circulation dans Paris intra muros y contribuant pour 20 %. De même les émissions de gaz à effet de serre dues aux déplacements sont réduites de 9 % sur la capitale dans la même période[10].
+De 2004 à 2008, il préside le Club des villes cyclables[11], devenu ensuite Club des villes et territoires cyclables.
+Il conduit les listes autonomes des Verts lors des élections municipales de 2008 à Paris. Avec la réélection de Bertrand Delanoë en mars 2008, il reste adjoint au maire de Paris et devient chargé du développement durable, de l'environnement et du plan climat[12]. Il met en œuvre le plan climat de la ville de Paris[13] qui vise à réduire de 25 % les émissions de gaz à effet de serre de la ville à l’horizon de 2020, notamment par la poursuite de la politique de transports, l’isolation thermique des bâtiments, le développement des énergies renouvelables, etc. Il a représenté Paris à la conférence de Copenhague de 2009 sur le climat.
+Il est membre du collège exécutif des Verts depuis décembre 2008, chargé de la lutte contre le dérèglement climatique, du suivi et des suites de la conférence de Copenhague. Il est membre de l'exécutif d'Europe Écologie Les Verts, chargé du projet 2012.
+De 2009 à avril 2013, il est vice-président et trésorier du réseau Énergie-Cités qui regroupe plus de 1 000 villes européennes[14].
+Il représente le département de Paris au conseil d'administration de l'Atelier parisien d'urbanisme (APUR), dont il est trésorier[15].
+Il préside l'Agence parisienne du climat[16] de sa création en 2011 à 2012. Cette agence est une association multi-partenariale qui a vocation à accompagner la mise en œuvre du plan climat de Paris. Cette structure inédite, prévue dans le plan climat de Paris adopté à l’unanimité en octobre 2007, a pour objet de porter la dynamique du plan climat sur le territoire de Paris auprès des usagers et des acteurs du territoire, d’accompagner le changement des comportements, d’aider à l’engagement concret dans la lutte contre le changement climatique.
+Lors des élections législatives de 2012 à Paris, il est candidat EELV-PS dans la 10e circonscription de Paris et est élu au 2e tour avec 64,73 % des votes. Il est par la suite élu vice-président de l'Assemblée nationale et démissionne de ses fonctions de maire-adjoint de Paris le 5 juillet 2012 pour éviter le cumul des mandats[17].
+Soutenant la politique de François Hollande, il incarne la ligne réformiste et pro-gouvernementale au sein du parti écologiste[18]. Le 18 avril 2016, il annonce qu'il quitte Europe Écologie Les Verts, invoquant des désaccords avec les choix stratégiques du parti[19]. En décembre 2016, il annonce ne pas se représenter aux élections législatives de 2017[20].
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts) 1989-2010.
+PART Europe Écologie Les Verts (EELV) 2010-2016.
+FONCTIONNORM
+
+NOMF Député de ParisÉlu dans la 10e circonscription NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Élection REL 17 juin 2012 SEP2 Prédécesseur REL Serge BliskoYves Cochet SEP2 Successeur REL Anne-Christine Lang.
+NOMF Président NOMF LégislatureXIVe législature(Cinquième République) SEP2 Législature REL XIVe législature(Cinquième République) SEP2 Prédécesseur REL Marc Le Fur SEP2 Successeur REL François de Rugy SEP2 Élection REL 16 mars 2001 SEP2 Réélection REL 16 mars 2008 SEP2 Nom de naissance REL Denis Victor Henri Baupin SEP2 Date de naissance REL 2 juin 1962 (55 ans) SEP2 Lieu de naissance REL Cherbourg (Manche) SEP2 Nationalité REL Française SEP2 Parti politique REL Les Verts (1989-2010)EELV (2010-2016) SEP2 Conjoint REL Mireille FerriEmmanuelle Cosse SEP2 Profession REL Ingénieur.

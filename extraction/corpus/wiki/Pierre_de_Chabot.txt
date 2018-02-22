@@ -1,0 +1,18 @@
+PRETAG Pierre_de.
+NOMTAG Chabot.
+Pierre de Chabot est un homme politique français né le 5 août 1887 à Mouchamps en Vendée, et décédé le 11 janvier 1975 dans sa propriété de Mouchamps.
+Issu d'une famille de la plus ancienne aristocratie, de même origine que les Rohan-Chabot, il devient conseiller municipal de Mouchamps, puis conseiller général en 1924. En 1938, il est désigné par la Fédération républicaine de Vendée pour être candidat à une élection législative partielle. Élu avec 85 % des voix, il rejoint logiquement le groupe de la Fédération à la Chambre des députés. Au Parlement, il se montre un député peu actif, attentif essentiellement aux questions locales.
+Le 10 juillet 1940, il vote en faveur de la Remise des pleins pouvoirs au Maréchal Pétain. En 1941, il est nommé membre du Conseil départemental de la Vendée par les autorités de Vichy et conserve ce mandat jusqu'en 1944.
+À la Libération, il se tient en retrait et fait élire sa femme à ses anciens mandats de conseiller municipal et général. Il se consacre alors essentiellement à la chasse ; le dictionnaire des anciens parlementaires lui attribue un tableau de chasse de 58 900 bêtes tuées (dont 11 000 nuisibles).
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1938-1940 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL FRF SEP2 Date de naissance REL 5 août 1887 SEP2 Date de décès REL 11 janvier 1975 (à 87 ans) SEP2 Résidence REL Vendée.

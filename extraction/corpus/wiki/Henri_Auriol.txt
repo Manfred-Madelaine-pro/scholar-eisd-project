@@ -1,0 +1,18 @@
+PRETAG Henri.
+NOMTAG Auriol.
+Henri Auriol est un homme politique français né le 8 mai 1880 à Toulouse et mort le 16 janvier 1959 à Baziège[1].
+Il est élu député Fédération républicaine de la Haute-Garonne en 1906 et siège sans interruption à la Chambre des députés pendant 30 ans. Il est également conseiller général de 1925 à 1945.
+Il quitte la Fédération républicaine au moment du virage à droite de cette formation ; il se rappoche alors de l'aile conservatrice de l'Alliance démocratique animée par André Tardieu
+Il fut également conseiller général du Canton de Nailloux de 1925 à 1940.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1906-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ERD (1919-1924)URD (1924-1932)CR (1932-1936) SEP2 Nom de naissance REL Jean Marie André Henri Auriol SEP2 Date de naissance REL 8 mai 1880 SEP2 Lieu de naissance REL Toulouse SEP2 Date de décès REL 16 janvier 1959 (à 78 ans) SEP2 Lieu de décès REL Baziège SEP2 Résidence REL Haute-Garonne.

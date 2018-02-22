@@ -1,0 +1,28 @@
+PRETAG Guy.
+NOMTAG Menant.
+Guy Henri Victor Menant, né le 27 mars 1891 à Orléans (Loiret), mort en 1967 à Royan (Charente-Maritime), est un homme politique et ambassadeur français.
+
+
+
+Saumur.
+Ancien combattant de la Première Guerre mondiale, il s'installe à Saumur comme herboriste. Il adhère à de nombreuses associations : il est président de la Ligue aéronautique saumuroise. Guy Menant milite au sein de mouvements sociaux et pacifistes. Il est membre fondateur du Rassemblement universel pour la Paix et organise à Saumur, en 1932, une exposition pacifiste.
+Il s'inscrit notamment au mouvement de la Ligue de la Jeune République, dont il préside le bureau politique. Il est candidat sur la liste de droite aux élections municipales de 1929 à Saumur, où il échoue.
+Il est président de la Fédération Nationale des Herboristes de France et des Colonies.
+Député de la Mayenne.
+Il est candidat à la députation en 1932, à Château-Gontier, sur les instances de César Chabrun. Il sollicite l'appui des comités radicaux de la circonscription, puis se présente comme démocrate populaire, étant membre du bureau de la Ligue de la Jeune République. Il bénéficie aussi du soutien d'Isidore Pasquier. Il est élu au premier tour contre Jacques Duboys-Fresney.
+De 1932 à 1936, il est député de la Mayenne. Il se prononce pour le droit de préemption du fermier sur son exploitation, se faisant ainsi l'écho des revendications des jeunes exploitants agricoles que le manque de terre pousse vers le métayage ou le fermage, dont la rentabilité est faible. Secrétaire du Bureau de la Chambre des Députés en 1936, il demande à interpeller sur la propagande hitlérienne en France, ainsi que du caractère politique des jeux olympiques de Berlin. Il ne se représente pas en 1936. Georges Hoog perd contre Duboys-Fresney. En 1938, il est l'éditeur français de Die Zukunft[1].
+La Résistance.
+Ami de René Cassin, c'est Guy Menant qui informe ce dernier que le général de Gaulle, se trouvant à Londres, vient de lancer un appel à la résistance, le 18 juin 1940. Dès l'annonce de l'Armistice en métropole en 1940, il refuse les directives de Vichy. Avec René Capitant, Philippe Serre, Jean Scelles, ils fondent la toute première organisation de résistance algérienne gaulliste Combat Outre-Mer. Combat était tiré, sous la direction de Guy Menant, à l'Imprimerie générale de Lucien Angéli. Il est publié en clandestinité, jusqu'en 1943, peu avant l'arrivée du général de Gaulle à Alger.
+Il s'engage dans la Résistance. Il est secrétaire général du Comité national d'aide à la Résistance, puis de la France combattante à Alger en février 1943. Il devient le 1er août 1943, chargé de mission au cabinet du commissaire à l’Intérieur du Comité français de la Libération nationale. En 1944, il est directeur adjoint au commissariat aux relations extérieures du Gouvernement provisoire de la République française.
+Diplomatie.
+D'août 1946 à décembre 1948[2], il est ambassadeur en Albanie et, à partir d'avril 1949, à Panama. Enfin de 1952 à 1956, il exerce la fonction de viguier d'Andorre.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1932-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Indépendants de gauche SEP2 Date de naissance REL 27 mars 1891 SEP2 Date de décès REL 1967 SEP2 Résidence REL Mayenne.

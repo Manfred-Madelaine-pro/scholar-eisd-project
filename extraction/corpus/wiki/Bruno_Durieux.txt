@@ -1,0 +1,33 @@
+PRETAG Bruno.
+NOMTAG Durieux.
+Bruno Durieux, né le 23 octobre 1944 à Montigny (Sarthe), est un homme politique français.
+
+
+
+Polytechnicien (promotion X1964), ancien élève de l'ENSAE et Inspecteur général des finances, Bruno Durieux sert en Algérie sous les ordres de Marcel Bigeard, avant d'entamer une carrière administrative puis politique. Membre du cabinet de Raymond Barre (1976-1981), député CDS du Nord (1986-1993)[1]. Il rejoint ensuite le Mouvement des réformateurs dont il fut vice-président.
+En 1990, alors qu'il est membre du gouvernement Rocard, une polémique est déclenchée à l'initiative de L'Humanité concernant une proposition de résolution à l’Assemblée qu'il avait signée en compagnie notamment de Marie-France Stirbois, Jean Royer et Christine Boutin. Les signataires s'opposaient à certaines méthodes d'interruption volontaire de grossesse. Bruno Durieux, soutenu par le chef du gouvernement, affirme qu'il n'est pas hostile à l'IVG en tant que telle.
+Après 1995 et le changement de majorité, il est chargé par Charles Millon, alors ministre de la Défense, d'apporter son concours pour le renforcement des relations de la France avec certains pays dans le domaine des équipements de défense, en qualité de représentant spécial du ministère de la Défense. En 1997, il est nommé président de Défense Conseil International, une entreprise détenue à 50 % par le ministère de la Défense, ayant pour mission de transmettre le savoir-faire des armées françaises aux pays s’équipant de systèmes de défense français.
+Il est président du Comité national des conseillers du commerce extérieur de la France (CNCCEF).
+Depuis 1995, il est maire de Grignan dans la Drôme.
+Depuis 2007, il est membre de la Commission de déontologie[2].
+Nommé en 2009 président de la Commission des comptes de la santé[3]
+Détail de ses fonctions gouvernementales.
+
+Ministre délégué auprès du ministre des Affaires sociales et de la Solidarité, chargé de la Santé du gouvernement Michel Rocard (2) (du 2 octobre 1990 au 16 mai 1991)
+Ministre délégué auprès du ministre des Affaires sociales et de l'Intégration, chargé de la Santé du gouvernement Édith Cresson (du 16 mai 1991 au 4 avril 1992)
+Ministre délégué auprès du ministre de l'Industrie et du Commerce extérieur, chargé du Commerce extérieur du gouvernement Pierre Bérégovoy (du 3 juin 1992 au 29 mars 1993)
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Ministre délégué au Commerce extérieur NOMF 3 juin 1992 – 29 mars 1993.
+NOMF Président NOMF GouvernementPierre Bérégovoy SEP2 Gouvernement REL Pierre Bérégovoy SEP2 Prédécesseur REL Dominique Strauss-Kahn SEP2 Successeur REL Gérard Longuet (ministre).
+NOMF Ministre délégué à la Santé NOMF 2 octobre 1990 – 4 avril 1992.
+NOMF Président NOMF GouvernementMichel Rocard IIÉdith Cresson SEP2 Gouvernement REL Michel Rocard IIÉdith Cresson SEP2 Prédécesseur REL Léon Schwartzenberg SEP2 Successeur REL Bernard Kouchner (ministre).
+NOMF Député du Nord NOMF 16 mars 1986 – 1er avril 1993(7 ans et 16 jours) SEP2 Date de naissance REL 23 octobre 1944 (73 ans) SEP2 Lieu de naissance REL Montigny (Sarthe) SEP2 Nationalité REL  Française SEP2 Diplômé de REL Polytechnicien (promotion X1964).

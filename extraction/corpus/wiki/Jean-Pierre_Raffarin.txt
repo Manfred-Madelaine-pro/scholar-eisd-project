@@ -1,0 +1,40 @@
+PRETAG Jean-Pierre.
+NOMTAG Raffarin.
+Jean-Pierre Raffarin, né le 3 août 1948 à Poitiers, est un homme d'État français, Premier ministre de 2002 à 2005.
+Il est président du conseil régional de Poitou-Charentes de 1988 à 2002 et ministre des Petites et moyennes Entreprises, du Commerce et de l'Artisanat dans les gouvernements Alain Juppé, entre 1995 et 1997.
+Député européen puis sénateur, il est nommé Premier ministre par le président Jacques Chirac après l'élection présidentielle de 2002. À Matignon, il mène une politique de réformes et favorise notamment la décentralisation. Souffrant d'une importante impopularité, il démissionne après le référendum sur le traité établissant une constitution pour l'Europe de 2005.
+Cadre historique de l'Union pour un mouvement populaire (UMP), il assure l'intérim à la tête du parti pendant quelques mois en 2014.
+
+
+
+Cadre du secteur privé.
+Fils de Jean Raffarin, propriétaire-exploitant agricole puis homme d'affaires qui fut le secrétaire d'État à l'Agriculture du Gouvernement Pierre Mendès France de 1954 à 1955, et de Renée Michaud, Jean-Pierre Raffarin a deux sœurs et un frère.
+Après avoir fait ses études secondaires au lycée Henri-IV de Poitiers, il se rend à Paris pour étudier le droit à l'université Paris II-Panthéon Assas. Il entre ensuite à l'ESCP , dont il sort diplômé en 1972, comme Michel Barnier, qui sera l'un de ses ministres. Durant ses études, il fait un stage d'un an à la savonnerie Fébor, dans le département de l'Eure à Bernay.
+Le 29 juin 1980, il épouse Anne-Marie Perrier, née en 1952 à Chamalières, avec laquelle il a une fille : Fleur, responsable ressources humaines chez Cartier[1].
+Contrairement à de nombreux hommes politiques, Jean-Pierre Raffarin effectue une carrière dans le secteur privé. Entre 1973 et 1976, il siège au sein de la direction marketing des cafés Jacques Vabre, avant d'être le directeur général de Bernard Krief Communication de 1981 à 1988, puis d'être délégué général de l'Institut Euro-92 entre 1988 et 1989.
+En 1978, après la démission de son père, il devient président de la société anonyme de crédit immobilier rural de la Vienne, structure fondée en 1956 par Jean Raffarin, puis affiliée au Crédit immobilier de France. Il fait fructifier cet héritage tout au long des années 1980, et devient, de fusion en fusion avec d'autres sociétés de crédit immobilier, président du Crédit immobilier de Poitou-Charentes, puis du Crédit immobilier de France Centre-Ouest.
+Conseiller technique de Lionel Stoléru, Secrétaire d'État chargé des travailleurs manuels et immigrés, de 1976 à 1981, il est également maître de conférences à l'Institut d'études politiques de Paris de 1979 à 1988.
+Après avoir annoncé son retrait définitif de la vie politique, à l'été 2017, Jean-Pierre Raffarin devient en janvier 2018 administrateur indépendant de la filiale chinoise du groupe Plastic Omnium[2],[3].
+Carrière politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) PPDF.
+PART Parti populaire pour la démocratie française (PPDF) DL.
+PART Démocratie libérale (parti politique) (DL) UMP.
+PART Union pour un mouvement populaire (UMP) LR.
+PART Les Républicains (LR).
+FONCTIONNORM
+
+NOMF Président de la commission des Affaires étrangères, de la Défense et desForces armées du Sénat NOMF 9 octobre 2014 – 11 juillet 2017(2 ans, 9 mois et 2 jours) SEP2 Prédécesseur REL Jean-Louis Carrère SEP2 Successeur REL Christian Cambon.
+NOMF Président NOMF GouvernementJean-Pierre Raffarin I, II et III SEP2 Gouvernement REL Jean-Pierre Raffarin I, II et III SEP2 Législature REL XIIe SEP2 Coalition REL Majorité présidentielleUMP - UDF SEP2 Prédécesseur REL Lionel Jospin SEP2 Successeur REL Dominique de Villepin.
+NOMF Sénateur français NOMF 18 septembre 2005 – 4 octobre 2017(12 ans et 16 jours) SEP2 Élection REL 18 septembre 2005 SEP2 Réélection REL 28 septembre 2014 SEP2 Circonscription REL département de la Vienne SEP2 Prédécesseur REL Claude Bertaud SEP2 Successeur REL Yves Bouloux SEP2 Élection REL 26 septembre 2004 SEP2 Circonscription REL département de la Vienne SEP2 Prédécesseur REL René Monory SEP2 Successeur REL Claude Bertaud SEP2 Élection REL 21 septembre 1997 SEP2 Circonscription REL département de la Vienne SEP2 Prédécesseur REL Guy Robert SEP2 Successeur REL Alain Fouché SEP2 Élection REL 24 septembre 1995 SEP2 Circonscription REL département de la Vienne SEP2 Prédécesseur REL Guy Robert SEP2 Successeur REL Guy Robert.
+NOMF Ministre des Petites et Moyennes entreprises, du Commerce et de l'Artisanat NOMF 18 mai 1995 – 2 juin 1997(2 ans et 15 jours).
+NOMF Président NOMF GouvernementAlain Juppé I et II SEP2 Gouvernement REL Alain Juppé I et II SEP2 Prédécesseur REL Alain Madelin SEP2 Successeur REL Marylise Lebranchu.
+NOMF Député européen NOMF 25 juillet 1989 – 18 mai 1995(5 ans, 9 mois et 23 jours) SEP2 Élection REL 15 juin 1989 SEP2 Successeur REL Jean-Antoine Giansily.
+NOMF Président du conseil régional dePoitou-Charentes NOMF 19 décembre 1988 – 8 mai 2002(13 ans, 4 mois et 19 jours) SEP2 Prédécesseur REL Louis Fruchard SEP2 Successeur REL Dominique de La Martinière(par intérim)Élisabeth Morin SEP2 Date de naissance REL 3 août 1948 (69 ans) SEP2 Lieu de naissance REL Poitiers (Vienne) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF-PPDF, DL, UMP, LR SEP2 Père REL Jean Raffarin SEP2 Diplômé de REL Université Panthéon-AssasESCP Europe SEP2 Profession REL Cadre de communication d'entreprise.

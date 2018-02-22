@@ -1,0 +1,19 @@
+PRETAG Henri.
+NOMTAG Weber.
+Henri Weber, né le 24 juin 1944 à Leninabad (URSS), est un homme politique français, membre du Parti socialiste, sénateur de la Seine-Maritime puis député européen.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (Parti socialiste).
+FONCTIONNORM
+
+NOMF Député européen NOMF 20 juillet 2004 – 1er juillet 2014 SEP2 Élection REL 13 juin 2004 SEP2 Réélection REL 7 juin 2009.
+NOMF Sénateur de la Seine-Maritime NOMF 2 octobre 1995 – 19 juillet 2004 SEP2 Date de naissance REL 24 juin 1944 (73 ans) SEP2 Lieu de naissance REL Leninabad (URSS) SEP2 Nationalité REL française SEP2 Parti politique REL Parti socialiste SEP2 Profession REL Professeur.

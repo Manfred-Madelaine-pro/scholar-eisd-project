@@ -1,0 +1,16 @@
+PRETAG Georges.
+NOMTAG Pernot.
+Georges Pernot, né le 6 novembre 1879 à Besançon (Doubs) où il est mort le 14 septembre 1962, est un avocat et homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1924-1936Sénateur 1946-1959 NOMF GouvernementIIIe République-IVe République SEP2 Gouvernement REL IIIe République-IVe République SEP2 Groupe politique REL URD (1924-1928)RS (1932-1935)UR (1935-1940)PRL (1946-1959) SEP2 Date de naissance REL 6 novembre 1879 SEP2 Date de décès REL 14 septembre 1962 (à 82 ans) SEP2 Résidence REL Doubs.

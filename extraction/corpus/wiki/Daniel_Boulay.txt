@@ -1,0 +1,18 @@
+PRETAG Daniel.
+NOMTAG Boulay.
+Daniel Boulay, né le 26 septembre 1946 à La Chapelle-Saint-Rémy, est un homme politique français, membre du PCF.
+Il est conseiller général du canton du Mans-Sud-Ouest de 1982 à 1994.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député de la 2e circonscription de la Sarthe NOMF 19 mars 1978 – 22 mai 1981 SEP2 Date de naissance REL 26 septembre 1946 SEP2 Lieu de naissance REL La Chapelle-Saint-Rémy SEP2 Nationalité REL Française SEP2 Parti politique REL PCF SEP2 Profession REL Agent d'assurances.

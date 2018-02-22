@@ -1,0 +1,17 @@
+PRETAG Jacques.
+NOMTAG Kergoat.
+Jacques Kergoat (né à Brest le 3 avril 1939 et mort à Poitiers le 29 juillet 1999) est un sociologue, historien et militant politique d'extrême gauche français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste unifié (Parti socialiste unifié).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

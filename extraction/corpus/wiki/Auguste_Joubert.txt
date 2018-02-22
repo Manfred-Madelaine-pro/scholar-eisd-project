@@ -1,0 +1,20 @@
+PRETAG Auguste.
+NOMTAG Joubert.
+Auguste Joubert est un homme politique français, né le 7 avril 1903 à Fournet-Blancheroche et décédé le 12 janvier 1988 à Besançon (Doubs).
+Fils d'Auguste Joubert et d'Aline Bouhélier, il était le petit-fils de François-Xavier Joubert (1805-1879), fondateur et premier maire de la commune de Fournet-Blancheroche.
+Assureur de profession, il entra dans la Résistance par l'intermédiaire de son beau-frère, le colonel Camille Loichot.
+Au Conseil Général du Doubs, il représenta le canton de Besançon-Sud dès 1951 et succéda à Maxime Cupillard à la présidence de cette institution en 1964. Il y fut réélu jusqu’en 1982, au moment de la mise en place de la décentralisation, décidant alors avec panache d’abandonner le devant de la scène politique.
+Il fut à l’origine de beaucoup de démarches novatrices et prospectives, en particulier celle qui lui tenait le plus à cœur : le sauvetage et la rénovation de la Saline royale d'Arc-et-Senans avec son ami Migeon. C’est lui qui créa l’Agence de développement industriel et l’Association départementale du tourisme, réalisa les jardins de la Gare d’Eau et fit construire la nouvelle Préfecture devenue Hôtel du Département, inaugura la Maison de Franche-Comté à Paris.
+Il était Officier de la Légion d’Honneur et Commandeur dans l’Ordre National du Mérite.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1945-1958 NOMF 1945 – SEP2 Gouvernement REL IVe république SEP2 Groupe politique REL PRL (1945-1951)RI (1951-1955)IPAS (1956-1958) SEP2 Date de naissance REL 7 avril 1903 SEP2 Date de décès REL 12 janvier 1988 (à 84 ans) SEP2 Résidence REL Doubs.

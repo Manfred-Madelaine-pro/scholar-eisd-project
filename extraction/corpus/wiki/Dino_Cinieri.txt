@@ -1,0 +1,35 @@
+PRETAG Dino.
+NOMTAG Cinieri.
+Dino Cinieri, né le 9 juillet 1955 à Firminy (Loire), est un homme politique français.
+
+
+
+Il est élu maire de Firminy en mars 2001 et pendant 7 ans, succédant à 30 années de gestion communiste.
+Il est élu député le 16 juin 2002, pour la XIIe législature (2002-2007), dans la 4e circonscription de la Loire. Il fait partie du groupe UMP et est membre du Parti chrétien-démocrate.
+Il est réélu en juin 2007. Il est président du groupe d'amitié France-République tunisienne et est également vice-président des groupes d'amitié France-Brésil, France-Inde et France-Maroc, ainsi que secrétaire des groupes France-Égypte, France-Italie et France-Guinée équatoriale à l'Assemblée nationale.
+En mars 2008, il perd son siège de maire de Firminy face au PCF Marc Petit. La gauche reprend donc la gestion de la ville à partir de 2008 et la conserve jusqu'au moins 2017.
+Il soutient dès juillet 2011 la candidature de Nicolas Sarkozy à l'élection présidentielle de 2012[1], alors que Christine Boutin avait annoncé son intention de se présenter. Sa ligne de conduite par rapport aux convictions du Parti chrétien-démocrate demeure ambiguë[2],[3].
+Il est réélu de peu pour un troisième mandat de député à l'issue d'une triangulaire difficile lors des élections législatives de juin 2012. Il est alors élu secrétaire de l'Assemblée nationale et est membre de la commission économique.
+En décembre 2015, à l'occasion des Élections régionales françaises de 2015 : il fait campagne pour Laurent Wauquiez, candidat du rassemblement de la Droite et du Centre (Union pour un mouvement populaire - Union des démocrates et indépendants - Mouvement démocrate (France)) pour la présidence de la Région Auvergne-Rhône-Alpes, qui remporte l'élection face au Président sortant Jean-Jack Queyranne. Désormais à la tête du Conseil Régional, il nomme le Député au sein de son exécutif : en tant que Conseiller spécial auprès du Président.
+En septembre 2016, soutient Nicolas Sarkozy pour la primaire présidentielle des Républicains de 2016[4].
+Nicolas Sarkozy ayant perdu les primaires de la Droite et du Centre de 2016 et restant fidèle à sa famille politique, il soutient François Fillon (vainqueur de la primaire) pour la campagne des présidentielles de 2017.
+Il brigue un quatrième mandat de parlementaire à l'Assemblée Nationale, lors des élections législatives de 2017.
+Il confirme sa position politique, notamment lors de la division de la Droite française, en clarifiant qu'il reste fidèle à sa famille politique et qu'il ne rejoint donc pas le groupe parlementaire de La Droite Constructive (rassemblement de parlementaires dissidents LR et UDI à l'Assemblée Nationale).
+Il fait partie des soutiens proches et fidèles de Laurent Wauquiez et signe une Tribune appelant à la candidature du président de la Région Auvergne-Rhône-Alpes, à la présidence du parti Les Républicains. Il le parraine pour le congrès des Républicains de 2017[5].
+Laurent Wauquiez remportant les élections internes de sa famille politique face à Florence Portelli et Maël de Calan, il décide de nommer le Député : au Bureau Politique, à la Commission Nationale d'Investiture et à la Trésorerie du parti en tant que Trésorier-adjoint aux côtés de Daniel Fasquelle.
+Ancien franc-maçon, il a été membre de la Grande Loge nationale française (GLNF)[6].
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (Les Républicains).
+FONCTIONNORM
+
+NOMF Député de la 4e circonscription de la Loire NOMF En fonction depuis le 19 juin 2002(15 ans, 8 mois et 1 jour) SEP2 Élection REL 16 juin 2002 SEP2 Réélection REL 17 juin 200717 juin 201218 juin 2017 SEP2 Législature REL XIIe, XIIIe, XIVe et XVe SEP2 Groupe politique REL UMP puis LR SEP2 Prédécesseur REL Bernard Outin (PCF).
+NOMF Conseiller régional d'Auvergne-Rhône-Alpes NOMF En fonction depuis le 4 janvier 2016(2 ans, 1 mois et 16 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Président NOMF Maire de Firminy SEP2 Prédécesseur REL Bernard Outin SEP2 Successeur REL Marc Petit SEP2 Date de naissance REL 9 juillet 1955 (62 ans) SEP2 Lieu de naissance REL Firminy (Loire) SEP2 Nationalité REL Française SEP2 Parti politique REL UMPLes Républicains SEP2 Profession REL Consultant en sécurité SEP2 Religion REL Catholique.

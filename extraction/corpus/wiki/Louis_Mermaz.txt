@@ -1,0 +1,45 @@
+PRETAG Louis.
+NOMTAG Mermaz.
+Louis Mermaz, né le 20 août 1931 à Paris (Seine), est un homme d'État français, ancien député, président de l'Assemblée nationale et ministre, et ancien sénateur socialiste de l'Isère.
+
+
+
+Origines familiales.
+Louis Mermaz révèle, dans ses Mémoires[1], que son frère Michel et lui sont les fils du couple illégitime, secret mais lié pendant 30 ans, constitué par sa mère et Louis de Chappedelaine, parlementaire des Côtes-du-Nord et ministre à plusieurs reprises sous la IIIe République. En révélant ce fait, en 2013, Louis Mermaz a confié qu'il a redouté, tout au long de sa carrière publique, d'être mis en difficulté par la révélation de cette origine tenue secrète[2].
+Premiers pas en politique.
+Louis Mermaz est professeur agrégé d'histoire et milite dans les années 1950 à l'UDSR où il est un des lieutenants de François Mitterrand en occupant la fonction de secrétaire général adjoint dès 1957.
+Il participe à la fondation de la Convention des institutions républicaines en 1965. Il est élu député FGDS de l'Isère en 1967, battu en 1968, il retrouve son siège en 1973 et est constamment réélu jusqu'en 1993. En 1971, il devient membre de la direction nationale du Parti socialiste.
+Le 10 mai 1981, le socialiste François Mitterrand est élu président de la République face au chef de l'État sortant, Valéry Giscard d'Estaing. Le 22 mai suivant, Louis Mermaz, qui rêvait d'être nommé ministre de l'Intérieur, entre au sein du premier gouvernement de Pierre Mauroy comme ministre de l'Équipement et des Transports. Un poste qu'il n'occupe qu'un seul mois, puisqu'il n'est pas reconduit dans le deuxième gouvernement de Mauroy après la victoire de la gauche aux élections législatives.
+Président de l'Assemblée nationale.
+En retrait du gouvernement, Louis Mermaz est cependant invité à présenter sa candidature à la présidence de l'Assemblée nationale. Le président Mitterrand lui-même l'y encourage car, la gauche étant majoritaire, son candidat sera forcément désigné face à celui de l'opposition de droite.
+Le 2 juillet 1981, Louis Mermaz est élu président de l'Assemblée nationale par 295 voix contre 149 pour Jean-Paul de Rocca Serra. Dans son premier discours, le nouveau président des députés loue « le tournant décisif » qu'a constitué la victoire de Mitterrand à l'élection présidentielle du mois précédent, ajoutant que la victoire des socialistes et de leurs alliés démontre « un mouvement en profondeur de la société française ». Il critique également l'opposition de droite et son « conservatisme social » dont la gauche hérite depuis sa victoire aux élections. Ce discours, applaudi par les socialistes, sera néanmoins sèchement accueilli par la droite qui dénonce la partialité du nouveau président de l'Assemblée, bien que Mermaz se défendra plus tard d'avoir voulu provoquer quiconque.
+Quatrième personnage de l'État, premier socialiste élu au « perchoir » de l'Assemblée nationale, Louis Mermaz devient l'un des cadres éminents du Parti socialiste durant la VIIe législature.
+Après le perchoir.
+Après la réélection de François Mitterrand et la victoire de la gauche en 1988, il retrouve de nouveau le titre de ministre des Transports du 12 mai au 23 juin 1988 dans le premier gouvernement de Michel Rocard. Il est ensuite président du groupe socialiste de l'Assemblée nationale de 1988 à 1990.
+Il est ministre de l'Agriculture et de la Forêt dans les gouvernements Rocard II, Cresson et Bérégovoy du 3 octobre 1990 au 2 octobre 1992, puis ministre des relations avec le Parlement, porte-parole du gouvernement, jusqu’au 29 mars 1993. Il n'est pas réélu à l'Assemblée nationale en 1993. Il siège à nouveau au Palais-Bourbon de 1997 à 2001, puis est élu au Sénat le 23 septembre 2001. Au Sénat, il est membre de la commission des affaires étrangères, de la défense et des forces armées.
+Louis Mermaz a été conseiller régional de Rhône-Alpes, président du conseil général de l'Isère jusqu'en 1985 et maire de Vienne à partir de 1971. Il crée le lycée agricole de Vienne Agrotec
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS).
+FONCTIONNORM
+
+NOMF Sénateur de l'Isère NOMF 1er octobre 2001 – 30 septembre 2011(9 ans, 11 mois et 29 jours) SEP2 Élection REL 23 septembre 2001 SEP2 Successeur REL André Vallini.
+NOMF Ministre des Relations avec le Parlement NOMF 2 octobre 1992 – 29 mars 1993(5 mois et 27 jours).
+NOMF Président NOMF GouvernementPierre Bérégovoy SEP2 Gouvernement REL Pierre Bérégovoy SEP2 Prédécesseur REL Martin Malvy SEP2 Successeur REL Pascal Clément(Relations avec l'Assemblée nationale)Roger Romani(Relations avec le Sénat).
+NOMF Président NOMF GouvernementPierre Bérégovoy SEP2 Gouvernement REL Pierre Bérégovoy SEP2 Prédécesseur REL Martin Malvy SEP2 Successeur REL Nicolas Sarkozy.
+NOMF Ministre de l'Agriculture et de la Forêt NOMF 3 octobre 1990 – 2 octobre 1992(1 an, 11 mois et 29 jours).
+NOMF Président NOMF GouvernementMichel Rocard IIÉdith CressonPierre Bérégovoy SEP2 Gouvernement REL Michel Rocard IIÉdith CressonPierre Bérégovoy SEP2 Prédécesseur REL Henri Nallet SEP2 Successeur REL Jean-Pierre Soisson.
+NOMF Président du groupe socialisteà l'Assemblée nationale NOMF 21 juin 1988 – 2 octobre 1990(2 ans, 3 mois et 11 jours) SEP2 Prédécesseur REL Pierre Joxe SEP2 Successeur REL Jean Auroux.
+NOMF Ministre des Transports NOMF 12 mai 1988 – 22 juin 1988(1 mois et 10 jours).
+NOMF Président NOMF GouvernementMichel Rocard I SEP2 Gouvernement REL Michel Rocard I SEP2 Prédécesseur REL Pierre Méhaignerie SEP2 Successeur REL Michel Delebarre.
+NOMF Président de l'Assemblée nationale NOMF 2 juillet 1981 – 1er avril 1986(4 ans, 8 mois et 30 jours) SEP2 Législature REL VIIe SEP2 Prédécesseur REL Jacques Chaban-Delmas SEP2 Successeur REL Jacques Chaban-Delmas.
+NOMF Ministre de l’Équipement et des Transports NOMF 22 mai 1981 – 22 juin 1981(1 mois).
+NOMF Président NOMF GouvernementPierre Mauroy I SEP2 Gouvernement REL Pierre Mauroy I SEP2 Prédécesseur REL Daniel Hoeffel SEP2 Successeur REL Charles Fiterman.
+NOMF Président du Conseil général de l'Isère NOMF 19 mars 1976 – 23 mars 1985(9 ans et 4 jours) SEP2 Prédécesseur REL Antoine Buisson SEP2 Successeur REL Alain Carignon SEP2 Prédécesseur REL Maurice Chapuis SEP2 Successeur REL Jacques Remiller.
+NOMF Député de l'IsèreÉlu dans la 5e puis la 8e circonscription NOMF 1er juin 1997 – 30 septembre 2001(4 ans, 3 mois et 29 jours) SEP2 Législature REL XIe (Cinquième République) SEP2 Prédécesseur REL Bernard Saugey SEP2 Successeur REL Jacques Remiller SEP2 Législature REL Ve, VIe, VIIe, VIIIe, IXe (Cinquième République) SEP2 Prédécesseur REL David Rousset SEP2 Successeur REL René Bourget SEP2 Législature REL IIIe (Cinquième République) SEP2 Prédécesseur REL Noël Chapuis SEP2 Successeur REL David Rousset SEP2 Date de naissance REL 20 août 1931 (86 ans) SEP2 Lieu de naissance REL Paris (Seine) SEP2 Nationalité REL Française SEP2 Parti politique REL PS SEP2 Profession REL Professeur d'histoire.

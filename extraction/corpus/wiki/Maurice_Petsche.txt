@@ -1,0 +1,18 @@
+PRETAG Maurice.
+NOMTAG Petsche.
+Maurice Petsche, est un homme politique français, né le 1er décembre 1895 à Paris et mort le 16 septembre 1951 à Paris.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1925-1940puis 1946-1951 NOMF 1925 – SEP2 Gouvernement REL IIIe République-IVe République SEP2 Groupe politique REL RDG (1925-1932)CR (1932-1936)GDRI (1936-1940)RAPS (1946-1951)Paysan (1951).
+NOMF Ministre d'État NOMF 11 août 1951 – 16 septembre 1951.
+NOMF Président NOMF GouvernementPleven (2) SEP2 Gouvernement REL Pleven (2) SEP2 Date de naissance REL 1er décembre 1898 SEP2 Date de décès REL 16 septembre 1951 (à 52 ans) SEP2 Résidence REL Hautes-Alpes.

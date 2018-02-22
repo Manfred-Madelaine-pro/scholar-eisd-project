@@ -1,0 +1,18 @@
+PRETAG Marcel.
+NOMTAG Barbot.
+Marcel Barbot, né le 2 septembre 1907 à La Chapelle-Montlinard (Cher) et mort le 26 octobre 1998 à Louveciennes (Yvelines), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député de la Nièvre NOMF 2 janvier 1956 – 8 décembre 1958 SEP2 Date de naissance REL 2 septembre 1907 SEP2 Lieu de naissance REL La Chapelle-Montlinard (Cher) SEP2 Date de décès REL 26 octobre 1998 (à 91 ans) SEP2 Lieu de décès REL Louveciennes (Yvelines) SEP2 Nationalité REL Française SEP2 Parti politique REL PCF.

@@ -1,0 +1,15 @@
+PRETAG Joseph.
+NOMTAG Turroques.
+Joseph Turroques, né le 16 octobre 1919 à Casteljaloux et décédé le 14 avril 1996 à Cambo-les-Bains, est un homme politique français.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 30 novembre 1958 – SEP2 Nationalité REL Française.

@@ -1,0 +1,19 @@
+PRETAG Lucien.
+NOMTAG Camus.
+Lucien Camus, né le 8 juillet 1876 à Gurgy-le-Château et mort le 12 avril 1947 à Étampes, est un homme politique français Il est membre du Parti radical-socialiste puis du Parti radical-socialiste Camille Pelletan. Il est élu député de Seine-et-Oise sous cette dernière étiquette en 1936.
+
+
+Médecin, tout d'abord établi à Gerbéviller, il devient maire de cette commune et conseiller général en 1912, deux mandats qu'il occupe jusqu'en 1919, il est le témoin de la destruction de sa ville lors de la Bataille de la trouée de Charmes en mars 1914 par les Allemands. Il s'installe par la suite en région parisienne, à Étampes, ville dont il devient maire en 1929, mandat qu'il conserve jusqu'à la chute de la IIIe République en 1940. En 1935, il quitte le Parti radical et rejoint le Parti radical-socialiste Camille-Pelletan fondé par le leader radical de Seine-et-Oise, Gabriel Cudenet. En 1936, il est élu comme candidat de Front populaire contre un autre ancien radical, Pierre Cathala, député sortant et fondateur du Parti radical indépendant. Son rôle à la Chambre des députés sera modeste. En 1940, il ne prend pas part au vote des pleins pouvoirs au Maréchal Pétain.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti républicain, radical et radical-socialiste (Rad-soc.) Rad-soc Pelletan.
+PART Parti radical-socialiste Camille Pelletan (Rad-soc Pelletan).
+FONCTIONNORM
+
+NOMF Député de Seine-et-Oise NOMF 1936 – 1942 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL Gauche indépendante SEP2 Date de naissance REL 8 juillet 1876 SEP2 Lieu de naissance REL Gurgy-le-Château, Côte-d'Or SEP2 Date de décès REL 12 avril 1947 (à 70 ans) SEP2 Lieu de décès REL Étampes, Seine-et-Oise SEP2 Parti politique REL Rad-soc. puis du Rad-soc Pelletan. SEP2 Résidence REL Seine-et-Oise.

@@ -1,0 +1,24 @@
+PRETAG Annie.
+NOMTAG Lesur.
+Annie Lesur est une femme politique française née Anne-Marie Charpin le 28 mars 1926 à Saint-Honoré-les-Bains.
+
+Elle est l'épouse d'Adolphe Lesur, chirurgien, et a deux fils[2].
+
+
+Elle est la fille de Paul Charpin, médecin[1].
+Elle a étudié à la faculté de médecine de Paris[1]. Docteur en médecine, elle participe à la Résistance, elle prend la tête du service d'anesthésie-réanimation à l'hôpital pénitentiaire de Fresnes puis s'établit comme médecin anesthésiste à Bourg-la-Reine[2].
+Membre du Centre démocrate dès 1966[2], puis du CDS, elle est candidate aux élections législatives de 1973 dans la douzième circonscription des Hauts-de-Seine, mais choisit à l'issue du premier tour de se retirer au profit de Pierre Mazeaud[2].
+Elle est secrétaire d’État à l'Enseignement préscolaire[3] du 8 juin 1974 au 12 janvier 1976.
+Elle retourne vite dans le privé, après avoir présenté un projet controversé sur la petite enfance[4].
+Vie privée.
+Elle est l'épouse d'Adolphe Lesur, chirurgien, et a deux fils[2].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Président NOMF GouvernementJacques Chirac I SEP2 Gouvernement REL Jacques Chirac I SEP2 Prédécesseur REL Poste créé SEP2 Successeur REL Poste supprimé SEP2 Nom de naissance REL Anne-Marie Charpin SEP2 Date de naissance REL 28 mars 1926 (91 ans) SEP2 Lieu de naissance REL Saint-Honoré-les-Bains, Nièvre SEP2 Nationalité REL Française SEP2 Profession REL Médecin anesthésiste.

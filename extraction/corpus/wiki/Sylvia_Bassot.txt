@@ -1,0 +1,24 @@
+PRETAG Sylvia.
+NOMTAG Bassot.
+Sylvia Bassot est une femme politique française, née le 18 décembre 1940 à Paris et décédée le 3 janvier 2014 à Paris[1].
+
+
+
+Femme d'Hubert Bassot, député UDF entre 1978 et 1981, qui regagne la 3e circonscription de l'Orne en 1993, elle lui succède à la faveur d'une législatives partielle en 1996 après le décès de celui-ci et la déchéance de son suppléant Jean-Luc Gouyon, en étant élue face à François Doubin[2].
+Elle lui succède aussi au conseil général pour le canton de Tinchebray avec 63,86 % des suffrages au premier tour.
+Réélue députée en juin 1997, le 1er juin 2002 et en juin 2007, elle fait partie du groupe UMP. Une enquête de L'Expansion révèle qu'elle est la députée la moins présente et la moins active de l'Assemblée nationale[3].
+Sylvia Bassot est morte le 3 janvier 2014 à Paris des suites d'une longue maladie[1]. Elle est enterrée dans le cimetière de la commune de Tinchebray où ses obsèques ont eu lieu le 9 janvier 2014.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Députée de la 3e circonscription de l'Orne NOMF 31 mars 1996 – 25 juin 2012 SEP2 Élection REL 30 mars 1996 SEP2 Réélection REL 1er juin 1997 16 juin 2002 17 juin 2007 SEP2 Prédécesseur REL Jean-Luc Gouyon SEP2 Successeur REL Yves Goasdoué.
+NOMF Conseiller régional de Basse-Normandie NOMF 29 mars 2004 – 22 mars 2010.
+NOMF Conseiller général du Canton de Tinchebray NOMF 28 janvier 1996 – 28 mars 2004 SEP2 Prédécesseur REL Hubert Bassot SEP2 Successeur REL Jérôme Nury SEP2 Date de naissance REL 18 décembre 1940 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 3 janvier 2014 (à 73 ans) SEP2 Lieu de décès REL Paris SEP2 Parti politique REL UMP SEP2 Conjoint REL Hubert Bassot.

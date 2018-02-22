@@ -1,0 +1,15 @@
+PRETAG Louis.
+NOMTAG Louis-Dreyfus.
+Louis Louis-Dreyfus (né le 6 septembre 1867 à Zurich et mort le 10 novembre 1940 à Cannes) homme politique français.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1905-1910puis 1930-1936Sénateur 1937-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL IDG (1930-1936)NI (1936-1940) SEP2 Date de naissance REL 29 septembre 1874 SEP2 Date de décès REL 28 août 1956 (à 81 ans) SEP2 Résidence REL Lozèrepuis Alpes-Maritimes.

@@ -1,0 +1,19 @@
+PRETAG Pierre.
+NOMTAG Vallon.
+Pierre Vallon, né le 10 novembre 1927 et mort le 24 octobre 2016[1], est un homme politique français, sénateur du Rhône de 1974 à 1995.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) CDS.
+PART Centre des démocrates sociaux (CDS).
+FONCTIONNORM
+
+NOMF Sénateur du Rhône NOMF 25 septembre 1977 – 1er octobre 1986 SEP2 Élection REL 25 septembre 1977 SEP2 Date de naissance REL 10 novembre 1927 SEP2 Date de décès REL 24 octobre 2016 (à 88 ans) SEP2 Nationalité REL  Française SEP2 Parti politique REL UDF, CDS SEP2 Profession REL Chef d'entreprise.

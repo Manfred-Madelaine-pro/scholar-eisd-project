@@ -1,0 +1,39 @@
+PRETAG Maurice.
+NOMTAG Schumann.
+Maurice Schumann, né le 10 avril 1911 à Paris et mort le 9 février 1998 dans la même ville (enterré à Asnelles, en Normandie, près de la plage où il débarqua en 1944[1]), est un homme d'État, journaliste et écrivain français.
+Il rejoint le général de Gaulle à Londres dès juin 1940, et devient le porte-parole de la France libre. Il en est la voix durant tout le conflit sur Radio Londres.
+Fidèle gaulliste, démocrate-chrétien et européen convaincu, c'est un des fondateurs du Mouvement républicain populaire, dont il est le premier président. Député du Nord pendant trente ans puis sénateur pendant quinze ans, il est plusieurs fois nommé ministre d’État dans les gouvernements de Georges Pompidou et conclut son parcours gouvernemental comme ministre des Affaires Étrangères (1969-1973).
+Il est élu à l'Académie française en 1974.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Section française de l'Internationale ouvrière (SFIO).
+PART Ligue de la jeune République (Jeune République).
+PART Mouvement républicain populaire (MRP) 1945-1967.
+PART 1945 (1945) 1967.
+PART 1967 (1967).
+PART Union des démocrates pour la République (UDR) 1967-1976.
+PART 1967 (1967) 1976.
+PART 1976 (1976).
+PART Rassemblement pour la République (RPR) 1976-1998.
+PART 1976 (1976) 1998.
+PART 1998 (1998).
+FONCTIONNORM
+
+NOMF Président de la Commission de la Cultureet de l'Education du Sénat NOMF 1986 – 1995(9 ans) SEP2 Prédécesseur REL Léon Eeckhoutte SEP2 Successeur REL Adrien Gouteyron.
+NOMF Sénateur NOMF 1974 – 1998(14 ans) SEP2 Gouvernement REL Cinquième République SEP2 Groupe politique REL UDR (1974-1978)RPR (1978-1998).
+NOMF Ministre des Affaires étrangères3e ministre des Affaires étrangères de la Ve République NOMF 22 juin 1969 – 15 mars 1973(3 ans, 8 mois et 21 jours).
+NOMF Président NOMF Premier ministreJacques Chaban-DelmasPierre Messmer SEP2 Premier ministre REL Jacques Chaban-DelmasPierre Messmer SEP2 Gouvernement REL Chaban-DelmasMessmer I SEP2 Prédécesseur REL Michel Debré SEP2 Successeur REL André Bettencourt.
+NOMF Ministre d'État NOMF 5 avril 1967 – 10 juillet 1968(1 an, 3 mois et 5 jours).
+NOMF Président NOMF GouvernementPompidou IV SEP2 Gouvernement REL Pompidou IV.
+NOMF Président de la commission des Affaires étrangères de l'Assemblée nationale NOMF 12 décembre 1962 – 2 avril 1967(4 ans, 3 mois et 21 jours) SEP2 Législature REL IIe SEP2 Prédécesseur REL Maurice-René Simonnet SEP2 Successeur REL Jacques Vendroux SEP2 Législature REL Ire SEP2 Prédécesseur REL Premier président SEP2 Successeur REL Maurice-René Simonnet.
+NOMF Député NOMF 1945 – 1973(28 ans) SEP2 Gouvernement REL Quatrième République-Cinquième République SEP2 Groupe politique REL MRP (1945-1958)RPCD (1958-1962)CD (1962-1967)UDVe (1967-1968)UDR (1968-1973).
+NOMF Président du MRP NOMF 1944 – 1949(5 ans) SEP2 Prédécesseur REL Premier président SEP2 Successeur REL Georges Bidault SEP2 Date de naissance REL 10 avril 1911 SEP2 Lieu de naissance REL Paris (France) SEP2 Date de décès REL 9 février 1998 (à 86 ans) SEP2 Lieu de décès REL Paris (France) SEP2 Sépulture REL Normandie SEP2 Nationalité REL  Française SEP2 Parti politique REL SFIOJeune RépubliqueMRP (1945-1967)UDR (1967-1976)RPR (1976-1998) SEP2 Conjoint REL Lucie Daniel (1920-2014) SEP2 Profession REL Journaliste.

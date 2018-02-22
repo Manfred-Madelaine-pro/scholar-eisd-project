@@ -1,0 +1,27 @@
+PRETAG Michel.
+NOMTAG Voisin.
+Michel Voisin, né le 6 octobre 1944 à Replonges, est un homme politique français, membre successivement de l'Union pour la démocratie française (UDF), de l'Union pour un mouvement populaire (UMP) puis des Républicains (LR).
+
+
+
+Membre de l'UDF, il est élu député pour la première fois lors des élections législatives de 1988. C'est sous la bannière de l'UMP qu'il est réélu député de la 4e circonscription de l'Ain le 16 juin 2002 pour son quatrième mandat. Au cours de la Douzième législature de la XIIe législature (2002-2007), il préside la délégation française auprès de l'Assemblée parlementaire de l'Organisation pour la sécurité et la coopération en Europe (OSCE). Il est également membre du groupe d'études sur le problème du Tibet de Assemblée nationale[1].
+Réélu député le 10 juin 2007, dès le 1er tour des élections législatives avec 53,14 % des suffrages, il est reconduit à la présidence de la délégation française auprès de l'Assemblée parlementaire de l'OSCE pour la XIIIe législature le 25 juillet 2007.
+Il est réélu pour un sixième mandat lors des élections législatives de juin 2012 en s'imposant au deuxième tour avec 56,96 % des voix face à Guillaume Lacroix, candidat radical de gauche.
+Il annonce ne pas se représenter pour les élections législatives de juin 2017 mais apporte toutefois son soutien à son proche cousin Gérard Voisin, lui-même candidat dans la 1re circonscription de Saône-et-Loire.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) UMP.
+PART Union pour un mouvement populaire (UMP) LR.
+PART Les Républicains (LR).
+FONCTIONNORM
+
+NOMF Député de l'AinÉlu dans la 4e circonscription NOMF 23 juin 1988 – 20 juin 2017(28 ans, 11 mois et 28 jours) SEP2 Élection REL 12 juin 1988 SEP2 Prédécesseur REL scrutin proportionnel SEP2 Successeur REL Stéphane Trompille.
+NOMF Conseiller régional de Rhône-Alpes NOMF 2 avril 2004 – 4 janvier 2016(11 ans, 9 mois et 2 jours) SEP2 Élection REL 28 mars 2004.
+NOMF Président NOMF Maire de Replonges SEP2 Élection REL 6 mars 1983 SEP2 Prédécesseur REL Amédé Chambard SEP2 Successeur REL Bertrand Vernoux.
+NOMF Conseiller général de l'AinÉlu dans le Canton de Bâgé-le-Châtel NOMF 2 avril 1992 – 1er avril 2004(11 ans, 11 mois et 30 jours) SEP2 Prédécesseur REL Hubert Pernin SEP2 Successeur REL Gilbert Thomas SEP2 Date de naissance REL 6 octobre 1944 (73 ans) SEP2 Lieu de naissance REL Replonges (Ain, France) SEP2 Parti politique REL UDF, UMP, LR.

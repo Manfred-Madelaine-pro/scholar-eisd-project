@@ -1,0 +1,45 @@
+PRETAG Jean.
+NOMTAG Desessard.
+Jean Desessard, né le 6 septembre 1952, est un homme politique français, membre de Europe Écologie Les Verts. Il est sénateur de Paris entre 2004 et 2017.
+
+Il est le conjoint de Laurence Abeille, élue écologiste du Val-de-Marne et députée de 2012 à 2017[8].
+
+Il est entré chez les Verts en 1989 après avoir été membre du Parti radical de gauche et de la Ligue communiste révolutionnaire.
+De 1989 à 2004, il exerce des responsabilités internes au sein des Verts : responsable de la commission Économie (1989-1990), délégué aux Commissions du Collège exécutif (1990-1992), membre du CNIR - porte-parole des Verts Île-de-France (1992-1994), membre du CNIR (1995-1997), secrétaire du groupe local Paris 13e (1997-2001), délégué aux acteurs sociaux du Collège exécutif (1997-1998).
+De 1998 à 2004, il est secrétaire national aux élections au sein du collège exécutif. En 1999, il est le directeur adjoint de campagne de Daniel Cohn-Bendit lors des élections européennes. Il prépare les élections municipales et cantonales de 2001 et les législatives de 2002. En 2004, il est directeur de campagne pour les élections européennes.
+Candidat à l'investiture des Verts pour l'élection présidentielle de 2007, il recueille 6,81 % des voix au premier tour le 21 avril 2006[1].
+En 2009, il participe à la campagne d'Europe Écologie.
+Le 3 mai 2016, il devient président du groupe écologiste au Sénat[2].
+
+
+
+
+DEUG de mathématiques.
+Licence de sociologie.
+Diplôme d'État relatif aux fonctions d'animation.
+Diplôme d'État en ingénierie sociale.
+Diplôme de contrôle de gestion et management des ressources humaines à l'Institut de gestion sociale de Paris.
+
+
+
+
+
+1970 - 1980 : Animateur socioculturel, professeur de mathématiques.
+1981 - 1986 : Directeur du centre socioculturel « Jeune Cité » à Évreux (27).
+1986 - 1989 : Directeur d’une agence de location de péniches sur la Seine (Paris) Montage des dossiers financiers des mariniers pour transformer leur péniche de transport en bateau à passagers. Organisation de l’activité commerciale de la SCOP : mise en place des prestations, des tarifs, du marketing, de la publicité et du système de réservation.
+1990 - 1994 : Directeur administratif du Centre d’Information du Rock (CIR, La Villette) Cette association nationale avait pour objectif la promotion de la musique rock et l’information sur les droits des artistes en France et en Europe.
+1994 - 2000 : Permanent du Mouvement national des chômeurs et précaires (MNCP). Cofondateur bénévole d’AC !. Organisateur des marches contre le chômage de 1994 Délégué national du MNCP de juillet 96 à novembre 2000, coorganisateur des marches européennes de 1997, coorganisateur des mouvements de chômeurs de décembre 1997, membre de la délégation du MNCP auprès du Premier Ministre Lionel Jospin.
+2000 - 2001 : Chargé de mission sur le droit au logement et les mesures favorisant le logement pour tous auprès de l’Association « Logement Jeunes Audit ».
+
+
+
+PARTISNORM
+PART Parti radical de gauche (PRG).
+PART Ligue communiste révolutionnaire (LCR).
+PART Les Verts (Les Verts).
+PART Europe Écologie Les Verts (EELV).
+FONCTIONNORM
+
+NOMF Sénateur de Paris NOMF 1er octobre 2004 – 1er octobre 2017 SEP2 Élection REL 26 septembre 2004 SEP2 Réélection REL 25 septembre 2011 SEP2 Groupe politique REL Écologiste.
+NOMF Président du groupe Écologiste au Sénat NOMF 3 mai 2016 – 27 juin 2017(1 an, 1 mois et 24 jours) SEP2 Élection REL 3 mai 2016 SEP2 Prédécesseur REL Corinne Bouchoux SEP2 Successeur REL Dissolution du groupe.
+NOMF Conseiller de Paris du 13e arrondissement NOMF 18 mars 2001 – 1er octobre 2004(3 ans, 6 mois et 13 jours) SEP2 Date de naissance REL 6 septembre 1952 (65 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL PRGLCRLes VertsEELV SEP2 Conjoint REL Laurence Abeille SEP2 Diplômé de REL Institut de gestion sociale de Paris SEP2 Profession REL Animateur socioculturel, professeur de mathématiques.

@@ -1,0 +1,20 @@
+PRETAG Louis.
+NOMTAG Darinot.
+Louis Darinot est un homme politique français, pharmacien de profession, né le 16 mars 1925 à Ségry (Indre) et mort le 9 juin 2006 à Cherbourg (Manche).
+
+
+Louis Darinot a été un résistant. Il est entré à 18 ans, en 1943, dans le groupe Indre-Est, comme FFI. Au sortir de la Seconde Guerre mondiale, il s'est d'abord dirigé vers une carrière d'enseignant, avant de bifurquer vers la pharmacie.
+Membre de la Convention des institutions républicaines et de la Fédération de la gauche démocrate et socialiste il participe à la fondation du nouveau Parti socialiste, dont il devient ensuite délégué national aux questions maritimes.
+Il est élu député socialiste de la Manche (Cherbourg) en 1973, et réélu à trois reprises. À l'Assemblée nationale, il était un spécialiste reconnu des questions de défense (président de la commission de la défense de 1981 à 1986).
+En 1977, il emporte la mairie de Cherbourg avec l'union de la gauche et préside la communauté urbaine de Cherbourg pendant deux ans. À ce poste, il est confronté à la montée en puissance de l'industrie nucléaire dans le Nord-Cotentin et s'oppose sans succès à la construction de la centrale nucléaire de Flamanville et à l'extension de l'usine de retraitement de la Hague[1]. Il met en place un service de contrôle de la pollution radioactive pour l'agglomération. Il abandonne son mandat municipal en 1980, au profit de Jean-Pierre Godefroy, et législatif en 1988.
+Il avait pris la présidence des supporteurs du club de football devenu professionnel peu de temps après son arrivée à Cherbourg, en 1964, et a créé l'association Cœur et Cancer.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1973 – 1988 SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL PS SEP2 Prédécesseur REL Jacques Hébert SEP2 Date de naissance REL 16 mars 1925 SEP2 Date de décès REL 9 juin 2006 (à 81 ans) SEP2 Résidence REL Manche.

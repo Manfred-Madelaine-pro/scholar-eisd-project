@@ -1,0 +1,15 @@
+PRETAG Joseph_de.
+NOMTAG Pommery.
+Joseph Berthe de Pommery (29 août 1904 - 18 juin 1981) est un homme politique français nationaliste, qui fut sénateur de Meurthe-et-Moselle de 1961 à 1965[1].
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1961-1965 NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL CRARS SEP2 Date de naissance REL 29 août 1904 SEP2 Date de décès REL 18 juin 1981 (à 76 ans) SEP2 Père REL Hubert-Gaston Berthe de Pommery SEP2 Mère REL Jeanne de Gau de Frégéville SEP2 Conjoint REL Geneviève Marie-Joseph Gabrielle de Bazelaire de Lesseux SEP2 Distinctions REL Chevalier de la Légion d'honneur, Croix de guerre 1939-1945 SEP2 Résidence REL Meurthe-et-Moselle.

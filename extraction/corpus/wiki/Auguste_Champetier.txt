@@ -1,0 +1,28 @@
+PRETAG Auguste.
+NOMTAG Champetier.
+Auguste Champetier de Ribes est un homme politique français, né le 30 juillet 1882 à Antony, décédé à Paris le 6 mars 1947. Il fut ministre sous la IIIe République et président du Conseil de la République sous la IVe République.
+
+
+
+Juriste, il fut un adepte du catholicisme social et un disciple d'Albert de Mun. Il fut blessé pendant la Première Guerre mondiale, puis élu au titre du Parti démocrate populaire député des Basses-Pyrénées de 1924 à 1934. Il fut ensuite sénateur, de 1934 à 1940, et soutint notamment son ami Pierre Dumas aux législatives de 1936 en Béarn.
+Président du Parti démocrate populaire à partir de 1929, il fut sous-secrétaire d'État aux Finances du 3 novembre 1928 au 21 février 1930, puis ministre des Pensions du 2 mars au 13 décembre 1930 dans le ministère André Tardieu, ministre des Anciens combattants et pensionnés du 10 avril 1938 au 13 septembre 1939 dans le cabinet Édouard Daladier. Il fut ensuite sous-secrétaire d'État du 13 septembre 1939 au 10 mai 1940 dans les gouvernements Daladier et Paul Reynaud.
+Il refusa de voter les pleins pouvoirs à Pétain le 10 juillet 1940 (voir : Liste des 80 parlementaires ayant voté contre les pleins pouvoirs à Philippe Pétain le 10 juillet 1940). Il se retira dans son département, où il dirigea le groupe départemental de Combat. Premier chef de parti à reconnaître l'autorité du général de Gaulle en qualité de chef de la France libre, il fut membre de l'Assemblée consultative provisoire à la Libération.
+De Gaulle le nomma délégué du GPRF auprès du Tribunal militaire de Nuremberg, où il fut procureur[1]. Lorsque le procureur général de France François de Menthon quitta Nuremberg à la suite de la démission de De Gaulle au gouvernement, c'est Auguste Champetier de Ribes qui le remplaça à ce poste.
+À son retour, il devint président du Conseil de la République le 27 décembre 1946 au bénéficie de l’âge, car, comme son concurrent communiste Georges Marrane, il obtint 129 voix. Deux jours plus tard, il fut le candidat du MRP à l'élection présidentielle, qui voit la victoire du socialiste Vincent Auriol. La maladie l’empêcha d’assumer sa fonction de président de la Haute Assemblée, et il mourut en fonction.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti démocrate populaire (PDP).
+FONCTIONNORM
+
+NOMF Président du Conseil de la République NOMF 27 décembre 1946 – 6 mars 1947 SEP2 Prédécesseur REL Jules Jeanneney SEP2 Successeur REL Gaston Monnerville SEP2 Gouvernement REL Daladier III, Reynaud.
+NOMF Ministre des Anciens Combattants et des Pensionnés NOMF 10 avril 1938 – 13 septembre 1938.
+NOMF Sénateur des Basses-Pyrénées NOMF 1934, 1946 – 1940, 6 mars 1947.
+NOMF Ministre des Pensions NOMF 2 mars 1930 – 13 décembre 1930 SEP2 Gouvernement REL Tardieu II SEP2 Gouvernement REL Laval I, Laval II, Laval III et Tardieu III SEP2 Gouvernement REL Tardieu I.
+NOMF Président du Parti démocrate populaire NOMF 1929 – 1940.
+NOMF Député des Basses-Pyrénées NOMF 11 mai 1924 – 31 mai 1936 SEP2 Date de naissance REL 30 juillet 1882 SEP2 Lieu de naissance REL Antony (Seine) SEP2 Date de décès REL 6 mars 1947 (à 64 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL Française SEP2 Parti politique REL PDP.

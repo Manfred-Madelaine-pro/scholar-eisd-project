@@ -1,0 +1,29 @@
+PRETAG Louis.
+NOMTAG Joxe.
+Louis Joxe (né le 16 septembre 1901 à Bourg-la-Reine, alors dans le département de la Seine, mort le 6 avril 1991 à Paris) est un homme politique français.
+Résistant gaulliste durant la Seconde Guerre mondiale, après laquelle il a une carrière de diplomate, il est ministre durant près de dix ans sous la présidence de Charles de Gaulle. Ministre d’État des Affaires algériennes, il est le principal négociateur pour la France des accords d'Évian, ayant abouti à l'indépendance de l'Algérie en 1962. Sa gestion après celle-ci du rapatriement en métropole des harkis sera vivement critiquée par des historiens.
+Il est député UDR du Rhône, de 1967 à 1977, et ensuite membre du Conseil constitutionnel, jusqu'en 1989.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la nouvelle République (UNR) UDR.
+PART Union des démocrates pour la République (UDR).
+FONCTIONNORM
+
+NOMF Député de la 4e circonscription du Rhône NOMF 3 avril 1967 – 3 novembre 1977(10 ans et 7 mois) SEP2 Législature REL IIIe, IVe et Ve SEP2 Groupe politique REL UD-Ve (1967-1968)UDR (1968-1977) SEP2 Prédécesseur REL Pierre-Bernard Cousté SEP2 Successeur REL Jean Baridon.
+NOMF Président NOMF GouvernementPompidou IV SEP2 Gouvernement REL Pompidou IV SEP2 Prédécesseur REL Jean Foyer SEP2 Successeur REL René Capitant.
+NOMF Ministre d'État, chargé de la Réforme administrative NOMF 28 novembre 1962 – 1er avril 1967(4 ans, 4 mois et 4 jours).
+NOMF Président NOMF GouvernementPompidou II et III SEP2 Gouvernement REL Pompidou II et III SEP2 Prédécesseur REL Pierre Chatenet (indirectement) SEP2 Successeur REL Roger Frey (indirectement).
+NOMF Ministre des Affaires algériennes NOMF 22 novembre 1960 – 28 novembre 1962(2 ans et 6 jours).
+NOMF Président NOMF GouvernementDebréPompidou I SEP2 Gouvernement REL DebréPompidou I SEP2 Prédécesseur REL Nafissa Sid Cara SEP2 Successeur REL Jean de Broglie (secrétaire d'État).
+NOMF Ministre de l'Éducation nationale NOMF 15 janvier 1960 – 22 novembre 1960(10 mois et 7 jours).
+NOMF Président NOMF GouvernementDebré SEP2 Gouvernement REL Debré SEP2 Prédécesseur REL André BoullocheMichel Debré (par intérim) SEP2 Successeur REL Pierre Guillaumat (par intérim)Lucien Paye.
+NOMF Président NOMF GouvernementDebré SEP2 Gouvernement REL Debré SEP2 Prédécesseur REL Pierre Chatenet SEP2 Successeur REL Pierre Guillaumat (ministre délégué) SEP2 Successeur REL André Ségalat SEP2 Date de naissance REL 16 septembre 1901 SEP2 Lieu de naissance REL Bourg-la-Reine (Hauts-de-Seine, France) SEP2 Date de décès REL 6 avril 1991 (à 89 ans) SEP2 Lieu de décès REL Paris (France) SEP2 Nationalité REL Française SEP2 Parti politique REL UNR, UDR SEP2 Enfants REL Alain JoxePierre Joxe SEP2 Diplômé de REL ENA SEP2 Profession REL Haut fonctionnaireDiplomate.

@@ -1,0 +1,25 @@
+PRETAG Dominique.
+NOMTAG Bilde.
+Dominique Bilde, née Pierron le 1er août 1953 à Nancy, est une femme politique française.
+
+
+
+Famille.
+Elle a un fils, Bruno, également membre du FN[1].
+Engagement politique.
+
+
+
+
+Elle a un fils, Bruno, également membre du FN[1].
+Engagement politique.
+
+
+
+PARTISNORM
+PART Front national (FN) depuis 1997.
+FONCTIONNORM
+
+NOMF Députée européenne NOMF En fonction depuis le 1er juillet 2014(3 ans, 7 mois et 11 jours) SEP2 Élection REL 25 mai 2014 SEP2 Législature REL 8e SEP2 Groupe politique REL NI (2014-2015)ENL (depuis 2015).
+NOMF Conseillère régionale du Grand Est NOMF En fonction depuis le 4 janvier 2016(2 ans, 1 mois et 8 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Conseillère régionale de Lorraine NOMF 26 mars 2010 – 13 décembre 2015(5 ans, 8 mois et 17 jours) SEP2 Élection REL 21 mars 2010 SEP2 Nom de naissance REL Dominique Pierron SEP2 Date de naissance REL 1er août 1953 (64 ans) SEP2 Lieu de naissance REL Nancy (Meurthe-et-Moselle, France) SEP2 Parti politique REL FN (depuis 1997) SEP2 Enfants REL Bruno Bilde SEP2 Profession REL Gestionnaire de patrimoine.

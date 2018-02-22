@@ -1,0 +1,18 @@
+PRETAG Louis.
+NOMTAG Madelin.
+Louis Emile Marie Madelin est un historien et député français né à Neufchâteau (Vosges) le 8 mai 1871, mort à Paris le 18 août 1956 et inhumé au Cimetière de Grenelle.
+Agrégé d'histoire, ancien élève de l'École nationale des chartes (non diplômé, promotion 1895)[1], membre de l'École française de Rome, il est professeur à la faculté des lettres de Paris.
+Il est l'oncle d'Antoine Madelin.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1924 – 1928 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL URD SEP2 Date de naissance REL 8 mai 1871 SEP2 Date de décès REL 18 août 1956 (à 85 ans) SEP2 Résidence REL Vosges.

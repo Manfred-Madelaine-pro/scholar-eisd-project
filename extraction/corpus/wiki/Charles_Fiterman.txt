@@ -1,0 +1,30 @@
+PRETAG Charles.
+NOMTAG Fiterman.
+Charles Fiterman, né Chilek Fiterman le 28 décembre 1933 à Saint-Étienne, est un homme politique français.
+Il fut un responsable du PCF et ministre d'État chargé des transports dans les 2e et 3e gouvernements de Pierre Mauroy de 1981 à 1984. Depuis 1998, il est membre du Parti socialiste qu'il quitte fin décembre 2017[2].
+
+En janvier 1983, sa fille Sylvie, âgée de 20 ans, domiciliée à Villejuif, se suicide en se tirant une balle dans la tête dans sa voiture à Mennecy[5].
+
+
+Ses parents sont des Juifs polonais qui exercent le métier de marchands forains. Pendant l'Occupation, il est placé chez des paysans, à Marlhes, dans le parc régional du Pilat (42) à partir de 1942. Son père est déporté et meurt à Auschwitz en mai 1944.
+En avril 1965, Charles Fiterman, qui a adhéré au PCF en 1951, devient secrétaire de Waldeck Rochet. Il est ensuite secrétaire de Georges Marchais. Élu conseiller général de Villejuif (1973-1979), il est ensuite élu député du Val-de-Marne (1978-1981), puis du Rhône (1986-1988). Après la victoire de François Mitterrand à l'élection présidentielle de 1981, il fait son entrée avec trois autres communistes dans le gouvernement de Pierre Mauroy, chargé des transports et numéro 4 dans l'ordre protocolaire. C'est notamment pendant son exercice que sera votée la LOTI qui régit toujours l'organisation des transports en France aujourd'hui. C'est grâce à cette loi que seront sauvé les Chemins de fer de la Corse qui seront repris par la SNCF. Il s'oppose à Pierre Mauroy lors de la grève des camionneurs de février 1984, refusant de suivre le Premier ministre qui veut envoyer l'armée pour la briser. Il reste 37 mois à ce poste, jusqu'à ce que le comité central du PCF décide, le 17 juillet 1984, que les communistes ne participeront pas au gouvernement de Laurent Fabius. Avec les trois autres ministres communistes, il quitte alors le gouvernement.
+En 1993, il est largement battu (42,72 % des voix) dans la 4e circonscription de la Loire, dont le sortant communiste ne se représentait pas.
+En 1994, il participe, avec des personnalités et militants issus de différentes organisations, dont les refondateurs du PCF, à la création de la Convention pour une alternative progressiste (CAP), petite organisation politique française aujourd'hui dissoute. Celle-ci soutient la candidature de Dominique Voynet à l'élection présidentielle de 1995. Fiterman participe au nom de la CAP aux Journées d'été des Verts en 1996, où est lancé le processus de la « gauche plurielle », aux côtés de Dominique Voynet, Lionel Jospin et Robert Hue.
+Il est nommé en 1999 par le gouvernement dirigé par Lionel Jospin membre du Conseil économique, social et environnemental, et effectue deux mandats successifs jusqu'en 2009. D'après la liste arrêtée au 11 novembre 2003, il est membre du Comité d'orientation scientifique de l'association fondée par Michel Rocard et Dominique Strauss-Kahn, À gauche en Europe.
+Membre du Parti socialiste à partir de 1998[3], il soutient le « oui » au référendum du 29 mai 2005. Depuis 2008, il est un des soutiens les plus proches de Ségolène Royal. Le 30 decembre 2017, il quitte le Parti socialiste. Il est maire du village de Tavernes, dans le Var, de 1989 à 2001, puis adjoint au maire de 2001 à 2014 afin de laisser la place maire a sa première-adjointe, Danielle Sault. Il est également membre du conseil d'administration du think tank Notre Europe[4].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF) .
+PART Parti socialiste (PS).
+FONCTIONNORM
+
+NOMF Député du Rhône NOMF 2 avril 1986 – 14 mai 1988 SEP2 Élection REL 16 mars 1986 SEP2 Législature REL VIIIe (Cinquième République) SEP2 Groupe politique REL Communiste.
+NOMF Ministre des TransportsMinistre d'État jusqu'au 22 mars 1983 NOMF 23 juin 1981 – 17 juillet 1984.
+NOMF Président NOMF GouvernementPierre Mauroy II et III SEP2 Gouvernement REL Pierre Mauroy II et III SEP2 Prédécesseur REL Louis Mermaz SEP2 Successeur REL Paul Quilès.
+NOMF Député de la 2e circonscription du Val-de-Marne NOMF 3 avril 1978 – 22 mai 1981 SEP2 Élection REL 19 mars 1978 SEP2 Législature REL VIe (Cinquième République) SEP2 Groupe politique REL Communiste SEP2 Prédécesseur REL Fernand Dupuy SEP2 Successeur REL Pierre Tabanou SEP2 Nom de naissance REL Chilek Fiterman[1] SEP2 Date de naissance REL 28 décembre 1933 (84 ans) SEP2 Parti politique REL PCF (1967-1998)PS (1998-2017) SEP2 Résidence REL Val-de-Marnepuis Rhône.

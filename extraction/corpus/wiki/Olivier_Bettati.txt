@@ -1,0 +1,27 @@
+PRETAG Olivier.
+NOMTAG Bettati.
+Olivier Bettati (né en 1969) est un homme politique français.
+Engagé au Rassemblement pour la République (RPR), il est conseiller municipal et conseiller général à Nice à partir de 1994. Rival de Christian Estrosi, il est son adjoint à la mairie de Nice jusqu'en 2013 et présente sa propre liste lors de l'élection municipale de 2014. Il se rapproche ensuite de Marion Maréchal-Le Pen, dont il dirige la liste dans les Alpes-Maritimes pour les élections régionales de 2015 en Provence-Alpes-Côte d'Azur : il est vice-président du groupe Front national (FN) au conseil régional de Provence-Alpes-Côte d'Azur de 2015 à 2017. Il rejoint le Centre national des indépendants et paysans (CNIP) en novembre 2017.
+
+
+
+Famille et profession.
+Du côté paternel, ses grands-parents sont des Italiens de la région de Parme, émigrés en Argentine puis revenus sur la Côte d'Azur ; du côté maternel, sa grand-mère est résistante et son grand-père un militaire britannique. Ses parents sont commerçants à Nice. Il grandit dans une famille gaulliste[1].
+Il est le gendre d'Hélène Masson-Maret[2].
+Après avoir travaillé dans une société d'ingénierie, il devient entrepreneur viticole à la fin des années 2000[1],[3].
+Parcours politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART CNIP (CNIP) RPR anciennement.
+PART Rassemblement pour la République (RPR).
+FONCTIONNORM
+
+NOMF Conseiller régional de Provence-Alpes-Côte d'Azur NOMF En fonction depuis le 18 décembre 2015.
+NOMF Conseiller municipal de Nice NOMF En fonction depuis le 21 mars 2008.
+NOMF Conseiller général du Canton de Nice-8 NOMF 18 décembre 1994 – 29 mars 2015 SEP2 Date de naissance REL 20 juin 1969 (48 ans) SEP2 Lieu de naissance REL Nice (Alpes-Maritimes, France) SEP2 Nationalité REL Française SEP2 Parti politique REL CNIPRPR (anciennement).

@@ -1,0 +1,20 @@
+PRETAG Hubert_de.
+NOMTAG Bazelaire.
+Hubert de Bazelaire de Lesseux est un homme politique vosgien de la IIIe République, né le 15 août 1868 et décédé le 10 mai 1935, à Saint-Dié. Il est inhumé à Lusse.
+
+
+
+Issu d'une ancienne famille lorraine, industrielle du textile dans les Vosges, possèdant la société des Filatures et tissage de la Fave qui gère de petites unités de production installées à Provenchères-sur-Fave et dans les environs [1], Hubert de Bazelaire de Lesseux est le fils de Charles Paul Octave de Bazelaire de Lesseux et de Marie Gabrielle Laurence de Warren [2]. Par sa mère, il est apparenté au député nancéien Édouard de Warren. Marié en 1894 avec Claire d'Aubert de Résie (1869 - 1921) [3], il eut quatre enfants : Adrienne, Florent, Jacques et Geneviève qui épousa Joseph de Pommery.
+Saint-Cyrien, promotion du Grand Triomphe (1888 - 1890) [4], il sera officier de cavalerie jusqu'en 1906, passant alors dans la réserve avec le grade de capitaine. Mobilisé en 1916, il rejoint le 18e régiment de chasseurs à cheval où il sert comme chef d'escadron. Le 10 juillet 1917, il obtient la Légion d'honneur [5], avec le motif suivant: « Officier ancien de service. A fait preuve au cours de la campagne, dans le commandement de son escadron, de belles qualités militaires, d'expérience, de jugement et d'allant » [6].
+Hubert de Bazelaire de Lesseux sera conseiller général FR-URD du canton de Provenchères-sur-Fave à partir de 1907 et maire de Lusse de 1920 à sa mort. « Le 20 août 1919, il déclare : Notre département [Les Vosges] a été relevé de la garde d’honneur qu’il montait depuis près d’un demi siècle aux portes de la France » [7]. Et « le 16 novembre 1919 il se présenta aux élections générales, dans les Vosges, sur la liste d'Union nationale républicaine. Classé quatrième de cette liste, il fut élu à la plus forte moyenne » et devient député. Il est réélu à l'Assemblée nationale en 1924 sur la même liste, mais ne se représente pas en 1928 [8].
+Florent de Bazelaire de Lesseux (1899 - 1945), directeur des Filatures et tissage de la Fave, membre des Croix-de-feu puis du Parti social français[9] , conseiller d'arrondissement, succéda à son père à la mairie de Lusse de 1936 à 1944. Lieutenant dans la Résistance (chevalier de la Légion d'honneur, Croix de guerre 39-45), il est arrêté le 28 octobre 1944 en même temps que son fils, Hubert de Bazelaire de Lesseux (1926 - 1945) et un groupe de résistants de Lusse. Il est mort en déportation [10] à Mauthausen le 5 février 1945 [11], quelques jours après son fils Hubert, résistant (Médaille de la Résistance, Croix de guerre 1939-1945, Médaille militaire à titre posthume) qui meurt, quant à lui, lors de son transfert de Gleiwitz (actuelle Gliwice, en Pologne) au camp de Dora [12], le 27 janvier 1945, à l'âge de 18 ans [13].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1928 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ERD (1919-1924)URD (1924-1928) SEP2 Date de naissance REL 1868 SEP2 Date de décès REL 1935 SEP2 Résidence REL Vosges.

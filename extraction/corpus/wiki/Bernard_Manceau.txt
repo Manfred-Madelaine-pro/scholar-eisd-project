@@ -1,0 +1,17 @@
+PRETAG Bernard.
+NOMTAG Manceau.
+Bernard Manceau, né le 10 avril 1904 à Cholet (Maine-et-Loire) et mort le 28 avril 1986 (à 82 ans) à Neuilly-sur-Seine (Hauts-de-Seine), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de Maine-et-Loire(scrutin proportionnel par département) NOMF 5 juillet 1951 – 5 décembre 1958 SEP2 Élection REL 17 juin 1951 SEP2 Réélection REL 2 janvier 1956.
+NOMF Président NOMF LégislatureIIe - IIIe SEP2 Législature REL IIe - IIIe SEP2 Groupe politique REL Centre national des indépendants et paysans SEP2 Nom de naissance REL Bernard Anatole Manceau SEP2 Date de naissance REL 10 avril 1904 SEP2 Lieu de naissance REL Cholet (Maine-et-Loire) SEP2 Date de décès REL 28 avril 1986 (à 82 ans) SEP2 Lieu de décès REL Neuilly-sur-Seine (Hauts-de-Seine) SEP2 Nationalité REL  Français.

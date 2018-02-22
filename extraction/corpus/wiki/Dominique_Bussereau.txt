@@ -1,0 +1,31 @@
+PRETAG Dominique.
+NOMTAG Bussereau.
+Dominique Bussereau, né le 13 juillet 1952 à Tours (Indre-et-Loire), est un homme politique français.
+Après avoir été secrétaire d'État et ministre à plusieurs reprises, il est président du conseil général de la Charente-Maritime depuis le 20 mars 2008 et a exercé la fonction de député de la 4e circonscription de la Charente-Maritime à deux reprises entre le 2 avril 1993 et le 7 juin 2002 puis entre le 14 décembre 2010, après son départ du gouvernement et le 18 juin 2017. Il est par ailleurs président de l'Assemblée des départements de France depuis le 13 mai 2015[1].
+
+
+
+Études.
+Fils de cheminot, Dominique Bussereau intègre l'Institut d'études politiques de Paris, dont il sort diplômé de la section service public.
+Carrière professionnelle.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF).
+PART Union pour un mouvement populaire (UMP) jusqu'en 2015.
+PART Les Républicains (LR) 2015-2018.
+PART Sans étiquette (SE) depuis 2018.
+FONCTIONNORM
+
+NOMF Président du Conseil général puis départemental de la Charente-Maritime NOMF En fonction depuis le 20 mars 2008(9 ans, 11 mois et 1 jour) SEP2 Élection REL 16 mars 2008 SEP2 Réélection REL 31 mars 20112 avril 2015 SEP2 Prédécesseur REL Claude Belot.
+NOMF Président NOMF GouvernementFrançois Fillon IFrançois Fillon II SEP2 Gouvernement REL François Fillon IFrançois Fillon II SEP2 Prédécesseur REL Dominique Perben (indirectement) SEP2 Successeur REL Thierry Mariani.
+NOMF Ministre de l'Agriculture, de l'Alimentation,de la Pêche et de la Ruralité NOMF 29 novembre 2004 – 18 mai 2007(2 ans, 5 mois et 19 jours).
+NOMF Président NOMF GouvernementJean-Pierre Raffarin IIIDominique de Villepin SEP2 Gouvernement REL Jean-Pierre Raffarin IIIDominique de Villepin SEP2 Prédécesseur REL Hervé Gaymard SEP2 Successeur REL Christine Lagarde.
+NOMF Président NOMF GouvernementJean-Pierre Raffarin III SEP2 Gouvernement REL Jean-Pierre Raffarin III SEP2 Prédécesseur REL Alain Lambert SEP2 Successeur REL Jean-François Copé.
+NOMF Président NOMF GouvernementRaffarin I et II SEP2 Gouvernement REL Raffarin I et II SEP2 Prédécesseur REL Jean-Claude Gayssot (indirectement)Nicole Ameline (Mer) SEP2 Successeur REL François Goulard.
+NOMF Député de la 4e circonscription de la Charente-Maritime NOMF 14 décembre 2010 – 20 juin 2017(6 ans, 6 mois et 6 jours) SEP2 Réélection REL 17 juin 2012 SEP2 Législature REL XIIIe et XIVe SEP2 Prédécesseur REL Jean-Claude Beaulieu SEP2 Successeur REL Raphaël Gérard SEP2 Élection REL 2 avril 1993 SEP2 Réélection REL 1er juin 1997 SEP2 Législature REL Xe et XIe SEP2 Prédécesseur REL Philippe Marchand SEP2 Successeur REL Jean-Claude Beaulieu SEP2 Date de naissance REL 13 juillet 1952 (65 ans) SEP2 Lieu de naissance REL Tours (Indre-et-Loire) SEP2 Nationalité REL française SEP2 Parti politique REL UDFUMP (jusqu'en 2015)LR (2015-2018)SE (depuis 2018) SEP2 Diplômé de REL IEP de Paris.

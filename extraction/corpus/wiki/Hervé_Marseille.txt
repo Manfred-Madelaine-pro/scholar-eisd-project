@@ -1,0 +1,33 @@
+PRETAG Hervé.
+NOMTAG Marseille.
+Hervé Marseille, né le 20 août 1954 à Abbeville, est un homme politique français.
+
+
+
+Ancien responsable du Parti social-démocrate, il est maire de Meudon depuis 1999 et soutient Nicolas Sarkozy lors de l'élection présidentielle de 2007, ce qui lui vaut une suspension de l'Union pour la démocratie française (UDF). Par la suite membre du Nouveau Centre, il a été désigné délégué national au sein de ses instances dirigeantes provisoires puis secrétaire général adjoint chargé des élections au Congrès de Nîmes.
+Entré au conseil d'administration de l'EPAD le 17 juillet 2009, il démissionne trois mois plus tard. Cette démission aurait pu profiter à Jean Sarkozy qui se présente alors à la présidence de l'EPAD, ce qui fait l'objet d'une polémique. Le 28 octobre 2010, Hervé Marseille est nommé au Conseil économique, social et environnemental[1] sur décret présidentiel.
+Il devient président du groupe UMP-NC au conseil général des Hauts-de-Seine en mars 2011, après avoir été réélu avec 52 % des voix au second tour[2].
+En juin 2014, il est également élu président du SYCTOM, l'agence métropolitaine des déchets ménagers.
+Il est élu président de la Force européenne démocrate lors du congrès du 27 juin 2015, à l'unanimité, succédant ainsi à Jean-Christophe Lagarde.
+Il soutient Alain Juppé pour la primaire présidentielle des Républicains de 2016[3].
+Le 24 septembre 2017, il est réélu sénateur avec 14,29 % des suffrages sur la liste UDI « Avec vous, pour nos communes »[4]. Il devient président du groupe Union centriste en octobre 2017.
+Le 20 octobre 2017, pour respecter la loi limitant le cumul des mandats en France, il démissionne de sa fonction de maire de Meudon (Hauts-de-Seine) au profit de Denis Larghero[5]. Il démissionne également de la présidence du Syctom[6] et de ses autres mandats exécutifs locaux.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union des démocrates et indépendants (UDI) FED.
+PART Force européenne démocrate (FED).
+FONCTIONNORM
+
+NOMF Président du groupe Unioncentriste du Sénat NOMF En fonction depuis le 26 septembre 2017(4 mois et 19 jours) SEP2 Élection REL 26 septembre 2017 SEP2 Prédécesseur REL François Zocchetto.
+NOMF Sénateur des Hauts-de-Seine NOMF En fonction depuis le 1er octobre 2011(6 ans, 4 mois et 13 jours) SEP2 Élection REL 25 septembre 2011 SEP2 Réélection REL 24 septembre 2017 SEP2 Groupe politique REL UCR (2011-2012)UDI-UC (2012-2017)UC (depuis 2017) SEP2 Prédécesseur REL Denis Badré SEP2 Élection REL 28 septembre 2014.
+NOMF Président NOMF Maire de Meudon SEP2 Réélection REL 18 mars 2001 SEP2 Prédécesseur REL Henry Wolf (UDF) SEP2 Successeur REL Denis Larghero (UDI).
+NOMF Conseiller général des Hauts-de-Seineélu dans le canton de Meudon NOMF 29 mars 2004 – 1er janvier 2012(7 ans, 9 mois et 3 jours) SEP2 Prédécesseur REL Henry Wolf (UDF) SEP2 Successeur REL Audrey Jenback (UMP).
+NOMF Conseiller régional d'Île-de-France NOMF 23 mars 1993 – 28 mars 2004(11 ans et 5 jours) SEP2 Élection REL 22 mars 1992.
+NOMF Président NOMF Président du Syctom.
+NOMF Président du Syctom NOMF juin 2014 – 20 octobre 2017(3 ans et 4 mois) SEP2 Prédécesseur REL François Dagnaud (PS) SEP2 Successeur REL Jacques Gautier (LR) SEP2 Date de naissance REL 20 août 1954 (63 ans) SEP2 Lieu de naissance REL Abbeville (Somme) SEP2 Nationalité REL française SEP2 Parti politique REL UDI-FED.

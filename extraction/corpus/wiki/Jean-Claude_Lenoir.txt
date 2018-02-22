@@ -1,0 +1,31 @@
+PRETAG Jean-Claude.
+NOMTAG Lenoir.
+Jean-Claude Lenoir est un homme politique français, né le 27 décembre 1944 à Mortagne-au-Perche (Orne), membre de l'UDF puis de l'UMP.
+
+
+
+Professeur au lycée Bignon de Mortagne-au-Perche, Il enseigne d’abord l’histoire de 1963 à 1970 avant d'entamer une carrière entièrement tournée vers la vie publique. Il devient l'assistant parlementaire du député Aymar Achille-Fould et l'administrateur du groupe centriste de l'Assemblée Nationale de 1970 à 1974. Il est ensuite Conseiller technique auprès de plusieurs ministres, Michel d’Ornano, René Monory et Alain Madelin de 1974 à 1988. De 1988 à 1993, il est chargé des relations avec le Parlement auprès de la direction générale d’EdF. Parallèlement, Il s'engage dans la vie locale, fait son entrée au conseil municipal de Mortagne-au-Perche où devient adjoint au maire en 1971. Il a depuis été réélu sans discontinuité dans cette ville dont il est maire entre 1989 et 2014 [1] ,[2]. En 1981, il succède à M. de Pontbriand comme conseiller général du canton de Mortagne-au-Perche. Il conserve ce mandat jusqu'en 1993, date de son élection comme député. Il siège également au Conseil régional de Basse-Normandie de 1986 à 2001. Élu député en 1993 (sans étiquette), il est réélu en 1997 (DL), en 2002 et en 2007 (UMP). Le 25 septembre 2011, il est élu sénateur de l’Orne (UMP), et président de la commission des affaires économiques au Sénat (9 octobre 2014)[3]. Ses centres d'intérêt portent sur l'énergie et les questions touchant l'aménagement du territoire[4].
+Il soutient François Fillon pour la primaire présidentielle des Républicains de 2016[5].
+Conseil supérieur de l'énergie.
+En 2002, le Conseil supérieur de l'énergie est créé. En novembre de la même année, le gouvernement Raffarin le nomme président du conseil. Il est renouvelé en janvier 2012, à la suite de son élection au Sénat le 25 septembre 2011, par le gouvernement Fillon. Toutefois, en devenant un élu parlementaire de l'opposition, le mardi 23 octobre 2012, il décide de démissionner de la présidence, tout en restant membre du conseil supérieur de l'énergie[6].
+Office parlementaire d'évaluation des choix scientifiques et technologiques.
+Membre de l'Office parlementaire d'évaluation des choix scientifiques et technologiques, Jean-Claude Lenoir est chargé avec le député PS Christian Bataille d'un rapport sur « les techniques alternatives à la fracturation hydraulique pour l'exploration et l'exploitation des hydrocarbures non conventionnels », dont une « version d'étape » a été déposée le 5 juin 2013[7]. Ce rapport, qui conclut à la « nécessité de relancer les travaux de recherche afin de mieux connaître notre patrimoine géologique » et de « poursuivre l'exploration puis engager, dès que possible, l'exploitation du gaz de houille (gaz de couche) dans les anciens bassins miniers du Nord-Pas-de-Calais et de Lorraine dans la mesure où elle ne nécessite pas l'emploi de la fracturation hydraulique », a été critiqué par les opposants aux gaz de schiste pour ses approximations scientifiques et le manque d'équilibre de la liste des personnes auditionnées par les rapporteurs, parmi lesquelles deux seulement représentaient une association de défense de la nature[8].
+Médiateur de l'énergie.
+Jean-Claude Lenoir a été nommé par arrêté ministériel du 14 mars 2007 médiateur national à l'énergie. Cette nomination fait l'objet d'une contestation par le député François Brottes qui relève que le député UMP vient « d'être nommé au poste dont il a fait voter la création en y adjoignant les moyens nécessaires »[9]. Il renonce à cette fonction quelques mois plus tard et son successeur est nommé le 5 novembre 2007.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) UMP.
+PART Union pour un mouvement populaire (UMP) LR.
+PART Les Républicains (LR).
+FONCTIONNORM
+
+NOMF Sénateur de l'Orne NOMF 1er octobre 2011 – 2 octobre 2017(6 ans et 1 jour) SEP2 Élection REL 25 septembre 2011 SEP2 Groupe politique REL UMP puis LR SEP2 Prédécesseur REL Alain Lambert.
+NOMF Président de la Commission des Affaires économiques du Sénat NOMF 1er octobre 2014 – 2 octobre 2017(3 ans et 1 jour) SEP2 Élection REL 1er octobre 2014 SEP2 Prédécesseur REL Daniel Raoul SEP2 Successeur REL Sophie Primas.
+NOMF Député de la 2e circonscription de l'Orne NOMF 2 avril 1993 – 30 septembre 2011(18 ans, 5 mois et 28 jours) SEP2 Réélection REL 1er juin 199716 juin 200210 juin 2007 SEP2 Législature REL Xe, XIe, XIIe et XIIIe SEP2 Prédécesseur REL Francis Geng SEP2 Successeur REL Véronique Louwagie SEP2 Réélection REL 25 juin 1995 SEP2 Prédécesseur REL Robert Tanné SEP2 Successeur REL Jacky Desouche.
+NOMF Conseiller général de l'Orneélu dans le canton de Mortagne-au-Perche NOMF 26 mars 1982 – 17 avril 1993(11 ans et 22 jours) SEP2 Prédécesseur REL Pierre du Breil de Pontbriand SEP2 Successeur REL Roland Caillaud SEP2 Date de naissance REL 27 décembre 1944 (73 ans) SEP2 Lieu de naissance REL Mortagne-au-Perche (Orne) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF, UMP puis LR.

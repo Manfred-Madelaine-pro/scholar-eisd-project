@@ -1,0 +1,35 @@
+PRETAG Albert.
+NOMTAG Lebrun.
+Albert Lebrun, né le 29 août 1871 à Mercy-le-Haut (alors en Moselle) et mort le 6 mars 1950 à Paris (16e), est un homme d'État français, président de la République française de 1932 à 1940.
+Ingénieur de formation, il entame sa carrière politique en Meurthe-et-Moselle, d'abord comme conseiller général puis comme député. Il fait partie de plusieurs gouvernements de la Troisième République, en tant que ministre des Colonies (1911-1912 et 1913-1914), de la Guerre (1913) et du Blocus (1917-1919). Proche de Georges Clemenceau puis de Raymond Poincaré, il entre au Sénat en 1920 et en devient l'un des membres les plus influents jusqu'à en être élu président, en 1931.
+Après l'assassinat de Paul Doumer, il est élu, le 10 mai 1932, à la présidence de la République. Son premier mandat est marqué par une instabilité politique chronique, la succession de plusieurs gouvernements et les événements du 6 février 1934, qui le conduisent à désigner un cabinet d'union nationale ; en outre, il ne peut empêcher l'accession au pouvoir du Front populaire et de son chef, Léon Blum, dont il exècre le programme.
+Persuadé d'être un recours face aux périls éminents, il accepte en 1939 de présenter sa candidature à un second mandat, fait unique sous la Troisième République depuis Jules Grévy. Réélu, il voit sa présidence abrégée un an plus tard avec l'instauration du régime de Vichy par Philippe Pétain, à la suite de la signature de l'armistice avec l'Allemagne, à laquelle il était opposé. Il est alors placé en résidence surveillée jusqu'à la Libération, lors de laquelle, bien que son second mandat présidentiel ne soit pas achevé, le général de Gaulle assure la fonction de chef de l'État.
+
+
+
+Études, mariage et débuts politiques.
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance démocratique (AD).
+FONCTIONNORM
+
+NOMF Président de la République française NOMF 10 mai 1932 – 11 juillet 1940(8 ans, 2 mois et 1 jour) SEP2 Élection REL 10 mai 1932 SEP2 Réélection REL 5 avril 1939.
+NOMF Président du Conseil NOMF PrédécesseurPaul Doumer SEP2 Prédécesseur REL Paul Doumer SEP2 Successeur REL Philippe Pétain (chef del'« État français »[1]) (de facto)Charles de Gaulle (chef dela France libre)[N 1]Vincent Auriol(indirectement).
+NOMF Président du Sénat NOMF 11 juin 1931 – 10 mai 1932(10 mois et 29 jours) SEP2 Prédécesseur REL Paul Doumer SEP2 Successeur REL Jules Jeanneney.
+NOMF Ministre du Blocus et des Régions libérées NOMF 23 novembre 1917 – 6 novembre 1919(1 an, 11 mois et 14 jours).
+NOMF Président NOMF Président du ConseilGeorges Clemenceau.
+NOMF Président du Conseil NOMF GouvernementClemenceau II SEP2 Gouvernement REL Clemenceau II SEP2 Prédécesseur REL Charles Jonnart SEP2 Successeur REL André Tardieu.
+NOMF Ministre des Colonies NOMF 9 décembre 1913 – 3 juin 1914(5 mois et 25 jours).
+NOMF Président NOMF Président du ConseilGaston Doumergue.
+NOMF Président du Conseil NOMF GouvernementDoumergue I SEP2 Gouvernement REL Doumergue I SEP2 Prédécesseur REL Jean Morel SEP2 Successeur REL Maurice Maunoury.
+NOMF Président NOMF Président du ConseilJoseph CaillauxRaymond Poincaré.
+NOMF Président du Conseil NOMF GouvernementCaillauxPoincaré I SEP2 Gouvernement REL CaillauxPoincaré I SEP2 Prédécesseur REL Adolphe Messimy SEP2 Successeur REL René Besnard.
+NOMF Ministre de la Guerre NOMF 12 – 18 janvier 1913(6 jours).
+NOMF Président NOMF Président du ConseilRaymond Poincaré.
+NOMF Président du Conseil NOMF GouvernementPoincaré I SEP2 Gouvernement REL Poincaré I SEP2 Prédécesseur REL Alexandre Millerand SEP2 Successeur REL Eugène Étienne SEP2 Nom de naissance REL Albert François Lebrun SEP2 Date de naissance REL 29 août 1871 SEP2 Lieu de naissance REL Mercy-le-Haut(France)[N 2],[2] SEP2 Date de décès REL 6 mars 1950 (à 78 ans) SEP2 Lieu de décès REL Paris 16e (France) SEP2 Nature du décès REL Pneumonie SEP2 Nationalité REL Française SEP2 Parti politique REL AD SEP2 Conjoint REL Marguerite Nivoit SEP2 Diplômé de REL École polytechniqueÉcole des Mines SEP2 Profession REL Ingénieur SEP2 Religion REL Catholique.

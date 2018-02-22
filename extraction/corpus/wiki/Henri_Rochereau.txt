@@ -1,0 +1,21 @@
+PRETAG Henri.
+NOMTAG Rochereau.
+Henri Rochereau est un homme politique français, né à Chantonnay (Vendée) le 25 mars 1908 et décédé le 25 janvier 1999 à Paris.
+
+
+
+Docteur en droit, il était le fils de Victor Rochereau, député de la Vendée de 1914 à 1942. Il fut clerc d'avoué, puis exportateur.
+En 1960, en tant que ministre de l'Agriculture, il crée un label agricole, futur Label rouge[1].
+En 1988, il apporta son soutien à Jean-Marie Le Pen, président du Front national et candidat d'extrême-droite à la présidence de la République française.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Président NOMF GouvernementCommission Hallstein II Commission Rey SEP2 Gouvernement REL Commission Hallstein II Commission Rey SEP2 Prédécesseur REL Robert Lemaignen SEP2 Successeur REL Jean-François Deniau.
+NOMF Ministre de l'Agriculture NOMF 28 mai 1959 – 24 août 1961(2 ans, 2 mois et 27 jours) SEP2 Gouvernement REL Michel Debré SEP2 Prédécesseur REL Roger Houdet SEP2 Successeur REL Edgard Pisani.
+NOMF Sénateur de la Vendée NOMF 1946 – 1959(13 ans) SEP2 Date de naissance REL 25 mars 1908 SEP2 Lieu de naissance REL Chantonnay (Vendée, France) SEP2 Date de décès REL 25 janvier 1999 (à 90 ans) SEP2 Lieu de décès REL Paris (France).

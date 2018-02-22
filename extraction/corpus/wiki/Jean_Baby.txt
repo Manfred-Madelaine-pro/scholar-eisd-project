@@ -1,0 +1,23 @@
+PRETAG Jean.
+NOMTAG Baby.
+Jean Baby est un historien et militant politique français, né le 4 août 1897 à Toulouse et mort le 9 janvier 1969 à Paris.
+
+
+
+Agrégé d'histoire et de géographie en 1923, il enseigne dans les années 1920 en lycée à Prague, Lorient et Toulouse. Il milite au PCF, auquel il adhère en 1925, ainsi qu'à la Fédération unitaire de l'enseignement et à la CGTU.
+Il est candidat contre Vincent Auriol, dans la circonscription de Muret, lors des élections législatives de 1928[1]. Il dirige la liste communiste aux élections municipales de 1929 à Toulouse.
+Exclu du PCF en novembre 1929, il est réintégré en octobre 1931.
+Après la Seconde Guerre mondiale, il est professeur au lycée Jacques-Decour, à Paris[2]. Considéré comme l'un des économistes du PCF[3], il devient en 1954 rédacteur en chef de la revue Économie et Politique que dirige Jean Pronteau.
+Ses critiques à l'égard de la politique du parti communiste entraînent son exclusion définitive en avril 1960. Il se tourne alors vers le maoïsme[4]. En 1960, il compte parmi les premiers signataires du Manifeste des 121 sur le droit à l'insoumission dans la guerre d'Algérie[5].
+Sa fille, Yvonne Baby, évoque son itinéraire dans le roman Le Jour et la nuit[6].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

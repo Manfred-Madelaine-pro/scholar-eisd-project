@@ -1,0 +1,16 @@
+PRETAG Robert_de.
+NOMTAG Lasteyrie.
+Robert Charles de Lasteyrie du Saillant (Paris, 15 novembre 1849 - Allassac, Corrèze, 29 janvier 1921) est un historien, archiviste et homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la Corrèze NOMF 17 décembre 1893 – 22 mai 1898 SEP2 Nom de naissance REL Robert Charles de Lasteyrie du Saillant SEP2 Date de naissance REL 15 novembre 1849 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 29 janvier 1921 (à 71 ans) SEP2 Lieu de décès REL Allassac SEP2 Nationalité REL  France SEP2 Père REL Ferdinand Charles Léon de Lasteyrie SEP2 Enfants REL Charles de Lasteyrie SEP2 Diplômé de REL l’École nationale des chartes SEP2 Profession REL Archiviste, historien de l’art.

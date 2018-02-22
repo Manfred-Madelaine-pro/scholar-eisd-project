@@ -1,0 +1,20 @@
+PRETAG Charles.
+NOMTAG Coutel.
+Charles Coutel, né le 10 décembre 1871 à Lille (Nord) et décédé le 11 août 1948 dans la même ville, est un homme politique français.
+
+
+Coupeur en confection, puis employé de commerce, il est militant syndical, fondant des cours professionnels gratuits. Président du conseil des prud'hommes de Lille, il est conseiller municipal de Lille en 1908. Il est député du Nord de 1926 à 1936, inscrit au groupe de l'Union républicaine et démocratique, puis à la Fédération républicaine. Il a été membre du conseil supérieur du travail.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union républicaine et démocratique (Union républicaine et démocratique).
+PART Fédération républicaine (Fédération républicaine).
+FONCTIONNORM
+
+NOMF Député de la 3e circonscription de Lille NOMF 29 avril 1928 – 31 mai 1936 SEP2 Prédécesseur REL Lui-même SEP2 Successeur REL Louis Masson (SFIO).
+NOMF Député du Nord(scrutin majoritaire-proportionnel par département) NOMF 12 décembre 1926 – 31 mai 1928 SEP2 Prédécesseur REL Charles Saint-Venant (SFIO) SEP2 Successeur REL Lui-même SEP2 Nom de naissance REL Charles, Louis Coutel SEP2 Date de naissance REL 10 décembre 1871 SEP2 Lieu de naissance REL Lille (Nord) SEP2 Date de décès REL 11 août 1948 (à 76 ans) SEP2 Lieu de décès REL Lille (Nord) SEP2 Nationalité REL  Français SEP2 Parti politique REL Union républicaine et démocratiqueFédération républicaine SEP2 Profession REL Employé de commerce.

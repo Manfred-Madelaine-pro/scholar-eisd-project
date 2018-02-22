@@ -1,0 +1,18 @@
+PRETAG Paul.
+NOMTAG Lerolle.
+Siméon Paul Lerolle est un homme politique français né le 3 avril 1846 à Paris, et décédé le 26 octobre 1912 à Paris
+
+
+Fils de Timothée Lerolle et Edmée Delaroche, il est le frère d'Henry Lerolle[1].
+Avocat, il est conseiller municipal de Paris de 1884 à 1898, élu du secteur de l'École militaire. Après une première tentative en 1893, il est élu député de la Seine en 1898 et le reste jusqu'à sa mort. Il siège au groupe de l'Alliance libérale populaire, dont il est l'une des grandes figures à la Chambre des députés.
+Il épouse le 11 mai 1872 à Paris Marie Caroline Delacommune. Son fils, Jean Lerolle (1873 - 1962), fut également un homme politique français, député de la Seine.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

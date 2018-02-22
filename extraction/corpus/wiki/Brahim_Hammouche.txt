@@ -1,0 +1,18 @@
+PRETAG Brahim.
+NOMTAG Hammouche.
+Brahim Hammouche, né le 17 mai 1971 à Semaoun (Algérie), est un médecin et homme politique français d'origine algérienne, membre du MoDem. Chef du service de psychiatrie de l'hôpital d'Hayange, il est élu député de la 8e circonscription de Moselle[1] en 2017. Président départemental du MoDem.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS) .
+PART Mouvement démocrate (MoDem).
+FONCTIONNORM
+
+NOMF Député français NOMF En fonction depuis le 21 juin 2017(7 mois et 21 jours) SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 8e de Moselle SEP2 Législature REL XVe (Cinquième République) SEP2 Groupe politique REL LREMGroupe MoDem SEP2 Prédécesseur REL Michel Liebgott SEP2 Date de naissance REL 17 mai 1971 (46 ans) SEP2 Lieu de naissance REL Semaoun (Algérie) SEP2 Nationalité REL Française SEP2 Parti politique REL PS (avant 2005)MoDem (depuis 2007) SEP2 Diplômé de REL Université Nancy-I SEP2 Profession REL Médecin.

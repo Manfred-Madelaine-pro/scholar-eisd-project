@@ -1,0 +1,18 @@
+PRETAG Jacques.
+NOMTAG Richir.
+Jacques Richir est un homme politique français, né le 4 novembre 1952 à Abbeville, il vit à Lille depuis 1968. Il est adjoint Mouvement démocrate de la mairie de Lille depuis 2008.
+
+
+Médecin de profession, il est membre du conseil d'administration de l’Institut catholique de Lille et des hôpitaux. Il est fondateur de « La Maison de l’aide à domicile », association à but non lucratif, de services aux personnes âgées, aux handicapés, et aux malades.
+Jacques Richir est également administrateur de l’Institut Pasteur de Lille, et de l’Opéra de Lille.
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Député de la 1re circonscription du Nord NOMF 19 juin 1995 – 21 avril 1997(1 an, 10 mois et 2 jours) SEP2 Élection REL 28 mars 1993 SEP2 Législature REL Xe SEP2 Groupe politique REL RPR SEP2 Prédécesseur REL Colette Codaccioni SEP2 Successeur REL Bernard Roman SEP2 Date de naissance REL 4 novembre 1952 (65 ans) SEP2 Lieu de naissance REL Abbeville (Somme) SEP2 Nationalité REL Française SEP2 Parti politique REL MoDem.

@@ -1,0 +1,19 @@
+PRETAG Gaston.
+NOMTAG About.
+Gaston About, né le 7 mars 1890 à Bruyères et décédé le 13 février 1954 à Bailleul, est un homme politique français.
+Il fut député ERD puis URD de la Haute-Saône de 1919 à 1932.
+Commandeur de la Légion d'honneur, Titulaire de la médaille militaire et de la croix de guerre 1914-1918.
+Grand mutilé de la guerre 14-18.
+Il fut également directeur de l'EPSM Hôpital Psychiatrique de Bailleul jusqu'en 1954.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1919-1932) NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL ERD (1919-1924)URD (1924-1932) SEP2 Date de naissance REL 7 mars 1890 SEP2 Date de décès REL 13 février 1954 (à 63 ans) SEP2 Résidence REL Haute-Saône.

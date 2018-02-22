@@ -1,0 +1,17 @@
+PRETAG François_de.
+NOMTAG Saint-Just.
+François de Saint-Just d'Autingues est un homme politique français né le 16 mars 1896 et mort le 14 octobre 1984 à Joigny (Yonne).
+
+
+Fils de Victor de Saint-Just, un ancien général devenu député et maire d'Ardres, dans le Pas-de-Calais, il effectue des études de droit et de sciences politiques. Il s'intéresse ensuite à l'archéologie préhistorique, à l'anthropologie puis à la géophysique. Quand son père décède en 1933, François de Saint-Just lui succède immédiatement dans ses fonctions de maire, puis de député à l'issue d'une élection législative partielle. Comme lui, il rejoint le groupe parlementaire conservateur de la Fédération républicaine.
+Député actif, conservateur et très hostile au socialisme, François de Saint-Just vote, le 10 juillet 1940, en faveur de la remise des pleins pouvoirs au Maréchal Pétain.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1933-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL FR SEP2 Date de naissance REL 19 mars 1896 SEP2 Lieu de naissance REL Joigny (Yonne) SEP2 Date de décès REL 19 octobre 1989 (à 93 ans) SEP2 Lieu de décès REL Paris SEP2 Résidence REL Pas-de-Calais.

@@ -1,0 +1,22 @@
+PRETAG Jacqueline.
+NOMTAG Chonavel.
+Jacqueline Chonavel est une personnalité politique française, née le 7 juillet 1924 à Paris, membre du Parti communiste français.
+Elle a été, en France, la première femme élue maire d'une commune (Bagnolet, en Seine-Saint-Denis) de plus de trente mille habitants. En 1968, elle devient députée de la Seine-Saint-Denis, à la suite du décès de Jean Lolive. Elle a exercé les fonctions de vice-présidente de l'Assemblée nationale.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Députée à l'Assemblée nationale françaiseSixième circonscription de la Seine-Saint-Denis NOMF 3 avril 1978 - 22 mai 1981.
+NOMF Députée à l'Assemblée nationale françaiseSixième circonscription de la Seine-Saint-Denis NOMF 2 avril 1973 - 2 avril 1978.
+NOMF Députée à l'Assemblée nationale françaiseSixième circonscription de la Seine-Saint-Denis NOMF 6 septembre 1968 - 1er avril 1973.

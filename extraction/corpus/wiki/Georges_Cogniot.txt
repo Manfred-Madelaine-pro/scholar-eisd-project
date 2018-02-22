@@ -1,0 +1,27 @@
+PRETAG Georges.
+NOMTAG Cogniot.
+Georges Cogniot, né à Montigny-lès-Cherlieu (Haute-Saône) le 15 décembre 1901 et mort à Gagny (Seine-Saint-Denis) le 12 mars 1978, est un écrivain, philosophe et homme politique communiste français.
+
+
+
+Georges Auguste Alexandre Cogniot, fils de Charles Amédée Cogniot et Marthe Poissenot, est né à Montigny-lès-Cherlieu et inhumé à Gagny. Il devient l'époux de Germaine Blum en 1923, puis d'Erna Bielfeld en 1934 ; il s'est remarié en 1975 avec une institutrice, Germaine Weingartner, elle aussi membre du PCF et qui eut d'importantes activités politiques[1].
+Élève boursier au Lycée Gérôme à Vesoul, il passe ses vacances à Navenne à travailler la vigne ; il suit ensuite des cours de rhétorique supérieure à Lyon.
+Normalien (promotion 1921), il adhère la même année au Parti communiste français et lutte au sein de l'Internationale des travailleurs de l'enseignement (permanent en 1928). Agrégé de lettres en 1924, il participe ensuite à des meetings en soutien à l'Espagne républicaine et à la lutte contre les accords de Munich. Au début de l'année 1936, il accède au Comité central du Parti communiste, dont il demeure membre jusqu'en 1964, puis les électeurs du XIe arrondissement de Paris l'envoient siéger à la Chambre des députés française lors des élections du Front populaire (1936). Sa connaissance des organismes internationaux - il milite au Comité mondial contre la guerre et le fascisme - le font désigner représentant du PCF au Comité exécutif de l'Internationale communiste (Komintern) de septembre 1936 à octobre 1937. Il quitte brusquement cet organisme pour succéder à Paul Vaillant-Couturier au poste de rédacteur en chef de L'Humanité (1937-1939, 1944-1947). Cette responsabilité l'amène à assister aux réunions du Bureau politique, instance dirigeante du Parti.
+En contact avec les milieux intellectuels, il est parmi les fondateurs d'une revue, La Pensée, qui se fixe l'objectif de diffuser et défendre le marxisme parmi les intellectuels. Le premier numéro paraît en juin 1939. Le sommaire comprend notamment des articles de Paul Langevin, Georges Politzer, Marcel Prenant, Max Barel.
+Mobilisé en 1939, fait prisonnier lors de la débâcle en juin 1940, il est rapatrié en France pour maladie[2]. Il est hospitalisé plusieurs mois[3], puis incarcéré par la police allemande[4] à partir de juin 1941, à Vesoul, d'où il est transféré comme détenu politique au camp de Compiègne Royallieu. Il s'en évade avec dix-sept autres détenus, le 22 juin 1942[5]. Il prend part à la Résistance en tant que responsable de la presse clandestine communiste.
+Il reprend en 1944 la fonction de rédacteur en chef de L'Humanité et est réélu député de la IVe République. Il intervient en faveur de l'éducation nationale et de la laïcité. En 1948, il est un des représentants du PCF au Comité d'information des partis communistes, le Kominform.
+Proche collaborateur de Maurice Thorez, il dirige son secrétariat particulier après 1949[6]. Après la mort du secrétaire général du PCF, il fonde en 1966 l'Institut Maurice-Thorez.
+Battu aux élections législatives de novembre 1958, il entre au Sénat en 1959 lors des premières élections sénatoriales de la Ve République et est réélu en 1968. Il fait partie de la commission des affaires culturelles. En 1966, il est nommé membre de la commission de contrôle chargée d'examiner les problèmes d'orientation et de sélection dans le service public de l'enseignement.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+FONCTIONNORM
+
+NOMF Député de la Seine NOMF 1936 – 1940 SEP2 Gouvernement REL IIIe République SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL communiste.
+NOMF Sénateur de la Seine, puis de Paris NOMF 1959 – 1977 SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL communiste SEP2 Date de naissance REL 15 décembre 1901 SEP2 Lieu de naissance REL Montigny-lès-Cherlieu SEP2 Date de décès REL 12 mars 1978 (à 76 ans) SEP2 Lieu de décès REL Gagny SEP2 Parti politique REL Parti communiste français SEP2 Diplômé de REL École normale supérieure SEP2 Profession REL Professeur agrégé de lettres.

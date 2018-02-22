@@ -1,0 +1,22 @@
+PRETAG Georges.
+NOMTAG Louis.
+Georges Louis Marie Chauvel est un homme politique français, né le 20 mai 1902 à Quimper (Finistère).
+Après de brillantes études de droit qui le conduisent jusqu'au doctorat, interrompues de 1920 à 1924 pour un service militaire dans les chars de combat, Georges Chauvel s'inscrit au barreau de Paris en 1929.
+Il entame sa carrière politique par le biais des cabinets ministériels, avec une première mission au ministère du Commerce en 1930, puis au ministère des Finances l'année suivante.
+Candidat "centriste" parachuté dans l'Oise aux législatives de 1932, il l'emporte de justesse (28 voix d'avance) contre le socialiste sortant Jules Uhry, et s'inscrit au groupe de la Gauche indépendante.
+Mais son élection est contestée et, compte tenu d'irrégularités constatées sur place et malgré une bataille parlementaire assez vive, Georges Chauvel est invalidé.
+Il se représente à l'élection partielle organisée en janvier 1933, mais il est battu par Jules Uhry et met fin à sa carrière politique (si l'on excepte un mandat de conseiller municipal de Combrit, dans le Finistère, acquis en 1953).
+Pendant l'Occupation, Georges Chauvel fut avocat d'Édouard Daladier au procès de Riom, puis s'engagea dans la Résistance. Il fut d'ailleurs arrêté et interné à Fresnes par les Allemands en 1944.
+Il décède le 16 décembre 1973 à Coulommiers (Seine-et-Marne). Il était le frère du diplomate et poète Jean Chauvel.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1932-1933 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Gauche indépendante SEP2 Date de naissance REL 20 mai 1902 SEP2 Date de décès REL 16 décembre 1973 (à 71 ans) SEP2 Résidence REL Oise.

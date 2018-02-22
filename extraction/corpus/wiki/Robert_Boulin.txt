@@ -1,0 +1,45 @@
+PRETAG Robert.
+NOMTAG Boulin.
+Robert Boulin, né le 20 juillet 1920 à Villandraut (Gironde) et retrouvé mort le 30 octobre 1979 dans l'étang Rompu de la forêt de Rambouillet (Yvelines), est un homme politique français qui a été secrétaire d'État et ministre sous les présidences de Gaulle, Pompidou et Giscard d'Estaing. Sa mort brutale et les questions qu'elle soulève ont été le point de départ de l'affaire Robert Boulin.
+
+
+
+Résistance.
+Résistant, Robert Boulin entre en 1941 dans le réseau Navarre, dont il deviendra le chef, et est engagé volontaire deux ans plus tard. Après la Seconde Guerre mondiale, il est notamment décoré de la croix de guerre et de la médaille de la Résistance.
+Licencié en lettres et en droit, il devient après guerre avocat à Bordeaux, puis à Libourne.
+Robert Boulin a été initié à la franc-maçonnerie en 1975-1976[1].
+Carrière politique.
+Gaulliste, il entre en politique après guerre. Conseiller des républicains sociaux, il commence véritablement sa carrière politique en 1958, lorsqu'il est élu député UNR de la neuvième circonscription de la Gironde. L'année suivante, il devient maire de Libourne, après quoi il est constamment réélu député et maire jusqu'à sa mort.
+Il exerce des fonctions ministérielles pendant près de quinze ans — ce qui constitue un record de longévité à ce type de poste sous la Ve République — sous les présidences du général de Gaulle, de Georges Pompidou et Valéry Giscard d'Estaing. Il est successivement secrétaire d'État aux Rapatriés (1961-1962), au Budget (1962-1967), à l'Économie et aux Finances (1967-1968), puis ministre de la Fonction publique (1968), de l'Agriculture (1968-1969), de la Santé publique et de la Sécurité sociale (1969-1972), ministre délégué aux Relations avec le Parlement (1972-1973), chargé des Relations avec le Parlement (1976-1977), délégué à l'Économie et aux Finances (1977-1978) et enfin ministre du Travail et de la Participation (1978-1979).
+Membre de l'UNR, de l'UDR, puis du RPR fondé par Jacques Chirac, Robert Boulin est souvent présenté comme un homme intègre, possédant une grande capacité de travail et très apprécié de l'opinion publique, au point que sa nomination au poste de Premier ministre pour succéder à Raymond Barre est régulièrement évoquée à partir de 1978.
+Mort.
+
+
+
+
+
+
+
+PARTISNORM
+PART Républicains sociaux (RS) UNR.
+PART Union pour la nouvelle République (UNR) UDR.
+PART Union des démocrates pour la République (UDR) RPR.
+PART Rassemblement pour la République (RPR).
+FONCTIONNORM
+
+NOMF Ministre du Travail et de la Participation NOMF 5 avril 1978 – 30 octobre 1979(1 an, 6 mois et 25 jours) SEP2 Gouvernement REL Raymond Barre III SEP2 Prédécesseur REL Christian Beullac SEP2 Successeur REL Jean Mattéoli.
+NOMF Ministre délégué auprès du Premier ministre, chargé de l'Économie et des Finances NOMF 30 mars 1977 – 31 mars 1978(1 an et 1 jour).
+NOMF Président NOMF GouvernementRaymond Barre II SEP2 Gouvernement REL Raymond Barre II SEP2 Prédécesseur REL Michel Durafour SEP2 Successeur REL René Monory.
+NOMF Ministre chargé des Relations avec le Parlement NOMF 27 août 1976 – 29 mars 1977(7 mois et 2 jours).
+NOMF Président NOMF GouvernementRaymond Barre I SEP2 Gouvernement REL Raymond Barre I SEP2 Prédécesseur REL Hubert Germain SEP2 Successeur REL Christian Poncelet.
+NOMF Ministre délégué auprès du Premier ministre, chargé des Relations avec le Parlement NOMF 6 juillet 1972 – 28 mars 1973(8 mois et 22 jours).
+NOMF Président NOMF GouvernementPierre Messmer I SEP2 Gouvernement REL Pierre Messmer I SEP2 Prédécesseur REL Jacques Chirac SEP2 Successeur REL Joseph Comiti.
+NOMF Ministre de la Santé publiqueet de la Sécurité sociale NOMF 22 juin 1969 – 5 juillet 1972(3 ans et 13 jours).
+NOMF Président NOMF GouvernementJacques Chaban-Delmas SEP2 Gouvernement REL Jacques Chaban-Delmas SEP2 Prédécesseur REL Raymond Marcellin (indirectement) SEP2 Successeur REL Jean Foyer.
+NOMF Ministre de l'Agriculture NOMF 12 juillet 1968 – 16 juin 1969(11 mois et 4 jours).
+NOMF Président NOMF GouvernementMaurice Couve de Murville SEP2 Gouvernement REL Maurice Couve de Murville SEP2 Prédécesseur REL Edgar Faure SEP2 Successeur REL Jacques Duhamel.
+NOMF Ministre de la Fonction publique NOMF 31 mai 1968 – 10 juillet 1968(1 mois et 9 jours).
+NOMF Président NOMF GouvernementGeorges Pompidou IV SEP2 Gouvernement REL Georges Pompidou IV SEP2 Prédécesseur REL Edmond Michelet SEP2 Successeur REL Philippe Malaud.
+NOMF Président NOMF GouvernementGeorges Pompidou IV SEP2 Gouvernement REL Georges Pompidou IV SEP2 Prédécesseur REL Michel Debré (ministre) SEP2 Successeur REL Jacques Chirac.
+NOMF Président NOMF GouvernementGeorges Pompidou IGeorges Pompidou IIGeorges Pompidou III SEP2 Gouvernement REL Georges Pompidou IGeorges Pompidou IIGeorges Pompidou III SEP2 Prédécesseur REL Poste créé SEP2 Successeur REL Poste supprimé.
+NOMF Président NOMF GouvernementMichel DebréGeorges Pompidou I SEP2 Gouvernement REL Michel DebréGeorges Pompidou I SEP2 Prédécesseur REL Poste créé SEP2 Successeur REL Alain Peyrefitte SEP2 Prédécesseur REL Abel Boireau SEP2 Successeur REL André Teurlay SEP2 Date de naissance REL 20 juillet 1920 SEP2 Lieu de naissance REL Villandraut (Gironde) SEP2 Date de décès REL 30 octobre 1979 (à 59 ans) SEP2 Lieu de décès REL Saint-Léger-en-Yvelines (Yvelines) SEP2 Nationalité REL Française SEP2 Parti politique REL RS, UNR, UDR, RPR SEP2 Conjoint REL Colette Lalande (décédée en 2002) SEP2 Enfants REL Bertrand BoulinFabienne Boulin-Burgeat SEP2 Profession REL Avocat.

@@ -1,0 +1,27 @@
+PRETAG Tokia.
+NOMTAG Saïfi.
+Tokia Saïfi, née le 11 juillet 1959 à Hautmont (Nord), est une femme politique française. Secrétaire d'État chargée du Développement durable de 2002 à 2004, elle est actuellement députée européenne.
+
+
+
+Jeunesse.
+Tokia Saïfi est née le 11 juillet 1959 à Hautmont dans le Nord-Pas-de-Calais. Son père, Kourichi Saïfi, est un ouvrier sidérurgiste algérien qui s'est installé en France en 1948. Elle est la quatrième d'une famille de dix enfants[1].
+Après des études à la faculté de droit de Lille et l'obtention d'un diplôme d'études universitaires générales en 1984, Tokia Saïfi crée en 1987 l'association « Espace Intégration », un mouvement de droits civiques, qu'elle anime jusqu'en 1999[2].
+Engagement politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Démocratie libérale (parti politique) (DL).
+PART Union pour un mouvement populaire (UMP) PRV.
+PART Parti radical (PRV).
+PART Les Républicains (LR).
+PART Agir, la droite constructive (Agir).
+FONCTIONNORM
+
+NOMF Députée européenne NOMF En fonction depuis le 20 juillet 2004(13 ans, 6 mois et 22 jours) SEP2 Élection REL 13 juin 2004 SEP2 Réélection REL 7 juin 200925 mai 2014 SEP2 Circonscription REL Nord-Ouest SEP2 Législature REL 6e, 7e et 8e SEP2 Groupe politique REL PPE SEP2 Élection REL 13 juin 1999 SEP2 Législature REL 5e SEP2 Groupe politique REL PPE-DE.
+NOMF Président NOMF GouvernementJean-Pierre Raffarin IJean-Pierre Raffarin IIJean-Pierre Raffarin III SEP2 Gouvernement REL Jean-Pierre Raffarin IJean-Pierre Raffarin IIJean-Pierre Raffarin III SEP2 Date de naissance REL 11 juillet 1959 (58 ans) SEP2 Lieu de naissance REL Hautmont (Nord, France) SEP2 Nationalité REL française SEP2 Parti politique REL DLUMP-PRVLRAgir.

@@ -1,0 +1,20 @@
+PRETAG Gabriel.
+NOMTAG Adenis.
+Gabriel Adenis est un notaire et un homme politique français, né le 31 mai 1879 au Grand-Bourg (Creuse) et décédé le 18 février 1941 au Grand-Bourg.
+
+
+Fils de Théophile Adenis, notaire au Grand-Bourg, et de Marie Migout, héritière de la banque Migout, il est diplômé en droit et de l'École des langues orientales vivantes, président de la Chambre des notaires de l'arrondissement de Guéret, il devient maire de sa commune natale en 1919.
+Pendant la Première Guerre mondiale, il est mobilisé. Caporal dans un régiment d'infanterie, il finit la guerre avec le grade de lieutenant, et obtient la Légion d'honneur en 1920.
+Il se présente comme candidat de l'Alliance démocratique aux élections législatives de 1924 sur la Liste républicaine démocratique et sociale. Élu, il rejoint le groupe parlementaire de la Gauche républicaine démocratique, émanation de l'Alliance à la Chambre des députés.
+En 1928, il se présente aux élections législatives dans la circonscription de Guéret, le scrutin de liste ayant été supprimé, mais, arrivé en troisième position à l'issue du premier tour, il choisit de se retirer.
+Après cette défaite, il se consacre à la mairie de Grand-Bourg, et meurt le 18 février 1941 dans son château de Collonges.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1924-1928 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GRD SEP2 Date de naissance REL 31 mai 1879 SEP2 Date de décès REL 18 février 1941 (à 61 ans) SEP2 Résidence REL Creuse.

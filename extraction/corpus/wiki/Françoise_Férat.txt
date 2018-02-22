@@ -1,0 +1,20 @@
+PRETAG Françoise.
+NOMTAG Férat.
+Françoise Férat est une personnalité politique française, membre du groupe Union centriste, née le 5 mars 1949 à Épernay. Ancienne membre du MoDem, elle a annoncé le 8 mai 2008 se mettre « en retrait » du parti, sans le quitter[1] puis, en octobre 2009, elle rejoint le parti Alliance centriste[2] fondé par le sénateur de la Mayenne Jean Arthuis.
+Elle a été élue sénatrice de la Marne le 23 septembre 2001 où elle est secrétaire de la commission de la culture, de l'éducation et de la communication.
+Elle soutient Alain Juppé pour la primaire présidentielle des Républicains de 2016.
+Lors des élections sénatoriales de 2017, Françoise Férat est réélue pour un nouveau mandat. La liste d'union de la droite et du centre sur laquelle figure la sénatrice remporte en effet les trois sièges que compte le département de la Marne, en rassemblant 54,18 % des suffrages[3],[4].
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance centriste (AC).
+FONCTIONNORM
+
+NOMF Conseillère générale du Canton de Châtillon-sur-Marne NOMF 29 mars 1992 – 2015 SEP2 Prédécesseur REL Georges Doyen (PS) SEP2 Successeur REL Canton supprimé SEP2 Date de naissance REL 5 mars 1949 (68 ans) SEP2 Lieu de naissance REL Épernay (Marne) SEP2 Parti politique REL AC.

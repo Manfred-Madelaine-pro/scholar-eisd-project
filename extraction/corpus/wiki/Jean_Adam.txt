@@ -1,0 +1,17 @@
+PRETAG Jean.
+NOMTAG Adam.
+Jean Maurice Adam est un scientifique et un homme politique français, né le 6 mars 1883 à Bordeaux et décédé le 25 août 1949, à Paris.
+Diplômé du Politechnic Institute de Londres, spécialiste des industries chimiques et électriques et proche d'André Tardieu, il se présente comme candidat conservateur aux élections législatives de 1928 en Seine-et-Oise. Élu, il rejoint le groupe parlementaire de l'Union républicaine démocratique, émanation de la Fédération républicaine à la Chambre des députés.
+En 1931, il devient également conseiller général du canton de Marly-le-Roi mais est battu aux élections législatives l'année suivante. Il reprend alors ses activités professionnelles.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1928-1932 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL URD SEP2 Date de naissance REL 6 mars 1883 SEP2 Date de décès REL 25 août 1949 (à 66 ans) SEP2 Résidence REL Seine-et-Oise.

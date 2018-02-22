@@ -1,0 +1,16 @@
+PRETAG Pierre.
+NOMTAG Dabezies.
+Pierre Dabezies, né le 9 février 1925 à Casablanca et mort le 22 novembre 2002[2] à Paris, est un militaire, un universitaire et homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la 2e circonscription de Paris NOMF 2 juillet 1981 – 3 décembre 1981[1] SEP2 Groupe politique REL apparenté PS SEP2 Prédécesseur REL Abel Thomas SEP2 Successeur REL Jacques Dominati SEP2 Date de naissance REL 9 février 1925 SEP2 Lieu de naissance REL Casablanca SEP2 Date de décès REL 22 novembre 2002 (à 77 ans) SEP2 Lieu de décès REL Clamart (92) SEP2 Conjoint REL Anne-Marie BouchetMarie-Catherine Dumont SEP2 Profession REL Officier parachutiste, professeur de droit public.

@@ -1,0 +1,18 @@
+PRETAG Charles.
+NOMTAG Benoist.
+Charles Augustin Benoist, dit Charles-Benoist, né le 31 janvier 1861 à Courseulles (Calvados) où il est mort le 11 août 1936, est un journaliste, homme politique, royaliste et diplomate français.
+
+
+
+Journaliste au Temps, Charles Benoist enseigne l'histoire constitutionnelle de l'Europe occidentale à l'École libre des sciences politiques. Député de la Seine (Fédération républicaine) de 1902 à 1919, il est l'incitateur, l'un des auteurs et le rapporteur d'un projet de Code du Travail (1905). Il est ensuite élu membre de l'Académie des sciences morales et politiques en 1908. En février 1917, à la demande d'Aristide Briand, président du Conseil et ministre des Affaires étrangères, il fonda le Comité d'études chargé de participer à l'élaboration des buts de guerre de la France. À l'issue de la guerre, il est nommé ministre plénipotentiaire à La Haye. Relevé de ses fonctions en 1924 par le Cartel des Gauches, il évolue progressivement vers des positions hostiles à un régime qu'il juge par trop sectaire.
+En mars 1928, Maurras salue le ralliement de Charles Benoist aux thèses royalistes de l'Action française au cours d'un grand banquet salle Bullier. Son ouvrage Les lois de la politique française publié chez Fayard en 1928, sera la Bible du « comte de Paris »[1] ; le ralliement de Charles Benoist qui possédait la science et la connaissance pratique du régime témoigne de l’attirance des milieux juridiques pour les idées de Charles Maurras[1].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1902 – 1919 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL Républicain progressiste SEP2 Date de naissance REL 31 janvier 1861 SEP2 Date de décès REL 11 août 1936 SEP2 Résidence REL Seine.

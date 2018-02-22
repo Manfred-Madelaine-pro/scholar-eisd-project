@@ -1,0 +1,18 @@
+PRETAG Jean.
+NOMTAG Chardavoine.
+Jean, Robert, Rémy Chardavoine dit Jean Chardavoine est un homme politique français, né le 11 septembre 1905 à Avy (Charente-Inférieure), décédé à Fléac-sur-Seugne (Charente-Maritime) le 1er janvier 1981, ancien maire de Stains[1].
+
+
+Ouvrier agricole puis manœuvre spécialisé à la Compagnie des chemins de fer du Nord, il est syndicaliste à la CGTU. Il est élu maire communiste de Stains élu le 12 mai 1935 jusqu'en 1940, fonction qu'il conserve jusqu'en 1940. Il obtient 60 % des voix et est élu conseiller général de la Seine quelques jours plus tard jusqu'en 1940, devenant un des plus jeunes élus du pays. Il retrouve son siège de conseiller général de 1945 à 1953[1],[2].
+Il met en place une politique sociale comprenant des colonies de vacances, une cantine pour les chômeurs, un marché au centre-ville, un cinéma, le jardin Henri-Barbusse[2]. Fait prisonnier sous l'Occupation, il est libéré en 1945[2]. En 1939 et 1940, il s'oppose au pacte germano-soviétique ce qui lui vaut une mise à l'écart du PCF[3]. D'où l'hommage qui est lui donné seulement en 2007 quand une rue de Stains est désignée de son nom[2].
+Son petit fils Didier Daeninckx est écrivain[4].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM

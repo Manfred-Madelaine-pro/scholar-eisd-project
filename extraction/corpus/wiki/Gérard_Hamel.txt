@@ -1,0 +1,30 @@
+PRETAG Gérard.
+NOMTAG Hamel.
+Gérard Hamel, né le 20 février 1945 à Sourdun (Seine-et-Marne), est un homme politique français. Maire de Dreux depuis 1995, il est également président de la Communauté d'agglomération du Pays de Dreux.
+
+
+
+Après avoir effectué son service militaire à Melun en 1965 aux côtés de Johnny Hallyday[1], Gérard Hamel arrive à Dreux en 1967. Il est responsable du secteur technique et commercial et associé de la la société "Jeun et Bâtiments" spécialisée dans le chauffage, la plomberie, la couverture, l'électricité et les meubles de cuisine et salle de bains.
+Il est élu en 1976 président de la Chambre Syndicale du Bâtiment de l'arrondissement de Dreux, puis devient vice-président départemental de cette chambre syndicale ce qui lui permet de rencontrer les élus locaux de la région.
+En 1983, il est élu président de la Jeune Chambre économique de Dreux, succédant à Dominique Maisons[2]. La même année, il est élu président de la chambre syndicale du bâtiment de l'arrondissement de Dreux[3].
+Il est depuis le 2 avril 1993 député de la 2e circonscription d'Eure-et-Loir. Il a été réélu en 1997, 2002 et 2007. Il fait partie du groupe UMP.
+Il est président de l'Association des maires d'Eure-et-Loir (AMF 28) et de l'OPH Habitat Drouais. Il a présidé le conseil d'administration de l'Agence nationale pour la rénovation urbaine (ANRU) de 2006[4] à 2013[5].
+Fin 2010 il déclare à la presse la fin de sa carrière politique nationale, ce qu'il confirmera le 8 décembre 2011 en annonçant son intention de ne pas se présenter aux élections législatives de juin 2012[6]. Il apporte son soutien à Olivier Marleix, conseiller général-maire d'Anet, investi par l'UMP, qui l'emporte en juin 2012.
+Cependant le 6 novembre 2013[7] M. Hamel annonce via son compte Twitter qu'il sera candidat à sa propre succession aux municipales de mars 2014.
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement pour la République (RPR) UMP.
+PART Union pour un mouvement populaire (UMP) LR.
+PART Les Républicains (LR).
+FONCTIONNORM
+
+NOMF Président de l'Agglomérationdu Pays de Dreux NOMF En fonction depuis le 31 octobre 2002(15 ans, 3 mois et 20 jours) SEP2 Élection REL 31 octobre 2002 SEP2 Prédécesseur REL création de l'agglomération.
+NOMF Député de la 2e circonscriptiond'Eure-et-Loir NOMF 2 avril 1993 – 19 juin 2012(19 ans, 2 mois et 17 jours) SEP2 Élection REL 28 mars 1993 SEP2 Prédécesseur REL Marie-France Stirbois SEP2 Successeur REL Olivier Marleix.
+NOMF Conseiller régional du Centre NOMF 27 mars 1992 – 29 juin 1995(3 ans, 3 mois et 2 jours) SEP2 Élection REL 22 mars 1992.
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 21 février 1945 (72 ans) SEP2 Lieu de naissance REL Sourdun (Seine-et-Marne) SEP2 Nationalité REL Française SEP2 Parti politique REL RPR UMP LR.

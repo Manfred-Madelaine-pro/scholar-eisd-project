@@ -1,0 +1,19 @@
+PRETAG Maurice.
+NOMTAG Delom-Sorbé.
+Maurice Marie Joseph Delom-Sorbé est un homme politique français né le 17 septembre 1898 à Mont-de-Marsan (Landes) et mort le 29 juin 1986 à Séméacq-Blachon (Pyrénées-Atlantiques).
+
+
+Fils du député Joseph Delom-Sorbé, Maurice Delom-Sorbé fait ses études au lycée de Pau. Engagé, pendant la Première Guerre mondiale, il est décoré pour son courage (voir ci-dessous). Il s'installe ensuite comme propriétaire agriculteur, et devient maire de sa commune, Séméacq-Blachon. Il est élu député en 1932, et réélu en 1936. Maurice Delom-Sobé est membre de la Jeune République, mouvement démocrate-chrétien de centre gauche. Il s'inscrit au groupe parlementaire de la Gauche indépendante puis rejoint la Gauche démocratique et radicale indépendante, proche des Radicaux indépendants. Il est membre de la commission de l'Agriculture, de celle des Postes, télégraphes et téléphones, ainsi que de la commission des Pensions civiles et militaires. Il est sous-secrétaire d'État à la Marine militaire dans le quatrième cabinet Chautemps (janvier-mars 1938). En 1938, il est élu conseiller général, puis vice-président du conseil général.
+Le 10 juillet 1940, Maurice Delom-Sobé fait partie des quatre-vingts parlementaires qui votent contre les pleins pouvoirs à Philippe Pétain.
+En 1944-1945, il siège à l'Assemblée consultative provisoire. Il appartient à la commission de l'Agriculture et du ravitaillement, ainsi qu'à celle de la Jeunesse et des Sports. En 1944, il est élu maire de Montpezat-de-Quercy. Son mandat aura duré 1 an. Réélu député en 1945, il fait partie, à l'Assemblée constituante, de la commission des Finances, de celle de la Comptabilité, de celle des Pensions civiles et militaires, et de la commission du Règlement. Maurice Delom-Sobé appartient alors à l'Union démocratique et socialiste de la Résistance (UDSR).
+Il perd son siège en 1946 et échoue à le retrouver en 1951.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1932-1940puis 1945-1946 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GI (1932-1936)GDRI (1936-1940)RDS (1945-1946) SEP2 Date de naissance REL 17 septembre 1898 SEP2 Date de décès REL 29 juin 1986 (à 87 ans) SEP2 Résidence REL Basses-Pyrénées.

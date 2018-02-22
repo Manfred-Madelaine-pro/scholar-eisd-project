@@ -1,0 +1,15 @@
+PRETAG Henri.
+NOMTAG Robichon.
+Henri Robichon, né le 10 novembre 1899 à Bouguenais et décédé le 17 octobre 2001 à Sainte-Pazanne, est un homme politique français.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 30 novembre 1958 – SEP2 Successeur REL Benoît Macquet SEP2 Date de décès REL 17 octobre 2001 (à 101 ans) SEP2 Nationalité REL Française.

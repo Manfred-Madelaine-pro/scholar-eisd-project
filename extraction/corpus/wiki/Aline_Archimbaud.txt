@@ -1,0 +1,28 @@
+PRETAG Aline.
+NOMTAG Archimbaud.
+Aline Archimbaud, née le 2 novembre 1948 à Belfort (Territoire de Belfort), est une femme politique française. Elle est sénatrice de la Seine-Saint-Denis entre le 1er octobre 2011 et le 1er octobre 2017. Élue sur une liste Europe Écologie Les Verts, elle est depuis membre du parti Écologistes !, rebaptisé Parti écologiste.
+
+Elle est mariée à Jacques Archimbaud, vice-président de la Commission nationale du débat public. Il fut conseiller auprès de Dominique Voynet puis d'Yves Cochet au ministère de l'Environnement de 1998 à 2002, collaborateur parlementaire de Dominique Voynet au Sénat de 2005 à 2006, puis son directeur de cabinet à la mairie de Montreuil, de 2008 à 2011. En 2012, il est devenu directeur de cabinet par intérim de Cécile Duflot à la région Île-de-France et, enfin, son directeur adjoint de cabinet au ministère de l'Égalité des territoires et du Logement[7].
+
+
+Carrière politique.
+Aline Archimbaud entre en politique lors des européennes de 1989, elle figure sur la liste écologiste menée par Antoine Waechter mais elle n'est pas élue. Elle entre au Parlement européen en 1992 à la suite du décès de Renée Conan. Lors du renouvellement des eurodéputés en 1994, elle figure en 75e position sur la liste menée par Marie-Anne Isler-Béguin et n'est donc pas reconduite à son poste[1].
+Depuis le 23 janvier 2010, elle est la 9e vice-présidente de l'établissement public territorial Est Ensemble déléguée à l’Environnement, l'écologie urbaine et aux éco-quartiers[2].
+Elle est en 2e position sur liste d'union de la gauche (PS-EÉLV-PRG) menée par Gilbert Roger pour les sénatoriales de 2011 en Seine-Saint-Denis[3].
+Tout en demeurant membre du groupe parlementaire au Sénat, Aline Archimbaud suspend sa participation à EÉLV en décembre 2014, à la suite de désaccords avec la direction départementale du parti concernant les élections départementales de 2015[4]. En octobre 2015 elle annonce son départ définitif d'EÉLV et son adhésion à Écologistes ![5]. Elle parraine Emmanuel Macron pour l'élection présidentielle de 2017[6].
+Vie privée.
+Elle est mariée à Jacques Archimbaud, vice-président de la Commission nationale du débat public. Il fut conseiller auprès de Dominique Voynet puis d'Yves Cochet au ministère de l'Environnement de 1998 à 2002, collaborateur parlementaire de Dominique Voynet au Sénat de 2005 à 2006, puis son directeur de cabinet à la mairie de Montreuil, de 2008 à 2011. En 2012, il est devenu directeur de cabinet par intérim de Cécile Duflot à la région Île-de-France et, enfin, son directeur adjoint de cabinet au ministère de l'Égalité des territoires et du Logement[7].
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts).
+PART Europe Écologie Les Verts (EÉLV) 2010-2015.
+PART Parti écologiste (Parti écologiste) depuis 2015.
+FONCTIONNORM
+
+NOMF Députée européenne NOMF 6 juillet 1992 – 18 juillet 1994(2 ans et 12 jours) SEP2 Législature REL 3e SEP2 Groupe politique REL Les Verts SEP2 Prédécesseur REL Renée Conan SEP2 Date de naissance REL 2 novembre 1948 (69 ans) SEP2 Lieu de naissance REL Belfort (Territoire de Belfort) SEP2 Nationalité REL Française SEP2 Parti politique REL Les VertsEÉLV (2010-2015)Parti écologiste (depuis 2015) SEP2 Profession REL Enseignante.

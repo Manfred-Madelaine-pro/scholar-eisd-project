@@ -1,0 +1,18 @@
+PRETAG Paul.
+NOMTAG Delombre.
+Paul Delombre, né à Maubeuge le 18 mars 1848, mort à Neuilly-sur-Seine le 8 novembre 1933, avocat et homme politique français.
+Il a été ministre du Commerce, de l'Industrie, des Postes et Télégraphes du 1er novembre 1898 au 18 février 1899 dans le Gouvernement Charles Dupuy (4)
+Avocat au barreau de Paris en 1871, il est, de 1878 à 1932, chargé de la partie économique et sociale du journal "Le Temps", publiant des articles presque quotidiennement. Il est député des Basses-Alpes de 1893 à 1906, conseiller général du canton d'Allos de 1898 à 1910 et président du conseil général de 1899 à 1906.
+Gustave Le Bon lui dédie son livre Psychologie du Socialisme.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

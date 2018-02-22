@@ -1,0 +1,23 @@
+PRETAG Paul.
+NOMTAG Creyssel.
+Paul Creyssel, né le 15 juin 1895 à Marseille (Bouches-du-Rhône) et mort le 14 février 1975 à Bron (Rhône), est un avocat et homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti républicain, radical et radical-socialiste (PRRRS) 1932.
+PART 1932 (1932) 1936.
+PART 1936 (1936) .
+PART Alliance des républicains de gauche et des radicaux indépendants (ARGRI) 1936.
+PART 1936 (1936) 1940.
+PART 1940 (1940).
+FONCTIONNORM
+
+NOMF Député de la Loire NOMF 8 mai 1932 – 31 mai 1942 SEP2 Législature REL XVe, XVIe (Troisième République) SEP2 Date de naissance REL 15 juin 1895 SEP2 Lieu de naissance REL Marseille SEP2 Date de décès REL 14 février 1975 (à 79 ans) SEP2 Lieu de décès REL Bron SEP2 Nationalité REL  Française SEP2 Parti politique REL PRRRS (1932-1936)ARGRI (1936-1940).

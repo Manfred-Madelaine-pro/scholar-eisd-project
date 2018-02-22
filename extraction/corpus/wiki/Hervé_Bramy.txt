@@ -1,0 +1,19 @@
+PRETAG Hervé.
+NOMTAG Bramy.
+Hervé Bramy, né le 15 décembre 1954 au Blanc-Mesnil (Seine-Saint-Denis), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Président du Conseil général de la Seine-Saint-Denis NOMF avril 2004 – mars 2008.
+NOMF Conseiller général de Seine-Saint-DenisElu dans le canton du Blanc-MesnilPrésident du groupe communiste de 1998 à 2004 NOMF septembre 1997 – 29 mars 2015 SEP2 Prédécesseur REL Daniel Feurtet (PCF) SEP2 Successeur REL Christine Cerrigone et Thierry Meignen (LR) SEP2 Date de naissance REL 15 décembre 1954 (63 ans) SEP2 Lieu de naissance REL Le Blanc-Mesnil SEP2 Nationalité REL Française SEP2 Parti politique REL PCF.

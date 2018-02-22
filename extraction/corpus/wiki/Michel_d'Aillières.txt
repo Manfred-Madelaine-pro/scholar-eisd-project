@@ -1,0 +1,22 @@
+PRETAG Michel.
+NOMTAG d'Aillières.
+Michel Caillard d'Aillières, né le 17 décembre 1923 à Paris et mort le 31 octobre 2010 à Aillières-Beauvoir, en France, est un homme politique français.
+
+
+Fils de Bernard d'Aillières[1], il est élève au Collège Sainte-Croix au Mans et à l'École libre des sciences politiques, devient capitaine de l'arme blindée, puis successivement maire de Cherreau (1953-1958) et d'Aillières-Beauvoir (1958 à 2008).
+Conseiller général dans le canton de La Fresnaye-sur-Chédouet de septembre 1957 à mars 2001, il préside le conseil général de la Sarthe de 1970 à 1976, puis de 1979 à 1992, date à laquelle François Fillon lui succède. Il est également vice-président du conseil régional des Pays de la Loire de 1974 à 1986. Il était proche de Valéry Giscard d'Estaing[2].
+Il est député de la cinquième circonscription de la Sarthe de 1958 à 1977, puis sénateur de la Sarthe de 1977 à 1995, sous l'étiquette du Centre national des indépendants et paysans puis des Républicains indépendants. Il fut vice-président de la Commission des Affaires étrangères, de la Défense et des Forces armées.
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (IPAS) .
+PART Républicains indépendants (parti politique) (RI).
+FONCTIONNORM
+
+NOMF Sénateur de la Sarthe NOMF 1er janvier 1977 – 1er janvier 1995.
+NOMF Député de la Sarthe NOMF 23 novembre 1958 – 24 septembre 1977 SEP2 Date de naissance REL 17 décembre 1923 SEP2 Lieu de naissance REL Paris (France) SEP2 Date de décès REL 31 octobre 2010 (à 86 ans) SEP2 Lieu de décès REL Aillières-Beauvoir (France) SEP2 Parti politique REL IPAS (1958-1962)RI (1962-1995).

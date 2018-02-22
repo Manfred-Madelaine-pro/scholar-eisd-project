@@ -1,0 +1,19 @@
+PRETAG Pierre.
+NOMTAG Pays.
+Pierre Pays est un homme politique français né le 11 juillet 1863 à Saint-Cyr-au-Mont-d'Or (Rhône) et décédé le 19 mars 1958 à Collonges (Rhône).
+Entrepreneur en travaux publics, il est maire de Saint-Cyr-au-Mont-d'Or, conseiller général du canton de Limonest et député du Rhône de 1913 à 1924, inscrit à la Fédération républicaine puis à l'Entente républicaine démocratique. Il est secrétaire de la Chambre en 1917.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

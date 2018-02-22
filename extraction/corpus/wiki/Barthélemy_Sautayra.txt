@@ -1,0 +1,18 @@
+PRETAG Barthélemy.
+NOMTAG Sautayra.
+Barthélemy Sautayra, né le 12 août 1744 à Montélimar et mort le 27 septembre 1793 à Paris, est un homme politique français, député de la Drôme de 1791 à sa mort.
+
+
+Fils de charpentier, Sautayra devient d'abord entrepreneur de travaux publics. Il devient administrateur du district de Montélimar en 1790 puis député de la Drôme l'année suivante. Il est réélu à la Convention nationale en 1792[1]. Il est secrétaire du club de la Réunion et membre du club des Jacobins[2].
+En octobre 1792, il serait entré au sein de l'Agence royaliste de Paris. Le comte d'Antraigues le présente alors comme « un nouvel agent, infiltré dans le directoire secret des Jacobins »[1] L'historien Jacques Godechot note toutefois l'incompatibilité entre sa carrière et le royalisme : en tant que député, il vota toujours avec l'extrême-gauche, notamment lors du procès de Louis XVI, lorsqu'il se prononça pour le régicide et contre le sursis. Godechot se demande : « Menait-il double-jeu ? Et qui trompait-il ? Comme il est mort en 1793, il n'a pas eu le temps d'écrire ses mémoires et sa conduite laisse perplexe[2] [...] Il semble que nous soyons encore en présence de faux imaginés par d'Antraigues »[1].
+En juin 1793, il est arrêté par les fédéralistes à Lyon, où il était en mission. Il est emprisonné au château de Pierre Scize, où il subit les plus mauvais traitements. Il est libéré le 20 juillet et meurt deux mois plus tard, le 27 septembre[1].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

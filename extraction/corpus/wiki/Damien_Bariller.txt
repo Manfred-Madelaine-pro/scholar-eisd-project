@@ -1,0 +1,30 @@
+PRETAG Damien.
+NOMTAG Bariller.
+Damien Bariller est un homme politique français né le 25 septembre 1966 à Aix-en-Provence.
+
+
+
+D'après Le Nouvel Observateur, son père est « un architecte giscardo-centriste d'Aix-en-Provence »[1].
+Ancien élève de khâgne, il fait des études d'histoire et de philosophie à l'université de Provence Aix-Marseille I, puis obtient un troisième cycle en histoire des idées politiques du XXe siècle à l'Institut d'études politiques de Paris (Sciences Po)[2].
+Il assiste à des colloques du Groupement de recherche et d'études pour la civilisation européenne (GRECE) pendant qu'il achève sa maîtrise d'histoire[3] et son DEUG de philosophie[1]. Influencé par Drieu la Rochelle, il explique son adhésion à la Nouvelle Droite pour des raisons « littéraires » autant que par « anti-atlantisme »[1].
+En 1987, il devient responsable des jeunes du FN dans les Bouches-du-Rhône[1]. Membre du Front national (FN) — jusqu'en 1998 — puis du Mouvement national républicain (MNR), il est conseiller municipal d'Aix-en-Provence de 1995 à 2001, conseiller régional de Provence-Alpes-Côte d'Azur de 1992 à 2004, et membre du comité central du FN[Quand ?]. Au début des années 1990, il rédige deux ouvrages sur l'histoire de ce dernier, le premier en collaboration avec Roger Holeindre et le second avec Franck Timmermans[réf. nécessaire]. Il coécrit également avec Bruno Mégret et Jean-François Jalkh le manuel Militer au Front (1991), présenté comme un « kit complet de la formation militante frontiste » mais qui s'est avéré « inadéquat et faillible » selon Franck Timmermans[4]. Sous la période mégrétiste, il est responsable, avec Philippe Olivier et son frère Jacques ainsi que Frank Marest, de l'Atelier de propagande (APFN), présenté par Valérie Igounet comme une « sorte d'agence de publicité interne qui pose les bases de la communication autour de l'image Le Pen »[5].
+En 1996, il suscite l'intérêt des médias et des analystes politiques en se qualifiant au second tour pour l'élection législative partielle dans la dixième circonscription des Bouches-du-Rhône, face au maire PCF de Gardanne Roger Meï, lequel est finalement élu. Cette élection, qui avait vu l'élimination au premier tour du candidat de centre gauche Bernard Kouchner (représentant le PS et le PRG), était le premier scrutin où FN et PCF se trouvaient face-à-face au second tour, au détriment des partis plus modérés[6].
+Proche de Bruno Mégret[7], il est, dans les années 1990, directeur de son cabinet au FN et le rédacteur de la trame de ses discours et ses livres[2]. Lors de la scission du mouvement en 1998, Bariller suit Bruno Mégret au MNR. Il est ensuite directeur de communication de la mairie de Vitrolles et président du groupe « Droites indépendantes et apparentés » (DIA) au conseil régional de Provence-Alpes-Côte d'Azur.
+Il rejoint en 2006 le Mouvement pour la France (MPF) de Philippe de Villiers[8].
+En 2008, candidat sur une liste divers droite — soutenue par le MPF — aux municipales d'Aix-en-Provence, il appelle au second tour à voter pour la maire sortante, Maryse Joissains.
+Il devient par la suite directeur de communication de la société d'économie mixte d'équipement du pays d'Aix (SEMEPA)[9],[10].
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) jusqu'en 1998.
+PART Mouvement national républicain (MNR) 1998-?.
+PART Mouvement pour la France (MPF) 2006.
+FONCTIONNORM
+
+NOMF Conseiller régional de Provence-Alpes-Côte d'Azur NOMF 1992 – 2004.
+NOMF Conseiller municipal d'Aix-en-Provence NOMF 1995 – 2001 SEP2 Date de naissance REL 25 septembre 1966 (51 ans) SEP2 Lieu de naissance REL Aix-en-Provence (Bouches-du-Rhône) SEP2 Nationalité REL Français SEP2 Parti politique REL FN (jusqu'en 1998)MNR (1998-?)MPF (2006) SEP2 Diplômé de REL Université de Provence Aix-Marseille IIEP de Paris SEP2 Profession REL Responsable de communication.

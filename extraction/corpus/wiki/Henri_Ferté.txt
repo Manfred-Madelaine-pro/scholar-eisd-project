@@ -1,0 +1,19 @@
+PRETAG Henri.
+NOMTAG Ferté.
+Henri Ferté est un homme politique français né le 8 décembre 1873 à Berny-Rivière (Aisne) et décédé le 8 mai 1935 à Ressons-le-Long (Aisne).
+Agriculteur, il est conseiller d'arrondissement en 1913 et maire de Ressons-le-Long. Il est député de l'Aisne de 1924 à 1928, siégeant au groupe de l'Union républicaine démocratique.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

@@ -1,0 +1,23 @@
+PRETAG Jean.
+NOMTAG Moreau.
+Jean Moreau (Adrien Édouard Jean Moreau), né le 31 juillet 1888 à Paris 17e[1] et décédé le 5 juin 1972 à Auxerre (Yonne), est un homme politique français.
+
+
+Il est élu aux Deux Assemblées nationales constituantes puis à l’Assemblée nationale en qualité de député PRL puis CNI de l’Yonne de 1945 à 1958[2].
+Il a été maire d’Auxerre de 1941 à 1944 puis de 1947 à 1971. Il a été également conseiller général de l'Yonne de 1945 à 1958 et président du Conseil général de 1949 à 1958 (cf. Archive du conseil général de l'Yonne).
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Ministre du Budget NOMF 8 janvier 1953 – 28 juin 1953(5 mois et 20 jours).
+NOMF Président NOMF GouvernementAntoine PinayRené Mayer SEP2 Gouvernement REL Antoine PinayRené Mayer SEP2 Prédécesseur REL Pierre Courant SEP2 Successeur REL Henri Ulver.
+NOMF Président NOMF GouvernementHenri Queille I SEP2 Gouvernement REL Henri Queille I SEP2 Prédécesseur REL Maurice Bourgès-MaunouryJoannès Dupraz.
+NOMF Président NOMF GouvernementRobert Schuma II SEP2 Gouvernement REL Robert Schuma II SEP2 Prédécesseur REL Robert Lacoste SEP2 Successeur REL Alfred Jules-Julien.
+NOMF Député de l'Yonne NOMF 21 octobre 1945 – 8 décembre 1958(13 ans, 1 mois et 17 jours) SEP2 Élection REL 21 septembre 1945 SEP2 Groupe politique REL PRL (1945-1946)RI (1946-1955)IPAS (1956-1958).
+NOMF Président du Conseil général de l'Yonne NOMF 31 mars 1949 – 14 mars 1958(8 ans, 11 mois et 11 jours) SEP2 Réélection REL 27 mars 1949 SEP2 Prédécesseur REL Maxime Courtis SEP2 Successeur REL Paul Arrighi SEP2 Réélection REL 21 mars 1965 SEP2 Prédécesseur REL Jeanne Herold SEP2 Successeur REL Jean-Pierre Soisson SEP2 Prédécesseur REL Henry Martineau SEP2 Successeur REL Jeanne Herold.
+NOMF Conseiller général de l'YonneÉlu dans le canton d'Auxerre-Sud-Ouest NOMF 3 octobre 1945 – 14 mars 1958(12 ans, 5 mois et 11 jours) SEP2 Prédécesseur REL Fernand Bouquigny' indirectement SEP2 Successeur REL Louis Lalande SEP2 Date de naissance REL 31 juillet 1888 SEP2 Date de décès REL 5 juin 1972 SEP2 Résidence REL Yonne.

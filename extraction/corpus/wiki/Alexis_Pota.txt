@@ -1,0 +1,15 @@
+PRETAG Alexis.
+NOMTAG Pota.
+Alexis Pota est un homme politique français né le 17 juillet 1932 à Saint-Denis de La Réunion et mort le 30 avril 2014. Il est élu député de La Réunion en tant que non-inscrit le 13 octobre 1988 et reste en fonction jusqu'au 1er avril 1993[1]. Il a par ailleurs été membre du conseil régional de La Réunion dès 1983[2].
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1988-1993 NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Date de naissance REL 17 juillet 1932 SEP2 Date de décès REL 30 avril 2014 (à 81 ans) SEP2 Résidence REL La Réunion.

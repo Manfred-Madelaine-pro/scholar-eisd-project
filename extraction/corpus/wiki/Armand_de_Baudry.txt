@@ -1,0 +1,19 @@
+PRETAG Armand_de.
+NOMTAG Baudry.
+Armand Quentin de Baudry d'Asson, né le 17 avril 1910 à Ixelles (Belgique), mort le 26 février 1998 à Paris, est un homme politique français, député de la Vendée de 1945 à 1958.
+
+
+
+Il naît dans une famille de l'aristocratie vendéenne comptant plusieurs parlementaires : son père, Armand Charles, fut député de la Vendée de 1914 à 1927, puis sénateur de 1927 à 1936. Il avait succédé à son propre père, Armand Léon, député royaliste de la Vendée de 1876 à 1914.
+Grand propriétaire foncier, il s'investit dans les questions agricoles en participant à l'action de syndicats professionnels, de coopératives et de mutuelles. Il préside le syndicat des marais de la baie de Bourgneuf, et milite pour la mise en œuvre d'un programme de modernisation et d'équipement de l'agriculture des marais de l'Ouest dans le cadre des grands aménagements régionaux lancés après la Seconde Guerre mondiale.
+Mobilisé à la déclaration de guerre, il participe à la Bataille de France et n'accepte pas l'Occupation allemande. Il est déporté à Neuengamme en juin 1944 en raison de son comportement anti-allemand, qui lui vaudra la Croix de guerre 1939-1945, le grade de chevalier puis d'officier dans l'ordre de la Légion d'honneur et la Croix du combattant volontaire de la Résistance.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1945-1958 NOMF GouvernementIVe République SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL PRL (1945-1951)RI (1951-1955)IPAS (1956-1958) SEP2 Date de naissance REL 17 avril 1910 SEP2 Date de décès REL 26 février 1998 SEP2 Résidence REL Vendée.

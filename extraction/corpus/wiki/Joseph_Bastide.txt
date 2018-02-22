@@ -1,0 +1,18 @@
+PRETAG Joseph.
+NOMTAG Bastide.
+Joseph Bastide est un avocat et un homme politique français né le 29 août 1876 à Béziers (Hérault) et décédé le 6 janvier 1957 à Rodez, dans le département de l'Aveyron.
+Avocat, bâtonnier du barreau de Rodez, il n'exerce aucun mandat politique quand le Congrès républicain national lui demande de se porter candidat aux élections législatives de 1936. Après une intense campagne axée sur la dénonciation du danger communiste incarné par le Front populaire, il est élu au premier tour devant un candidat radical. Il rejoint, à la Chambre des députés, le groupe de la Fédération républicaine de France, le grand parti de la droite conservatrice de la Troisième République.
+S'étant abstenu lors du vote des pleins pouvoirs au maréchal Pétain le 10 juillet 1940, il effectue son retour en politique après la Libération du territoire en devenant délégué à l'Assemblée consultative provisoire en 1944. Il y prend position en faveur d'une plus grande clémence des Cours de justice.
+En 1945, lors des élections à la Première constituante, il conduit la Liste républicaine de défense agricole dont il est le seul élu. Il rejoint le groupe de l'Unité républicaine qui devient après quelques semaines le groupe du Parti républicain de la liberté. Son grand combat concerne alors la lutte contre certaines récquisitions de titres de presse, qu'il juge arbitraire. Il ne se représente pas aux élections à la seconde constituante et décède à Rodez en 1957.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940puis 1945-1946 NOMF GouvernementTroisième République-Quatrième République SEP2 Gouvernement REL Troisième République-Quatrième République SEP2 Groupe politique REL FRF (1936-1940)PRL (1945-1946) SEP2 Date de naissance REL 29 août 1876 SEP2 Date de décès REL 6 janvier 1957 (à 80 ans) SEP2 Résidence REL Aveyron.

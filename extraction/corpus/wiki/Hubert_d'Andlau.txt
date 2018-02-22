@@ -1,0 +1,19 @@
+PRETAG Hubert.
+NOMTAG d'Andlau.
+Le comte Hubert d'Andlau de Hombourg (ou Hubert d'Andlau-Hombourg), né le 7 juin 1868 à Heidenfeld – village bavarois aujourd'hui rattaché à la commune de Röthlein – et décédé le 3 novembre 1959 à Stotzheim, dans le Bas-Rhin, est un homme politique issu d'une vieille famille de la noblesse alsacienne.
+
+
+
+Ancien représentant de l'Alsace au Landtag, propriétaire agricole, président de la Fédération agricole d'Alsace et de Lorraine et de la Chambre d'agriculture du Bas-Rhin, il est élu conseiller municipal de Stotzheim puis sénateur du Bas-Rhin en 1928 et est réélu à ce dernier poste lors du scrutin de 1936. Au Sénat, il siège au sein du groupe de l'Union républicaine, apparenté à l'Alliance démocratique, c'est-à-dire au centre libéral et laïc.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au maréchal Pétain.
+À la Libération, il est déclaré inéligible et ne retrouve pas le chemin du Parlement.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1928-1940 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL Union républicaine SEP2 Date de naissance REL 7 juin 1868 SEP2 Date de décès REL 3 novembre 1959 (à 91 ans) SEP2 Résidence REL Bas-Rhin.

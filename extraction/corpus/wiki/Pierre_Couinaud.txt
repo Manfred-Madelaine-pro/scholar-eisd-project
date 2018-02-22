@@ -1,0 +1,15 @@
+PRETAG Pierre.
+NOMTAG Couinaud.
+Pierre Couinaud est un homme politique français, né le 28 octobre 1891 à Nevers (Nièvre) et décédé le 20 avril 1967 à Argentan (Orne).
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur (1948-1951)Député (1951-1958) NOMF GouvernementIVe République SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL RPF (1948-1953)ARS (1953-1955)IPAS (1956-1958) SEP2 Date de naissance REL 28 octobre 1891 SEP2 Date de décès REL 20 avril 1967 (à 75 ans) SEP2 Résidence REL Orne.

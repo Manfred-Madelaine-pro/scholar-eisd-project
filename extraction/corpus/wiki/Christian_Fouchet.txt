@@ -1,0 +1,20 @@
+PRETAG Christian.
+NOMTAG Fouchet.
+Christian Fouchet, né le 17 novembre 1911 à Saint-Germain-en-Laye (Seine-et-Oise) et mort le 11 août 1974 à Genève, est un diplomate et homme politique français.
+Il est le père de la romancière Lorraine Fouchet.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1951-1955puis 1967-1974 NOMF GouvernementQuatrième République-Cinquième République SEP2 Gouvernement REL Quatrième République-Cinquième République SEP2 Groupe politique REL RPF (1951-1955)UDVe (1967-1968)UDR (1968-1974) SEP2 Successeur REL André Picquot.
+NOMF Ministre de l'Intérieur NOMF 6 avril 1967 – 31 mai 1968 SEP2 Gouvernement REL Pompidou (4) SEP2 Prédécesseur REL Roger Frey SEP2 Successeur REL Raymond Marcellin.
+NOMF Ministre de l'Éducation nationale NOMF 6 décembre 1962 – 1er avril 1967.
+NOMF Président NOMF GouvernementGeorges Pompidou II et III SEP2 Gouvernement REL Georges Pompidou II et III SEP2 Prédécesseur REL Pierre SudreauLouis Joxe (par intérim) SEP2 Successeur REL Alain Peyrefitte SEP2 Date de naissance REL 17 novembre 1911 SEP2 Date de décès REL 11 août 1974 (à 62 ans) SEP2 Nationalité REL française SEP2 Résidence REL Seinepuis Meurthe-et-Moselle.

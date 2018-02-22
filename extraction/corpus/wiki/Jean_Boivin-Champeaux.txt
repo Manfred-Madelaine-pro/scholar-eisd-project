@@ -1,0 +1,16 @@
+PRETAG Jean.
+NOMTAG Boivin-Champeaux.
+Jean Boivin-Champeaux est un homme politique né le 12 août 1887 à Paris et mort le 17 décembre 1954 à Paris.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1928-1940puis 1946-1954 NOMF GouvernementTroisième République-Quatrième République SEP2 Gouvernement REL Troisième République-Quatrième République SEP2 Groupe politique REL UR (1928-1940)RI (1946-1954) SEP2 Nom de naissance REL Jean Louis Marie Boivin-Champeaux SEP2 Date de naissance REL 12 août 1887 SEP2 Lieu de naissance REL Paris 1 SEP2 Date de décès REL 17 décembre 1954 (à 67 ans) SEP2 Lieu de décès REL Paris 6 SEP2 Résidence REL Calvados.

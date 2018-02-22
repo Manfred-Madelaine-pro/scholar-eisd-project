@@ -1,0 +1,21 @@
+PRETAG Henri.
+NOMTAG Ulrich.
+Henri Ulrich, né le 7 décembre 1912 à Mulhouse (Haut-Rhin) et mort le 17 décembre 1978 à Riedisheim (Haut-Rhin), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Mouvement républicain populaire (MRP) CD.
+PART Centre démocrate (CD) CDS.
+PART Centre des démocrates sociaux (CDS).
+FONCTIONNORM
+
+NOMF Député de la 5e circonscription du Haut-Rhin NOMF 22 février 1959 – 9 octobre 1962 SEP2 Successeur REL Charles Kroepflé.
+NOMF Député du Haut-Rhin NOMF 2 janvier 1956 – 8 décembre 1958 SEP2 Nom de naissance REL Henri Eugène Ulrich SEP2 Date de naissance REL 7 décembre 1912 SEP2 Lieu de naissance REL Mulhouse (Haut-Rhin) SEP2 Date de décès REL 17 décembre 1978 (à 66 ans) SEP2 Lieu de décès REL Riedisheim (Haut-Rhin) SEP2 Nationalité REL  Française SEP2 Parti politique REL MRP, CD, CDS SEP2 Profession REL Employé aux mines de potasse.

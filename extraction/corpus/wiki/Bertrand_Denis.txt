@@ -1,0 +1,16 @@
+PRETAG Bertrand.
+NOMTAG Denis.
+Bertrand Denis né le 1er septembre 1902 à Fontaine-Daniel en Mayenne, décédé le 5 février 1986 à Contest est un industriel et homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1958 - 1978) NOMF 9 décembre 1958 – SEP2 Gouvernement REL Ve république SEP2 Groupe politique REL « Indépendants et paysans d'action sociale »puis « Républicains indépendants » SEP2 Date de naissance REL 1er septembre 1902 SEP2 Date de décès REL 5 février 1986 (à 83 ans) SEP2 Résidence REL troisième circonscription de la Mayenne.

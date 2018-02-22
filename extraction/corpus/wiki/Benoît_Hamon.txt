@@ -1,0 +1,34 @@
+PRETAG Benoît.
+NOMTAG Hamon.
+Benoît Hamon, né le 26 juin 1967 à Saint-Renan (Finistère), est un homme politique français.
+Président du Mouvement des Jeunes socialistes de 1993 à 1995, il est député européen entre 2004 et 2009 pour la circonscription Est et porte-parole du Parti socialiste (PS) de 2008 à 2012. Élu député de la onzième circonscription des Yvelines en 2012, il est membre du gouvernement du 16 mai 2012 au 25 août 2014, en tant que ministre délégué à l'Économie sociale et solidaire et à la consommation puis ministre de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche.
+Benoît Hamon remporte la primaire citoyenne de 2017 devant Manuel Valls, devenant ainsi le candidat du PS à l'élection présidentielle de 2017. Il termine en cinquième position avec 6,36 % des voix. Il est ensuite battu aux législatives de juin.
+Le 1er juillet 2017, il quitte le PS pour lancer son propre parti, qui prend en décembre 2017 le nom de Génération·s, le mouvement.
+
+
+
+Benoît Hamon naît à Saint-Renan, d'un père ingénieur ayant travaillé aux arsenaux de la Direction des constructions navales (DCN) de Brest et d'une mère secrétaire[1],[2].
+Il vit ses premières années rue Véronèse à Brest, puis de 1976 à 1980, il emménage avec ses parents à Dakar au Sénégal, où il suit sa scolarité du CE2 à la 5e au cours Sainte-Marie de Hann[3], qu'il reviendra visiter de nombreuses années plus tard[4] : « C’est un établissement qui a été déterminant. J'y ai grandi dans un contexte où le religieux se mixait à la diversité sociale. Mais, il est difficile de dire exactement l’influence que cela a eu dans mon parcours politique par la suite. Quatre ans à Dakar, c’est à la fois beaucoup, car cela structure votre enfance, et peu dans une existence[4] ». Il repart en Bretagne après le divorce de ses parents.
+Par ailleurs, il s'inscrit à l'université de Bretagne-Occidentale où il obtient une licence d'histoire après être devenu adhérent de l'UNEF-ID et président du MJS[5].
+Il est lié par un PACS avec Gabrielle Guallar, née de parents danois et catalans[6], major de sa promotion de l'IEP de Paris et diplômée du Collège d'Europe à Bruges[7], responsable des affaires publiques chez LVMH[7] depuis juillet 2014 après avoir travaillé à l'INA[8]. Ils se rencontrent alors qu'il est député européen et qu'elle travaille pour la Commission européenne, comme spécialiste des réglementations culturelles[8]. Le couple a deux filles[9]. Séparant sa vie familiale de la vie politique, elle ne participe pas aux manifestations publiques de Benoît Hamon, qui avait ainsi refusé fin 2016 de participer à l'émission de Karine Le Marchand Une ambition intime pour protéger sa vie privée[7],[10]. Selon la HATVP, son patrimoine comprend un appartement dans le Finistère, une quote-part de 46% dans un appartement possédé en indivis avec sa conjointe dans les Hauts-de-Seine et une Opel Corsa de 2006[11].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS) 1986-2017.
+PART Génération·s, le mouvement (Génération·s) depuis 2017.
+FONCTIONNORM
+
+NOMF Conseiller régional d'Île-de-France NOMF En fonction depuis le 18 décembre 2015(2 ans, 2 mois et 2 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Président NOMF Ministre de l’Éducation nationale, de l'Enseignement supérieur et de la Recherche.
+NOMF Ministre de l’Éducation nationale, de l'Enseignement supérieur et de la Recherche NOMF 2 avril – 25 août 2014(4 mois et 23 jours).
+NOMF Président NOMF GouvernementManuel Valls I SEP2 Gouvernement REL Manuel Valls I SEP2 Prédécesseur REL Vincent Peillon (Éducation nationale)Geneviève Fioraso (Enseignement supérieur et Recherche) SEP2 Successeur REL Najat Vallaud-Belkacem.
+NOMF Ministre délégué à l'Économie sociale et solidaire et à la Consommation[N 1] NOMF 16 mai 2012 – 31 mars 2014(1 an, 10 mois et 15 jours).
+NOMF Président NOMF GouvernementJean-Marc Ayrault I et II SEP2 Gouvernement REL Jean-Marc Ayrault I et II SEP2 Prédécesseur REL Fonction créée SEP2 Successeur REL Valérie Fourneyron SEP2 Prédécesseur REL Julien Dray SEP2 Successeur REL David Assouline.
+NOMF Député européen NOMF 20 juillet 2004 – 13 juillet 2009(4 ans, 11 mois et 23 jours) SEP2 Élection REL 13 juin 2004 SEP2 Circonscription REL Est SEP2 Législature REL 6e SEP2 Groupe politique REL PSE.
+NOMF Président du Mouvement des jeunes socialistes NOMF 5 décembre 1993 – 29 décembre 1995(2 ans et 24 jours) SEP2 Prédécesseur REL Poste créé SEP2 Successeur REL Régis Juanico.
+NOMF Député des YvelinesÉlu dans la 11e circonscription NOMF 27 septembre 2014 – 20 juin 2017(2 ans, 8 mois et 24 jours) SEP2 Législature REL XIVe législature(Cinquième République) SEP2 Groupe politique REL SRC puis SER SEP2 Prédécesseur REL Jean-Philippe Mallé SEP2 Successeur REL Nadia Hai SEP2 Élection REL 17 juin 2012 SEP2 Législature REL XIVe législature(Cinquième République) SEP2 Groupe politique REL SRC SEP2 Prédécesseur REL Jean-Michel Fourgous SEP2 Successeur REL Jean-Philippe Mallé SEP2 Date de naissance REL 26 juin 1967 (50 ans) SEP2 Lieu de naissance REL Saint-Renan (Finistère, France) SEP2 Nationalité REL française SEP2 Parti politique REL PS (1986-2017)Génération·s (depuis 2017) SEP2 Diplômé de REL université de Bretagne-Occidentale.

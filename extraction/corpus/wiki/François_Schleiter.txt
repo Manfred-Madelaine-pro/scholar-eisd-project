@@ -1,0 +1,39 @@
+PRETAG François.
+NOMTAG Schleiter.
+François Schleiter, né le 15 septembre 1911 à Verdun et mort le 26 septembre 1990 à Cannes, est un homme politique français.
+
+
+
+Il est le fils de Victor Schleiter, ancien maire de Verdun (1925-1933) et député de la Meuse (1924-1933), et le frère de Gabriel Schleiter, président de l'Union Française. Après des études de droit à Paris, il s'inscrit au barreau de Nancy en 1935.
+Il est mobilisé durant la Seconde Guerre mondiale comme officier de tirailleur et est fait prisonnier. Il reçoit la Croix de guerre 1939-1940 pour son courage, puis est fait Chevalier de l'ordre de la Légion d'honneur pour faits exceptionnels de guerre le 9 mai 1946.
+Carrière politique.
+À la Libération, il devient directeur de cabinet du Président du Conseil général de la Meuse. Il devient ensuite chef de cabinet de Louis Jacquinot, ministre d'État.
+Il est battu aux élections au Conseil de la République du 8 décembre 1946, mais prend sa revanche aux élections du 7 novembre 1948. Il est réélu en 1952 et en 1958.
+En mai 1953, il est élu maire de Verdun. Peu de temps après, il est nommé Secrétaire d'État à la France d'Outre-mer le 2 juillet 1953 dans le gouvernement Joseph Laniel I puis le 16 janvier 1954 dans le gouvernement Joseph Laniel II.
+Le 24 avril 1955, il devient conseiller général du canton de Verdun. Le 11 novembre 1957, il retrouve les fonctions gouvernementales en étant nommé Secrétaire d'État au Commerce.
+Cinquième République.
+À la suite de l'adoption de la Cinquième République, il est réélu maire de Verdun en mars 1959, et sénateur de la Meuse le 26 avril 1959. Il est réélu sénateur le 26 septembre 1965 et le 22 septembre 1974. Il prend la présidence du groupe des Républicains indépendants (RI) de 1966 à 1971 et devient Vice-Président du Sénat le 5 octobre 1971 jusqu'au 22 septembre 1974.
+Il prend la présidence du Centre national des indépendants et paysans (CNIP) en juillet 1973, et abandonne ce poste, créé pour lui, en 1975. Il ne prend plus la parole en public et ne se représente pas aux sénatoriales d'octobre 1983.
+
+Fonctions gouvernementales.
+
+2 juillet 1953 - 16 janvier 1954 : Secrétaire d'État à la France d'Outre-mer (Gouvernement Joseph Laniel I)
+16 janvier 1954 - 12 juin 1954 : Secrétaire d'État à la France d'Outre-mer (Gouvernement Joseph Laniel II)
+11 novembre 1957 - 15 avril 1958 : Secrétaire d'État au Commerce (Gouvernement Félix Gaillard)
+
+Mandats parlementaires.
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP) RI.
+PART Républicains indépendants (parti politique) (RI).
+FONCTIONNORM
+
+NOMF Président NOMF GouvernementFélix Gaillard SEP2 Gouvernement REL Félix Gaillard.
+NOMF Conseiller général du canton de Verdun NOMF 24 avril 1955 – 30 septembre 1973(18 ans, 5 mois et 6 jours) SEP2 Prédécesseur REL Tourte (RPF) SEP2 Successeur REL Canton divisé.
+NOMF Président NOMF GouvernementJoseph Laniel I, II SEP2 Gouvernement REL Joseph Laniel I, II SEP2 Prédécesseur REL Henri Caillavet (PRS) SEP2 Successeur REL Roger Duveau (UDSR) SEP2 Prédécesseur REL Hyppolyte Thevenon SEP2 Successeur REL André Beauguitte (RI).
+NOMF Sénateur de la Meuse NOMF 26 avril 1959 – 2 octobre 1983(24 ans, 5 mois et 6 jours) SEP2 Élection REL 26 avril 1959 SEP2 Réélection REL 26 septembre 1965, 22 septembre 1974 SEP2 Élection REL 7 novembre 1948 SEP2 Réélection REL 18 mai 1952, 8 juin 1958 SEP2 Date de naissance REL 15 septembre 1911 SEP2 Lieu de naissance REL Verdun (Meuse) SEP2 Date de décès REL 26 septembre 1990 (à 79 ans) SEP2 Lieu de décès REL Cannes (Alpes-Maritimes) SEP2 Parti politique REL CNIP, puis RI SEP2 Père REL Victor Schleiter SEP2 Profession REL Avocat.

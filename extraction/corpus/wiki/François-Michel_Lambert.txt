@@ -1,0 +1,32 @@
+PRETAG François-Michel.
+NOMTAG Lambert.
+François-Michel Lambert, né le 24 août 1966 à La Havane (Cuba)[1] est un homme politique français, élu en 2012 député de la 10e circonscription des Bouches-du-Rhône sous l'étiquette écologiste, puis réélu en 2017 sous la bannière du parti présidentiel La République en marche
+
+
+Soutien affirmé du gouvernement, il annonce le 8 juin 2015 s'être encarté conjointement à EÉLV aux partis Génération écologie et au Front démocrate, ce afin de « créer des ponts » entre les écologistes »[3]. Quelques jours plus tard, en vertu des règles internes interdisant la double appartenance, il est suspendu d'EÉLV, il annonce alors être candidat à la tête de liste du Parti socialiste dans les Bouches-du-Rhône (PACA) à l'occasion des élections régionales de 2015[4].
+En juillet 2015, sa liste recueille 7,34 % des suffrages aux premier tour des élections municipales partielles de Gardanne[5]. Il soutient au second tour le maire sortant[6].
+En août 2015, Laurent de Boissieu le situe à la « droite pro-gouvernementale » du groupe écologiste[7].
+Le 19 mai 2016, avec cinq autres députés, il quitte le groupe écologiste, provoquant sa dissolution, et rejoint le groupe socialiste[8].
+Il fait partie de l'équipe de campagne de Jean-Luc Bennahmias pour la primaire citoyenne de 2017[9], puis soutient Emmanuel Macron (En marche !) pour l'élection présidentielle de 2017[10].
+Il est proche de François de Rugy[11].
+
+Activités.
+Consultant pour les collectivités territoriales et chercheur-associé au CRET-LOG (Laboratoire Universitaire de Recherche en Sciences de Gestion spécialisé en Logistique de l’Université d’Aix-Marseille) il est notamment spécialiste en développement économique et politique des transports et logistique[réf. nécessaire].
+Député de la XIVe législature.
+François-Michel Lambert est élu député de la dixième circonscription des Bouches-du-Rhône le 17 juin 2012 en recueillant 41,64 % des voix à l'issue d'une triangulaire au deuxième tour, où il devance le député sortant Richard Mallié (UMP) 38,13 %, et la candidate du Front national Pascale-Edith Guennec, 20,23 %[2].
+
+
+
+
+
+
+
+PARTISNORM
+PART Génération écologie (GÉ) jusqu'en 2012.
+PART Europe Écologie Les Verts (EÉLV) jusqu'en 2015.
+PART Génération écologie (GÉ) depuis 2015.
+PART Front démocrate (FD) depuis 2015.
+PART La République en marche ! (REM) depuis 2017.
+FONCTIONNORM
+
+NOMF Député de la 10e circonscription des Bouches-du-Rhône NOMF En fonction depuis le 20 juin 2012(5 ans, 7 mois et 28 jours) SEP2 Législature REL XIVe SEP2 Groupe politique REL ECO (2012-2016)SER (2016-2017)REM (depuis 2017) SEP2 Prédécesseur REL Richard Mallié SEP2 Date de naissance REL 24 août 1966 (51 ans) SEP2 Lieu de naissance REL La Havane (Cuba) SEP2 Nationalité REL Française SEP2 Parti politique REL GÉ (jusqu'en 2012)EÉLV (jusqu'en 2015)GÉ (depuis 2015)FD (depuis 2015)REM (depuis 2017).

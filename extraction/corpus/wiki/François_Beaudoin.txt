@@ -1,0 +1,30 @@
+PRETAG François.
+NOMTAG Beaudoin.
+François Xavier, Joseph Beaudoin est un homme politique et résistant français né le 28 août 1904 à Giromagny (Territoire de Belfort) et mort en déportation le 15 avril 1945 au camp de Flossenburg en Allemagne.
+
+
+
+Engagement politique.
+Ingénieur agronome de profession, à la tête d'une importante exploitation agricole familiale, il devient maire de la commune d'Obreck (Moselle) en 1934, à l'âge de 30 ans. Il conservera ce mandat jusqu'en 1939.
+En janvier 1935, il prend contact, aux côtés de jeunes agriculteurs mosellans de l'arrondissement de Château-Salins, avec le Parti agraire et paysan français, et fonde une section locale. Elle ne joue toutefois qu'un rôle politique limité, la vie politique dans cet arrondissement étant dominée par les notables. En février 1935, il est, aux côtés de Joseph Bilger et d'un animateur du Front paysan, l'un des orateurs d'une réunion se tenant à Metz dans le cadre de l'assemblée extraordinaire de l'Association mosellane des producteurs de blé. Leur discours musclé contre la politique paysanne de Pierre-Étienne Flandin a gêné les élus présents, et notamment Guy de Wendel. Les discours de François Beaudoin ne sont cependant pas aussi politisés que ceux de l'Alsacien Joseph Bilger.
+En 1936, il est élu député de la Moselle dans la circonscription de Château-Salins. Élu au second tour avec 51,1 % des suffrages exprimés, il bat le sortant Lucien Génois et deux autres candidats modérés. À la Chambre des députés, il s'inscrit au groupe Agraire indépendant, petite expression parlementaire du Parti agraire et paysan français. Il fait partie du comité provisoire du Front lorrain en Moselle. Il est surtout proche du Bauernbund de Joseph Bilger et du Rassemblement national lorrain de Nancy.
+Président de la Fédération des producteurs de lait de la Moselle, il est élu en 1939 à la Chambre d'agriculture.
+Engagement durant la Seconde Guerre mondiale.
+Mobilisation. Lieutenant de réserve dans la cavalerie, il demande à être mobilisé lorsque la guerre éclate. En septembre 1939, il est affecté à un régiment d'automitrailleuses. Son comportement lui vaudra la Croix de Guerre avec deux citations. Fait prisonnier, il est libéré en 1941 en tant que père de famille nombreuse (il a 5 enfants). Il est alors nommé directeur des services agricoles d'Indre-et-Loire.
+Résistance et déportation. Il s'engage dans la Résistance dans le réseau Cohors-Asturies des Forces françaises combattantes. Arrêté par la Gestapo à Tours le 14 septembre 1943 sur dénonciation d'un agent infiltré, il est interné, puis déporté le 27 avril 1944 vers le camp de concentration d'Auschwitz. Transféré au camp de Flossenburg, il est affecté au kommando de Flöha. Epuisé, il est fusillé le 15 avril 1945, avec 57 de ses camarades, dont 21 Français, près de Reitzenhaim, lors de l'évacuation du Kommando (Marches de la Mort).
+Distinctions.
+
+Mort pour la France
+Chevalier de la Légion d'honneur à titre posthume
+Croix de guerre 1939-1945
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF 3 mai 1936 – 31 mai 1942 SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Agraire indépendant SEP2 Date de naissance REL 28 août 1904 SEP2 Date de décès REL 15 avril 1945 (à 40 ans) SEP2 Résidence REL Moselle.

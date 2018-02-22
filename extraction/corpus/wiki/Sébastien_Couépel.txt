@@ -1,0 +1,18 @@
+PRETAG Sébastien.
+NOMTAG Couépel.
+Sébastien Couëpel est un homme politique français, né le 6 juin 1938 à Andel (Côtes-du-Nord). Membre de l’Union pour la démocratie française, il a été député des Côtes-du-Nord de 1978 à 1981 puis de nouveau, grâce au scrutin proportionnel plurinominal, de 1986 à 1988.
+Agriculteur de profession, il est élu à 26 ans maire d’Andel, sa commune natale, lors des élections municipales de 1965. Il est ensuite régulièrement réélu jusqu’à sa décision de ne pas se représenter lors des élections municipales de 2008[1]. Il met alors fin à sept mandats consécutifs de maire, un record qui lui vaut d’être honoré lors du congrès des maires de France en 2007[2].
+Il a également représenté le canton de Lamballe au conseil général des Côtes-d'Armor, d’abord sous l’étiquette de l’UDF, puis sous celle du MoDem jusqu’aux élections cantonales de 2008. Lors de ce scrutin où il a choisi de ne pas se représenter, la candidate socialiste, Marie-Christine Cléret, a été élue dès le premier tour[3].
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1978-1981 / 1986-1988) NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL UDF SEP2 Date de naissance REL 6 juin 1938 SEP2 Résidence REL Première circonscription des Côtes-du-Nord.

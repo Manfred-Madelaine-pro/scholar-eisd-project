@@ -1,0 +1,17 @@
+PRETAG Camille.
+NOMTAG Laurens.
+Camille Laurens est un homme politique français, né le 12 août 1906 à Lacroix-Barrez (Aveyron), décédé le 15 novembre 1979 à Paris.
+
+
+
+Il est député du Cantal aux deux Assemblées constituantes (mais invalidé pour la première), puis à l’Assemblée nationale, de 1946 à 1958 sous les étiquettes paysanne (PPUS) ou indépendante (CNI).
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1945-1958 NOMF GouvernementIVe République SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL RAPS (1945-1946)CRUPS (1946-1951)CRAPS (1951-1956)IPAS (1956-1958) SEP2 Date de naissance REL 12 août 1906 SEP2 Date de décès REL 15 novembre 1979 (à 73 ans) SEP2 Résidence REL Cantal.

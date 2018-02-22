@@ -1,0 +1,15 @@
+PRETAG Charles.
+NOMTAG Guernier.
+Charles Guernier est un homme politique français, né le 26 avril 1870 à Saint-Malo (Ille-et-Vilaine) et décédé le 19 février 1943 à Paris.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1906-19241932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GRD (1919-1924)GR (1928-1936)NI (1936-1940) SEP2 Date de naissance REL 26 avril 1870 SEP2 Date de décès REL 19 février 1943 (à 72 ans) SEP2 Résidence REL Ille-et-Vilaine.

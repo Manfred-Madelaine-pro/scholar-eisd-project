@@ -1,0 +1,20 @@
+PRETAG Daniel.
+NOMTAG Hoeffel.
+Daniel Hoeffel, né le 23 janvier 1929 à Strasbourg (Bas-Rhin), est un homme politique français. Diplômé de l'IEP Strasbourg, il a été successivement maire de Handschuheim, sénateur du Bas-Rhin, secrétaire d'état puis ministre, président de l'Association des maires de France de 2002 à 2004 et président de l'Association des maires du Bas-Rhin.
+
+
+
+
+
+
+
+Issu d'une famille protestante engagée[1], il est le petit-neveu de Jean Hoeffel et le frère aîné du pasteur Michel Hoeffel.
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur du Bas-Rhin NOMF 24 septembre 1995 – 30 septembre 2004(9 ans, 2 mois et 6 jours) SEP2 Réélection REL 23 septembre 2001 SEP2 Prédécesseur REL Philippe Richert SEP2 Successeur REL Joseph Ostermann SEP2 Réélection REL 28 septembre 1986 SEP2 Prédécesseur REL Jean-Paul Hammann SEP2 Successeur REL Jean-Paul Hammann SEP2 Prédécesseur REL Michel Kistler SEP2 Successeur REL Jean-Paul Hammann.
+NOMF Président NOMF GouvernementBarre III SEP2 Gouvernement REL Barre III SEP2 Successeur REL Monique Pelletier (indirectement).
+NOMF Ministre délégué à l'Aménagement du territoire et aux Collectivités locales auprès du ministre de l'Intérieur et de l'Aménagement du territoire NOMF 30 mars 1993 – 11 mai 1995(2 ans, 1 mois et 11 jours).
+NOMF Président NOMF GouvernementBalladur SEP2 Gouvernement REL Balladur SEP2 Prédécesseur REL André Laignel SEP2 Successeur REL Bernard Pons SEP2 Date de naissance REL 23 janvier 1929 (89 ans) SEP2 Lieu de naissance REL Strasbourg (Bas-Rhin) SEP2 Nationalité REL Française.

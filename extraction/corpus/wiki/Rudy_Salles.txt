@@ -1,0 +1,34 @@
+PRETAG Rudy.
+NOMTAG Salles.
+Rudy Salles est un homme politique français, né le 30 juillet 1954 à Nice (Alpes-Maritimes).
+Après avoir été successivement membre du Parti républicain, du Pôle républicain indépendant et libéral puis de l'Union pour la démocratie française, il est membre du Nouveau Centre depuis 2007.
+
+
+
+Avocat de profession, il entre tôt en politique en devenant conseiller municipal de Nice en 1983. Il occupe ce mandat jusqu'en 1995.
+Il est élu une première fois au Conseil régional de Provence-Alpes-Côte d'Azur de 1986 à 1992. Il y siège à nouveau entre 2004 et 2009.
+Le 12 juin 1988, il est élu pour la première fois député de la troisième circonscription des Alpes-Maritimes dont il est le premier et seul élu depuis le redécoupage des circonscriptions électorales de 1986.
+Le 16 juin 2002, il est réélu pour la XIIe législature (2002-2007) en battant au deuxième tour Isabelle Gérard (FN) avec 71,00 % des suffrages. Il fait alors partie du groupe parlementaire UDF. Au cours de ce mandat, il fut vice-président de l'Assemblée nationale du 26 juin 2002 au 30 septembre 2004.
+Après avoir fait campagne pour l'UDF en 2007, il n'a pas suivi François Bayrou dans la création du MoDem et annonce qu'il votera pour Nicolas Sarkozy au second tour du scrutin présidentiel de 2007. Néanmoins, le MoDem ne présente pas de candidat contre lui aux élections législatives de juin 2007, alors qu'il se présente avec l'étiquette du Nouveau Centre - Majorité présidentielle.
+Le 10 juin 2007, il est réélu dès le premier tour pour un cinquième mandat de député avec 56,65 % des suffrages. Il siège depuis dans le groupe Nouveau Centre. Le 27 juin 2007, il est élu vice-président de l'Assemblée Nationale. Il est membre de la commission des affaires étrangères. Il est également Président de la Délégation chargée de l'informatique et des nouvelles technologies et membre des délégations suivantes : délégation chargée de l'application du statut du député, délégation chargée de la communication audiovisuelle et de la presse et délégation chargée des activités internationales.
+Élu sur la liste de Christian Estrosi aux élections municipales de 2008 à Nice, il est adjoint au maire, chargé du tourisme et des affaires internationales[1].
+Il est à nouveau réélu député en juin 2012. Il siège alors dans le groupe UDI comme l'ensemble des élus du Nouveau Centre[2]. Il est vice-président du Groupe d'amitié France-Suède.
+En 2016, il est chargé par Manuel Valls, en compagnie de Jérôme Durain, de « définir un cadre législatif et réglementaire favorisant le développement des compétitions de jeux vidéo en France ». Le rapport remis par les deux parlementaires en mars 2016 préconise notamment de « définir un vrai cadre pour les compétitions online et offline », « créer une commission spécialisée rattachée au CNOSF », « donner un vrai statut aux joueurs » à travers un CDD sportif, « protéger les jeunes joueurs » à travers diverses mesures et « favoriser le recrutement de joueurs étrangers »[3]. Cette mission débouche sur une participation au projet de loi pour une République numérique, qui est adopté en première lecture au Sénat le 3 mai, avec 323 voix pour et 1 voix contre[4],[5]. La loi reconnait officiellement dans son chapitre 4 section 2 la pratique du jeu vidéo en compétition en France, ainsi qu'un statut officiel aux joueurs professionnels[6].
+Il soutient Nicolas Sarkozy au premier tour de la primaire présidentielle des Républicains de 2016[7]. Il soutiendra ensuite François Fillon pour le second tour de la primaire présidentielle des Républicains de 2016[8].
+Il fait partie de la direction de Les Centristes à la suite de la fusion du Nouveau Centre et des « Bâtisseurs de l'UDI » en décembre 2016[9].
+Pour saluer publiquement le départ de la benjamine de l'Assemblée nationale, Marion Maréchal-Le Pen, son adversaire politique qui se retire un moment de la région PACA afin de pouvoir élever sa fille, il s'exprime ainsi : « Bon débarras ! »[10] (9 mai 2017).
+Il est éliminé dès le premier tour, le 11 juin 2017.
+
+
+
+
+
+
+
+PARTISNORM
+PART Nouveau Centre (Nouveau Centre) UDI.
+PART Union des démocrates et indépendants (UDI).
+FONCTIONNORM
+
+NOMF Député des Alpes-MaritimesÉlu dans la 3e circonscription NOMF 13 juin 1988 – 20 juin 2017(29 ans et 7 jours) SEP2 Élection REL 12 juin 1988 SEP2 Réélection REL 28 mars 1993 • 1er juin 1997 • 16 juin 2002 • 10 juin 2007 • 17 juin 2012 SEP2 Prédécesseur REL aucun (création) SEP2 Successeur REL Cédric Roussel.
+NOMF Conseiller régional de PACA NOMF 29 mars 2004 – 30 mai 2009(5 ans, 2 mois et 1 jour) SEP2 Élection REL 28 mars 2004 SEP2 Successeur REL Daniel Mansanti SEP2 Élection REL 16 mars 1986 SEP2 Date de naissance REL 30 juillet 1954 (63 ans) SEP2 Lieu de naissance REL Nice (Alpes-Maritimes) SEP2 Parti politique REL Nouveau Centre (UDI) SEP2 Profession REL Avocat.

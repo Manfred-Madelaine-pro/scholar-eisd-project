@@ -1,0 +1,21 @@
+PRETAG Georges.
+NOMTAG Izard.
+Georges Izard, né le 17 juin 1903 à Abeilhan (Hérault) et mort le 20 septembre 1973 à Paris, est un homme politique, avocat, journaliste et essayiste français.
+
+
+
+Georges Izard, fils d'un directeur d'école de Béziers, après des études de lettres supérieures au lycée Louis-le-Grand, échoua en 1922 au concours de l'École normale supérieure. Il connut alors une crise religieuse qui le mena de l'agnosticisme au protestantisme, puis au catholicisme.
+Titulaire d'un DES de philosophie consacré à Géraud de Cordemoy, philosophe et historien du XVIIe siècle, et d'une licence de droit, Georges Izard fut nommé en 1926 directeur de cabinet de Charles Daniélou, sous-secrétaire d'État à la Marine marchande, puis, sous le ministère d'Aristide Briand, à la présidence du Conseil. En 1929 il épousa Catherine Daniélou (1909-1992), fille du ministre Daniélou et sœur de Jean et Alain Daniélou. Il est le père du producteur de télévision Christophe Izard.
+Inscrit au barreau de la cour d'appel de Paris en 1932, il devint, l'année suivante, secrétaire de la conférence du stage. Intellectuel engagé dans son temps, il fonda, avec Emmanuel Mounier, Louis-Émile Galey et d'autres, la revue Esprit, dont il s'éloigna en 1933 pour fonder La Troisième Voie qui fusionna en 1934 avec Le Front Commun, le Parti Frontiste de Gaston Bergery. Ils prirent le nouveau vocable de Front Social et Georges Izard dirigea un temps l'hebdomadaire La Flèche. Le 26 avril 1936, il fut élu député du Parti frontiste en Meurthe-et-Moselle contre un sortant d'extrême-droite, Pierre Amidieu du Clos. En 1937 il choisit d'adhérer à la SFIO.
+Vice-président de la commission du travail à la Chambre, il fut de ceux qui soutinrent l'Espagne républicaine et refusèrent, en juin 1940, de voter les pleins pouvoirs au maréchal Pétain.
+En 1940, engagé volontaire, il fut fait prisonnier de guerre. Libéré pour raison de santé, il rejoignit la Résistance au sein de l'OCM (Organisation civile et militaire). Dès novembre 1944, il devint membre de l'Assemblée consultative provisoire. Il participa encore, en juin 1945 à la création de l'UDSR, dont il fut le secrétaire général adjoint, avant de devenir président du Mouvement démocratique et socialiste pour les États-Unis d'Europe.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Gauche indépendante SEP2 Date de naissance REL 17 juin 1903 SEP2 Date de décès REL 20 septembre 1973 (à 70 ans) SEP2 Résidence REL Meurthe-et-Moselle.

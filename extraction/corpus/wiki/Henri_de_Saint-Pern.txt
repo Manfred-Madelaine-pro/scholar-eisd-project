@@ -1,0 +1,17 @@
+PRETAG Henri_de.
+NOMTAG Saint-Pern.
+Le marquis Henri de Saint-Pern est un homme politique français né le 11 octobre 1874 et mort le 16 janvier 1945 à Angers (Maine-et-Loire).
+Propriétaire agricole, il entre en politique en 1919 en devenant conseiller municipal conservateur de Tiercé, puis, à partir de 1928, conseiller général de Champtoceaux. Il devient député du 03 mai 1936 au 31 mai 1942 sous les couleurs de la Fédération républicaine. Il intervient essentiellement sur des questions économiques.
+Le 10 juillet 1940, Henri de Saint-Pern vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain. À la Libération, le préfet de Maine-et-Loire et le commissaire de la République, Michel Debré, procèdent à l’épuration. Ils font appliquer strictement dans le département l’ordonnance du 17 septembre 1943, portant constitution d'une Assemblée consultative provisoire. Celle-ci prévoit l’inéligibilité « des membres du Parlement ayant abdiqué leur mandat en votant la délégation du pouvoir constituant à Philippe Pétain, le 10 juillet 1940 » sauf s’ils «se sont par la suite réhabilités par leur participation directe et active à la Résistance, participation constatée par décision du Conseil national de la Résistance ». Le seul parlementaire angevin vivant à être réhabilité est Henri de Saint-Pern.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL FRF SEP2 Date de naissance REL 11 octobre 1874 SEP2 Date de décès REL 16 janvier 1945 (à 70 ans) SEP2 Résidence REL Maine-et-Loire.

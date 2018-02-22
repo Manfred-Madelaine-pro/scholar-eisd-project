@@ -1,0 +1,23 @@
+PRETAG Idoia.
+NOMTAG Sagastizabal.
+Idoia Sagastizabal née le 22 septembre 1972 est une femme politique espagnole membre du Parti nationaliste basque. Elle est députée de Biscaye depuis le 30 novembre 2016 pour la XIIe législature.
+
+
+
+Elle se déclare comme une lectrice assidue. Elle parle castillan et basque.
+Profession.
+Idoia Sagastizabal est titulaire d'une licence en droit. Elle est technicienne en emploi et promotion économique.
+Carrière politique.
+Le 30 novembre 2016, elle devient députée pour Biscaye au Congrès des députés, remplaçant Pedro Azpiazu nommé au Gouvernement basque[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (PNV).
+FONCTIONNORM
+
+NOMF Députée aux Cortes Generalespour Biscaye NOMF En fonction depuis le 30 novembre 2016(1 an, 2 mois et 15 jours) SEP2 Élection REL 26 juin 2016 SEP2 Législature REL XIIe SEP2 Groupe politique REL Basque SEP2 Prédécesseur REL Pedro Azpiazu SEP2 Nom de naissance REL Idoia Sagastizabal Unzetabarrenetxea SEP2 Date de naissance REL 22 septembre 1972 (45 ans) SEP2 Lieu de naissance REL Eibar, Espagne SEP2 Nationalité REL Espagnole SEP2 Parti politique REL PNV SEP2 Résidence REL Espagne.

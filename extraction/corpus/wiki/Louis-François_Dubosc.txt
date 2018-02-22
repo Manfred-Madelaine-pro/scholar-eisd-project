@@ -1,0 +1,17 @@
+PRETAG Louis-François.
+NOMTAG Dubosc.
+Louis-François Dubosc est un homme politique français né le 6 avril 1901 à Panassac (Gers) et décédé le 8 juin 1991 à Condom (Gers).
+Membre de la Section française de l'Internationale ouvrière, il est très proche de Paul Faure, son secrétaire général jusqu'en 1940. Il devient député du Gers en 1936, puis conseiller général en 1937.
+Demeuré partisan de Paul Faure, Louis-François Dubosc est exclu de la SFIO en 1946. Il participe alors à la création du Parti socialiste démocratique et du Rassemblement des gauches républicaines, coalition centriste influente sous la Quatrième République. Devenu secrétaire général de la fédération PSD de la Seine et vice-président national du RGR, puis fondateur du Cercle national des indépendants de gauches, des républicains socialistes et des socialistes indépendants, il ne retrouve pas de mandat parlementaire. Il devient en 1957 secrétaire général du Centre républicain.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL SFIO SEP2 Date de naissance REL 6 avril 1901 SEP2 Date de décès REL 8 juin 1991 (à 90 ans) SEP2 Résidence REL Gers.

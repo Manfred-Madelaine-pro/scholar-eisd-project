@@ -1,0 +1,19 @@
+PRETAG Louis.
+NOMTAG Marin.
+Louis Marin, né à Faulx (Meurthe) le 7 février 1871 et mort à Paris le 23 mai 1960, est un professeur d'ethnographie, membre de l’Académie des sciences morales et politiques, et homme politique français, député de Meurthe-et-Moselle de 1905 à 1951. Le 19 mars 1954, il a épousé Fernande Hartmann à Paris (5°). Il est enterré à Bruyères (Vosges).
+
+
+
+Il est le fils d'un notaire, issu d'une vieille famille de souche lorraine, originaire des Vosges. Il fut élève au collège catholique de La Malgrange de 1881 à 1887 puis au lycée Saint-Sigisbert à Nancy, de 1887 à 1890. Il est licencié en lettres et en droit, à Nancy en 1892. Il étudie ensuite à Paris jusqu'en 1894, à la Faculté de droit et à l'École libre des sciences politiques. Il est avocat de 1890 à 1910.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1905-1940puis 1945-1951 NOMF GouvernementIIIe République-IVe République SEP2 Gouvernement REL IIIe République-IVe République SEP2 Groupe politique REL ERD (1919-1924)URD (1924-1932)FR (1932-1940)RI (1945-1951).
+NOMF Ministre d'État NOMF 8 novembre 1934 – 22 janvier 1936.
+NOMF Président NOMF GouvernementFlandin (1)BouissonLaval (4) SEP2 Gouvernement REL Flandin (1)BouissonLaval (4) SEP2 Gouvernement REL Paul Reynaud SEP2 Date de naissance REL 7 février 1871 SEP2 Date de décès REL 23 mai 1960 (à 89 ans) SEP2 Résidence REL Meurthe-et-Moselle.

@@ -1,0 +1,22 @@
+PRETAG Yves.
+NOMTAG Coquelle.
+Yves Coquelle est un homme politique français, membre du Parti Communiste, né le 19 décembre 1939 à Fouquières-lès-Lens[1] et décédé le 7 avril 2015[2] à Rouvroy.
+
+
+
+Ouvrier carreleur, Yves Coquelle adhère à la CGT, puis au Parti communiste français en 1964. Il est appelé à exercer des mandats locaux au conseil municipal de Rouvroy en 1971, et ensuite à la mairie de cette ville en 1977. De 1985 à 2001, il est conseiller général du canton de Rouvroy.
+Le 23 septembre 2001, il est élu sénateur du Pas-de-Calais et s'inscrit au groupe communiste, républicain et citoyen. Il fait partie de la commission des affaires économiques. Il s'oppose notamment à la privatisation Gaz de France et à sa fusion avec Suez.
+Le 1er janvier 2007, il décide de quitter le sénat pour raison de santé. Son successeur est Maryse Roger-Coupin puis, après la démission de cette dernière, le secrétaire départemental du PCF, Jean-Claude Danglot.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Sénateur du Pas-de-Calais NOMF 23 septembre 2001 – 1er janvier 2007(5 ans, 3 mois et 9 jours) SEP2 Groupe politique REL CRC SEP2 Successeur REL Maryse Roger-Coupin.
+NOMF Conseiller général du Pas-de-Calaisélu dans le canton de Rouvroy NOMF 1985 – 2001(16 ans) SEP2 Date de naissance REL 19 décembre 1939 SEP2 Lieu de naissance REL Fouquières-lès-Lens SEP2 Date de décès REL 7 avril 2015 (à 75 ans) SEP2 Lieu de décès REL Rouvroy SEP2 Nationalité REL Française SEP2 Parti politique REL PCF SEP2 Profession REL ouvrier carreleur.

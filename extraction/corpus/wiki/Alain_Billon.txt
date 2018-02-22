@@ -1,0 +1,26 @@
+PRETAG Alain.
+NOMTAG Billon.
+Alain Billon, né le 19 mai 1942 à Paris, et mort le 5 octobre 2017[1], est un homme politique français.
+
+
+Géographe de formation, Alain Billon devient inspecteur général de la construction. De 1981 à 1986, il est député socialiste dans la 29e circonscription de Paris, après avoir dépassé, au premier tour, le communiste sortant Paul Laurent (9 507 voix contre 6 220). Lors des élections législatives de 1986, il est deuxième sur la liste conduite à Paris par Lionel Jospin. Ce dernier, élu en octobre dans la Haute-Garonne après l'invalidation de l'élection d'Alex Raymond, lui laisse alors son siège.
+Il est aussi conseiller régional d'Île-de-France de 1986 à 1992. Candidat aux élections législatives de 1997 dans la 12e circonscription de la Seine-Saint-Denis sous l'étiquette MDC, il n'obtient que 339 voix (moins de 1 %).
+Devenu secrétaire général du MDC, il entre aussi en 1997 au cabinet de son fondateur, Jean-Pierre Chevènement, alors ministre de l'Intérieur, comme conseiller chargé de l'islam[2]. Il poursuit sa tâche de mise en place du Conseil français du culte musulman au ministère de l'Intérieur sous Daniel Vaillant jusqu'à l'élection présidentielle de 2002, sans avoir pu la mener à son terme.
+Il rejoint en 2009[1] le Parti de gauche, où il occupait le poste de responsable international du secteur Maghreb/Mashrek.
+Il a vécu jusqu’a son décès à Saint-Maur-des-Fossés auprès de son épouse Cathy Billon qui s’occupait du secteur Maroc au sein de la commission Maghreb/Mashrek du PG.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS) puis.
+PART Mouvement des citoyens (MDC) puis.
+PART Parti de gauche (PG).
+FONCTIONNORM
+
+NOMF Conseiller régional d'Île-de-France NOMF 16 mars 1986 – 22 mars 1992(6 ans et 6 jours).
+NOMF Député français NOMF 24 octobre 1986 – 14 mai 1988(1 an, 6 mois et 20 jours) SEP2 Circonscription REL ParisScrutin proportionnel par département SEP2 Législature REL VIIIe (Cinquième République) SEP2 Prédécesseur REL Lionel Jospin (suivant de liste).
+NOMF Député français NOMF 2 juillet 1981 – 1er avril 1986(4 ans, 8 mois et 30 jours) SEP2 Circonscription REL 29e circonscription de Paris SEP2 Législature REL VIIe (Cinquième République) SEP2 Groupe politique REL SOC SEP2 Prédécesseur REL Paul Laurent SEP2 Successeur REL circonscription supprimée SEP2 Date de naissance REL 19 mai 1942 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 5 octobre 2017 (à 75 ans) SEP2 Parti politique REL PS puisMDC puisPG SEP2 Conjoint REL Cathy Billon SEP2 Profession REL Urbaniste.

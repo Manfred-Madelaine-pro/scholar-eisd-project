@@ -1,0 +1,39 @@
+PRETAG Huguette.
+NOMTAG Bello.
+Marie-Huguette Bello, dite Huguette Bello, née le 24 août 1950 à Ravine des Cabris (île de La Réunion), est une femme politique française. Elle est notamment députée de la 2e circonscription de La Réunion depuis 1997 et présidente du PLR depuis 2012.
+
+
+
+Ses parents Husto et Céline Bello ont six enfants, Huguette est leur seule fille. Le père est un petit planteur, la mère femme au foyer. La famille vit à la Ravine des Cabris. Pour les aider financièrement, elle devient institutrice dès l’âge de 18 ans[2].
+Directrice d'école maternelle, à la tête de l'Union des Femmes de La Réunion (UFR), elle est élue au conseil régional de La Réunion en 1983[3].
+Elle est ensuite élue à l'Assemblée nationale dans la deuxième circonscription de l'île le 1er juin 1997, ce qui fait d'elle la première femme député de l'histoire de La Réunion. Opposée à Alain Bénard (UMP), elle est réélue le 16 juin 2002, et retrouve son siège en juin 2007.
+Membre du groupe Radical-citoyen-vert durant son premier mandat, elle rejoint ensuite le groupe de la Gauche démocrate et républicaine et est membre du Parti communiste réunionnais.
+En mars 2008, lors des élections municipales, elle est élue maire de Saint-Paul avec 23 342 voix, soit 50,15 % des suffrages, face au maire sortant Alain Bénard. Elle devient ainsi la deuxième femme maire d'une commune de La Réunion après Marie-Thérèse de Chateauvieux (maire de Saint-Leu).
+Le maire sortant, battu de 138 voix, dénonce alors une « distribution de tracts » la veille du scrutin, des « manœuvres » sur les listes d’émargement ainsi que des « pressions » dans les bureaux de vote et saisit le tribunal administratif, qui décide le 2 octobre 2008 d'invalider le scrutin. Huguette Bello fait appel de cette décision d’annulation du scrutin municipal devant le Conseil d'État mais son recours est rejeté par ses sages le 11 août 2009[4]. En attendant l'organisation de nouvelles élections, une délégation spéciale, nommée par le préfet, assure la gestion des affaires courantes.
+Huguette Bello est réélue maire de Saint-Paul le 4 octobre 2009 avec 56,5 % des suffrages face à son adversaire UMP Alain Bénard[5].
+Lors des élections législatives de 2012, elle est réélue dès le premier tour avec 67 % des voix[6], comme dissidente du PCR[7] et sous l'étiquette du mouvement Pour La Réunion (PLR), qu'elle a fondé[8]. Elle siégera dans le groupe du Front de gauche, évoquant un accord technique plus que politique[9], et ce malgré le soutien que le Front de gauche de La Réunion lui a accordé dans sa bataille contre le PCR (et les autres partis réunionnais, dont l'UMP)[10].
+La liste qu'elle conduit lors des élections municipales de 2014 à Saint-Paul obtient 46,40 % des voix, devancée par la liste de droite conduite par Joseph Sinimalé[11]. Huguette Bello perd donc son mandat de maire.
+En 2015, Huguette Bello est désignée comme tête de liste pour les élections régionales de décembre 2015, et donc candidate de la gauche à la présidence de la région Réunion face notamment au président sortant Didier Robert (Les Républicains) et à Thierry Robert (MoDem). Au premier tour, elle obtient 23,80 % des voix, ce qui la place en deuxième position, mais loin derrière Didier Robert avec 40,36 %. Le 13 décembre, à l'issue du second tour, sa liste obtient 47,31 % des suffrages et 16 sièges au conseil régional[12]. Élue conseillère régionale d'opposition, elle prend ses fonctions le 16 décembre suivant et devient présidente du groupe Le Rassemblement (PLR - PS).
+En mai 2016, elle est l'une des 56 députés signataires de la motion de censure « de gauche » contre la loi Travail.
+Elle parraine Jean-Luc Mélenchon pour l'élection présidentielle de 2017 et est candidate à sa propre succession lors des élections législatives de la même année[13] soutenue par le PCR, Rézistans Égalité 974 et La France insoumise[14], qu'elle remporte avec 73,59 % des voix au 2e tour[15],[16].
+Le 4 juillet 2017, à la suite de la déclaration de politique générale du Premier ministre Édouard Philippe, Huguette Bello votre contre la confiance au gouvernement[17].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste réunionnais (PCR) jusqu’en 2012.
+PART 2012 (2012).
+PART Pour La Réunion (PLR) depuis 2012.
+PART 2012 (2012).
+FONCTIONNORM
+
+NOMF Présidente du mouvement Pour La Réunion NOMF En fonction depuis le 13 mai 2012(5 ans, 9 mois et 7 jours) SEP2 Prédécesseur REL Parti créé.
+NOMF Députée française NOMF En fonction depuis le 12 juin 1997(20 ans, 8 mois et 8 jours) SEP2 Élection REL 1er juin 1997 SEP2 Réélection REL 16 juin 200217 juin 200717 juin 201218 juin 2017 SEP2 Circonscription REL 2e de La Réunion SEP2 Groupe politique REL RCV puis GDR SEP2 Prédécesseur REL Claude Hoarau (PCR).
+NOMF Conseillère régionale de La Réunion NOMF En fonction depuis le 16 décembre 2015(2 ans, 2 mois et 4 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Président NOMF Groupe politiqueLe Rassemblement SEP2 Groupe politique REL Le Rassemblement SEP2 Élection REL 22 mars 1992.
+NOMF Président NOMF Maire de Saint-Paul SEP2 Prédécesseur REL Délégation spéciale SEP2 Successeur REL Joseph Sinimalé (UMP) SEP2 Prédécesseur REL Alain Bénard (UMP) SEP2 Successeur REL Délégation spéciale.
+NOMF Conseillère générale de La RéunionÉlue dans le canton de Saint-Pierre-3 NOMF 3 octobre 1988 – 27 mars 1994(5 ans, 5 mois et 24 jours) SEP2 Prédécesseur REL Élie Hoarau (PCR) SEP2 Successeur REL Élie Hoarau (PCR) SEP2 Nom de naissance REL Marie-Huguette AntoinetteBello[1] SEP2 Date de naissance REL 24 août 1950 (67 ans) SEP2 Lieu de naissance REL Ravine des Cabris(La Réunion) SEP2 Parti politique REL PCR (jusqu’en 2012)PLR (depuis 2012) SEP2 Profession REL InstitutriceDirectrice d’école SEP2 Site web REL huguettebello.re.

@@ -1,0 +1,44 @@
+PRETAG Didier.
+NOMTAG Bariani.
+Didier Bariani, né le 16 octobre 1943 à Bellerive-sur-Allier (Allier) est un homme politique français, ancien député et secrétaire d'État.
+
+
+
+Fils d'un haut fonctionnaire de la France d'outre-mer et d'une avocate parisienne, Didier Bariani est diplômé de Sciences po Paris. En 1969, il adhère au Parti radical valoisien. Il est, le 1er février 1978, l'un des dix signataires de l'acte constitutif de naissance de l'UDF, dont le PRV devient une composante. Il est, de 1979 à 1983, président du Parti radical valoisien.
+Il est élu, en 1978, député de la 30e circonscription de Paris, contre le communiste sortant Daniel Dalbera, le devançant de moins de 700 voix au second tour. Il est battu en 1981 par le candidat socialiste Michel Charzat (14 929 contre 12 534 voix).
+Didier Bariani devient maire du 20e arrondissement de Paris en 1983 et conserve ses fonctions durant deux mandats consécutifs. Pendant la campagne, un accord verbal sur la fusion des listes RPR et FN est passé avec Jean-Marie Le Pen disant que Chirac « voulait faire le grand chelem à Paris pour montrer aux socialistes sa force, et à l’UDF qu’il était le patron ». L'accord est pourtant renié dès le lendemain des résultats[1]. Président de la société d’économie mixte Saemar Saint-Blaise, il urbanisation très densément ce quartier qui présentera des difficultés urbaines, fonctionnelles et sociales[2] alors que ses projets contestés sur le Bas-Belleville se heurteront à une forte mobilisation associative[3].
+Il se présente lors des élections législatives de 1986, dont le mode de scrutin est proportionnel, dans le département de Seine-Saint-Denis, en tant que tête de liste UDF. Élu avec 9,77 % des voix, il est nommé immédiatement au gouvernement de Jacques Chirac et ne siège pas à l'Assemblée, remplacé par le suivant de liste Jean-Jack Salles.
+Il reprend à Michel Charzat, douze ans plus tard, son siège de député de la circonscription devenue la 21e. Durant cette Xe législature, de 1993 à 1997, il est président du Groupe d'amitié France-Israël.
+Élu, en 1999, président de la fédération UDF de Paris (réélu en 2001), il quitte en 2002 le Parti radical à la suite de son association avec l'UMP mais reste membre de l'UDF, dont il est vice-président national.
+Il participe à la campagne électorale de François Bayrou lors de l'élection présidentielle de 2007. À la suite du ralliement de plusieurs députés UDF à la majorité présidentielle de Nicolas Sarkozy, Didier Bariani maintient son soutien actif à François Bayrou lors de la création du Mouvement Démocrate.
+En mai 2011, il rejoint à nouveau le Parti radical valoisien, avec Jean-Louis Borloo[4]. Au congrès du Parti radical du 10 mars 2012, il milite pour un soutien à François Bayrou[5].
+Dans le livre Les Frères invisibles, les journalistes Renaud Lecadre et Ghislaine Ottenheimer révèlent que Bariani fut l'un des principaux associés maçonniques de Jacques Chirac.
+Lors des élections régionales de décembre 2015, il redevient conseiller régional de la région Île-de-France, puis est désigné 15e vice-président de l'exécutif présidé par Valérie Pécresse, chargé de la Métropole du Grand Paris, bien qu'il ne soit précédemment pas investi sur cette thématique[3].
+
+
+
+
+Gérant de la société Inforg
+Président-directeur général de la société d'économie mixte d'aménagement urbain Saemer Saint-Blaise
+Président du Paris Football Club de 1992 à 2001
+
+
+
+
+
+PARTISNORM
+PART Parti radical (PR) 1969-2002 puis 2011-2017.
+PART Union pour la démocratie française (UDF) 1978-2007.
+PART Mouvement démocrate (MoDem) 2007-2011.
+PART Union des démocrates et indépendants (UDI) 2012-2017.
+PART Mouvement radical, social et libéral (MRSL).
+FONCTIONNORM
+
+NOMF Président NOMF Député de la 21e circonscription de Paris.
+NOMF Député de la 21e circonscription de Paris NOMF 2 avril 1993 – 21 avril 1997(4 ans et 19 jours) SEP2 Législature REL Xe législature SEP2 Groupe politique REL UDF SEP2 Prédécesseur REL Michel Charzat SEP2 Successeur REL Véronique Carrion-Bastok.
+NOMF Président NOMF Premier ministreJacques Chirac SEP2 Premier ministre REL Jacques Chirac SEP2 Gouvernement REL Chirac II SEP2 Prédécesseur REL Christian Nucci SEP2 Successeur REL Edwige Avice SEP2 Prédécesseur REL aucun SEP2 Successeur REL Michel Charzat.
+NOMF Président du Parti radical NOMF octobre 1979 – novembre 1983(4 ans et 1 mois) SEP2 Prédécesseur REL Jean-Jacques Servan-Schreiber SEP2 Successeur REL André Rossinot.
+NOMF Député de la 30e circonscription de Paris NOMF 3 avril 1978 – 22 mai 1981(3 ans, 1 mois et 19 jours) SEP2 Législature REL 6e (Ve République) SEP2 Groupe politique REL UDF SEP2 Prédécesseur REL Daniel Dalbera SEP2 Successeur REL Michel Charzat.
+NOMF Conseiller régional d'Île-de-France NOMF En fonction depuis le 13 décembre 2015(2 ans, 2 mois et 8 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Président NOMF 28 mars 2004 – 21 mars 2010(5 ans, 11 mois et 21 jours) SEP2 Élection REL 28 mars 2004.
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 16 octobre 1943 (74 ans) SEP2 Lieu de naissance REL Bellerive-sur-Allier (Allier) SEP2 Nationalité REL Française SEP2 Parti politique REL PR (1969-2002 puis 2011-2017)UDF (1978-2007)MoDem (2007-2011)UDI (2012-2017)MRSL SEP2 Diplômé de REL IEP de Paris SEP2 Profession REL Gérant de sociétés.

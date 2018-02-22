@@ -1,0 +1,26 @@
+PRETAG Xavier.
+NOMTAG Deniau.
+Xavier Deniau est un haut fonctionnaire et homme politique français, né le 24 septembre 1923 à Paris et mort le 29 mars 2011[1]. Il est le frère aîné de l'académicien et ancien ministre Jean-François Deniau[2].
+
+
+
+Xavier Deniau obtient son baccalauréat en 1940 après avoir étudié au lycée Saint-Louis-de-Gonzague, établissement privé catholique du 16e arrondissement de Paris.
+Breveté de l'École nationale de la France d'outre-mer (ENFOM), il commence une carrière d'administrateur des colonies en Indochine, et la poursuit en Afrique-Occidentale française (futurs Cameroun et Sénégal). Il est ensuite membre de la délégation française à l'Organisation des Nations unies (ONU) entre 1955 et 1958, conseiller technique au cabinet du ministre des Armées et membre de la délégation française à l'Organisation du traité de l'Atlantique nord (OTAN) entre 1960 et 1962. En 1962, il est nommé maître des requêtes au Conseil d'État.
+Il est élu député du Loiret dans la 4e circonscription (région de Montargis) sous l'étiquette de l'Union pour la nouvelle République (UNR) en 1962, et constamment réélu jusqu'en 2002. À l'Assemblée nationale, il appartient successivement aux groupes gaullistes (UNR, UD-Ve République, UDR, RPR). Il a été maire d'Escrignelles (Loiret) de 1965 à 2001.
+Xavier Deniau a été secrétaire d'État auprès du Premier ministre Pierre Messmer, chargé des départements et des territoires d'outre-mer du 5 juillet 1972 au 28 mars 1973. Sa nomination relève d'une erreur de la part du secrétariat général de l’Élysée. En effet, c'est son frère Jean-François qui aurait du être nommé. Néanmoins, il a joué un rôle fondamental dans le mouvement de la francophonie en assumant le secrétariat général parlementaire de l'AIPLF (aujourd'hui Assemblée parlementaire de la Francophonie)[3].
+Il est membre de l'Académie des sciences d'outre-mer, membre correspondant de l'Académie des sciences morales et politiques, ainsi que de diverses associations de la francophonie, dont l'Ordre des francophones d'Amérique à partir de 1978.
+Il a appartenu au comité d'honneur du Mouvement initiative et liberté, mouvement d'inspiration gaulliste.
+Ayant accompagné le général de Gaulle à l'exposition universelle de Montréal en 1967, il assiste à son fameux discours du « Vive le Québec libre ! », sur le balcon de l'Hôtel de ville de Montréal. Attaché à la culture québécoise et aux relations cordiales entre les deux peuples, il est le président fondateur de l'Association France-Québec, le 12 janvier 1968.
+Xavier Deniau a épousé en 1953 la princesse Irène Ghika-Cantacuzène avec laquelle il a cinq enfants : François-Xavier, diplomate, Cécile, Marie-Abeille, Martin et Clarisse.
+Ses funérailles ont eu lieu en l'église d'Escrignelles[4].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Président NOMF GouvernementMessmer I SEP2 Gouvernement REL Messmer I SEP2 Prédécesseur REL Pierre Messmer SEP2 Successeur REL Bernard Stasi.
+NOMF Député du LoiretÉlu dans la 4e circonscription NOMF 2 avril 1973 – 18 juin 2002(29 ans, 2 mois et 16 jours) SEP2 Prédécesseur REL Robert Figeat SEP2 Successeur REL Jean-Pierre Door SEP2 Prédécesseur REL Robert Szigeti SEP2 Successeur REL Robert Figeat SEP2 Élection REL 14 mars 1965 SEP2 Successeur REL Alain Cornuau SEP2 Date de naissance REL 24 septembre 1923 SEP2 Date de décès REL 29 mars 2011 (à 87 ans) SEP2 Fratrie REL Jean-François Deniau SEP2 Enfants REL François-Xavier Deniau SEP2 Résidence REL Quatrième circonscription du Loiret.

@@ -1,0 +1,36 @@
+PRETAG Serge.
+NOMTAG Martinez.
+Serge Martinez, né le 9 avril 1944 à Oran, est un chef d'entreprise et homme politique français.
+
+Il revendique son athéisme[4].
+
+
+Origines.
+Serge Martinez est d'origine pied-noire.
+Carrière politique.
+Il passe brièvement au Rassemblement pour la République, avant d'adhérer au Front national en 1987.
+Au FN, Serge Martinez occupe plusieurs fonctions d'appareil, devenant responsable des ressources humaines du parti, de la gérance du siège et de diverses questions logistiques. Il est également à partir de 1994 responsable de la fédération du Gard, et conseiller régional du Languedoc-Roussillon.
+En 1998, il prend le parti de Bruno Mégret lors de la scission du Front national, et rejoint le Mouvement national républicain. Il est candidat sous ses couleurs aux élections européennes de 1999[1]. Il est secrétaire général du parti de janvier à novembre 1999, puis vice-président jusqu'en 2000[2].
+Carrière professionnelle.
+Serge Martinez est d'abord patron d'une entreprise de maintenance informatique, qu'il revend pour 60 millions de francs[3].
+Il est un temps patron de presse, ayant racheté l'hebdomadaire Minute, qu'il rebaptise Minute-La France; il doit cependant revendre le journal trois ans plus tard, faute de succès de ventes de la nouvelle formule.
+Vie privée.
+Il revendique son athéisme[4].
+
+
+
+Serge Martinez est d'abord patron d'une entreprise de maintenance informatique, qu'il revend pour 60 millions de francs[3].
+Il est un temps patron de presse, ayant racheté l'hebdomadaire Minute, qu'il rebaptise Minute-La France; il doit cependant revendre le journal trois ans plus tard, faute de succès de ventes de la nouvelle formule.
+Vie privée.
+Il revendique son athéisme[4].
+
+
+
+
+PARTISNORM
+PART Front national (Front national) .
+PART Mouvement national républicain (MNR).
+FONCTIONNORM
+
+NOMF Conseiller régional d'Île-de-France NOMF 22 mars 1992 – 15 mars 1998.
+NOMF Conseiller régional du Languedoc-Roussillon NOMF 15 mars 1998 – 28 mars 2004 SEP2 Date de naissance REL 9 avril 1944 (73 ans) SEP2 Lieu de naissance REL Oran, Département d'Oran SEP2 Nationalité REL Français SEP2 Parti politique REL Front national, puisMNR SEP2 Profession REL Chef d'entreprise.

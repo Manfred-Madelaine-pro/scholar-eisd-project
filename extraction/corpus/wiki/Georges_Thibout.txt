@@ -1,0 +1,46 @@
+PRETAG Georges.
+NOMTAG Thibout.
+Georges Thibout, né le 14 septembre 1878 à Paris et décédé le 22 août 1951 à Manthelan, en Indre-et-Loire, est un homme politique français. Conseiller municipal et maire d'Épinay-sur-Seine (1905-1936). Conseiller général de la Seine (1935-1941 et 1945-1949). Député de la Seine de 1919 à 1924. Président du conseil Général (1935). Docteur en droit et en médecine.
+À 20 ans, profondément chrétien, s'interrogeant sur le bonheur et le sens de la vie, il écrit dans son ouvrage Le Bonheur :
+Membre du conseil d'administration des mines de Dourges, découvertes par son arrière-grand-père Louis-Georges Mulot.
+Grand amoureux de la Nature, grand chasseur, il est membre de la Société nationale d'acclimatation qui a pour but la protection des espèces animales et végétales sauvages ainsi que les milieux naturels. Il en deviendra vice-président.
+Membre de la société Gratry pour la paix entre les nations.
+Il se marie le 1er mai 1900 avec Claire Bour, sœur d'Alfred Bour et aura 8 enfants, dont Julie Thibout, qui épousera le fils de Louis Dubois, député comme lui et ministre de la 3e république.
+Il voyagera beaucoup à travers le monde et fera des conférences sur ses voyages.
+
+
+Ses origines.
+Son grand-père Thibout, originaire d'Épinay-sur-Seine, et sa grand-mère, d'origine suisse, étaient marchands de vins à Épinay et prirent leur retraite à Paris. De leurs enfants tous périrent, sauf un, Albert Thibout, le père de Georges, qui s'installe à Paris comme employé de banque à la fin du XIXe siècle. Il épouse, à l'église de la Trinité, à Paris, Julie Mulot, petite-fille de Louis-Georges Mulot, l'ingénieur mécanicien du Puits artésien de Grenelle, foreur de nombreux puits artésiens en France, foreur et cofondateur des mines de Dourges avec la propriétaire du terrain, Mme veuve De Clercq. M. Mulot a laissé une fortune considérable à sa petite fille.
+Son enfance.
+Georges Thibout nait le 14 septembre 1878 à Paris. Sa mère meurt moins d'un an plus tard, emportée par un anthrax de la lèvre supérieure[1]. Il sera élevé par ses grands-parents Mulot, en compagnie de son oncle Louis, à Paris, rue Ballu. Son grand-père mourut alors qu'il avait cinq ans. La famille passait sept mois de l'année à Paris et les autres mois à Épinay. C'est à Épinay qu'il apprit à chasser très jeune, s'amusant à tirer sur les moineaux. Passion qu'il gardera toute sa vie.
+Il commença à aller à l'école à Épinay, dans une école libre, puis fut mis en pension à Paris. Il continua ses études au lycée Rocroy, à Paris, puis au lycée Condorcet.
+Ses études.
+À l'époque le service militaire était de 3 ans. Un moyen de s'économiser 2 ans de service était de s'engager à devenir docteur en droit ou en médecine avant 27 ans. C'est l'option qu'il choisit. Il entre donc au service militaire en 1896, à 18 ans, à Compiègne.
+Il commença son droit au sortir du service militaire. Au cours de cette année eu lieu l'affaire Dreyfus. Il termina cette première année par un voyage en Russie et composa un petit opuscule sur le bonheur.
+C'est au cours de sa deuxième année de droit qu'il rencontra celle qui devait devenir sa femme : Claire Bour, sœur de son ami Denis Bour.
+En 1903, en fin d'études de droit, il se décide à commencer des études de médecine.
+Élu conseiller municipal en 1905, puis maire en 1906, il mène de front ses études de médecine et son mandat municipal. Après l'externat il entre à l'hôpital Beaujon où il s'initie à la chirurgie des voies urinaires. Puis il fréquente l'hôpital Tenon, l'Hôtel-Dieu, l'hôpital Bretonneau, l'hôpital de la Salpêtrière, s'exerçant à diverses disciplines.
+Vie politique.
+À 24 ans, il devient maire d'Épinay-sur-Seine, mandat qu'il conservera pendant 30 ans. Il adhère au Sillon, mouvement politique et idéologique français fondé par Marc Sangnier (1873-1950) qui vise à rapprocher le catholicisme de la République en offrant aux ouvriers une alternative aux mouvements de la gauche anticléricale.
+Il fonde l'école maternelle d'Épinay en achetant sur ses propres fonds le château d'Épinay et en donnant les communs à la commune. Il donne des consultations médicales gratuites à ses administrés les plus pauvres.
+Fonde le journal politique Le Petit Démocrate de Saint-Denis avec son beau-frère Alfred Bour.
+Élu député de la Seine en 1919, il fut membre de la commission de l'enseignement et des beaux-arts et de celle de l'assurance et de la prévoyance sociale. Il fut battu aux élections de 1924.
+Président et fondateur de la Fédération des républicains démocrates de l'Île-de-France, puis du Parti démocrate populaire en 1924.
+Battu à la mairie d'Épinay en 1935 par les communistes, il devient conseiller général de Saint-Mandé-Vincennes jusqu'en 1941.
+Il participe, en 1944, à la réflexion sur le nouveau Conseil communal de Paris[2]
+Vie privée.
+Membre du conseil d'administration des mines de Dourges, découvertes par son arrière-grand-père Louis-Georges Mulot.
+Grand amoureux de la Nature, grand chasseur, il est membre de la Société nationale d'acclimatation qui a pour but la protection des espèces animales et végétales sauvages ainsi que les milieux naturels. Il en deviendra vice-président.
+Membre de la société Gratry pour la paix entre les nations.
+Il se marie le 1er mai 1900 avec Claire Bour, sœur d'Alfred Bour et aura 8 enfants, dont Julie Thibout, qui épousera le fils de Louis Dubois, député comme lui et ministre de la 3e république.
+Il voyagera beaucoup à travers le monde et fera des conférences sur ses voyages.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1924 NOMF 16 novembre 1919 – SEP2 Gouvernement REL IIIe république SEP2 Date de naissance REL 14 septembre 1878 SEP2 Date de décès REL 22 août 1951 SEP2 Résidence REL Seine.

@@ -1,0 +1,18 @@
+PRETAG Gilbert.
+NOMTAG Mury.
+Gilbert Mury est un philosophe et homme politique français, né le 12 février 1920 à Paris, mort le 16 mai 1975 à Rueil-Malmaison.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français) jusqu'en 1966.
+PART 1966 (1966).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

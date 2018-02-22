@@ -1,0 +1,24 @@
+PRETAG Louis.
+NOMTAG Guillois.
+Louis Anne Marie Joseph Guillois, né le 23 février 1872 à Merdrignac (Côtes-du-Nord) et mort le 19 septembre 1952 à Ploërmel, est un homme politique français, sénateur puis député[1].
+
+
+
+Fils d'Eugène Guillois et de Joséphine Bachelard, un couple de commerçants profondément catholiques de Merdignac, il fait des études de médecine et s'installe à Ploërmel où il se marie en 1901 avec Virginie Martineau, qui lui donnera quatre enfants[2].
+Maire de Ploërmel de 1904 à 1952, Louis Guillois est élu sénateur du Morbihan le 11 janvier 1920 et réélu en 1924, sous l'étiquette de la Fédération républicaine. Il démissionne de son mandat de sénateur en 1932 pour rejoindre l'Assemblée nationale[3] ; il devient député le 1er mai 1932 mais ne sera pas réélu en 1936. Il s'éloigne alors de la vie politique pour se consacrer à ses mandats locaux de conseiller général du Morbihan et de maire.
+Il est le beau-père du maire de Lorient Louis Glotin[4].
+Il est le grand père du LV Fauve qui commandait le sous-marin Minerve lors de sa disparition le 27 janvier 1968.
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+FONCTIONNORM
+
+NOMF Député du Morbihan NOMF 1er juin 1932 – 31 mai 1936 SEP2 Élection REL 1er mai 1932 SEP2 Législature REL XVe.
+NOMF Sénateur du Morbihan NOMF 1920 – 1932 SEP2 Élection REL 11 janvier 1920 SEP2 Réélection REL 1924.
+NOMF Conseiller général du canton de Ploërmel NOMF 1907 – 1940 SEP2 Prédécesseur REL Arthur de Préaudeau SEP2 Successeur REL vacant SEP2 Prédécesseur REL vacant SEP2 Successeur REL Robert Guillois SEP2 Prédécesseur REL François Goupil SEP2 Successeur REL Jean Toutain SEP2 Date de naissance REL 23 février 1872 SEP2 Lieu de naissance REL Merdrignac (Côtes-du-Nord, France) SEP2 Date de décès REL 19 septembre 1952 (à 80 ans) SEP2 Lieu de décès REL Ploërmel (Morbihan, France) SEP2 Nationalité REL  France SEP2 Parti politique REL Fédération républicaine SEP2 Père REL Eugène Guillois SEP2 Mère REL Joséphine Bachelard SEP2 Conjoint REL Virginie Martineau SEP2 Enfants REL 4 enfants SEP2 Profession REL Médecin.

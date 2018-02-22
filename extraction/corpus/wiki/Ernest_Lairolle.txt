@@ -1,0 +1,19 @@
+PRETAG Ernest.
+NOMTAG Lairolle.
+Ernest Lairolle était un homme politique français, né à Gap le 23 mars 1851 et mort à Nice le 8 septembre 1926, député des Alpes-Maritimes sous la Troisième République.
+
+
+
+De son vrai nom Ernest Conduzorgues de Lairolle, il fait des études de droit et devient avocat à Nice.
+Il commence sa carrière politique en devenant conseiller général de Menton en août 1883. Adversaire d'Alfred Borriglione, il est ensuite élu conseiller général de Nice-Ouest en mars 1894. Il devient enfin député en 1910, adhère au groupe des Républicains progressistes, proche de la Fédération républicaine, puis à la Gauche démocratique, proche de l'Alliance démocratique en 1914. Entre-temps, il a été élu conseiller général de Breil-sur-Roya en 1911.
+Ernest Lairolle a joué un rôle très important dans la vie politique à Nice, à partir des années 1880.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1910-1919 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP2 Groupe politique REL RP (1910-1914)GD (1914-1919) SEP2 Date de naissance REL 23 mars 1851 SEP2 Date de décès REL 8 septembre 1926 (à 75 ans) SEP2 Résidence REL Alpes-Maritimes.

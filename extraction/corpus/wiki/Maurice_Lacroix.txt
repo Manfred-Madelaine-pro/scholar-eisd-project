@@ -1,0 +1,33 @@
+PRETAG Maurice.
+NOMTAG Lacroix.
+Maurice Lacroix est un helléniste, enseignant, lexicographe, résistant, syndicaliste et homme politique français, né le 28 août 1893 à Pignols (Puy-de-Dôme) et mort le 13 janvier 1989 à Champeix (Puy-de-Dôme).
+Il est l'auteur, en collaboration avec Victor Magnien, professeur de philologie grecque et latine à la faculté des Lettres de Toulouse, du volumineux Dictionnaire grec-français (éditions Belin, 1re éd. 1969), seul à pouvoir rivaliser avec celui d'Anatole Bailly.
+
+
+
+Fils d'un professeur de l'école privée, entré à l'École normale supérieure en 1912, agrégé de Lettres en 1919, Maurice Lacroix consacre sa vie à l'enseignement des langues anciennes et à la défense de la culture classique. Affecté d'abord au lycée de Bourges, puis de Clermont-Ferrand, il enseigne deux ans à l'école d'Athènes avant de reprendre des cours en France, dans les lycées Carnot, puis Janson-de-Sailly. Affecté au Lycée Félix-Faure de Beauvais après la première guerre mondiale, il enseigne après son succès à l'agrégation à Troyes jusqu'en 1927, année où il intègre le cadre parisien. Affecté en hypokhâgne (1930) et khâgne (1935) du lycée Henri-IV, à Paris, il y acheva sa carrière, en 1959.
+Directeur d'études à l'Ecole normale supérieure en 1928, il participe en 1931 au quatrième cours universitaire de Davos, avec de nombreux autres intellectuels français et allemands. Bien longtemps après sa retraite, il continue à entraîner les étudiants à l'art du thème grec, aussi bien à la Sorbonne (Paris IV) qu'à l'institut Sévigné ou à l'École normale supérieure de Saint-Cloud.
+Outre ses activités intellectuelles, Maurice Lacroix est surtout connu pour ses engagements politiques. Elevé dans la foi catholique, il découvre les positions de Marc Sangnier dès les années 1910 et rejoint la Jeune République. Il est candidat aux législatives de 1924 à Paris sur la liste JR menée par Sangnier, dont il est devenu un proche.
+Membre d'une association amicale des professeurs de lycées, il est favorable à la transformation de la fédération des amicales en syndicat. Face au refus de la majorité des "amicalistes", il participe à la création d'un syndicat affilié à la CGT, dont la direction est assurée par Ludovic Zoretti, tout en pratiquant la "double affiliation" avec la fédération des amicales.
+Membre du bureau national de la fédération devenue syndicat autonome en 1925, il en devient le secrétaire général de 1926 à 1934, sous la présidence d'Edmond Lackenbacher, lui aussi partisan d'une adhésion du syndicat à la CGT.
+Après plusieurs nouveaux échecs de la direction du syndicat à faire adopter une affiliation à la CGT, il démissionne en même temps que le président de ses fonctions au sein du bureau, puis, en 1937, suit la minorité qui décide de quitter le syndicat autonome pour créer le Syndicat du personnel de l'enseignement secondaire, affilié à la CGT, et ancêtre du Syndicat national des enseignements de second degré (SNES).
+Parallèlement à cet engagement syndical, il est aussi très actif dans la "franco-ancienne" ("Société des professeurs de français et de langues anciennes de l’enseignement secondaire public"), dont il devient le vice-président. Il échoue cependant en 1938 à s'en faire élire président, la majorité restant opposée à ses engagements en faveur de la CGT.
+Il est à la même époque un des administrateurs du Comité de vigilance des intellectuels anti-fascistes, et participe avec Georges Hoog comme représentant de la JR à la rédaction du programme du Front populaire, obtenant notamment l'abandon des revendications laïques d'inspiration anti-cléricales pour des formulations plus générales sur la laïcité de l'école et de l'Etat.
+Pendant la guerre, tout en poursuivant ses activités intellectuelles, il est engagé dans le réseau de résistance issu de la Jeune République. Membre du Comité de libération de Paris, au titre du Mouvement de libération nationale, en 1944, il est membre du bureau national provisoire du SNES, constitué quelques semaines après la libération de la capitale.
+Il se tourne alors cependant vers l'action politique plutôt que syndicale. Opposé à Sangnier qui décide de rallier le Mouvement Républicain Populaire, Maurice Lacroix est candidat "indépendant" en deuxième position sur une liste menée par Paul Rivet et soutenue par la SFIO lors de l'élection de l'Assemblée consituante d'avril 1945.
+Elu député, il siège au sein du groupe de l'UDSR. Lors des élections de juin 1946, la SFIO décida cependant de ne pas le représenter, au profit de Robert Verdier.
+En 1946, il prend la présidence de la "franco-ancienne", dont il a participé à la reconstitution, en collaboration avec Jeanne Lac. Bien que n'étant pas membre des instances dirigeantes du SNES, il est élu avec le soutien de son syndicat dans les conseils supérieurs de 1946 à 1962. Ses positions intransigeantes sur l'enseignement des humanités classiques finissent par le marginaliser au sein de son syndicat, notamment lorsqu'il prend position contre la création d'une agrégation de lettres modernes, pourtant demandée par le SNES.
+Parallèlement, on le retrouve dans les diverses organisations de la "deuxième" gauche des années 1950 : au centre d'action des gauches indépendantes, aux côtés de Claude Bourdet, puis, après un passage à l'Union démocratique du travail où il côtoie des gaullistes de gauche, à la "nouvelle gauche", puis à l'Union de la gauche socialiste.
+Membre du bureau national de l'Union des forces démocratiques en 1958, il adhère au Parti socialiste autonome à la fin de cette année, et milite ensuite au Parti socialiste unifié (PSU).
+Ayant quitté la présidence de la "franco-ancienne" à son départ en retraite, en 1959, il reste cependant actif dans l'association, qui vit cependant un déclin accéléré.
+Farouchement opposé à la disparition du latin en 6ème, décidé après 1968, il abandonne alors toute activité militante pour se consacrer entièrement à la rédaction d'un dictionnaire grec-français et à l'édition de textes grecs anciens.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1945 – 1946 SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL UDSR SEP2 Date de naissance REL 28 août 1893 SEP2 Date de décès REL 13 janvier 1989 (à 95 ans) SEP2 Résidence REL Seine.

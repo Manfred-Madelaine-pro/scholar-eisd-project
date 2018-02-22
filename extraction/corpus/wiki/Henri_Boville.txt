@@ -1,0 +1,16 @@
+PRETAG Henri.
+NOMTAG Boville.
+Henri Boville, né en 1896 à Faget-Abbatial (Gers), est un syndicaliste et homme politique français. En 1922, il devient membre de la commission exécutive de la CGTU et le demeure jusqu'en 1929. Il meurt en 1978.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

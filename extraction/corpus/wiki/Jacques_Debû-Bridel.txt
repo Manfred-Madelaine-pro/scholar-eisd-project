@@ -1,0 +1,25 @@
+PRETAG Jacques.
+NOMTAG Debû-Bridel.
+Jacques Debû-Bridel (Mézières-en-Drouais, Eure-et-Loir, 22 août 1902 - Paris, 20 octobre 1993 (à 91 ans)) est un homme politique français. Résistant (membre du Conseil national de la Résistance), député (1944-1945), sénateur gaulliste (RPF) (1948-1958), directeur des informations de Radio Monte-Carlo (1960-1967), un des leaders du gaullisme de gauche (Union démocratique du travail).
+
+
+
+Jacques Debû-Bridel est le fils de Gabriel Debû, pasteur, et d'Ernestine Bridel. De culture protestante, diplômé de l'École libre des sciences politiques, il se lance dans le journalisme, les lettres et la politique.
+D'abord proche de Charles Maurras et de l'Action française, il devient membre du mouvement Le Faisceau et se joindra ensuite à la Fédération républicaine de Louis Marin.
+Il rentre au cabinet d'André Tardieu dans les années 1930. Parallèlement il entame une carrière littéraire à La NRF où il se lie d'une amitié indéfectible avec Jean Paulhan. Frères esclaves paraît en 1934, Jeunes ménages obtient le prix Interallié en 1935. Militant anti-nazi dès 1935, il entre en résistance dès octobre 1940, à l'Organisation Civile et Militaire et au NAP (Noyautage de l'Administration Publique).
+En septembre 1941, à l'initiative de Jean Paulhan, il rencontre Jacques Decour. Les trois hommes, bientôt rejoints par Jean Blanzat, sont à l'origine du Comité national des écrivains. En 1943, il est membre du Conseil national de la Résistance (CNR) en tant que représentant de la Fédération républicaine (parti de la droite catholique), et contribue à la rédaction du Journal du Front national. Son frère Étienne, lieutenant pilote au groupe Lorraine, meurt au combat le 29 juillet 1944. En 1944, Jacques Debû-Bridel est désigné par le général de Gaulle pour faire partie de l'Assemblée Consultative Provisoire. Ses deux témoignages, Déroute et Sous la cendre, restent fondamentaux pour la période et doivent beaucoup à l'aide de Jean Paulhan.
+En 1947, Jacques Debû-Bridel rejoint le Rassemblement du peuple français (RPF) fondé par le général de Gaulle. Il est élu sénateur de la Seine (1948-1958).
+Au cours des années 1960, Jacques Debû-Bridel est directeur des informations de Radio Monte-Carlo (1960-1967) et en même temps un des dirigeants de l'Union démocratique du travail (UDT), le grand parti gaulliste de gauche qui fusionne en 1962 avec l'UNR pour réunir les gaullistes au sein de l'UDR.
+Constatant l'éparpillement des gaullistes de gauche à la fin des années 1970 et ne se reconnaissant pas dans le néo-gaullisme du RPR, il fonde la Nouvelle Union Démocratique du Travail (nouvelle UDT) en 1979.
+Ses archives privées ont été dispersées à Chartres le 30 mai 2010.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .
+NOMF Sénateur de la Quatrième République (d) NOMF .

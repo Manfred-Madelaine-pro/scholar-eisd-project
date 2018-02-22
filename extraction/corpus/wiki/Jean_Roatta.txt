@@ -1,0 +1,25 @@
+PRETAG Jean.
+NOMTAG Roatta.
+Jean Roatta, né le 13 décembre 1941 à Marseille (Bouches-du-Rhône), est un homme politique français.
+
+
+
+Il est élu député le 16 juin 2002, pour la XIIe législature (2002-2007), dans la 3e circonscription des Bouches-du-Rhône. Il fait partie du groupe UMP.
+Il est membre du groupe d'études sur la question du Tibet de Assemblée nationale[1].
+Il a été réélu au second tour des élections législatives de 2007 face à Patrick Mennucci.
+Le 6 décembre 2011, Jean Roatta est élu député européen, de même que l'écologiste Yves Cochet, par l'Assemblée nationale, dans le cadre d'une procédure exceptionnelle visant à faire désigner les deux eurodéputés supplémentaires prévus par le traité de Lisbonne par la Chambre et non par le suffrage universel. À l'approche des élections législatives de juin 2012, son siège reste vacant.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF).
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (LR).
+FONCTIONNORM
+
+NOMF Député européen NOMF 6 décembre 2011 – 1er juillet 2014(2 ans, 6 mois et 25 jours) SEP2 Législature REL 7e SEP2 Groupe politique REL PPE SEP2 Successeur REL Renaud Muselier.
+NOMF Député des Bouches-du-RhôneÉlu dans la 3e circonscription NOMF 2 avril 1993 – 6 décembre 2011(18 ans, 8 mois et 4 jours) SEP2 Prédécesseur REL Philippe Sanmarco SEP2 Successeur REL Sylvie Andrieux SEP2 Prédécesseur REL Jean-Claude Imbert SEP2 Successeur REL Patrick Mennucci SEP2 Date de naissance REL 13 décembre 1941 (76 ans) SEP2 Lieu de naissance REL Marseille (Bouches-du-Rhône) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF(jusqu'en 2002)UMP(2002-2015)LR(depuis 2015).

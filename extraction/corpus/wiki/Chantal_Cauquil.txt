@@ -1,0 +1,19 @@
+PRETAG Chantal.
+NOMTAG Cauquil.
+Chantal Cauquil, née le 3 juillet 1949 à Montauban, est une femme politique française, membre du parti Lutte ouvrière.
+Elle a été députée européenne, élue sur la liste LO/LCR en 1999. Elle a siégé au groupe Gauche unitaire européenne/Gauche verte nordique de 1999 à 2004.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Lutte ouvrière (Lutte ouvrière).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Députée européenne NOMF .

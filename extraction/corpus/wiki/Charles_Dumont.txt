@@ -1,0 +1,15 @@
+PRETAG Charles.
+NOMTAG Dumont.
+Charles Dumont est un homme politique français, né le 31 août 1867 à Ajaccio (Corse-du-Sud) et mort le 22 avril 1939 à Meulan (Yvelines).
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1898-1924Sénateur 1924-1939 NOMF 1898 – SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL GRD (1919-1924) SEP2 Date de naissance REL 31 août 1867 SEP2 Date de décès REL 22 avril 1939 (à 71 ans) SEP2 Résidence REL Jura.

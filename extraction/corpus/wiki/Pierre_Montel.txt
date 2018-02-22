@@ -1,0 +1,16 @@
+PRETAG Pierre.
+NOMTAG Montel.
+Pierre Montel, né le 13 décembre 1896 à Lyon (Rhône) et décédé le 13 janvier 1967 au même lieu, est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1946-1958 NOMF GouvernementQuatrième République SEP2 Gouvernement REL Quatrième République SEP2 Groupe politique REL PRL (1946-1951)RI (1951-1955)IPAS (1956-1958) SEP2 Date de naissance REL 13 décembre 1896 SEP2 Lieu de naissance REL Lyon SEP2 Date de décès REL 13 janvier 1967 (à 70 ans) SEP2 Lieu de décès REL Lyon SEP2 Résidence REL Rhône.

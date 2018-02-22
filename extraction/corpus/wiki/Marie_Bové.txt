@@ -1,0 +1,27 @@
+PRETAG Marie.
+NOMTAG Bové.
+Marie Bové est une femme politique française née en 1975 en Gironde. Elle a été membre d'Europe Écologie-Les-Verts jusqu'à la fin 2015.
+
+
+
+Études et carrière professionnelle.
+Après une maîtrise d'histoire à l'université Bordeaux Montaigne sur le thème de la traite négrière[1], elle s'engage dans l'humanitaire auprès du Comité catholique contre la faim et pour le développement pour le compte duquel elle voyagera à travers les cinq continents pendant 7 ans avant de revenir vivre à Bordeaux où elle rejoint le cabinet des élus socialistes de la communauté urbaine de Bordeaux.
+Elle est la fille de l'eurodéputé José Bové2, membre de EELV.
+Carrière politique.
+En octobre 2009, Noël Mamère, le député-maire de Bègles, renonce3 à diriger les écologistes aux élections régionales de 2010 et annonce soutenir la candidature de Marie Bové. Cette annonce suscite un fort ressentiment chez les adhérents des Verts, et elle préfère très vite revoir ses ambitions à la baisse pour se contenter de la tête de la liste du département de la Gironde4. Elle est élue conseillère régionale d'Aquitaine en 2010.
+Depuis 2011, elle est membre du bureau exécutif d'EELV, d'abord chargée des mobilisations citoyennes, puis de l'international.
+En 2014, un accord qui sera source de désaccords entre EELV et le PS amène EELV et le PS à se présenter sur la même liste. Marie Bové rejoint donc, la liste d'ouverture5 de Vincent Feltesse, candidat socialiste à la mairie de Bordeaux contre Alain Juppé, mais positionnée en 58e place, ne fut pas élue conseillère municipale.
+Lors de la préparation des listes pour les élections régionales françaises de 2015, Marie Bové publie une lettre ouverte à l'attention de la direction d'EELV dénonçant les logiques d'appareil au sein du parti qui poussent à exclure les militants et à privilégier les apparatchiks et menace6 de mener une liste citoyenne d'union de la gauche.
+Elle officialise le 20 octobre 20157 le lancement de la liste La Vague Citoyenne, porté par une mobilisation citoyenne sans le soutien des partis politiques8 9. La liste récolte 1,8 % des suffrages au premier tour de ces élections le 6 décembre 201510.
+
+
+
+
+
+
+
+PARTISNORM
+PART Europe Écologie Les Verts (EELV).
+FONCTIONNORM
+
+NOMF Conseiller régional d'Aquitaine NOMF En fonction depuis le 21 mars 2010 SEP2 Élection REL 21 mars 2010 SEP2 Nom de naissance REL Marie Bové SEP2 Date de naissance REL 1975 SEP2 Lieu de naissance REL Gironde SEP2 Nationalité REL française SEP2 Parti politique REL EELV puis La Vague Citoyenne SEP2 Père REL José Bové.

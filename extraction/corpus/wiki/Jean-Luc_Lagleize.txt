@@ -1,0 +1,22 @@
+PRETAG Jean-Luc.
+NOMTAG Lagleize.
+Jean-Luc Lagleize, né le 9 septembre 1958[1] à Tarbes, est un homme politique français. Il est l'actuel député de la 2e circonscription de la Haute-Garonne[2].
+
+
+
+Originaire des Pyrénées, il poursuit des études scientifiques à Toulouse (Doctorat en Informatique), puis lance dès la fin de ses études une startup développant un logiciel bureautique. Il exerce ensuite des fonctions commerciales puis de direction dans des PME régionales, ainsi que dans des grands groupes comme Thales et Capgemini. Il occupe successivement divers postes à Paris, Toulouse et Bordeaux[3].
+Il reprend des études en 2005 à l’université de Clermont-Ferrand (Licence en sciences économiques et Master en Gestion de Patrimoine). Il crée Info Patrimoine, une société spécialisée dans le conseil patrimonial et financier auprès de laquelle il continue à collaborer[3].
+Engagé dans la vie citoyenne depuis 1988, il a été conseiller municipal à Muret de 1989 à 1995 puis à Toulouse de 2008 à 2014. Il est président départemental du MoDem depuis 2011[3].
+En avril 2014, il est élu adjoint au maire de Toulouse sur une liste plurielle « centre / droite / société civile ». Il est chargé des Cœurs de Quartiers et des relations avec l’ANRU. Il est également président de la commission « Aménagement & Politique Foncière » au sein de Toulouse Métropole[3].
+
+
+
+
+
+
+
+PARTISNORM
+PART Mouvement démocrate (MoDem).
+FONCTIONNORM
+
+NOMF Député de la 2e circonscription de la Haute-Garonne NOMF En fonction depuis le 21 juin 2017(7 mois et 21 jours) SEP2 Élection REL 18 juin 2017 SEP2 Législature REL XVe SEP2 Groupe politique REL MoDem SEP2 Prédécesseur REL Gérard Bapt SEP2 Date de naissance REL 9 septembre 1958 (59 ans) SEP2 Lieu de naissance REL Tarbes (Hautes-Pyrénées) SEP2 Nationalité REL Française SEP2 Parti politique REL MoDem SEP2 Diplômé de REL Université d'Auvergne SEP2 Profession REL Gestionnaire de patrimoine.

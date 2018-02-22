@@ -1,0 +1,15 @@
+PRETAG Jean_de.
+NOMTAG Viguerie.
+Jean de Viguerie, né le 24 février 1935 à Rome, est un historien français.
+Il est spécialiste de l'Histoire de France au XVIIIe siècle et du catholicisme français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM

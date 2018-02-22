@@ -1,0 +1,20 @@
+PRETAG Pierre.
+NOMTAG Brizon.
+Pierre Brizon, né le 16 mai 1878 à Franchesse (Allier) et décédé le 1er août 1923 à Paris, est un homme politique français.
+
+
+
+Il est professeur de l’enseignement supérieur. Il est élu député socialiste de l'Allier de 1910 à 1919. Libre-penseur et pacifiste internationaliste, il soutient les luttes ouvrières et écrit avec de nombreux articles dans des journaux socialistes.
+En 1910 et 1914, il est élu député de l’Allier, et se signale par sa défense des métayers[1]. En 1914, comme l'intégralité des élus de la SFIO, il rejoint l’Union sacrée[2]. Cependant, sa position sur la guerre évolue au cours du conflit. En 1916, il participe à la Conférence de Kiental de l'Internationale socialiste. Puis, le 24 juin 1916, il fait partie avec Jean-Pierre Raffin-Dugens et Alexandre Blanc, des trois députés qui refusèrent pour la première fois en France le vote des crédits de guerre[3].
+Battu aux législatives de 1919, il ne participe pas au congrès de Tours qui voit la naissance du Parti communiste français. Il y adhère ensuite éphémèrement, puisqu'il en est exclu en octobre 1922. Il rejoint alors le Parti socialiste communiste aux côtés d'autres exclus du PC.
+Homme de presse, il lance en janvier 1918 la Vague, puis, après avoir dû l’abandonner, il publie le Bloc des rouges.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1910-1919) NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL SFIO SEP2 Date de naissance REL 16 mai 1878 SEP2 Date de décès REL 1er août 1923 (à 45 ans) SEP2 Résidence REL Allier.

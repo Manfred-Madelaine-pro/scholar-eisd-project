@@ -1,0 +1,32 @@
+PRETAG Adrien.
+NOMTAG Gouteyron.
+Adrien Gouteyron, né le 13 mai 1933 à Rosières (Haute-Loire), est un haut fonctionnaire et homme politique français, membre du Rassemblement pour la République (RPR) puis de l'Union pour un mouvement populaire (UMP).
+
+
+
+Fils d'un commerçant de Rosières (Haute-Loire)[1], il poursuit ses études au Pensionnat Notre-Dame-de-France du Puy-en-Velay, puis au lycée du Parc (Lyon) et à la Faculté des lettres d'Aix-en-Provence[1]. À 25 ans, il est reçu à l'agrégation de lettres[2], et commence une carrière de professeur de lycée[3] dans l'Éducation nationale, qui le mène successivement à Barcelonnette[4], à Armentières[5], à Roanne et au Puy-en-Velay[1].
+Devenu inspecteur d'académie (1966-1970)[1], proche du mouvement gaulliste[6], il participe après 1971 aux cabinets ministériels des ministres successifs de l'Éducation nationale : Olivier Guichard (UDR), Joseph Fontanet (CDP) et René Haby (RI)[1]. Enfin, en 1975, il est nommé par ce dernier inspecteur général de l'Instruction publique et, parallèlement, directeur d'administration centrale.
+Parallèlement à ses activités professionnelles, il commence dans les années 1960 une carrière d'élu dans son département d'origine, la Haute-Loire. Après un mandat au conseil municipal du Puy-en-Velay[5], sous la mandature de Célestin Quincieu[7], et un échec aux élections législatives de 1973, il remporte trois ans plus tard le poste de conseiller général de Vorey[8]. Dès lors, il devient vice-président du conseil général (1976-2008) puis, en 1989, maire de Rosières, sa commune natale de l'Emblavez, fonctions dans lesquelles il a été constamment reconduit depuis lors[8].
+Activité sénatoriale.
+Le 11 juin 1978, il remporte l'élection sénatoriale partielle organisée à la faveur de la démission de Jean Proriol, devenu député[9], et devient sénateur de Haute-Loire. Il est réélu aux scrutins ultérieurs de 1983, 1992 et 2001.
+Au Palais du Luxembourg, il s'impose comme un spécialiste des questions de culture et d'éducation. Président de la commission des affaires culturelles de 1995 à 2001, membre du bureau de la section française de l'Assemblée parlementaire de la francophonie (APF), membre du groupe français de l'Union interparlementaire (UIP), il est finalement élu vice-président du Sénat le 3 octobre 2001, poste qu'il conserve jusqu'en 2008.
+En 2011, il annonce son intention de ne pas se représenter aux élections sénatoriales, mettant ainsi un terme à sa carrière parlementaire[8], à l'issue de trente-trois années de mandat.
+Activité politique.
+Sur le plan politique, après avoir été brièvement membre du comité central de l'UDR (1975-1976), Adrien Gouteyron retrouve des responsabilités nationales en 1999, à la faveur de l'élection de Michèle Alliot-Marie à la présidence du Rassemblement pour la République (RPR). Nommé par cette dernière secrétaire général du parti gaulliste[10], il succède ainsi au jeune Nicolas Sarkozy et occupe cette fonction de décembre 1999 à avril 2001, date à laquelle il est remplacé par le sénateur-maire de Bourges, Serge Lepeltier.
+En 2002, il rejoint la nouvelle Union pour un mouvement populaire (UMP), même s'il déclare par la suite ne pas avoir été « spontanément »[11] favorable à un tel regroupement et ne pas s'y sentir toujours « très à l’aise »[11].
+En Haute-Loire, il constitue, avec le député Marcel Raffier, ayant appartenu à l'UNR, l'une des très rares figures du gaullisme dans un département très marqué par le courant démocrate-chrétien.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union des démocrates pour la République (UDR).
+PART Rassemblement pour la République (RPR).
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Sénateur de la Haute-Loire NOMF 11 juin 1978 – 30 septembre 2011(33 ans, 3 mois et 19 jours) SEP2 Élection REL 19 mars 1978 SEP2 Prédécesseur REL Jean Proriol (RI) SEP2 Successeur REL Gérard Roche (DVD) SEP2 Prédécesseur REL Gérard Roche (DVD) SEP2 Successeur REL Gérard Roche.
+NOMF Conseiller général de la Haute-LoireÉlu dans le canton de Vorey NOMF 19 mars 1976 – 21 mars 2008(32 ans et 2 jours) SEP2 Prédécesseur REL Benoît Ranchoux (DVG) SEP2 Successeur REL Georges Boit (UMP) SEP2 Date de naissance REL 13 mai 1933 (84 ans) SEP2 Lieu de naissance REL Rosières(Haute-Loire) SEP2 Nationalité REL française SEP2 Parti politique REL UDRRPRUMP SEP2 Diplômé de REL Faculté des lettres d'Aix-en-Provence SEP2 Profession REL Inspecteur général honoraire de l'Éducation nationale.

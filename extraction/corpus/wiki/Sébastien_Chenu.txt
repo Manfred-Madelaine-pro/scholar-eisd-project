@@ -1,0 +1,43 @@
+PRETAG Sébastien.
+NOMTAG Chenu.
+Sébastien Chenu, né le 13 avril 1973 à Beauvais, est un homme politique français.
+Membre du Parti républicain, de Démocratie libérale, puis de l'UMP, il participe à la fondation de l'association GayLib, association de défense des droits LGBT au sein de l'UMP. Il est ensuite secrétaire général de ce parti, chargé de la diversité culturelle.
+En 2014, il rejoint le Rassemblement bleu Marine (RBM), mouvement rattaché au Front national (FN). Devenu collaborateur de Marine Le Pen, il est nommé délégué national du RBM. Lors des élections législatives de 2017, il est élu député dans la dix-neuvième circonscription du Nord. Il devient peu après porte-parole du Front national.
+
+
+
+Famille et vie privée.
+Sébastien Chenu est le fils d’un marchand de meubles et d'une fonctionnaire de justice à la retraite[4]. En 2016, il est en couple avec un consultant en mode[5].
+Parcours professionnel.
+De 1996 à 2001, Sébastien Chenu occupe plusieurs fois le poste de directeur de cabinet : d'abord, de 1997 à 1999, auprès du maire d'Eaubonne (Val-d’Oise, Île-de-France), puis de 1999 à 2001, celui d'Axel Poniatowski, maire de L’Isle-Adam (Val-d'Oise). Dans le même temps, il est également l'attaché parlementaire d'Anne-Christine Poisson au Parlement européen.[réf. nécessaire]
+De 2002 à 2005, Sébastien Chenu occupe plusieurs fois le poste de chef-adjoint de cabinet : d'abord, entre 2001 et 2002, celui de François Seillier, conseiller général du Val-d'Oise, puis, entre 2002 et 2004, celui du député Axel Poniatowski. Enfin, entre 2004 et 2005, il devient conseiller de Nicole Guedj, secrétaire d’État à la Justice.
+De 2005 à 2007, Sébastien Chenu est chef de cabinet de Christine Lagarde, ministre du Commerce extérieur.
+De 2007 à 2008, il devient directeur adjoint de la communication de France 24, chaîne d’informations internationale.
+D’août 2008 à septembre 2012, Sébastien Chenu est conseiller auprès du Délégué interministériel à la communication du gouvernement et directeur du Service d’information du gouvernement (SIG).
+En 2012, il fonde SCConseils, une agence-conseil en communication institutionnelle, spécialisée notamment en affaires publiques, en relations publiques et en gestion de l'e-réputation.
+Parcours politique.
+
+
+
+
+
+De 1996 à 2001, Sébastien Chenu occupe plusieurs fois le poste de directeur de cabinet : d'abord, de 1997 à 1999, auprès du maire d'Eaubonne (Val-d’Oise, Île-de-France), puis de 1999 à 2001, celui d'Axel Poniatowski, maire de L’Isle-Adam (Val-d'Oise). Dans le même temps, il est également l'attaché parlementaire d'Anne-Christine Poisson au Parlement européen.[réf. nécessaire]
+De 2002 à 2005, Sébastien Chenu occupe plusieurs fois le poste de chef-adjoint de cabinet : d'abord, entre 2001 et 2002, celui de François Seillier, conseiller général du Val-d'Oise, puis, entre 2002 et 2004, celui du député Axel Poniatowski. Enfin, entre 2004 et 2005, il devient conseiller de Nicole Guedj, secrétaire d’État à la Justice.
+De 2005 à 2007, Sébastien Chenu est chef de cabinet de Christine Lagarde, ministre du Commerce extérieur.
+De 2007 à 2008, il devient directeur adjoint de la communication de France 24, chaîne d’informations internationale.
+D’août 2008 à septembre 2012, Sébastien Chenu est conseiller auprès du Délégué interministériel à la communication du gouvernement et directeur du Service d’information du gouvernement (SIG).
+En 2012, il fonde SCConseils, une agence-conseil en communication institutionnelle, spécialisée notamment en affaires publiques, en relations publiques et en gestion de l'e-réputation.
+Parcours politique.
+
+
+PARTISNORM
+PART Parti républicain (PR) 1988-1997.
+PART Démocratie libérale (parti politique) (DL) 1997-2002.
+PART Union pour un mouvement populaire (UMP) 2002-2014.
+PART Rassemblement bleu Marine (RBM) depuis 2014.
+FONCTIONNORM
+
+NOMF Président NOMF Député français.
+NOMF Député français NOMF En fonction depuis le 21 juin 2017(7 mois et 21 jours) SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 19e du Nord SEP2 Législature REL XVe SEP2 Groupe politique REL Non-inscrits SEP2 Prédécesseur REL Anne-Lise Dufour-Tonini.
+NOMF Conseiller régional de Hauts-de-France NOMF En fonction depuis le 4 janvier 2016(2 ans, 1 mois et 7 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Président NOMF Groupe politiqueFN - RBM SEP2 Groupe politique REL FN - RBM SEP2 Maire REL Caroline Cayeux SEP2 Date de naissance REL 13 avril 1973 (44 ans) SEP2 Lieu de naissance REL Beauvais (Oise)[1] SEP2 Nationalité REL française SEP2 Parti politique REL PR (1988-1997)DL (1997-2002)UMP (2002-2014)RBM (depuis 2014)[2],[3]FN (depuis 2016) SEP2 Diplômé de REL Écoles des hautes études internationales et politiques SEP2 Profession REL Consultant en communication politique.

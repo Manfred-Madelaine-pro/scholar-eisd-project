@@ -1,0 +1,22 @@
+PRETAG Philippe.
+NOMTAG Serre.
+Philippe Serre est un homme politique français né le 4 mars 1901 à Paris[1] et mort le 18 septembre 1991 dans la même ville.
+
+
+
+Fils d'un avocat, Philippe Serre fait des études de droit à la faculté de Paris, jusqu'au doctorat et suit les cours de l'École libre des sciences politiques. Il s'inscrit au barreau de Paris et devient avocat auprès de la cour d'appel dès 1927. De 1929 à 1930, il est secrétaire de la conférence des avocats. Son engagement pacifiste lui fait rejoindre le mouvement démocrate-chrétien de Marc Sangnier, la Ligue de la Jeune République. Au côté de ce dernier, il participe à de nombreuses conférences sur le problème de la paix et adhère à l'Association juridique internationale.
+Candidat « indépendant de gauche » aux élections législatives de 1932 à Briey, il parvient, à la surprise générale, à contraindre le puissant maître des forges, François de Wendel, constamment réélu depuis 1914, au ballotage, 53 voix seulement les séparant. À la suite de semi-échec, Wendel se fait élire au Sénat fin 1932 pour éviter une éventuelle défaite aux élections suivantes. Facilement élu en avril 1933 dans la circonscription laissée vacante, Philippe Serre est réélu en 1936[2], dès le premier tour, avec le soutien du Front populaire. À la Chambre, il siège comme indépendant de gauche et participe à la commission de l'Administration générale, départementale et communale ; à la commission de l'Enseignement et des beaux-arts ; à la commission de l'Aéronautique ; et à la commission d'enquête sur l'affaire Stavisky.
+Lié au colonel De Gaulle, il est un des premiers à soutenir les idées de réorganisation de la défense nationale prônées par ce dernier.
+Il est nommé sous-secrétaire d'État au Travail dans le troisième gouvernement Chautemps (juin 1937-janvier 1938) et dans le deuxième gouvernement Blum (mars-avril 1938) ainsi que sous-secrétaire d'État à la présidence du Conseil, chargé des services de l'immigration, dans le gouvernement Chautemps remanié (janvier-mars 1938).
+Le 10 juillet 1940, Philippe Serre vote contre les pleins pouvoirs à Philippe Pétain. Fermement opposé au gouvernement de Vichy, il s'engage dans le mouvement Résistance.
+Après-guerre, il refuse de rejoindre le MRP. Isolé entre la SFIO, qu'il juge trop dogmatique, et ce nouveau parti, trop conservateur à son goût, il s'éloigne progressivement de la vie politique.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de Meurthe-et-Moselle (1933-1940) NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL IDG (1933-1936)PJR (1936-1941) SEP2 Date de naissance REL 4 mars 1901 SEP2 Date de décès REL 18 septembre 1991.

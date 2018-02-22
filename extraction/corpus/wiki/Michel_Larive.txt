@@ -1,0 +1,24 @@
+PRETAG Michel.
+NOMTAG Larive.
+Michel Larive, né le 22 août 1966 à Paris[1], est un homme politique français. Membre de La France insoumise, il est élu député de la 2e circonscription de l'Ariège le 18 juin 2017. Il siège à la commission des affaires culturelles et de l'éducation.
+
+
+Michel Larive est originaire d'Ercé[2].
+Formateur, Michel Larive travaille dans des structures d'insertion et enseigne les mathématiques en libéral. Il est par ailleurs le président du festival des Théâtrales en Couserans et a co-fondé l'Agence de développement de l'économie culturelle en Couserans.[réf. nécessaire]
+Michel Larive se présente pour la première fois à un scrutin lors des élections municipales de 1995 à Saint-Girons. Candidat sous la bannière de la gauche alternative, il n'est pas élu. Il est ensuite candidat pour les élections cantonales en 2001 sans étiquette mais soutenu par Les Verts puis participe à la campagne du « non » au référendum européen en 2005[3].
+Aux élections municipales de 2008, il est élu au conseil municipal d'Arrout[4].
+Pour les élections législatives de 2012 dans l'Ariège, il se porte candidat dans la première circonscription de l'Ariège avec l'étiquette Front de gauche et obtient 10,88 % des voix au premier tour.
+Il est finalement élu député de la deuxième circonscription de l'Ariège le 18 juin 2017, avec 50,56 % des voix au second tour sous la bannière politique de La France insoumise[5].
+Le 20 septembre 2017, François de Rugy, Président de l'Assemblée nationale, annonce sa nomination comme Président de l'un des groupes de travail visant à réformer l'Assemblée nationale. Son groupe de travail est "Conditions de travail à l’Assemblée nationale et statut des collaborateurs parlementaires " où il encadre la participation de 10 députés de toutes étiquettes politiques.
+
+
+
+
+
+
+
+PARTISNORM
+PART La France insoumise (FI).
+FONCTIONNORM
+
+NOMF Député français NOMF En fonction depuis le 21 juin 2017(7 mois et 24 jours) SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 2e circonscription de l'Ariège SEP2 Législature REL XVe (Cinquième République) SEP2 Groupe politique REL FI SEP2 Prédécesseur REL Alain Fauré SEP2 Date de naissance REL 22 août 1966 (51 ans) SEP2 Lieu de naissance REL 14e arrondissement de Paris SEP2 Nationalité REL Français SEP2 Parti politique REL FI SEP2 Profession REL Formateur.

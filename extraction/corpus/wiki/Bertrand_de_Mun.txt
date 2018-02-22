@@ -1,0 +1,18 @@
+PRETAG Bertrand_de.
+NOMTAG Mun.
+Jean Marie Bertrand, comte, puis 5e marquis de Mun, né à Versailles (Seine-et-Oise) le 26 janvier 1870, mort à Paris 8e le 9 mars 1963 fut un homme d'affaires et un homme politique français.
+
+
+
+Vins de Champagne.
+Fils aîné du comte Albert de Mun, de l'Académie française, député de 1876 à 1914, père du Catholicisme social avec Léon Harmel, mort à Bordeaux en octobre 1914, Bertrand de Mun fut nommé officier de dragons en 1892, à sa sortie de Saint-Cyr (1890-1892, promotion de Cronstadt). Mais ayant épousé cinq ans plus tard (Reims, 1897) Céline Adrienne Barbe Marcelle Werlé (1877-1945), fille d'Alfred Werlé, comte romain et consul de Russie et petite-fille par sa mère, Mathilde de Montebello, du maréchal Lannes, il démissionna de l'armée en 1898 et se fixa à Reims.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1914-1919puis 1924-1928 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL URD SEP2 Date de naissance REL 26 janvier 1870 SEP2 Date de décès REL 9 mars 1963 (à 93 ans) SEP2 Résidence REL Marne.

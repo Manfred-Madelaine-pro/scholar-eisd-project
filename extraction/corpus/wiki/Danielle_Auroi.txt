@@ -1,0 +1,29 @@
+PRETAG Danielle.
+NOMTAG Auroi.
+Danielle Auroi, née le 29 février 1944 à Clermont-Ferrand (Puy-de-Dôme), est une femme politique française, membre d'Europe Écologie Les Verts.
+
+
+
+Danielle Auroi commence d'abord à militer avant 1968 à l'UNEF puis au PSU. Elle se consacre par la suite au syndicalisme enseignant et continue dans le militantisme associatif (pacifiste, anti-nucléaire, féministe et tiers-mondiste).
+Elle adhère aux Verts en 1988. Depuis 1989, elle est réélue pour siéger au conseil municipal de Clermont-Ferrand, dont elle est la 17e vice-présidente chargée du développement durable à Clermont Communauté depuis 2008. Elle est élue députée au Parlement européen lors des européennes de 1999. Elle y siège pendant cinq ans et se consacre aux sujets liés à l'agriculture.
+En janvier 2004, elle est élue au collège exécutif des Verts où elle est chargée de la délégation à l'Europe.
+Elle préside l'ATMO-Auvergne (surveillance de la qualité de l'air) ainsi que l'ADUHME (Agence locale de maîtrise de l'énergie et des énergies renouvelables).
+Elle assure la vice-présidence du réseau de villes européennes engagées dans l’efficacité énergétique et les énergies renouvelables (Énergies-cités).
+Lors des régionales de 2010 en Auvergne, elle figure en 21e position sur la liste Europe Écologie pilotée par Agnès Mollon dans le Puy-de-Dôme[1].
+Elle se présente lors des élections législatives de 2012 dans la 3e circonscription du Puy-de-Dôme. Au premier tour, elle arrive en deuxième position derrière le député sortant Louis Giscard d'Estaing et l'emporte au second tour.
+Elle n'est pas candidate à un nouveau mandat en 2017[2]
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts) 1988-2010.
+PART Europe Écologie Les Verts (EELV) depuis 2010.
+PART Génération·s, le mouvement (Génération·s) depuis 2017.
+FONCTIONNORM
+
+NOMF Députée de la 3e circonscription du Puy-de-Dôme NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Groupe politique REL Groupe écologiste SEP2 Prédécesseur REL Louis Giscard d'Estaing SEP2 Successeur REL Laurence Vichnievsky.
+NOMF Députée européenne NOMF 20 juillet 1999 – 19 juillet 2004(4 ans, 11 mois et 29 jours) SEP2 Élection REL 13 juin 1999 SEP2 Législature REL 5e SEP2 Groupe politique REL Verts/ALE SEP2 Date de naissance REL 29 février 1944 (73 ans) SEP2 Lieu de naissance REL Clermont-Ferrand (France) SEP2 Nationalité REL Française SEP2 Parti politique REL Les Verts (1988-2010)EELV (depuis 2010)Génération·s (depuis 2017).

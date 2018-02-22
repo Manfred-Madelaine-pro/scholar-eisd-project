@@ -1,0 +1,16 @@
+PRETAG Jean.
+NOMTAG Caffarelli.
+Jean Caffarelli est un homme politique français né le 5 janvier 1855 à Leschelle (Aisne) et décédé le 23 décembre 1911 à Leschelle.
+Fils d'Eugène Auguste de Caffarelli, petit-fils du général Auguste Caffarelli, petit-neveu de Joseph Caffarelli, de Louis Marie Maximilien de Caffarelli du Falga, de Charles Ambroise de Caffarelli du Falga et de Jean-Baptiste de Caffarelli du Falga, il quitte rapidement l'armée pour se consacrer à la gestion de ses domaines dans l'Aisne. Maire de Leschelles, il est député de l'Aisne de 1889 à 1893 et de 1902 à 1906. Il siège d'abord comme boulangiste, puis au groupe de l'Action libérale au cours de son deuxième mandat.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

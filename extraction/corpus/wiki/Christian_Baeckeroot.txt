@@ -1,0 +1,35 @@
+PRETAG Christian.
+NOMTAG Baeckeroot.
+Christian Baeckeroot, né le 26 septembre 1939 à Veyrines-de-Domme, est un homme politique français.
+Engagé à l'extrême droite, il est député du Nord de 1986 à 1988.
+
+Il est l'époux de Myriam Baeckeroot, candidate sur la liste FN aux élections européennes de 1984[4], ancienne conseillère municipale de Conflans-Sainte-Honorine et la trésorière du PDF.
+
+
+Christian Baeckeroot est reçu au concours de l'École spéciale militaire de Saint-Cyr en été 1958. Il sort de cette institution en juillet 1960 avec le grade de sous-lieutenant et part servir en Algérie.
+Il est le frère de Guy Baeckeroot, qui fut l'agent comptable de Radio Courtoisie.
+Christian exerce dans un second temps la profession d'expert-comptable après avoir repris des études à son départ de l'armée en 1962.
+Carrière politique.
+De sensibilité solidariste[1], il est directeur du Front national de la jeunesse (FNJ) de 1973 à 1983.
+En 1985, il est trésorier du FN.
+Il fut député du Nord de 1986 à 1988, élu à la proportionnelle sous les couleurs du Front national[2].
+Il se représente constamment depuis 1988 dans la dixième circonscription du Nord, mais n'est pas parvenu à se faire réélire à ce jour.
+Il est exclu du Front en 2006, et rejoint le Parti de la France de Carl Lang à sa création en 2009. Il en est aujourd'hui membre du bureau politique.
+Il en porte également l'étiquette lors des élections cantonales où il recueille l'un des meilleurs scores du parti.
+Il est candidat aux élections sénatoriales de 2011 dans le Nord, en septième position sur la liste d'Union de la droite nationale. Il n'est pas élu.
+Il se porte à nouveau candidat lors des élections législatives de 2017, dans la dixième circonscription du Nord[3].
+Vie privée.
+Il est l'époux de Myriam Baeckeroot, candidate sur la liste FN aux élections européennes de 1984[4], ancienne conseillère municipale de Conflans-Sainte-Honorine et la trésorière du PDF.
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) 1972-2006.
+PART Parti de la France (PDF) depuis 2009.
+FONCTIONNORM
+
+NOMF Député du Nord(scrutin proportionnel à un tour) NOMF 2 avril 1986 – 14 mai 1988(2 ans, 1 mois et 12 jours) SEP2 Élection REL 16 mars 1986 SEP2 Législature REL VIIIe SEP2 Groupe politique REL FN-RN SEP2 Nom de naissance REL Christian Baeckeroot SEP2 Date de naissance REL 26 septembre 1939 (78 ans) SEP2 Lieu de naissance REL Veyrines-de-Domme (Dordogne) SEP2 Nationalité REL Française SEP2 Parti politique REL FN (1972-2006)PDF (depuis 2009) SEP2 Profession REL MilitaireExpert-comptable.

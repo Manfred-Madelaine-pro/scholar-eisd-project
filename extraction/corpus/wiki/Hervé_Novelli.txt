@@ -1,0 +1,38 @@
+PRETAG Hervé.
+NOMTAG Novelli.
+Hervé Novelli, né le 6 mars 1949 à Paris, est un homme politique français.
+Diplômé de micromécanique et dirigeant de deux PME, Hervé Novelli milite d'abord à l'extrême droite, puis à l'UDF et à Démocratie libérale. Député de la 4e circonscription d'Indre-et-Loire de 1993 à 1997, il est député européen de 1999 à 2002.
+Réélu à l'Assemblée nationale en 2002 sous l'étiquette UMP, il a été secrétaire d'État chargé du Commerce, de l'Artisanat, des Petites et Moyennes entreprises, du Tourisme, des Services et de la Consommation dans le gouvernement François Fillon II. À ce poste, il a été à l'origine de la mise en place du statut d'auto-entrepreneur.
+Il est membre d'honneur de l'Observatoire du patrimoine religieux (OPR), une association multiconfessionnelle qui œuvre à la préservation et au rayonnement du patrimoine culturel français.
+
+
+
+
+
+
+Après une scolarité au lycée Michelet de Vanves (Hauts-de-Seine), Hervé Novelli obtient une maîtrise d'économie à l'université Paris-Dauphine et un CAP de micromécanique[1]. Alors qu'il est encore étudiant à Dauphine, Claude Harmel lui confie la gestion de la bibliothèque de l'Institut supérieur du travail (IST), organisme de formation et d'études en relations sociales et syndicales[2].
+De 1977 à 1986, Hervé Novelli est chargé de mission pour la Chambre syndicale de la sidérurgie française[2]. Il devient PDG en 1983 des établissements Janton, PME spécialisée dans le secteur paramédical, à la suite du décès de son père en 1982. Il en cède la direction en 1986, date où il rentre comme chef de cabinet du ministre de l'Industrie, des PTT et du Tourisme, Alain Madelin, lors de la première cohabitation, de 1986 à 1988[3].
+En 1988, il prend le poste de vice-président Europe dans la banque d'affaire américaine Drexel Burnham Lambert, jusqu'à sa faillite en 1990[4].
+Depuis juin 2014, il est membre du conseil d'administration du Centre des professions financières[5], association loi 1901 qui vise à réunir et promouvoir les professions financières et les associations de place correspondantes.
+Il a créé Wiki PME en 2015 qui se présente comme la « première communauté numérique et solidaire créée par des entrepreneurs pour des entrepreneurs »[6].
+
+
+
+
+PARTISNORM
+PART Front national (Front national).
+PART Parti des forces nouvelles (PFN).
+PART Centre national des indépendants et paysans (CNIP).
+PART Union pour la démocratie française (UDF).
+PART Démocratie libérale (parti politique) (Démocratie libérale).
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (Les Républicains).
+FONCTIONNORM
+
+NOMF Député de la 4e circonscriptiond'Indre-et-Loire NOMF 14 décembre 2010 – 19 juin 2012(1 an, 6 mois et 5 jours) SEP2 Prédécesseur REL Michel Lezeau SEP2 Successeur REL Laurent Baumel SEP2 Prédécesseur REL Siège vacant SEP2 Successeur REL Michel Lezeau SEP2 Prédécesseur REL Jean Proveux SEP2 Successeur REL Yves Dauge.
+NOMF Président NOMF GouvernementFrançois Fillon II SEP2 Gouvernement REL François Fillon II SEP2 Prédécesseur REL Luc Chatel (Consommation).
+NOMF Président NOMF GouvernementFrançois Fillon II SEP2 Gouvernement REL François Fillon II SEP2 Prédécesseur REL Christine Lagarde SEP2 Successeur REL Anne-Marie Idrac.
+NOMF Conseiller régional du Centre-Val de Loire NOMF 20 juillet 2010 – 13 décembre 2015(5 ans, 4 mois et 23 jours) SEP2 Élection REL 21 mars 2010.
+NOMF Président NOMF SuccesseurClaude Greff SEP2 Successeur REL Claude Greff SEP2 Élection REL 28 mars 2004 SEP2 Successeur REL Guillaume Deroubaix.
+NOMF Député européen NOMF 20 juillet 1999 – 17 juin 2002(2 ans, 10 mois et 28 jours) SEP2 Élection REL 13 juin 1999 SEP2 Successeur REL Jean-Pierre Bébéar.
+NOMF Conseiller général d'Indre-et-Loireélu dans le canton de Richelieu NOMF 20 mars 1997 – 20 avril 2004(7 ans et 2 mois) SEP2 Prédécesseur REL Gabriel Cocquerie SEP2 Successeur REL Serge Garot SEP2 Nom de naissance REL Hervé Alexandre Novelli SEP2 Date de naissance REL 6 mars 1949 (68 ans) SEP2 Lieu de naissance REL Paris (Seine) SEP2 Nationalité REL Française SEP2 Parti politique REL Front nationalPFNCNIPUDFDémocratie libéraleUMPLes Républicains SEP2 Diplômé de REL Micromécanique SEP2 Profession REL Dirigeant d'entreprisesChargé de mission.

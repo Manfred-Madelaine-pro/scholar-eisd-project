@@ -1,0 +1,24 @@
+PRETAG Patricia.
+NOMTAG Gallerneau.
+Patricia Sérézat, épouse Gallerneau, née le 9 septembre 1954 à Paris, est un fonctionnaire et une femme politique française.
+Membre du Mouvement démocrate, conseillère régionale des Pays-de-la-Loire, elle est élue députée le 18 juin 2017.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (LV) .
+PART Union pour la démocratie française (UDF) .
+PART Mouvement démocrate (Modem).
+FONCTIONNORM
+
+NOMF Députée française NOMF En fonction depuis le 21 juin 2017(7 mois et 24 jours) SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 2e circonscription de la Vendée SEP2 Législature REL XVe SEP2 Groupe politique REL Modem et apparentés SEP2 Prédécesseur REL Sylviane Bulteau.
+NOMF Conseillère régionale des Pays-de-la-Loire NOMF En fonction depuis le 18 décembre 2015(2 ans, 1 mois et 27 jours) SEP2 Élection REL 13 décembre 2015 SEP2 Circonscription REL Loire-Atlantique.
+NOMF Président NOMF LégislatureVe mandature SEP2 Législature REL Ve mandature SEP2 Groupe politique REL UDI-UC.
+NOMF Conseillère municipale de Pornichet NOMF 25 juin 1995 – 7 octobre 1999(4 ans, 3 mois et 12 jours) SEP2 Élection REL 18 juin 1995 SEP2 Maire REL Jacques Lambert SEP2 Nom de naissance REL Patricia Sérézat SEP2 Date de naissance REL 9 septembre 1954 (63 ans) SEP2 Lieu de naissance REL Paris (France) SEP2 Nationalité REL Française SEP2 Parti politique REL LV (années 2000)UDF (2006-2007)Modem (depuis 2007) SEP2 Diplômé de REL Université d’AngersÉcole nationale des impôts SEP2 Profession REL Fonctionnaire des Finances publiques SEP2 Site web REL Site officiel.

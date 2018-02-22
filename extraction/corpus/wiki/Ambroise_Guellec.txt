@@ -1,0 +1,18 @@
+PRETAG Ambroise.
+NOMTAG Guellec.
+Ambroise Guellec est un homme politique français, né le 26 mars 1941 à Peumerit (Finistère).
+
+
+
+Ingénieur général du génie rural, des eaux et forêts, ingénieur agronome (diplômé de l'INA Paris), il a été député européen (groupe PPE), conseiller régional de Bretagne et maire de Pouldreuzic. Son ancien assistant parlementaire affirme avoir bénéficier d'un emploi fictif pour être frauduleusement rémunéré par l’État tout en travaillant en réalité pour le journal Démocratie Moderne[1].
+Il est père de deux enfants et grand-père de sept petits-enfants.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1988-1997 NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL UDC (1988-1993)UDFC (1993-1997) SEP2 Date de naissance REL 26 mars 1941 (76 ans) SEP2 Résidence REL Septième circonscription du Finistère.

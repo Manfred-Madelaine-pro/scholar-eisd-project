@@ -1,0 +1,25 @@
+PRETAG Michel.
+NOMTAG Suchod.
+Michel Suchod est un homme politique français, né le 10 mai 1946 à Paris (75), diplomate de profession, conseiller spécial du secrétaire d'État à la Coopération et à la francophonie Jean-Marie Bockel entre juin 2007 et mars 2008. Ancien membre du Parti socialiste puis du Mouvement des citoyens, dont il fut le secrétaire général, il fut ensuite secrétaire général de La Gauche moderne (LGM). Il est aujourd'hui président de la Gauche moderne et républicaine (GMR), organisation créée début 2012 après le départ de la majorité des adhérents de LGM de cette organisation.
+En mars 2008, il est nommé directeur de cabinet de Jean-Marie Bockel, secrétaire d'État à la Défense et aux Anciens Combattants.
+En juillet 2009, il le suit comme conseiller spécial au secrétariat d'État à la Justice et aux Libertés. Il perd son poste lorsque Jean-Marie Bockel est évincé du Gouvernement.
+En 2011, il devient membre de la direction nationale de L'Alliance, au titre de représentant de LGM.
+En 2012, il crée la Gauche moderne et républicaine avec d'autres anciens du MDC et le LGM comme Gilles Casanova, et des personnalités venues de divers horizons comme Bouchera Azzouz, ancienne secrétaire générale de Ni putes ni soumises et ancienne adhérente de République solidaire ou Dominique Losay, venant du Parti socialiste. Il annonce qu'il créera dans la majorité présidentielle, avec Corinne Lepage et Jean-Jacques Aillagon, un nouveau pôle d'équilibre, le Rassemblement démocrate écologiste et républicain[1].
+Il fait partie, en tant que conseiller spécial, de l'équipe de campagne de Jean-Luc Bennahmias pour la primaire citoyenne de 2017[2].
+
+
+
+
+
+Michel Suchod est ancien élève de l'ENA (1974-promotion Simone Weil).
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (Parti socialiste).
+PART Mouvement des citoyens (Mouvement des citoyens).
+FONCTIONNORM
+
+NOMF Député de la 2e circonscription de la Dordogne NOMF 12 juin 1997 – 18 juin 2002(5 ans et 6 jours) SEP2 Élection REL 1er juin 1997 SEP2 Législature REL XIe SEP2 Groupe politique REL SOC SEP2 Prédécesseur REL Daniel Garrigue SEP2 Successeur REL Daniel Garrigue SEP2 Élection REL 12 juin 1988 SEP2 Législature REL IXe SEP2 Groupe politique REL SOC SEP2 Prédécesseur REL Élie Marty SEP2 Successeur REL Daniel Garrigue SEP2 Élection REL 30 novembre 1980 (partielle) SEP2 Réélection REL 21 juin 1981 SEP2 Législature REL VIe et VIIe SEP2 Groupe politique REL RCV SEP2 Prédécesseur REL Michel Manet SEP2 Successeur REL Élie Marty SEP2 Date de naissance REL 10 mai 1946 (71 ans) SEP2 Lieu de naissance REL Paris SEP2 Nationalité REL Française SEP2 Parti politique REL Parti socialisteMouvement des citoyens.

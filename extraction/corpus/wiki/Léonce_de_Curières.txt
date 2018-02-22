@@ -1,0 +1,19 @@
+PRETAG Léonce_de.
+NOMTAG Curières.
+Léonce de Curières de Castelnau, dit « marquis de Curières » (titre de courtoisie)[1], né le 10 juin 1845 à Saint-Affrique (Aveyron) et mort le 29 mars 1909 à Paris, magistrat puis avocat, bâtonnier de l'Ordre au barreau de Nîmes, fut élu en 1902 député de Saint-Affrique.
+Il s'inscrivit à l'Action libérale et devint président de son groupe parlementaire, le président fondateur de ce parti Jacques Piou ayant été battu à ces mêmes élections. Ce fut donc lui qui eut à coordonner l'action de ses amis lors de la discussion de la loi de la Séparation. Profondément hostile à cette loi, il eut, une fois qu'elle fut votée, le souci d'éviter une crise profonde dans le pays. Contrairement à Albert de Mun et à Jacques Piou, il souhaitait la voir acceptée par Rome, et fut l'un des signataires de la fameuse lettre des "cardinaux verts" aux évêques de France pour les supplier de trouver avec le gouvernement le moyen d'en faire une application loyale. Cette lettre fut désavouée par le pape Pie X.
+Jacques Piou, réélu député en 1906, reprit la direction du groupe parlementaire de l'ALP et Léonce de Castelnau, réélu lui aussi mais affaibli par une blessure reçu au cours de la campagne, joua désormais un rôle beaucoup plus effacé. Il mourut en 1909.
+Il était le frère du général de Curières de Castelnau, l'un des héros de la guerre 14-18.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1902-1909 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL AL SEP2 Date de naissance REL 10 juin 1845 SEP2 Date de décès REL 29 mars 1909 SEP2 Résidence REL Aveyron.

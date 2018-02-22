@@ -1,0 +1,34 @@
+PRETAG Éva.
+NOMTAG Sas.
+Éva Sas, née le 13 août 1970 à Nice, est une femme politique française. Membre d'Europe Écologie Les Verts (EELV), elle est députée de la septième circonscription de l'Essonne de 2012 à 2017.
+
+
+
+Origines et vie familiale.
+Éva Sas est née le 13 août 1970 à Nice. Née d’une mère rapatriée d’Algérie, et d’un père d’origine polonaise élevé dans une cité ouvrière des Ardennes[Laquelle ?], elle a grandi en France[1]. Elle est mère de trois enfants[1] (dont deux avec l'ancien ministre écologiste Pascal Canfin[2]) et l'ancienne compagne de Jean-Vincent Placé, sénateur écologiste de l'Essonne[3],[4].
+Études et carrière professionnelle.
+Éva Sas est diplômée de l'ESSEC[1] et d'une licence de philosophie obtenue à Paris IV[5].
+Éva Sas est associée du cabinet d'expertise économique auprès des organisations syndicales Secafi[6]. Elle était aussi cogérante avec Cécile Duflot de la société civile immobilière « Un toit pour les Verts »[7].
+Carrière politique.
+Ayant vécu les conséquences dramatiques des plans sociaux sur la vie des salariés dans le cadre de son métier d’expert économique auprès des comités d’entreprise, et parallèlement à la prise de conscience progressive du réchauffement climatique, du Sommet de la Terre 1992 au protocole de Kyoto en 1997, c’est en 2000, à l’âge de 30 ans, qu’elle entre en politique chez Les Verts puis chez Europe Écologie Les Verts (EELV)[1].
+Éva Sas se présente pour la première fois à une élection parlementaire à l'occasion des élections législatives de 1997. Candidate pour l'Union pour la semaine des 4 jours dans la dix-huitième circonscription de Paris, elle recueille 0,83 % des suffrages au premier tour[8]. Elle obtient 6,64 % des suffrages aux élections législatives de 2007 en tant que suppléante d'Olivier Raynal, alors candidat des Verts dans le 19e arrondissement de Paris[9].
+Éva Sas est investie par EELV et le Parti socialiste pour les élections législatives de 2012 dans la septième circonscription de l'Essonne[10],[11]. Elle remporte le scrutin avec 53,90 % des suffrages au second tour face à la députée sortante Françoise Briand (UMP)[12]. Elle est membre de la commission des Finances, de l'Économie générale et du Contrôle budgétaire[13].
+Éva Sas est colistière de Pierre Guyard aux élections municipales de 2014 à Savigny-sur-Orge. Elle est élue conseillère municipale de l'opposition après la défaite de la liste d'union de la gauche avec 32,66 % contre 38,14 % pour le candidat UMP[14].
+Elle est, depuis le mois de septembre 2015, présidente de l’association « Élus contre les violences faites aux femmes » (ECVF)[15]. Créée en 2003, ECVF informe et soutient les élu/es et collectivités territoriales souhaitant s’engager dans l’action contre les violences faites aux femmes. Le but est donc d’assurer une meilleure circulation de l’information.
+Candidate EELV à sa réélection aux législatives de 2017 avec le soutien du PS et du PCF, elle est battue dès le premier tour en obtenant 13,74 % des suffrages exprimés, ce qui la place en 3e position après les candidats REM et LR[16].
+Au sein d'EELV.
+Éva Sas a été membre du bureau exécutif d'Europe Écologie Les Verts chargée de la trésorerie et des ressources humaines de 2011 à 2013[17] et coresponsable de la commission thématique Économie, social et services publics de 2009 à 2011[18].
+Elle soutient Yannick Jadot dans le cadre de la primaire présidentielle écologiste de 2016[19].
+
+
+
+
+
+
+
+PARTISNORM
+PART Europe Écologie Les Verts (EÉLV).
+FONCTIONNORM
+
+NOMF Conseillère municipale de Savigny-sur-Orge NOMF En fonction depuis le 30 mars 2014(3 ans, 10 mois et 22 jours) SEP2 Élection REL 30 mars 2014 SEP2 Maire REL Éric Mehlhorn.
+NOMF Députée de la 7e circonscription de l’Essonne NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Élection REL 17 juin 2012 SEP2 Législature REL XIVe SEP2 Groupe politique REL Écologiste (2012-2016)Non-inscrite (2016-2017) SEP2 Prédécesseur REL Françoise Briand (UMP) SEP2 Successeur REL Robin Reda (LR) SEP2 Date de naissance REL 13 août 1970 (47 ans) SEP2 Lieu de naissance REL Nice (Alpes-Maritimes) SEP2 Nationalité REL Française SEP2 Parti politique REL EÉLV SEP2 Diplômée de REL Paris IVESSEC SEP2 Profession REL Expert économique.

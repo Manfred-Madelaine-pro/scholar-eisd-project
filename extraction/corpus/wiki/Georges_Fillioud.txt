@@ -1,0 +1,31 @@
+PRETAG Georges.
+NOMTAG Fillioud.
+Georges Fillioud, né le 7 juillet 1929 à Lyon (Rhône) et mort le 15 septembre 2011 à Paris[1], est un journaliste et homme politique français.
+
+Georges Fillioud épouse l'actrice Danièle Évenou le 14 septembre 1996.
+
+
+Journaliste engagé.
+Georges Fillioud commence sa carrière de journaliste à Europe 1, de 1956 à 1966, où il est par la suite interdit d'antenne pour avoir signé un manifeste pour l'union des gauches.
+Vie politique.
+Georges Fillioud rejoint ensuite la Convention des institutions républicaines (CIR) de François Mitterrand. Il est élu député FGDS de la Drôme en 1967, puis réélu en 1973, 1978 et 1981 sous l'étiquette du PS. Après le congrès d'Épinay de 1971, il est chargé de la communication du PS. Il est le chef du service de presse du candidat unique de la gauche à l'élection présidentielle de 1974.
+En 1982, Georges Fillioud présente une loi déclarant que la « communication audiovisuelle est libre ». Il aurait, selon certains[réf. souhaitée], écarté des radios « libres » certaines classées « de droite ». Il n'y avait plus une seule radio libre de droite à Paris après ses interventions (CQFD).
+Il est ministre de la Communication du 21 mai 1981 au 22 mars 1983 dans les deux premiers gouvernements Mauroy, puis secrétaire d'État auprès du Premier ministre, chargé des techniques de communication du 22 mars 1983 au 12 mars 1986, dans le troisième gouvernement Mauroy et dans le gouvernement de Laurent Fabius. Il participe à la création de Canal+ et de M6.
+Il est conseiller général de la Drôme de 1970 à 1982, maire de Romans-sur-Isère de 1977 à 1983 et conseiller d'État. Il a été membre du conseil de surveillance de La Sept. Il est nommé en 1990 président de l'Institut national de l'audiovisuel (INA) ; atteint par la limité d'âge, il quitte ses fonctions en 1994. De 1993 à 1996, il est membre du conseil d'administration de l'AFP en qualité de représentant du service national de la radiodiffusion-télévision française. De 1999 à 2002, il est président de l'assemblée générale d'Arte.
+Vie privée.
+Georges Fillioud épouse l'actrice Danièle Évenou le 14 septembre 1996.
+
+
+
+
+
+
+
+PARTISNORM
+PART Convention des institutions républicaines (CIR) PS.
+PART Parti socialiste (PS).
+FONCTIONNORM
+
+NOMF Ministre de la Communication NOMF 21 mai 1981 – 22 mars 1983.
+NOMF Président NOMF GouvernementPierre Mauroy IPierre Mauroy II SEP2 Gouvernement REL Pierre Mauroy IPierre Mauroy II SEP2 Prédécesseur REL Michel d'Ornano SEP2 Successeur REL lui-même (secrétaire d'État).
+NOMF Député de la 3e circonscription de la Drôme NOMF 11 mars 1973 – 24 juillet 1981 SEP2 Législature REL Ve, VIe (Cinquième République) SEP2 Prédécesseur REL Gérard Sibeud SEP2 Successeur REL André Brunet SEP2 Législature REL IIIe (Cinquième République) SEP2 Prédécesseur REL Pierre Didier SEP2 Successeur REL Gérard Sibeud SEP2 Prédécesseur REL Pierre Didier SEP2 Successeur REL Étienne-Jean Lapassat SEP2 Nom de naissance REL Georges Fillioud SEP2 Date de naissance REL 7 juillet 1929 SEP2 Lieu de naissance REL Lyon (Rhône) SEP2 Date de décès REL 15 septembre 2011 (à 82 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL CIR, PS SEP2 Conjoint REL Danièle Évenou SEP2 Profession REL Journaliste.

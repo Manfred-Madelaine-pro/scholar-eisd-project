@@ -1,0 +1,28 @@
+PRETAG Liêm.
+NOMTAG Hoang-Ngoc.
+Liêm Hoang-Ngoc, né le 11 décembre 1964 à Saïgon (actuelle Hô-Chi-Minh-Ville), est un économiste et homme politique français. D'abord membre du Parti socialiste, il crée en 2015 sa propre formation politique, Nouvelle Gauche socialiste. Il rejoint en 2017 La France insoumise et rebaptise alors son mouvement Les Socialistes insoumis.
+
+
+
+Jeunesse et études.
+Né à Saïgon, Liêm Hoang-Ngoc arrive en France en 1968 avec ses parents qui s’installent à Amiens. Après le lycée Louis-Thuillier à Amiens, il intègre l'université de Picardie puis l'université Panthéon-Sorbonne où il obtient un doctorat en sciences économiques. Entre 1992 et 1994, il est chercheur à l'Institut de recherches économiques et sociales. Il est nommé maître de conférences à l'université Panthéon-Sorbonne en 1994 et est membre du laboratoire Matisse (unité mixte de recherche du Centre d'économie de la Sorbonne, Paris I - CNRS). Il soutient sa thèse d'habilitation à diriger des recherches en 2003.
+Carrière d'économiste.
+En 1996, il est l'un des initiateurs de l'« appel des économistes pour sortir de la pensée unique ». Il est le fondateur de l'éphémère revue Pétition en 1998. Il participe à la fondation d'ATTAC comme membre du conseil scientifique. En 2008, Il fait partie des animateurs du club de pensée « La Forge », initié par Noël Mamère et Benoît Hamon et est chroniqueur économique sur France Inter.
+En 2000 il est membre de la mission interministérielle pour la célébration de la loi de 1901.
+Il est aussi présent dans les médias en contribuant depuis 2003 à la rubrique « à contre-courant » de Politis et en 2008 il a été chroniqueur économique sur France Inter, en binôme avec Bernard Maris pour la rubrique de 6 h 50 « l’autre économie ».
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS) jusqu'en 2015.
+PART La France insoumise (FI) depuis 2016.
+FONCTIONNORM
+
+NOMF Conseiller régional d'Occitanie NOMF En fonction depuis le 4 janvier 2016(2 ans, 1 mois et 17 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Président NOMF Président des Socialistes insoumis.
+NOMF Président des Socialistes insoumis NOMF En fonction depuis le 15 juin 2015(2 ans, 8 mois et 6 jours) SEP2 Prédécesseur REL Création du parti.
+NOMF Député européen NOMF 14 juillet 2009 – 30 juin 2014(4 ans, 11 mois et 16 jours) SEP2 Élection REL 7 juin 2009 SEP2 Législature REL 7e SEP2 Groupe politique REL S&D SEP2 Nom de naissance REL Hoàng Ngọc Liêm SEP2 Date de naissance REL 11 décembre 1964 (53 ans) SEP2 Lieu de naissance REL Saïgon, Sud Viêt Nam SEP2 Nationalité REL Français SEP2 Parti politique REL PS (jusqu'en 2015)NGS/LSI (depuis 2015)FI (depuis 2016) SEP2 Diplômé de REL Université de PicardieUniversité Panthéon-Sorbonne SEP2 Profession REL Maître de conférence (Université Panthéon-Sorbonne).

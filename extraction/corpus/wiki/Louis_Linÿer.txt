@@ -1,0 +1,22 @@
+PRETAG Louis.
+NOMTAG Linÿer.
+Louis Linÿer est un avocat et un homme politique français né le 1er décembre 1878 et mort le 1er avril 1962 à Nantes, en Loire-Inférieure.
+
+
+Nantais issu d'une famille vendéenne, après avoir effectué ses études de droit à Paris, il obtient son doctorat et s'inscrit comme avocat au barreau de Nantes, dont il sera par la suite bâtonnier, et membre du Conseil de l'ordre. Parallèlement, il est professeur de droit à l'École libre de droit et de notariat de Nantes, président de la Société de géographie et responsable mutualiste[1].
+En 1912, il devient maire du Loroux-Bottereau, puis conseiller général en 1919, deux mandats qu'il conserve, constamment réélu, jusqu'à la chute de la Troisième République[1].
+Capitaine aviateur pendant la première guerre mondiale, son avion est abattu. Il est capturé et fait prisonnier en Bavière à Ingolstadt. Cité à l'ordre de la 148e brigade d'infanterie le 6 décembre 1915, il reçoit la Croix de guerre[1].
+En 1921, il devient président de l'Association Pédagogique pour l’Instruction, l’Éducation et le Patronage des Sourds-Muets et des Jeunes Aveugles de l’Ouest de la France[2].
+En 1927, il se présente aux élections sénatoriales sous les couleurs conservatrices de la Fédération républicaine. Élu, il siège au groupe de l'Action nationale républicaine et sociale, la droite conservatrice du Sénat, et intervient essentiellement sur les questions financières[1].
+Louis Linÿer vote, avec le Parlement, le 10 juillet 1940, en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Mais, estimant que le gouvernement de Vichy a abusé du mandat conféré par l'Assemblée nationale, il prendra une part active à la résistance[1]. Il est président de la commission de surveillance de la Caisse des dépôts et consignations de 1943 à 1945[1].
+Il est fait officier de la Légion d'honneur le 2 mars 1954. Retiré en Vendée en sa propriété du Veillon, il décédera à Nantes en 1962[1].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1927-1941 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ANRS SEP2 Date de naissance REL 1er décembre 1878 SEP2 Date de décès REL 1er avril 1962 (à 83 ans) SEP2 Lieu de décès REL Nantes SEP2 Profession REL avocat SEP2 Résidence REL Loire-Inférieure.

@@ -1,0 +1,29 @@
+PRETAG Nathalie.
+NOMTAG Griesbeck.
+Nathalie Griesbeck, née le 24 mai 1956 à Metz, est une femme politique française, membre du Mouvement démocrate (MoDem).
+Elle est députée européenne, élue dans la circonscription Est, depuis juin 2004 et conseillère générale de la Moselle, pour le canton de Metz-Ville-3, de 1988 à 2015, ainsi que vice-présidente du conseil général de 2011 à 2015.
+
+
+
+Formation.
+Nathalie Griesbeck a fait ses études au lycée Georges de la Tour à Metz, puis à l’université de Metz, où elle obtient une maîtrise de droit public (1979) avant de réussir, à l’université de Nancy, en étant major de promotion de chacune des promotions, deux diplômes d’études approfondies (DEA), de droit public (1980) et d’histoire du droit (1981). Elle est réserviste citoyenne de l'armée de l'air.
+Situation professionnelle.
+Mariée, mère de deux enfants (Ariane et Jean-Étienne) et grand-mère, elle est maître de conférences à l’Université de Metz où elle enseignait le droit public (finances publiques). Elle est chevalière dans l'ordre des Palmes académiques, dans l'ordre national du Mérite et médaillée de bronze Jeunesse et sports.
+Carrière politique.
+
+
+Nathalie Griesbeck a fait ses études au lycée Georges de la Tour à Metz, puis à l’université de Metz, où elle obtient une maîtrise de droit public (1979) avant de réussir, à l’université de Nancy, en étant major de promotion de chacune des promotions, deux diplômes d’études approfondies (DEA), de droit public (1980) et d’histoire du droit (1981). Elle est réserviste citoyenne de l'armée de l'air.
+Situation professionnelle.
+Mariée, mère de deux enfants (Ariane et Jean-Étienne) et grand-mère, elle est maître de conférences à l’Université de Metz où elle enseignait le droit public (finances publiques). Elle est chevalière dans l'ordre des Palmes académiques, dans l'ordre national du Mérite et médaillée de bronze Jeunesse et sports.
+Carrière politique.
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF).
+PART Mouvement démocrate (MoDem).
+FONCTIONNORM
+
+NOMF Députée européenne NOMF En fonction depuis le 20 juillet 2004(13 ans, 7 mois et 1 jour) SEP2 Élection REL 13 juin 2004 SEP2 Réélection REL 25 mai 2014 SEP2 Législature REL 6e, 7e et 8e SEP2 Groupe politique REL ADLE SEP2 Date de naissance REL 24 mai 1956 (61 ans) SEP2 Lieu de naissance REL Metz (Moselle) SEP2 Nationalité REL Française SEP2 Parti politique REL UDFMoDem SEP2 Diplômée de REL Université de MetzUniversité de Nancy.

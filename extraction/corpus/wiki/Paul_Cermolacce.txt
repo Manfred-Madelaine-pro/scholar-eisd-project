@@ -1,0 +1,25 @@
+PRETAG Paul.
+NOMTAG Cermolacce.
+Paul Cermolacce, né le 2 juillet 1912 à Marseille où il meurt le 15 mai 1988, est un homme politique français.
+
+
+Né dans une famille ouvrière, d'origine corse, engagée à gauche, Paul Cermolacce commence à travailler à douze ans. A partir de 1926, il est marin de commerce avant de devenir, à partir de 1931, ouvrier dans la construction marine.
+Syndiqué à la CGT en 1927, il rejoint en même temps la CGTU et les communistes en 1933 (d'abord aux jeunesses communistes, puis au PCF). Délégué syndical, il participe activement aux grèves de 1936 au port de Marseille. Son activité militante lui vaut cependant d'être plusieurs fois licencié.
+Arrêté à l'automne 1940 pour activités communistes, il est déporté en Algérie où il est emprisonné jusqu'en mai 1943. Il participe alors à l'animation du syndicat des marins d'Alger, avant de rentrer à Marseille en août 1944.
+Il devient alors secrétaire du syndicat CGT des marins de cette ville.
+Membre du comité fédéral du PCF, il est élu député des Bouches-du-Rhône sur la liste menée par François Billoux en octobre 1945. Il est réélu en 1946, 1951 et 1956.
+Au scrutin uninominal des élections législatives de 1958, il choisit la populaire circonscription du quartier de la Belle de Mai, la première à avoir élu un député socialiste en 1881. Il fait partie des rares élus communistes de l'Assemblée nationale. Réélu en 1962, 1967, 1968 et 1973, il a une des plus grandes longévités parlementaires de l'après-guerre, siégeant au Palais Bourbon pendant 33 ans.
+Conseiller municipal de 1959 à 1971, il est battu aux élections cantonales de 1976 dans le quatrième canton des Bouches-du-Rhône.
+Il ne se représente pas aux élections législatives de 1978, laissant la place à Jeanine Porte, qui était sa suppléante.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député des Bouches-du-Rhône NOMF 1945 – 1978 SEP2 Législature REL Ire, IIe, IIIe (Quatrième République)Ire, IIe, IIIe, IVe, Ve (Cinquième République) SEP2 Groupe politique REL Parti communiste Français SEP2 Successeur REL Jeanine Porte SEP2 Date de naissance REL 2 juillet 1912 SEP2 Lieu de naissance REL Marseille SEP2 Date de décès REL 15 mai 1988 (à 75 ans) SEP2 Lieu de décès REL Marseille SEP2 Nationalité REL  Française SEP2 Parti politique REL PCF SEP2 Conjoint REL Germaine Cermolacce née Saleur.

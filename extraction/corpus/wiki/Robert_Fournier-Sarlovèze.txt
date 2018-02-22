@@ -1,0 +1,22 @@
+PRETAG Robert.
+NOMTAG Fournier-Sarlovèze.
+Mortimer Henri-Robert Fournier-Sarlovèze est un homme politique et joueur de polo français, né à Paris 8e le 14 janvier 1869[1], et mort à Compiègne le 18 juillet 1937.
+
+
+
+Fils de Raymond Fournier-Sarlovèze, préfet et peintre historique dont les fresques décorent encore la mairie de Compiègne, et petit-fils de Henri Ternaux-Compans[2], Mortimer-Robert Fournier-Sarlovèze est élu maire de Compiègne en 1904, et le reste jusqu'en 1935, période pendant laquelle il va surtout mettre en valeur l'héritage historique de sa ville. Il fait partie au début du siècle de l'équipe Bagatelle Polo Club de Paris qui remporte la médaille de bronze aux Jeux olympiques d'été de 1900.
+Conseiller général de l'Oise, il est élu député en 1910, sur un programme clairement affiché à droite : lutte contre « l'anticléricalisme » des radicaux et refus de l'impôt sur le revenu.
+Battu en 1914, il retrouve cependant son siège en 1919 et s'inscrit au groupe de l'Entente républicaine démocratique, devenu Union républicaine démocratique lorsqu'il est réélu, en 1924 et 1928.
+Son activité parlementaire a été essentiellement consacrée aux questions intéressants son département et sa circonscription, et assez peu aux questions politiques générales.
+Malade et fatigué, il ne se représente pas aux élections législatives de 1932. Il est sévèrement battu aux élections municipales de 1935 par le baron James de Rothschild[3].
+Il décède le 13 juillet 1937.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1910-1914puis 1919-1932 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ERD (1919-1924)URD (1924-1932) SEP2 Date de naissance REL 14 janvier 1869 SEP2 Date de décès REL 18 juillet 1937 (à 68 ans) SEP2 Résidence REL Oise.

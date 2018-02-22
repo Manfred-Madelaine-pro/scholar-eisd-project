@@ -1,0 +1,28 @@
+PRETAG Jean-Paul.
+NOMTAG Besset.
+Jean-Paul Besset, né le 17 août 1946 à Chamalières (Puy de Dôme), est un journaliste et homme politique français. Il est député européen écologiste de 2009 à 2014.
+
+
+
+Jean-Paul Besset, originaire d'Auvergne, fait ses études au lycée Blaise-Pascal de Clermont-Ferrand.
+Il fait partie dès sa création de la Ligue communiste révolutionnaire dont il sera membre (pseudonyme Ploëch) du comité central, et y restera onze ans.
+Il est chargé de mission pendant un an auprès de Laurent Fabius, quand celui-ci est Premier ministre, puis quitte Matignon pour aller créer un quotidien en Nouvelle-Calédonie en 1985.
+Journaliste, il collabore à de nombreux organes de presse (Rouge[1], RTL, La Croix, Que Choisir, Libération, Politis, etc.), il est pendant 10 ans rédacteur en chef au journal Le Monde. Il a été auparavant rédacteur en chef de l’hebdomadaire Politis[2].
+En 2005, dans son dernier ouvrage, Comment ne plus être progressiste sans devenir réactionnaire, il s'attache à déchiffrer le rôle de la croissance et de notre modèle de développement dans la production des inégalités et la mise à sac de la planète. Il trace la voie d'une autre logique économique et sociale fondée sur la décroissance de l'empreinte écologique, le partage des ressources et le respect des équilibres naturels.
+Il est proche de Nicolas Hulot qui l'a rencontré après avoir lu ce livre où il développe que la croissance est une machine à produire des inégalités, alors que la décroissance matérielle s'inscrit dans une logique de partage. Il devient en 2006 le maître d’œuvre du Pacte écologique et coordonne sa transcription sous forme d'un livre, Pour un pacte écologique, chez Calmann-Lévy. Par la suite, il continue à travailler avec Nicolas Hulot dont il devient la plume et œuvre comme porte-parole de la Fondation Nicolas-Hulot[3], poste qu'il abandonnera pour pouvoir se consacrer à la politique dans le cadre du rassemblement Europe Écologie, désormais fusionné avec Les Verts dans le nouveau parti Europe Écologie Les Verts (EELV).
+Il est l'un des initiateurs du rassemblement des écologistes pour les élections européennes de juin 2009 avec Daniel Cohn-Bendit, José Bové, Eva Joly, des responsables associatifs et les Verts. Il conduit la liste d'Europe Écologie dans la circonscription Massif central-Centre et est élu député européen le 7 juin, la liste réunissant 13,33 % des voix.
+Le 6 décembre 2010, Jean-Paul Besset décide de renoncer à sa responsabilité nationale au sein d'Europe Écologie Les Verts. Dans une lettre transmise aux responsables du parti et publiée par Marianne, il déclare s'être trompé et juge impossible de faire la paix entre les différentes sensibilités d'EELV[4].
+Il quitte EELV en janvier 2016[5]. Il soutient le principe d'une candidature de Nicolas Hulot pour l'élection présidentielle de 2017[6], avant que celui-ci ne renonce en juillet 2016.
+Lors de l'élection présidentielle de 2017, il soutient le candidat En marche ! Emmanuel Macron dès le premier tour[7].
+
+
+
+
+
+
+
+PARTISNORM
+PART Europe Écologie Les Verts (Europe Écologie Les Verts) 2010-2016.
+FONCTIONNORM
+
+NOMF Député européen NOMF 14 juillet 2009 – 30 juin 2014(4 ans, 11 mois et 16 jours) SEP2 Élection REL 7 juin 2009 SEP2 Législature REL 7e SEP2 Groupe politique REL Verts/ALE SEP2 Date de naissance REL 17 août 1946 (71 ans) SEP2 Lieu de naissance REL Chamalières SEP2 Nationalité REL Française SEP2 Parti politique REL Europe Écologie Les Verts (2010-2016).

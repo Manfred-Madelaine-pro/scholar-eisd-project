@@ -1,0 +1,32 @@
+PRETAG Pierre.
+NOMTAG Vial.
+Pierre Vial, né le 25 décembre 1942, est un universitaire et homme politique d'extrême droite français.
+Il fonde en 1994 le mouvement identitaire Terre et Peuple.
+
+
+
+Carrière militante.
+Durant les années 1960, il est membre du Mouvement nationaliste du progrès de Dominique Venner. En 1969, il participe à la fondation du GRECE.
+En 1978, paraît sous la signature de Michel Poniatowski, qu'il revendique avoir rédigé avec Alain de Benoist ou Bruno Tellenne[1].
+Secrétaire général du GRECE de 1978 à 1984, il n'en est aujourd'hui plus membre, ses positions « racialistes » étant aux antipodes des idées d'Alain de Benoist[2].
+Il rejoint le Front national en 1988, devient membre de son conseil scientifique en 1989 et est élu conseiller municipal de Villeurbanne puis conseiller régional de Rhône-Alpes sous cette étiquette. Il occupe pendant un temps une vice-présidence de la Commission culturelle du Conseil régional Rhône-Alpes[3], et a participé au volume Rencontres avec Saint-Loup (1991)[4]. Il est considéré comme le principal représentant de sa « tendance néopaïenne ».
+En 1998, Pierre Vial est partisan de Bruno Mégret lors de la scission du Front national. Passé au MNR, il est candidat sous ses couleurs aux élections européennes de 1999[5], puis quitte le parti en 2001. Il se présente en 2003 aux élections cantonales à Villeurbanne avec le soutien du Front national, puis il contribue à créer, au niveau national et mondial, un certain nombre d'organisations ayant pour objet la « défense de la race blanche », dont, en France, le Conseil représentatif des associations blanches[réf. nécessaire].
+Président de l'association Terre et Peuple qu'il a fondée en 1994, Pierre Vial est actif en France comme en Europe aux confluents du paganisme et du suprémacisme blanc. Il appartient à l'Association des amis de Saint-Loup[6].
+Depuis 2009, Pierre Vial fait partie de la direction nationale de la Nouvelle droite populaire, mouvement nationaliste et identitaire constitué autour de l'ancien député alsacien Robert Spieler. Il fait partie des dirigeants de l'Union de la droite nationale. Il participe régulièrement aux Journées nationales et identitaires organisées par la revue Synthèse nationale.
+Pierre Vial signe également de manière régulière, dans les colonnes de l'hebdomadaire Rivarol, une chronique intitulée « Le Devoir d'Histoire de Pierre Vial », dans laquelle il revient sur un événement du passé.
+Carrière universitaire.
+
+
+
+
+
+
+
+PARTISNORM
+PART Mouvement nationaliste du progrès (MNP).
+PART Front national (FN).
+PART Mouvement national républicain (MNR).
+PART Terre et Peuple (Terre et Peuple).
+FONCTIONNORM
+
+NOMF Conseiller régional de Rhône-Alpes NOMF 1992 – 2004 SEP2 Date de naissance REL 25 décembre 1942 (75 ans) SEP2 Nationalité REL  Française SEP2 Parti politique REL MNPFNMNRTerre et Peuple SEP2 Profession REL Universitaire SEP2 Religion REL Néopaganisme.

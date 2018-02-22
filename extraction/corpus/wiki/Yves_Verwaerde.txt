@@ -1,0 +1,31 @@
+PRETAG Yves.
+NOMTAG Verwaerde.
+Yves Verwaerde, né le 16 mai 1947 à Roubaix (Nord) et mort le 12 décembre 2015 à Serez (Eure), est un homme politique français.
+
+
+
+Carrière politique[4].
+
+1976 - 1977 : Chargé de mission au Parti républicain
+1977 - 1978 : Délégué national adjoint du Parti républicain chargé de l'organisation
+1979 - 1982 : Délégué national du Parti républicain chargé des fédérations
+1979 - 1981 : Délégué national de l'UDF chargé des fédérations
+Fin des années 1980 : Membre du bureau politique du Parti républicain
+
+Affaire Elf.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti républicain (PR) 1989-1994.
+PART Union pour la démocratie française (UDF) 1994-1998.
+PART Démocratie libérale (parti politique) (DL) 1998-1999.
+FONCTIONNORM
+
+NOMF Député de ParisÉlu dans la 18e circonscription NOMF 2 mai 1993 – 21 avril 1997(3 ans, 8 mois et 19 jours) SEP2 Législature REL Xe (Cinquième République) SEP2 Groupe politique REL UDF SEP2 Prédécesseur REL Alain Juppé SEP2 Successeur REL Christophe Caresche.
+NOMF Député européen NOMF 19 juillet 1994 – 19 juillet 1999(5 ans) SEP2 Législature REL 3e et 4e SEP2 Groupe politique REL LDR puis PPE.
+NOMF Conseiller de ParisÉlu dans le 18e arrondissement de Paris NOMF 6 mars 1983 – mai 1993(10 ans, 2 mois et 9 jours) SEP2 Maire REL Jacques ChiracJean Tiberi SEP2 Date de naissance REL 16 mai 1947 SEP2 Lieu de naissance REL Roubaix (Nord)[1] SEP2 Date de décès REL 12 décembre 2015 (à 68 ans)[2] SEP2 Lieu de décès REL Serez (Eure)[3] SEP2 Nationalité REL Française SEP2 Parti politique REL PR (1989-1994)UDF (1994-1998)DL (1998-1999) SEP2 Profession REL Délégué général d'un parti politique.

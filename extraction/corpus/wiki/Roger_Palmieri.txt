@@ -1,0 +1,16 @@
+PRETAG Roger.
+NOMTAG Palmieri.
+Roger Palmieri, né le 21 mai 1902 à Courbevoie (Seine) et mort le 18 novembre 1991, est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député européen NOMF 1er juillet 1987 – 24 juillet 1989 SEP2 Date de naissance REL 21 mai 1902 SEP2 Lieu de naissance REL Courbevoie (Seine) SEP2 Date de décès REL 18 novembre 1991 (à 89 ans) SEP2 Nationalité REL Française.

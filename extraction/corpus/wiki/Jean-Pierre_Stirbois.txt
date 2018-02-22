@@ -1,0 +1,36 @@
+PRETAG Jean-Pierre.
+NOMTAG Stirbois.
+Jean-Pierre Stirbois, né le 30 janvier 1945 à Paris et mort le 5 novembre 1988 à Jouars-Pontchartrain (Yvelines), est un homme politique français. Secrétaire général du Front national, dont il incarne la sensibilité nationaliste et solidariste, il est député européen de 1984 à 1986 et député français de 1986 à 1988.
+
+Il est le mari de Marie-France Stirbois, également engagée en politique.
+
+
+Origines.
+Jean-Pierre Stirbois est issu d'une famille modeste du Nord ayant déménagé à Courbevoie ; son père est ouvrier chaudronnier et sa mère doreuse sur cadre. Ses parents l'élèvent dans un milieu strictement laïc. Diplômé en marketing de l'École des cadres et du commerce, il est représentant chez Kitkat et Le Vin des rochers, avant de prendre avec sa femme, en 1975, la direction d'une petite imprimerie (héritée de sa belle-famille) à Dreux[1].
+Carrière politique.
+Il participe en 1965 à la campagne présidentielle de Jean-Louis Tixier-Vignancour. Formé idéologiquement par Henry Coston, il milite au Mouvement jeune révolution (MJR) puis dans le mouvement solidariste, lancé en 1971 et dont il devient membre du bureau politique. En 1975, il crée avec Michel Collinot l'Union solidariste[2].
+En 1977, il rejoint le Front national, dont il devient secrétaire général en 1981, en remplacement de Pierre Gérard[3]. La même année, il prend la présidence du « Comité Le Pen », qui vise à préparer la candidature de Jean-Marie Le Pen à l'élection présidentielle, mais celui-ci échoue à recueillir les 500 signatures nécessaire sà sa candidature[4].
+Après avoir obtenu près de 10 % des voix dans un des cantons de la ville de Dreux aux élections cantonales de 1982, il confirme son implantation aux élections municipales à Dreux de l'année suivante, suscitant la surprise en obtenant 16,7 % des voix au premier tour[5]. Entre les deux tours, il fusionne sa liste avec celle du RPR, menée par Jean Hieaux, qui remporte la mairie et dont Stirbois devient l'adjoint, apparaissant ainsi comme l'artisan de la première alliance entre la droite et le Front national. Cette alliance est soutenue par la plupart des responsables politiques départementaux du RPR et de l'UDF, qui en retiennent un moyen de faire basculer la ville de gauche à droite. Ce score important et cette alliance est la première victoire électorale d'importance pour le Front national.
+Il est élu député européen en 1984, sur la liste menée par Jean-Marie Le Pen.
+En 1986, le scrutin à la proportionnelle lui permet d'entrer à l'Assemblée nationale en tant que député, élu dans les Hauts-de-Seine.
+Jean-Pierre Stirbois met en place, pendant huit ans, l'organisation du Front national. Il dispose, au sein du mouvement, de solides réseaux, qui, pour une partie d'entre eux, s'éloigneront, après sa disparition, pour participer au lancement du Comité Espace nouveau, autour de Jean-François Touzé, de Roland Hélie et de Robert Spieler.
+Membre du bureau politique du FN, il devient le rival de Bruno Mégret lorsque celui-ci commence à prendre de l'influence auprès de Jean-Marie Le Pen.
+Entre les deux tours de l'élection présidentielle de 1988, il défend l'idée d'un soutien à François Mitterrand, bien qu'il ait toujours favorisé des accords avec l'UDF et le RPR[6].
+Après avoir effectué un voyage en Nouvelle-Calédonie pour défendre les liens entre celle-ci et la France, il trouve la mort dans un accident de voiture en revenant d'une réunion publique à Dreux. Il est enterré au cimetière du Montparnasse à Paris.
+Vie privée.
+Il est le mari de Marie-France Stirbois, également engagée en politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Mouvement jeune révolution (MJR).
+PART Front national (FN) 1977-1988.
+FONCTIONNORM
+
+NOMF Député français NOMF 2 avril 1986 – 14 mai 1988 SEP2 Élection REL 16 mars 1986 SEP2 Circonscription REL Hauts-de-Seine SEP2 Législature REL VIIIe (Cinquième République) SEP2 Groupe politique REL FN-RN.
+NOMF Député européen NOMF 24 juillet 1984 – 15 avril 1986 SEP2 Élection REL 17 juin 1984 SEP2 Législature REL 2e.
+NOMF Président NOMF PrédécesseurPierre Gérard SEP2 Prédécesseur REL Pierre Gérard SEP2 Successeur REL Carl Lang SEP2 Date de naissance REL 30 janvier 1945 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 5 novembre 1988 (à 43 ans) SEP2 Lieu de décès REL Jouars-Pontchartrain (Yvelines) SEP2 Parti politique REL MJRUnion solidariste (1975-1977)FN (1977-1988) SEP2 Conjoint REL Marie-France Charles SEP2 Profession REL Cadre commercialChef d'entrepriseJournaliste.

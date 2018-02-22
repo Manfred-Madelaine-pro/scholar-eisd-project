@@ -1,0 +1,38 @@
+PRETAG Alphonse.
+NOMTAG Esquiros.
+Henri-François-Alphonse Esquiros, né le 23 mai 1812 dans le 8e arrondissement de Paris[1] et mort le 12 mai 1876 à Versailles, est un auteur romantique et un homme politique français. Plusieurs fois député, il est élu sénateur le 30 janvier 1876 et meurt lors de son mandat.
+
+
+
+Issu d'une famille de la bourgeoisie parisienne, Alphonse Esquiros est le fils d'Alexandre-François Esquiros (1779-1847), viticulteur à Épernay et fabricant de coton en 1814, puis employé, et de Françoise-Henriette Malin (1782-1860).
+Quatrième d'une famille de sept enfants, il a trois frères :
+
+Charles (né en 1808, mort jeune) ;
+Eugène-Antoine (né en 1814, mort en bas âge) ;
+Henri (né en 1820, mort en bas âge) ;
+
+Et trois sœurs :
+
+Aglaé (née en 1805, morte en bas âge) ;
+Élisabeth (née en 1806, morte en bas âge) ;
+Marie (1823-1859).
+
+Après des études à l'école de l'abbé Hubault et au petit séminaire de Saint-Nicolas-du-Chardonnet de Paris, il entre au lycée à Paris puis à la Sorbonne, où il suit les cours mais ne passe pas la licence. Élevé dans la foi catholique, il s'écarte de la religion catholique sous l'influence de son ami Lamennais et devient un libre-penseur et un anticlérical militant[1].
+Il débute dans les lettres en 1834 par un volume de poésies, les Hirondelles, dont Victor Hugo fait l'éloge, et deux romans, Le Magicien en 1834 et Charlotte Corday en 1840, qui connaissent un grand succès. D'opinion démocrate et socialiste, il écrit ensuite L'Évangile du peuple (1840), un tableau de la vie et du caractère de Jésus, vu comme un réformateur social. Ce livre est considéré comme une offense à l'égard de la religion et de la décence, et, le 30 janvier 1841, Esquiros est condamné à une amende de 500 francs et emprisonné huit mois à Sainte-Pélagie. Pendant sa détention, il écrit un deuxième recueil de vers, Les Chants d'un prisonnier (1841).
+Puis il publie trois petits ouvrages d'inspiration socialiste, les Vierges martyres, les Vierges folles (contre la prostitution[2]) et les Vierges sages (1847), où il s'affirme comme un républicain de sentiment et un partisan enthousiaste de la Convention nationale, de la Montagne et des Jacobins.
+Le 7 août 1847, il épouse à Paris, dans la paroisse Saint-Sulpice, une femme de lettres, Adèle Battanchon, avec qui il écrit une Histoire des amants célèbres et Regrets, souvenir d'enfance, avant de s'en séparer en 1850[1].
+En 1848, il accueille avec enthousiasme la proclamation de la République et publie un journal, Le Peuple, bientôt rebaptisé l'Accusateur public, organe du Club du Peuple, qu'il préside, et dont quatre numéros paraissent du 11 au 25 juin[3].
+Lors d'un premier exil à Londres après les journées de Juin, il se met en couple avec une Anglaise, Anne Bunting[1],[4], avec laquelle il a un fils, William[2],[5], né à Londres en 1849[6] et mort de la typhoïde à Marseille le 7 novembre 1870[1].
+Il est élu le 10 mars 1850 lors d'une élection partielle député démocrate-socialiste (démoc-soc) de Saône-et-Loire à l'Assemblée nationale, le 2e sur 6 par 61 351 voix sur 105 573 votants et 157 148 inscrits, et prend place sur les bancs de la Montagne. L'élection est invalidée, mais il est réélu le 28 avril de la même année par 73 060 voix sur 120 162 votants et 154 015 inscrits. Votant parmi les membres les plus avancés de la minorité républicaine, il doit s'exiler lors du coup d'État du 2 décembre 1851.
+Expulsé de France, il se retire à Nivelles, en Belgique, puis en Hollande (1856-1859), avant de passer en Angleterre (1859-1869), où il devient professeur d'histoire et de littérature à l'école militaire de Woolwich[1] et publie ses observations et ses études dans la Revue des deux Mondes, publiées en volume sous le titre : l'Angleterre et la vie anglaise en 1859-1869 (5 vols.). Plein de mépris pour l'institution maçonnique en 1851, il se fait pourtant initier lors de son séjour en Angleterre, en même temps que Gustave Naquet[7]. Apprenti à La Réforme de Marseille le 3 avril 1869, il devient compagnon le 10 octobre suivant puis maître le 18 octobre[1].
+De retour en France en 1869, il se présente comme candidat de l'opposition radicale dans la 4e circonscription des Bouches-du-Rhône, où il est élu, le 7 juin, député au Corps législatif par 11 243 voix sur 21 334 votants et 31 460 inscrits, contre 9 787 pour M. de Rougemont, le candidat officiel. Siégeant à l'extrême-gauche, il s'oppose en toute occasion au gouvernement et vote contre la déclaration de guerre à la Prusse. En mai 1870, il est l'un des dirigeants de la campagne contre le plébiscite à Paris et à Marseille[1].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1850-1851, 1869-1870 et 1871-1876)Sénateur (1876) NOMF GouvernementIIe République,  Second Empire et IIIe République SEP2 Gouvernement REL IIe République,  Second Empire et IIIe République SEP2 Groupe politique REL Montagne (1850-1851)extrême-gauche (1869-1870 et 1871-1876) SEP2 Date de naissance REL 23 mai 1812 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 12 mai 1876 (à 63 ans) SEP2 Lieu de décès REL Versailles SEP2 Résidence REL Saône-et-Loire, Bouches-du-Rhône.

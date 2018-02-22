@@ -1,0 +1,22 @@
+PRETAG Albert.
+NOMTAG Peyron.
+Albert Peyron, né le 8 août 1943 à Alger (Algérie) et mort le 3 juin 2001 à Saint-Laurent-du-Var (Alpes-Maritimes), est un homme politique français.
+
+
+
+
+Mandat parlementaire.
+
+16 mars 1986 - 14 mai 1988 : Député des Alpes-Maritimes, élu sur la liste du Front national.
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (Front national).
+FONCTIONNORM
+
+NOMF Député des Alpes-Maritimes(scrutin proportionnel par département) NOMF 16 mars 1986 – 14 mai 1988 SEP2 Groupe politique REL FN-RN SEP2 Nom de naissance REL Albert Peyron SEP2 Date de naissance REL 8 août 1943 SEP2 Lieu de naissance REL Alger (Algérie) SEP2 Date de décès REL 3 juin 2001 (à 57 ans) SEP2 Lieu de décès REL Saint-Laurent-du-Var (Alpes-Maritimes) SEP2 Nationalité REL Française SEP2 Parti politique REL Front national.

@@ -1,0 +1,20 @@
+PRETAG Dominique.
+NOMTAG Martin.
+Dominique Martin, né le 1er octobre 1961 à Scionzier, est un homme politique français, membre du Front national (FN). Il est député européen depuis 2014 et conseiller municipal d'opposition à Cluses depuis 1989.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN).
+FONCTIONNORM
+
+NOMF Député européen NOMF En fonction depuis le 1er juillet 2014(3 ans, 7 mois et 20 jours) SEP2 Élection REL 25 mai 2014 SEP2 Législature REL 8e SEP2 Groupe politique REL NI (2014-2015)ENL (depuis 2015).
+NOMF Conseiller régional de Rhône-Alpes NOMF 1992 – 2014.
+NOMF Conseiller municipal de Cluses NOMF En fonction depuis mars 1989 SEP2 Date de naissance REL 1er octobre 1961 (56 ans) SEP2 Lieu de naissance REL Scionzier (Haute-Savoie, France) SEP2 Nationalité REL Française SEP2 Parti politique REL FN.

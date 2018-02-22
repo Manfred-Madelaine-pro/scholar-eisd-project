@@ -1,0 +1,20 @@
+PRETAG Danielle.
+NOMTAG Chuzeville.
+Danielle Chuzeville, née le 27 décembre 1945 à Amplepuis (Rhône), est une femme politique française.
+Elle est la première femme présidente du Conseil général du Rhône[2], elle succède à Michel Mercier[3].
+
+
+
+Ancienne professeure de mathématiques, proviseur de lycée[3], Danielle Chuzeville est conseillère municipale d'Amplepuis depuis 1975, commune dont elle est adjointe au maire en 1983 puis première adjointe de 2001 à 2008. Élue conseillère générale du canton d'Amplepuis en 2001 et réélue en 2008, elle est élue présidente du Conseil général du Rhône le 21 janvier 2013, après la démission de Michel Mercier. Elle obtient la majorité absolue dès le 1er tour, par 28 voix sur 31 suffrages exprimés, face à Marie-Christine Burricand du groupe des élus communistes et républicains qui obtient 3 voix[4].
+
+
+
+
+
+
+
+PARTISNORM
+PART Union des démocrates et indépendants (UDI).
+FONCTIONNORM
+
+NOMF Présidente du Conseil général du Rhône NOMF 21 janvier 2013 – 1er avril 2015(2 ans, 2 mois et 11 jours) SEP2 Prédécesseur REL Michel Mercier SEP2 Successeur REL Christophe Guilloteau SEP2 Date de naissance REL 27 décembre 1945 (72 ans) SEP2 Lieu de naissance REL Amplepuis (Rhône) SEP2 Nationalité REL Française SEP2 Parti politique REL UDI[1] SEP2 Profession REL Proviseur de lycée.

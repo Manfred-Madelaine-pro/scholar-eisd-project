@@ -1,0 +1,40 @@
+PRETAG Albin.
+NOMTAG Chalandon.
+Albin Chalandon, né le 11 juin 1920 à Reyrieux, est un haut fonctionnaire, banquier et homme politique français.
+
+Il épouse le 10 juillet 1951 Salomé Murat (1926-2016[19]), petite-fille de Marie de Rohan-Chabot et descendante de Joachim Murat[20].
+Le couple a trois fils : Fabien (1953), Aurèle (1956) et Emmanuel (1959[n 1])[21].
+Sans jamais divorcer de son épouse, Albin Chalandon vit ensuite de 1967 aux années 1990 avec la journaliste Catherine Nay (1943)[22]. Il l'épouse en 2016[23],[réf. insuffisante].
+
+
+Origines familiales, formation et engagement dans la Résistance.
+Fils de Pierre Chalandon (1879-1964), industriel, maire de Reyrieux (Ain), et de Claire Cambon (1885-1965), Albin Chalandon a trois frères.
+Après avoir fait ses classes au lycée Condorcet, il obtient une licence ès lettres à la faculté des lettres de Paris et un diplôme d'études supérieures spécialisées (DESS) en philosophie.
+À 24 ans, il dirige une compagnie dans un groupe de 500 maquisards en forêt d'Orléans (maquis de Lorris), ce qui l'amène à se confronter au régiment SS 1010, basé à Chilleurs-aux-Bois. Il est blessé assez grièvement, mais sauvé par le général Leclerc, ce qui le conduit à participer à la libération de Paris, et plus particulièrement à celle du Palais Bourbon et des bâtiments du Quai d'Orsay, alors tenus par les SS ; les combats se soldent par d'importantes pertes humaines[1]. Ce fait d'armes lui vaut la Légion d'honneur à titre militaire.
+En avril 1945, il est reçu (aux côtés, notamment, de Jean Guyot) au concours de l'Inspection générale des finances.
+Haut fonctionnaire.
+Albin Chalandon commence sa carrière à l'Inspection générale des finances avant de devenir membre du cabinet de Léon Blum (lequel est alors président de l'ultime gouvernement provisoire – du 16 décembre 1946 au 16 janvier 1947 –, soit juste avant l'entrée en vigueur de la Quatrième République). Il poursuit par la suite sa carrière dans la haute fonction publique.
+Banquier.
+Albin Chalandon crée en 1952 une banque avec Marcel Dassault, la Banque commerciale de Paris[2], dont il fait en seize ans la 6e banque française, revendant alors en 1968 sa participation pour entrer en politique. Cette banque a été fusionnée ensuite, en 1972, dans la Banque Vernes, qui est passée dans le secteur public entre 1982 et 1987.
+Engagement politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement du peuple français (RPF).
+PART Union pour la nouvelle République (UD-Ve).
+PART Union des démocrates pour la République (UDR).
+PART Rassemblement pour la République (RPR).
+FONCTIONNORM
+
+NOMF Président NOMF GouvernementJacques Chirac II SEP2 Gouvernement REL Jacques Chirac II SEP2 Prédécesseur REL Michel Crépeau SEP2 Successeur REL Pierre Arpaillange.
+NOMF Député du Nord NOMF Élection16 mars 1986 SEP2 Élection REL 16 mars 1986 SEP2 Législature REL VIIIe (Cinquième République) SEP2 Prédécesseur REL scrutin par circonscription SEP2 Successeur REL Michel Ghysel.
+NOMF Député de la deuxième circonscription des Hauts-de-Seine NOMF 2 avril 1973 – 11 août 1976 SEP2 Réélection REL 11 mars 1973 SEP2 Législature REL Ve (Cinquième République) SEP2 Prédécesseur REL Robert Lavergne SEP2 Successeur REL Yves Cornic SEP2 Élection REL 12 mars 1967 SEP2 Réélection REL 30 juin 1968 SEP2 Législature REL IIIe, IVe (Cinquième République) SEP2 Prédécesseur REL création de la circonscription SEP2 Successeur REL Robert Lavergne.
+NOMF Ministre de l'Équipement et du Logement NOMF 11 juillet 1968 – 5 juillet 1972.
+NOMF Président NOMF GouvernementMaurice Couve de MurvilleJacques Chaban-Delmas SEP2 Gouvernement REL Maurice Couve de MurvilleJacques Chaban-Delmas SEP2 Prédécesseur REL Robert Galley SEP2 Successeur REL Olivier Guichard.
+NOMF Ministre de l'Industrie NOMF 31 mai 1968 – 10 juillet 1968.
+NOMF Président NOMF GouvernementGeorges Pompidou IV SEP2 Gouvernement REL Georges Pompidou IV SEP2 Prédécesseur REL Olivier Guichard SEP2 Successeur REL André Bettencourt SEP2 Nom de naissance REL Albin Paul Henri Chalandon SEP2 Date de naissance REL 11 juin 1920 (97 ans) SEP2 Lieu de naissance REL Reyrieux (Ain) SEP2 Nationalité REL  France SEP2 Parti politique REL RPFUD-VeUDRRPR SEP2 Conjoint REL Catherine Nay (1967-v. 1990) SEP2 Diplômé de REL Faculté des lettres de Paris SEP2 Profession REL Inspecteur des financesBanquierDirecteur de sociétés.

@@ -1,0 +1,23 @@
+PRETAG Marine.
+NOMTAG Le.
+Marion Anne Perrine Le Pen, dite Marine Le Pen (prononcé [ma.ʁin lə.pɛn]), née le 5 août 1968 à Neuilly-sur-Seine, est une femme politique française.
+Engagée au sein du Front national, elle occupe plusieurs mandats locaux à partir de 1998 (conseillère régionale d'Île-de-France, du Nord-Pas-de-Calais puis des Hauts-de-France, conseillère municipale d'Hénin-Beaumont) et siège de 2004 à 2017 au Parlement européen, où elle co-préside le groupe politique Europe des nations et des libertés (ENL).
+Elle est élue présidente du Front national lors du congrès de Tours de janvier 2011, succédant ainsi à son père, Jean-Marie Le Pen, qui dirigeait le parti depuis sa fondation. Candidate à l'élection présidentielle de 2012, elle arrive en troisième position au premier tour en obtenant 17,90 % des suffrages exprimés. De nouveau candidate à l'élection présidentielle de 2017, elle se qualifie pour le second tour, qu'elle perd face à Emmanuel Macron en obtenant 33,90 % des voix. À la suite des élections législatives qui suivent, elle est élue députée dans la onzième circonscription du Pas-de-Calais.
+
+
+
+
+Marine Le Pen est élève au lycée Florent-Schmitt de Saint-Cloud[3],[26]. À cause notamment d'une note de 4/20 à l'épreuve de philosophie, elle n'obtient son baccalauréat (série B) qu'au rattrapage en 1986[27],[28],[29]. Elle étudie par la suite le droit à l'université Paris II-Assas[3],[30], où elle obtient une maîtrise en droit (mention carrières judiciaires) en 1990, puis un DEA de droit pénal en 1991[3],[31]. Elle est alors « cornaquée par Jean-Claude Martinez, professeur de droit public dans la même fac et proche conseiller de son père », qui décrit une étudiante « très médiocre et très fêtarde »[32].
+En 1992, après avoir suivi l'École de formation professionnelle des barreaux de la cour d'appel de Paris (EFB)[33], elle obtient le certificat d'aptitude à la profession d'avocat (CAPA)[3] et devient avocate au barreau de Paris[30]. Dans son autobiographie À contre flots (éditions Grancher, 2006), elle indique qu'elle souhaitait entrer dans la vie active alors que son père aurait préféré qu'elle passe son doctorat[34],[33].
+
+Elle s'inscrit au barreau de Paris en 1992[3]. Elle entre alors au cabinet de Georges-Paul Wagner, intime de la famille Le Pen[33],[35]. En 1994, elle s'installe à son compte dans un bureau de la rue de Logelbach qu'elle loue à Sylvain Garant, un avocat proche de la droite du RPR[36],[33].
+L'Express relève que sa carrière d'avocate est très brève « dans une profession où il en faut souvent dix pour exister », et que « son seul « grand » procès reste celui du sang contaminé, en octobre 1992 puis juillet 1993 », dans lequel le cabinet Wagner défend l'association des polytransfusés ; commençant sa carrière professionnelle, elle n'y plaide pas[33]. Elle se porte volontaire aux permanences de comparutions immédiates à la 23e chambre correctionnelle du tribunal de grande instance de Paris, « travail mal payé mais qui permet aux jeunes avocats d'arrondir leurs fins de mois et d'acquérir une certaine compétence[37] ». Dans ce cadre, elle est amenée à défendre des étrangers en situation irrégulière[38],[39],[33]. L'Express précise que « ses anciens confrères, de droite comme de gauche, brossent le portrait d'une avocate « bosseuse et pugnace », « indestructible et fêtarde », évitant toute forme de prosélytisme »[33]. Elle doit faire face à l'hostilité de certains de ses confrères, dont Arnaud Montebourg et Jean-Marc Fédida, opposés à son élection à la conférence des avocats du barreau de Paris[33].
+Elle quitte le barreau pour entrer le 1er janvier 1998 au service juridique du Front national[33],[40],[30]. Renaud Dély lie ce changement à l'échec de son activité d'avocate indépendante : « Elle n'a pas de clients, pas de dossiers, et donc pas de revenus »[12].
+
+
+
+
+PARTISNORM
+PART Front national (FN) depuis 1986.
+PART Rassemblement bleu Marine (RBM) depuis 2012.
+FONCTIONNORM

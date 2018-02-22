@@ -1,0 +1,17 @@
+PRETAG Eugène.
+NOMTAG Rambourgt.
+Eugène Rambourgt est un homme politique français né le 4 octobre 1844 à Coursan (Aube) et décédé le 30 octobre 1914 aux Riceys (Aube)
+Après des études de droit, il entame une carrière administrative, dans les cabinets ministériels en 1871 puis comme sous-préfet de 1872 à 1878. Élu maire de Coursan en 1878, il se consacre à son département. Conseiller général du canton d'Ervy-le-Châtel, il sera plus tard président du conseil général. Député de l'Aube de 1889 à 1893, sénateur de 1896 à 1914, il siège au groupe de l'Union républicaine et se consacre aux questions viticoles, se faisant le défenseur du vignoble champenois.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .
+NOMF Sénateur de la Troisième République (d) NOMF .

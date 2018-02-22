@@ -1,0 +1,52 @@
+PRETAG Alain.
+NOMTAG Robert.
+Alain Robert, né le 9 octobre 1945, est un homme politique français.
+
+
+
+Alain Robert commence par adhérer à la Fédération des étudiants nationalistes, dont il gère la section parisienne en compagnie de Gérard Longuet et d'Alain Madelin[1].
+En 1964, il adhère au mouvement Occident aux côtés de Christian de Bongain, François Brigneau, Patrick Devedjian, Gérard Longuet ou Alain Madelin.
+À partir de juin 1966, après avoir soutenu la candidature de Jean-Louis Tixier-Vignancour à la présidentielle de 1965, il fait partie des dix membres du nouveau « secrétariat central » du mouvement[2].
+Après la dissolution d’Occident en 1968, il constitue l'équipe dirigeante du Groupe union défense, puis d'Ordre nouveau l'année suivante.
+Années 1970.
+En 1972, il crée avec François Brigneau, le Front national (FN), un mouvement destiné à élargir l'audience d'Ordre nouveau, en demandant à Jean-Marie Le Pen de se joindre à eux et de prendre le poste de président. Il occupe quant à lui le poste de secrétaire général.
+En septembre 1973, peu après la dissolution d'Ordre nouveau, il crée la revue Faire front avec Pascal Gauchon et les Comités faire front avec François Brigneau. Le premier numéro de Faire front appelle à rejoindre le Front national et le second se présente comme le « Journal du Front national ». Alain Robert propose à Jean-Marie Le Pen que son mouvement fusionne avec le FN à la condition qu'il obtienne les deux tiers des sièges du bureau politique et du comité directeur, ce que Jean-Marie Le Pen refuse alors qu'il était d'abord favorable à une fusion. En outre, la mouvance d'Alain Robert lui reproche « d'avoir fait du FN une machine électorale à usage personnel ». Jean-Marie Le Pen décide dès lors d'exclure Alain Robert du FN en se réfugiant derrière le refus de ce dernier de démissionner du poste de secrétaire général d'Ordre nouveau, présenté comme incompatible avec le même poste au FN ; il est remplacé par Dominique Chaboche[3].
+À la fin de 1973, il y a en fait deux FN :
+
+l’un est présidé par Le Pen,
+l’autre est dirigé par Robert qui représente l'aile jeune et nationaliste.
+
+L’affaire est portée devant les tribunaux et Jean-Marie Le Pen gagne sa cause, ce qui l’autorise à se revendiquer de l’étiquette FN[4].
+En 1974, les Comités faire front participent contre finances à la campagne présidentielle de Valéry Giscard d'Estaing. En novembre 1974, Alain Robert prend part à la création du Parti des forces nouvelles (PFN), qui porte à sa tête Pascal Gauchon.
+Années 1980.
+En 1981, Alain Robert rompt avec la droite nationaliste pour rejoindre le Centre national des indépendants et paysans (CNIP, droite libérale) dirigé par Philippe Malaud, Raymond Bourgine et Michel Junot. Il en devient le secrétaire général adjoint[5].
+Devenu ami de Charles Pasqua, il mène ensuite une carrière au sein du RPR[6] puis de l'UMP. Après avoir rejoint le RPR, il collabore constamment avec Charles Pasqua, au conseil général des Hauts-de-Seine ou en se portant candidat, à sa demande, dans diverses circonscriptions de la banlieue parisienne[7].
+En juin 1981, il se présente aux élections législatives à Aulnay-sous-Bois/Blanc Mesnil, investi par l’Union RPR-UDF-CNIP. Il est élu en 1983 conseiller municipal du Blanc-Mesnil en Seine-Saint-Denis.
+Il est cofondateur de « Solidarité et défense des Libertés » avec Alice Saunier-Seité, Charles Pasqua, Alain Griotteray, Jacques Médecin et Raymond Bourgine en 1984. L'année suivante, il est élu conseiller général RPR-CNIP de la Seine-Saint-Denis, dans le canton de Montreuil-Ouest, ancien fief de Jacques Duclos.
+En 1986, il est élu conseiller régional d’Île-de-France RPR-CNIP et nommé au cabinet de Robert Pandraud, au ministère de l'Intérieur puis au cabinet de Charles Pasqua. Il adhère au RPR, où il est nommé secrétaire national à la formation en 1987.
+Puis il participe activement, aux côtés de Franck Borotra, à la campagne présidentielle de Jacques Chirac en 1988.
+En 1989, Alain Robert devient secrétaire général du Mouvement national des élus locaux (MNEL), présidé par Jean-François Pintat puis par Alice Saunier-Seïté. Il conserve ce poste sous la présidence d'André Santini.
+Après 1990.
+Lors des élections régionales de 1992, il est réélu conseiller régional d'Île-de-France (RPR) et entre l'année suivante au cabinet de Charles Pasqua au ministère de l’Intérieur. En 1993 il est candidat d’union RPR/UDF aux élections législatives de Bagneux-Montrouge-Malakoff (92).
+En 1994, Alain Robert est nommé membre du Conseil économique et social, comme « personnalité qualifiée »[8].
+En 1995, il est élu conseiller municipal avec la liste « Ensemble pour changer Bagneux ». Il était possible de retrouver sur cette liste une ex-miss France et Yann Leriche fonctionnaire à la direction générale des services en Mairie et petit fils de l'ex-Maire PCF de la ville de Bagneux. Il fait partie du cabinet de Charles Pasqua, président du Conseil général des Hauts-de-Seine en 1996, et participe à la création du Rassemblement pour la France, dont il est membre du bureau politique et candidat sur sa liste aux élections européennes de 1999[9]. Il est également responsable de la fédération de Paris[10].
+Il rejoint ensuite l'Union pour un mouvement populaire (UMP)[11]. En 2005, il devient membre du « bureau des Réformateurs ». Alain Robert continue ensuite d'occuper des fonctions au MNEL, en tant que délégué général, chargé de mission auprès du Président[12],[11].
+
+
+
+
+
+
+
+PARTISNORM
+PART Occident (mouvement politique) (Occident) .
+PART Ordre nouveau (mouvement) (Ordre nouveau) .
+PART Front national (Front national) .
+PART Parti des forces nouvelles (Parti des forces nouvelles) .
+PART Centre national des indépendants et paysans (Centre national des indépendants et paysans).
+PART Rassemblement pour la République (Rassemblement pour la République).
+PART Rassemblement pour la France et l'indépendance de l'Europe (Rassemblement pour la France).
+PART Union pour un mouvement populaire (Union pour un mouvement populaire).
+FONCTIONNORM
+
+NOMF Conseiller régional d'Île-de-France NOMF 1986 – 1998 SEP2 Date de naissance REL 9 octobre 1945 (72 ans) SEP2 Nationalité REL française SEP2 Parti politique REL Occident (1964-1968)Ordre nouveau (1969-1973)Front national (1972-1973)Parti des forces nouvelles (1974-1981)Centre national des indépendants et paysansRassemblement pour la RépubliqueRassemblement pour la FranceUnion pour un mouvement populaire.

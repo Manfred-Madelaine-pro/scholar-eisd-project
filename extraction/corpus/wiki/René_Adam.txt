@@ -1,0 +1,17 @@
+PRETAG René.
+NOMTAG Adam.
+René Adam est un homme politique français né le 20 février 1883 à Plouégat-Guérand, dans le Finistère et décédé le 7 janvier 1955 à Neauphle-le-Vieux, en Seine-et-Oise.
+Employé de la Compagnie du gaz de Paris, militant de la SFIC, il est élu député de la Seine en 1924 au scrutin de liste, derrière Paul Vaillant-Couturier, Jacques Doriot et Jean-Marie Clamamus. Il défend fidèlement les positions de son parti à la Chambre des députés.
+Le scrutin de liste ayant été abandonné en 1928, il renonce à se représenter et ne brigue plus de mandat parlementaire.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1924-1928 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Communiste SEP2 Date de naissance REL 20 février 1883 SEP2 Date de décès REL 7 janvier 1955 (à 71 ans) SEP2 Résidence REL Seine.

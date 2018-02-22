@@ -1,0 +1,28 @@
+PRETAG Joseph.
+NOMTAG Magnin.
+Joseph Pierre dit Joseph Magnin, né à Dijon le 1er janvier 1824, mort à Paris le 22 novembre 1910, est un maître des forges et homme politique français
+
+
+
+Fils de Jean Hugues Magnin-Philippon, il lui succède comme maître de forges. Il devient membre de la chambre de commerce et président du tribunal de commerce de Dijon.
+Conseiller général de la Côte-d'Or en 1861 et conseiller municipal de Dijon en 1865, il est député de la Côte-d'Or de 1863 à 1876.
+Membre du gouvernement de la Défense nationale au lendemain de la proclamation de la république, il y accepte le portefeuille de l'Agriculture et du Commerce, et la charge de pourvoir à l'approvisionnement de Paris.
+Le 16 décembre 1875, l'Assemblée nationale l'élit sénateur inamovible. Il devient directeur politique du Siècle.
+Le 29 décembre 1879, il devient ministre des Finances dans le premier cabinet Freycinet. Il tombe avec le ministère le 22 septembre, mais reprit son portefeuille, le lendemain, dans le premier cabinet Jules Ferry. Magnin quitta le ministère des Finances à la chute du cabinet, le 13 novembre 1881.
+Il est nommé gouverneur de la Banque de France le 18 novembre 1881.
+Il devient vice-président du Sénat en 1884, président de la commission de l'armée en 1889, puis de la commission des finances en 1890.
+Ses enfants Jeanne et Maurice constituent une collection d’œuvres d'art qu'ils installent dans l'Hôtel Lantin, leur maison à Dijon, et qu'ils lèguent à l'État en 1938. Elle devient le Musée Magnin, présentée comme un cabinet d'amateur.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur inamovible NOMF 1875 – 22 novembre 1910.
+NOMF Ministre des Finances NOMF 28 décembre 1879 – 13 novembre 1881.
+NOMF Président NOMF GouvernementFreycinet I, Ferry I SEP2 Gouvernement REL Freycinet I, Ferry I SEP2 Prédécesseur REL Léon Say SEP2 Successeur REL François Allain-Targé.
+NOMF Ministre du Commerce et de l'Agriculture NOMF 4 septembre 1870 – 19 février 1871 SEP2 Gouvernement REL Gouvernement de la Défense nationale SEP2 Prédécesseur REL Clément Duvernois SEP2 Successeur REL Félix Lambrecht.
+NOMF Député de la Côte-d'Or NOMF 13 décembre 1863 – 7 mars 1876 SEP2 Nationalité REL  Française.

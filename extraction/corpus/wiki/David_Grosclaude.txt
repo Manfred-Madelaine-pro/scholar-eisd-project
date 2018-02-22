@@ -1,0 +1,23 @@
+PRETAG David.
+NOMTAG Grosclaude.
+David Grosclaude est un journaliste et un homme politique français membre du Partit occitan, né le 14 avril 1958 à Chinon.
+Il élu conseiller régional sur la liste Europe Écologie qui fait partie la majorité régionale lors des élections régionales de 2010.
+Son mandat prend fin lors des élections régionales de 2015.
+
+
+David Grosclaude est connu pour son travail de journaliste en occitan. Il fait partie des créateurs des émissions en Occitan de France 3 puis en 1983 il participe a la création de la radio de langue occitane Ràdio País[1].
+En 1994 il lance le premier hebdomadaire d'information en langue occitane La Setmana[2].
+Il est aussi président de l'Institut d'études occitanes.
+Il est membre du Partit occitan et conseiller régional d'Aquitaine de 2010 à 2015.
+
+
+
+
+
+
+
+PARTISNORM
+PART Partit occitan (Partit occitan).
+FONCTIONNORM
+
+NOMF Conseillère régionale de Aquitaine NOMF 21 mars 2010 – 31 décembre 2015(5 ans, 9 mois et 9 jours) SEP2 Élection REL 21 mars 2010 SEP2 Successeur REL Fusion de la région SEP2 Date de naissance REL 14 avril 1958 (59 ans) SEP2 Lieu de naissance REL Chinon(France) SEP2 Nationalité REL Française SEP2 Parti politique REL Partit occitan SEP2 Profession REL Journaliste SEP2 Site web REL https://david-grosclaude.com/.

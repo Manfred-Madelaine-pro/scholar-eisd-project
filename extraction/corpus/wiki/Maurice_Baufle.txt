@@ -1,0 +1,22 @@
+PRETAG Maurice.
+NOMTAG Baufle.
+Maurice Baufle est un homme politique français né à Gray (Haute-Saône) le 17 septembre 1886 et mort à Besançon le 11 janvier 1983.
+Maurice Baufle est né à Gray en 1886 dans une famille de la petite bourgeoisie de Haute-Saône. Son père est avoué à Gray. Il fait ses études secondaires au collège de Gray, puis ses études supérieures à la Faculté de Droit de Dijon.
+Il est reçu docteur en droit avec une thèse sur la « Procédure monitoire et injonctionnelle ».
+Il prête serment d’avocat en 1909 et s’inscrit au barreau de Besançon.
+En 1914, il est mobilisé, devient capitaine d’infanterie et revient de la guerre blessé, il reçoit la Légion d’honneur sur le champ de bataille.
+En 1919, il s’installe à Montbéliard et, mène de front une profession qui le passionne et une carrière politique dans le sillage de Georges Pernot, chef de l’Union Nationale Républicaine dans le Doubs (apparentée à l'Alliance démocratique, c'est-à-dire au centre libéral et laïc).
+En 1924 il prend part aux luttes politiques en posant sa candidature aux législatives. Il est élu le 23 décembre 1934 aux sénatoriales et trouve sa place au Palais du Luxembourg avec ses deux colistiers Georges Pernot et le Colonel Jean Fabry. Il est membre des Commissions de l'Algérie, des comptes définitifs, de l'administration générale, départementale et communale, des travaux publics, des douanes, de la législation civile et criminelle et du suffrage des femmes. Il prend part en 1936 à la discussion du projet de loi approuvant le pacte franco-soviétique pour le combattre. Il est réélu le 23 octobre 1938, élu secrétaire du Sénat le 11 janvier 1940, il approuve la réforme constitutionnelle et vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain le 10 juillet 1940. Son mandat prend fin le 20 octobre 1945.
+Bâtonnier de l’Ordre des Avocats de 1959 à 1961, il poursuit son activité d'avocat, au barreau de Montbéliard, jusqu'à l'âge de 82 ans et s’installe en 1968 à Besançon où son frère Paul avait été médecin.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur NOMF 23 décembre 1934 – 20 octobre 1945 SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL Union républicaine - UR SEP2 Date de naissance REL 17 septembre 1886 SEP2 Lieu de naissance REL Gray SEP2 Date de décès REL 11 janvier 1983 (à 96 ans) SEP2 Lieu de décès REL Besançon SEP2 Nationalité REL  Française SEP2 Profession REL Avocat SEP2 Résidence REL Doubs.

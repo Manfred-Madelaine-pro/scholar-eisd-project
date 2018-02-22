@@ -1,0 +1,22 @@
+PRETAG Nicole.
+NOMTAG Kiil-Nielsen.
+Nicole Kiil-Nielsen, née le 21 août 1949 à Larchamp (Mayenne), est une femme politique française. Elle est élue députée européenne des Verts lors des élections européennes de 2009, et est membre d'Europe Écologie Les Verts.
+
+
+
+Militante féministe et anti-nucléaire depuis la fin des années 1960, elle a commencé son engagement politique avec le combat pour les droits des  femmes, pour le droit à disposer de son corps en militant au Mouvement pour la libération de l'avortement et la contraception (MLAC), ainsi que dans de nombreux mouvements de solidarité internationale. Nicole Kiil-Nielsen est à l'origine proche de la LCR. Les Verts est pour autant le premier, et seul, parti auquel elle adhère, dès la fin des années 1980. Elle soutient alors l'ancrage à gauche du parti. Lors des élections municipales de 2001 à Rennes, elle obtient son premier mandat électif en étant élue sur la liste d'union de la Gauche menée par Edmond Hervé.
+Lors des élections municipales de 2008, les Verts de Rennes choisissent de présenter au premier tour une liste autonome, « Rennes verte et solidaire ». Menée par Nicole Kiil-Nielsen, la liste recueille 8,93 % des suffrages exprimés[1]. La liste d'union de la Gauche menée par Daniel Delaveau refuse la fusion entre les deux tours, privant les Verts de toute représentation au Conseil municipal de Rennes.
+À l'occasion des élections européennes de 2009, elle figure en deuxième place sur la liste écologiste menée par Yannick Jadot dans la circonscription Ouest (région Bretagne, Pays de la Loire et Poitou-Charentes). Grâce au score de 16,64 % des voix obtenu par la liste, elle est élue députée européenne le 7 juin 2009 et a fait part de son souhait d'abandonner son poste de conseillère principale d'éducation au lycée Émile-Zola de Rennes[2].
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts).
+PART Europe Écologie Les Verts (Europe Écologie Les Verts).
+FONCTIONNORM
+
+NOMF Députée européenne NOMF 14 juillet 2009 – 1er juillet 2014 SEP2 Élection REL 7 juin 2009 SEP2 Législature REL VIIe SEP2 Date de naissance REL 21 août 1949 (68 ans) SEP2 Lieu de naissance REL Larchamp, Mayenne SEP2 Nationalité REL Française SEP2 Parti politique REL Les VertsEurope Écologie Les Verts SEP2 Diplômé de REL Université de Rennes.

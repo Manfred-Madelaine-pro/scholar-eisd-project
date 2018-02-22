@@ -1,0 +1,23 @@
+PRETAG Louis-Charles.
+NOMTAG Bary.
+Louis-Charles Bary, né le 16 septembre 1926 à Meudon, est un industriel et homme politique français[1].
+
+
+Dans sa jeunesse, Louis-Charles Bary est membre des Scouts de France dont il devient dans les années 1960 responsable pour tout l'Ouest de la région parisienne[1].
+Diplômé de l'École libre des sciences politiques, il travaille dans l'industrie textile au sein du Syndicat français des textiles artificiels et synthétiques (SFTAS), dont il est secrétaire général de 1962 à 1966, puis délégué général de 1966 à 1972, vice-président de 1972 à 1974 et enfin président de 1974 à 1987. Il est également président de la société d'approvisionnement textiles de 1967 à 1987 et président de l'Union des industries textiles de 1986 à 1991.
+Parallèlement, Louis-Charles Bary s'engage dans le syndicalisme patronal, notamment au sein du CNPF, dont il préside plusieurs instances parmi lesquelles l'Union d'économie sociale pour le logement[2]. Il est également vice-président du CNPF de 1986 à 1992, puis président de la Commission du logement social de 1995 à 1999 et membre du Comité statutaire de 1994 à 2001.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti républicain (PR) UDF.
+PART Union pour la démocratie française (UDF) UMP.
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Conseiller général des Hauts-de-Seine (canton de Neuilly-sur-Seine-Sud) NOMF 18 mars 1976 – 20 mars 2008(32 ans et 2 jours).
+NOMF Président NOMF Groupe politiqueUDF, UMP SEP2 Groupe politique REL UDF, UMP SEP2 Date de naissance REL 16 septembre 1926 (91 ans) SEP2 Lieu de naissance REL Meudon (Seine-et-Oise) SEP2 Nationalité REL  Français SEP2 Parti politique REL PR, UDF, UMP SEP2 Diplômé de REL Sciences Po SEP2 Profession REL Homme d'affaires SEP2 Religion REL Catholicisme.

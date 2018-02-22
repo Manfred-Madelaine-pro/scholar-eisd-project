@@ -1,0 +1,35 @@
+PRETAG André.
+NOMTAG Morice.
+André Morice, né le 10 octobre 1900 à Nantes et mort le 17 janvier 1990 à Paris, est un homme politique français.
+Membre du Parti radical, il a occupé des fonctions gouvernementales sous la IVe République, prenant nettement position pour le maintien de la présence française en Algérie, sans toutefois tomber dans l'action illégale. Sous la Ve République, il a été sénateur-maire de Nantes de 1965 à 1977.
+
+
+
+Sa jeunesse.
+André Morice est le fils d'Émile Morice (mort en 1931), mécanicien aux chemins de fer, syndicaliste, franc-maçon, conseiller municipal de Nantes de 1912 à 1927, vice-président du Comité radical socialiste de la Loire-Inférieure et militant laïque convaincu.
+André Morice est élève du lycée de Nantes et obtient le baccalauréat ès sciences. Il étudie ensuite le droit à Paris et obtient une licence en droit. En 1924, il entre dans la loge maçonnique de la « Libre-conscience », affiliée à la Grande Loge de France et il milite aux Jeunesses laïques et républicaines (le mouvement de jeunesse du Parti radical) qu'il préside de 1930 à 1932. Il entre alors en contact avec des personnalités du parti, Jean Zay, président de la fédération du Loiret, et Léon Martinaud-Déplat.
+Le 24 septembre 1931, André Morice fonde avec Théophile Padiou l'Entreprise nantaise des travaux publics et paysagers à la tête de laquelle il restera jusqu'en 1968.
+Les années 1930 et le Front populaire.
+À la même époque, appuyé par Gaston Veil, leader de la gauche radicale dans le département et patron du « Populaire de Nantes », André Morice s'impose progressivement comme le chef de file du radicalisme en Loire-Inférieure. En 1934, le congrès national du parti a lieu à Nantes ; André Morice y joue un rôle important comme commissaire général.
+Alors qu'une fraction des radicaux rallie l'alliance démocratique, André Morice adhère au Front populaire. En 1935, il est élu conseiller municipal de Nantes sur la liste dirigée par le socialiste Auguste Pageot. En mai 1936, André Morice se présente aux élections législatives dans la troisième circonscription de Nantes. Il obtient seulement 3 884 voix, 25 % des suffrages exprimés. En juin 1936, il est tout de même élu président de la fédération radicale socialiste de Loire-Inférieure.
+Par la suite, dans le cadre de l'échec du Front populaire, il prend des positions ouvertement anticommunistes et suit Édouard Daladier lorsque celui-ci rompt l'alliance avec la gauche (mars 1938). Il approuve évidemment les accords de Munich et les décrets-lois sur le temps de travail. En novembre 1938, il est nommé vice-président d'une structure régionale du parti, la Fédération radicale socialiste de Bretagne.
+La Seconde guerre mondiale.
+À la déclaration de guerre, il a 39 ans, est veuf et chargé de deux enfants. Il s'engage volontairement (il est capitaine et commande une compagnie du Génie). Il est fait prisonnier le 28 mai 1940, envoyé à l'Oflag IV D, puis est libéré pour raison médicale en octobre 1943, hospitalisé au Val-de-Grâce où il est démobilisé le 9 février 1944. Il reprend ses activités dans son entreprise devenue Société nantaise des travaux publics et paysagers.
+Pendant la guerre, l'entreprise a participé à la construction du « mur de l'Atlantique » par l'organisation Todt. Cette collaboration est l'objet d'une procédure judiciaire après la Libération. Il s'agit de savoir dans quelle conditions elle a eu lieu (volontairement ou sous la contrainte) et d'autre part quelle est l'implication personnelle d'André Morice. En effet, bien que prisonnier, il a participé à une augmentation de capital qui a eu lieu au début de l'Occupation. Les deux associés sont d'abord frappés d'une forte amende ; en appel, André Morice obtient le retrait de son amende personnelle. Mais cette affaire reviendra plusieurs fois sur la place publique : en 1946 et en 1949 dans la presse locale, en 1957 dans la presse nationale.
+La période du Gouvernement provisoire.
+À la Libération, il reprend la direction de l’Entreprise nantaise de travaux publics ainsi que sa carrière politique.
+Dès octobre 1944, il réorganise la fédération départementale du Parti radical, avec l'appui du journal Le Populaire de Nantes, rebaptisé Le Populaire de l'Ouest qui reparaît en mars 1945, dont André Morice possède 20 % du capital et est vice-président et directeur[1]. En avril 1945, il est réélu conseiller municipal de Nantes sur une liste d'union de la Résistance conduite par Jean Philippot et regroupant communistes, socialistes et radicaux socialistes. Il est nommé quatrième adjoint.
+Il est élu député radical de la Loire-Inférieure dès octobre 1945 (Première Constituante) et siègera à l’Assemblée nationale jusqu’en 1958. Il doit sa victoire au vote des campagnes, secteur qu'il a particulièrement travaillé avant l'Occupation. Mais il est le seul député radical de l'Ouest[2] et le groupe ne comporte plus que 25 membres. André Morice adopte une attitude d'opposition en menant une active campagne contre le tripartisme (PCF, SFIO, MRP). Il intervient activement devant l'assemblée, notamment lors du débat sur l'organisation de la Sécurité Sociale. le 19 avril 1946, il vote contre le texte constitutionnel qui va d'ailleurs être rejeté par référendum. Dans la Seconde Constituante, il est toujours aussi actif et de nouveau vote contre le projet de constitution, qui cette fois est accepté.
+La Quatrième République.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de la Loire-Atlantique NOMF 26 septembre 1965 – 2 octobre 1983 SEP2 Groupe politique REL GD SEP2 Prédécesseur REL Henry Orrion SEP2 Successeur REL Alain Chénard.
+NOMF Député de la Loire-Atlantique(Quatrième République) NOMF 28 novembre 1946 – 8 décembre 1958 SEP2 Législature REL Ire, IIe, IIIe (Quatrième République) SEP2 Groupe politique REL RRRS.
+NOMF Député de la Loire-Atlantique(Assemblée nationale constituante) NOMF 6 novembre 1945 – 27 novembre 1946 SEP2 Groupe politique REL RRRS SEP2 Date de naissance REL 10 octobre 1900 SEP2 Lieu de naissance REL Nantes SEP2 Date de décès REL 17 janvier 1990 (à 89 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL Française.

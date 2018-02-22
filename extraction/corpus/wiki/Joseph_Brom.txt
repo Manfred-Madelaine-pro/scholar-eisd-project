@@ -1,0 +1,22 @@
+PRETAG Joseph.
+NOMTAG Brom.
+Joseph Brom est un journaliste et homme politique alsacien, né le 10 octobre 1881 à Blotzheim (Haut-Rhin) et décédé le 15 janvier 1945 à Mulhouse (Haut-Rhin). Il fut député au Landtag d'Alsace-Lorraine, puis député à l'Assemblée nationale et sénateur.
+
+
+
+Après un début de carrière dans le journalisme et le syndicalisme chrétien, Joseph Brom entre en politique en 1911. Il est élu député au Landtag d'Alsace-Lorraine, dont il est l'un des plus jeunes membres. Il y siège jusqu'en 1918[1]. Après le Traité de Versailles, en 1919, il devient conseiller municipal de Mulhouse. En 1923, il devient adjoint au maire de cette ville et conseiller général de Hirsingue, mandat qu'il conserve jusqu'à la Seconde Guerre mondiale.
+Militant de l'Union populaire républicaine, parti catholique alsacien, il se présente aux élections législatives de 1924 et est élu député du Haut-Rhin. Il se démet alors de son mandat municipal et siège au groupe des Démocrates, expression parlementaire du nouveau Parti démocrate populaire, premier grand parti spécifiquement démocrate-chrétien en France.
+Réélu en 1928 et 1932, il poursuit son affiliation au PDP. Au Parlement, il se montre un député actif sur les questions de prévoyance et d'action sociale ; il est également très dynamique sur tout ce qui concerne l'Alsace-Lorraine.
+En 1936, il abandonne la Chambre des députés pour entrer au Sénat. Il n'y rejoint aucun groupe parlementaire et continue à travailler sur les questions relatives à l'Alsace-Lorraine.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Il est arrêté par la Gestapo de Mulhouse et est envoyé en exil intérieur dans son village natal, qu'il ne pourra quitter qu'après la libération de l'Alsace en novembre 1944. Revenu à Mulhouse, Il y meurt peu après, le 15 janvier 1945.
+Une rue de Blotzheim porte son nom, avec la mention: "bienfaiteur".
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de 1911-1918Député 1924-1936Sénateur 1936-1940 NOMF GouvernementEmpire allemandIIIe république SEP2 Gouvernement REL Empire allemandIIIe république SEP2 Groupe politique REL Dém. (1924-1928)DP (1928-1936)NI (1936-1940) SEP2 Date de naissance REL 10 octobre 1881 SEP2 Lieu de naissance REL Blotzheim, Haut-Rhin SEP2 Date de décès REL 15 janvier 1945 (à 63 ans) SEP2 Lieu de décès REL Mulhouse, Haut-Rhin SEP2 Résidence REL Alsace.

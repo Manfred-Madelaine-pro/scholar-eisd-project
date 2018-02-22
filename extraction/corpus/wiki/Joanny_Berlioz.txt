@@ -1,0 +1,20 @@
+PRETAG Joanny.
+NOMTAG Berlioz.
+Joanny Berlioz, né le 7 juillet 1892 à Saint-Priest et mort le 17 mars 1965 à Paris 14e, est un homme politique français.
+
+
+
+Professeur d'allemand, militant communiste, journaliste à La Vie ouvrière et à L'Humanité à partir de 1923, il est membre du comité central du PCF de 1925 à 1959.
+Il est élu en 1936 député communiste de la Seine. Son discours du 1er novembre 1936 est resté en mémoire eu égard à son ambition d'un « grand ministère de l'art français », encore inexistant puisque réuni avec le ministère de l'instruction publique. La politique culturelle du PCF sera une référence jusque dans les années 1960, pour avoir proposé une ligne culturelle claire en France.
+Député membre du groupe ouvrier et paysan français, il est arrêté, le 8 octobre 1939, déchu de son mandat, le 21 janvier 1940, et condamné le 3 avril 1940 par le 3e tribunal militaire de Paris à 5 ans de prison, 4 000 francs d'amende et 5 ans de privation de ses droits civiques, civils et de famille[1] pour être pour être resté fidèle à la ligne du Parti communiste et ne pas avoir dénoncé le pacte germano-soviétique. Transféré et emprisonné en Algérie, il est libéré après le débarquement allié en Afrique du Nord en 1943.
+En octobre 1945, réélu en juin 1946, il représente le département de l'Isère aux deux Assemblées constituantes. Il est ensuite élu de la Seine au Conseil de la République, puis au Sénat pendant toute la Quatrième République.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940puis 1945-1946Sénateur 1946-1958 NOMF GouvernementIIIe république-IVe république-Ve république SEP2 Gouvernement REL IIIe république-IVe république-Ve république SEP2 Groupe politique REL PCF SEP2 Date de naissance REL 7 juillet 1892 SEP2 Lieu de naissance REL Saint-Priest SEP2 Date de décès REL 17 mars 1965 (à 72 ans) SEP2 Résidence REL Seinepuis Isère.

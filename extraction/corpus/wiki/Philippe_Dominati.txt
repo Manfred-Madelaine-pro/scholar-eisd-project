@@ -1,0 +1,39 @@
+PRETAG Philippe.
+NOMTAG Dominati.
+Philippe Dominati, né le 12 avril 1954, est un homme politique français. Élu sénateur de Paris le 26 septembre 2004, il fait son entrée en politique en 1989, date de sa première élection comme conseiller de Paris.
+
+
+
+Depuis septembre 2004 : Sénateur de Paris
+Désigné rapporteur du groupe de travail intercommissions du Sénat sur le projet de loi transposant la directive sur le crédit à la consommation et réformant la procédure de traitement du surendettement (9 avril 2009)
+Coresponsable du Cercle des Réformateurs de Paris, mouvement associé à l’UMP (depuis novembre 2008)
+Membre de la Commission des Affaires économiques du Sénat
+1992 - 2004 : Conseiller régional d’Île-de-France
+Président du groupe Démocratie libérale de 1999 à 2003 au conseil régional
+1989 - 2001 : Conseiller de Paris (UDF-PR)
+Depuis 1989 : Conseiller d’arrondissement (élu dans le 8e)
+
+
+Fils de Jacques Dominati, grande figure de la droite libérale, ancien sénateur, ancien ministre et ancien premier adjoint du maire de Paris Jean Tiberi, Philippe Dominati est également le frère aîné de l'ambassadeur Laurent Dominati.
+Le 19 décembre 2006, il est condamné à 6 mois de prison avec sursis et 2000 € d'amende dans l'affaire des faux électeurs du 3e arrondissement de Paris.
+Il est président de la Commission d'enquête sénatoriale 2011-2012 sur l'évasion des capitaux et des actifs hors de France et ses incidences fiscales[1].
+Il soutient Nicolas Sarkozy pour la primaire présidentielle des Républicains de 2016[2].
+Pour les élections sénatoriales de 2017, il est tête de liste à Paris de l'une des trois listes de droite qui se présentent (« Liste républicaine de la droite et du centre »)[3].
+
+
+
+
+
+
+
+PARTISNORM
+PART Réunion administrative des sénateurs ne figurant sur la liste d'aucun groupe (RASNAG) 2004-2007.
+PART Union pour un mouvement populaire (UMP) 2007-2015.
+PART Les Républicains (LR) depuis 2015.
+FONCTIONNORM
+
+NOMF Sénateur de Paris NOMF En fonction depuis le 1er octobre 2004(13 ans, 3 mois et 20 jours) SEP2 Élection REL 26 septembre 2004 SEP2 Réélection REL 25 septembre 201124 septembre 2017 SEP2 Élection REL 5 octobre 2017.
+NOMF Président NOMF Conseiller de Paris.
+NOMF Conseiller de Paris NOMF 19 mars 1989 – 18 mars 2001(11 ans, 11 mois et 27 jours) SEP2 Élection REL 12 mars 1989 SEP2 Réélection REL 18 juin 1995.
+NOMF Conseiller régional d'Île-de-France NOMF 22 mars 1992 – 15 mars 1998(5 ans, 11 mois et 21 jours) SEP2 Élection REL 22 mars 1998.
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 12 avril 1954 (63 ans) SEP2 Parti politique REL RASNAG (2004-2007)UMP (2007-2015)LR (depuis 2015) SEP2 Profession REL Administrateur de sociétés.
