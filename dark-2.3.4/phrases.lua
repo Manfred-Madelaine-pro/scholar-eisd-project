@@ -3,13 +3,14 @@ local txt = {}
 local tool = require 'tool'
 
 
+BOT_NAME = "ugoBot"
+
 local sjt = "sjt"
 local res  = "res"
 local vrb  = "vrb"
 
 local balises = {sjt, res, vrb}
 
-BOT_NAME     = "ugoBot"
 
 bvn = "Bienvenu dans le système de dialogue  de CDK, MFD, LAO & UGO"
 
@@ -18,7 +19,6 @@ start = {
 	"Bonjour, je m'appelle "..BOT_NAME..", que puis-je faire pour vous ?",
 	"Rebonjour ;)",
 	"Salut ! :)",
-	"cc cv ? ASVB stp ;)"
 }
 
 mode = "Choissez un mode :\n\z
@@ -27,22 +27,16 @@ mode = "Choissez un mode :\n\z
 "
 
 
--- Models
-mdl_birth = {
-	tool.bls(sjt).."est né le "..tool.bls(res)..".",
-}
-mdl_birthp = {
-	tool.bls(sjt).."est né à "..tool.bls(res)..".",
-	tool.bls(sjt).."est originaire de "..tool.bls(res)..".",
-}
-mdl_forma = {tool.bls(sjt).."a pour formation: "..tool.bls(res).."."}
-mdl_Qparti = {tool.bls(sjt).."a été membre "..tool.bls(res).."."}
+	-- Models --
 
-mdl_Qtype = {"Que souhaitez vous savoir sur "..tool.bls(sjt).." ?"}
+mdl_birthp = {
+	tool.bls(sjt).." est né à "..tool.bls(res)..".",
+	tool.bls(sjt).." est originaire de "..tool.bls(res)..".",
+}
 
 mdl_Qinfo = {
-	"Sur quel politicien voulez-vous "..tool.bls(sjt).." ?",
 	"Sur qui voulez-vous "..tool.bls(sjt).." ?",
+	"Sur quel politicien voulez-vous "..tool.bls(sjt).." ?",
 }
 
 mdl_idk = {
@@ -53,7 +47,6 @@ mdl_idk = {
 	"Comment puis-je répondre à cela ?",
 	"Nani ?",
 }
-
 
 mdl_life = {
 	"La puissance de calcul de cet ordinateur n'est pas assez grande pour me permettre de résoudre ce problème...",
@@ -69,12 +62,20 @@ mdl_help = {
 
 	Les informations que vous pouvez demander sont les suivantes :\n\z
 		\tla date et/ou le lieu de naissance\n\z
-		\tla formation\n\z
+		\tla formation et/ou le bord politique\n\z
 		\tles créateurs (développeurs du système de dialogue ou parents)\n\z
-		\tles partis politiques auxquel le politicien a adhéré\n\n\z
+		\tles partis politiques auxquel le politicien a adhéré\n\z
+		\tles professions d'un politicien\n\n\z
 	
-	Vous pouvez également quiter le dialogue en disant me 'au revoir'.\z	
+	Vous pouvez également quiter le dialogue en me disant 'au revoir'.\z	
 	"
+}
+
+mdl_exit = {
+	"à une prochaine fois :> ",
+	"au revoir ;)", "ciao :3 !", 
+	"adieu T.T",	"bye-bye ^^", 
+	"Bye :P !", "à la prochaine :D !", 
 }
 
 mdl_no_rep = {
@@ -84,25 +85,61 @@ mdl_no_rep = {
 	"Cette information sur moi est confidentielle, je ne peux pas la révéler :("
 }
 
-mdl_creatr_b = {"Mes vénérables créateurs sont "..tool.bls(res).."\n\nJe les remercie sincèrement de m'avoir donné vie."}
+mdl_no_gere = {
+	"cette information n'est pas gérée",
+}
+
 mdl_creatr_u = {
 	"Vos créateurs sont vos parents bien sûr !",
 	"Et bien ma foi, ce sont vos parents je présume.",
 }
 
-mdl_t_err = {"Désolé, je n'ai pas d'information sur "..tool.bls(sjt).."."}
-mdl_k_err = {"Désolé, je n'ai pas ".. tool.bls(sjt).." dans ma base de politiciens."}
+mdl_bord = {
+	tool.bls(sjt).." est du bord "..tool.bls(res)..".",
+	tool.bls(sjt).." a pour bord : "..tool.bls(res)..".",
+	tool.bls(sjt).." se situe du côté "..tool.bls(res)..".",
+	"Le bord de "..tool.bls(sjt).." est "..tool.bls(res)..".",
+}
+
+mdl_forma = {
+	tool.bls(sjt).." a pour formation "..tool.bls(res)..".",
+	"La formation de "..tool.bls(sjt).." est "..tool.bls(res)..".",
+	tool.bls(sjt).." a eu "..tool.bls(vrb).." à savoir, "..tool.bls(res)..".",
+}
+
+mdl_prof = {
+	tool.bls(sjt).." a eu "..tool.bls(vrb).." à savoir, "..tool.bls(res)..".",
+	"Les professions de "..tool.bls(sjt).." sont "..tool.bls(res)..".",
+}
+
+mdl_Qparti = {
+	tool.bls(sjt).." a été membre de "..tool.bls(vrb).." à savoir, "..tool.bls(res)..".",
+	--tool.bls(sjt).." a été membre de "..tool.bls(res)..".",
+}
 
 mdl_basic = {tool.bls(sjt).." -> "..tool.bls(res).."."}
-mdl_forma = {
-	tool.bls(sjt).."a pour formation"..tool.bls(res)..".",
-	"La formation de "..tool.bls(sjt).."est"..tool.bls(res)..".",
-}
+
+mdl_birth = {tool.bls(sjt).." est né le "..tool.bls(res).."."}
+
+mdl_Qtype = {"Que souhaitez vous savoir sur "..tool.bls(sjt).." ?"}
+
+mdl_t_err = {"Désolé, je n'ai pas d'information sur "..tool.bls(sjt).."."}
 
 mdl_hist = {"Voici l'historique de notre conversation :\n"..tool.bls(sjt)}
 
-mdl_exit = {"Bye :P !", "à la prochaine :D !", "au revoir ;)", "ciao :3 !", "adieu T.T","bye-bye ^^", "à une prochaine fois :> "}
+mdl_k_err = {"Désolé, je n'ai pas ".. tool.bls(sjt).." dans ma base de politiciens."}
 
+mdl_creatr_b = {"Mes vénérables créateurs sont "..tool.bls(res).."\n\nJe les remercie sincèrement de m'avoir donné vie."}
+
+
+local table_mdl = {
+	["bord"] = mdl_bord,
+	["birth"] = mdl_birth,
+	["parti"] = mdl_Qparti,
+	["profession"]= mdl_prof,
+	["formation"] = mdl_forma,
+	["birthplace"] = mdl_birthp,
+}
 
 -- Remplace la balise passee en parametre par sa valeur
 function txt.fill_mdl(model, balise, valeur)
@@ -128,19 +165,11 @@ end
 
 
 function txt.get_mdl(nom)
-	mdl = mdl_basic
-	if (nom == "birthplace") then
-		mdl = mdl_birthp
-	elseif (nom == "birth") then
-		mdl = mdl_birth
-	elseif (nom == "formation") then
-		mdl = mdl_forma
-	elseif (nom == "parti") then
-		mdl = mdl_Qparti
-	elseif (nom == "profession") then
-		mdl = mdl_basic
+	for att, model in pairs(table_mdl) do
+		if (nom == att) then return model end
 	end
-	return mdl
+
+	return mdl_basic
 end
 
 

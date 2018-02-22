@@ -1,7 +1,0 @@
-année
-années
-mois
-jour
-heure
-minute
-seconde

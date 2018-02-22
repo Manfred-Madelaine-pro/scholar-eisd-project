@@ -1,8 +1,11 @@
 local corr = {}
 
+local c = require 'clean'
+
 function corr.corrector(word, l_filename)
 	corr = word
-	if word == "melu" then corr = "Melenchon" end
+
+	if word == "melu" then corr = "melenchon" end
 	
 	for _, e in pairs(l_filename) do
 		-- ouvrir le fichier contenant la liste de mots

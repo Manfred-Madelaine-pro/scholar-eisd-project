@@ -35,11 +35,7 @@ end
 -- Cree l'ensemble des lexiques
 function tool.create_lex(f_data)
 	tool.new_lex(place, f_data)
-	tool.new_lex(temps, f_data)
-	tool.new_lex(month, f_data)
 	tool.new_lex(ppn, f_data)
-	tool.new_lex(neg, f_data)
-	tool.new_lex(fin, f_data)
 end
 
 

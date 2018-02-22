@@ -73,7 +73,7 @@ function test_fonctionnel()
 		"ou","sep",
 		"qui sont tes createurs ?",	"sep",
 		"qui sont mes createurs ?",	"sep",
-		"Melenchon quel parti",
+		"quels sont les partis auquels Melenchon a été membre ?",
 		"bye", "sep",
 		"qui est le createurs de melu",	"sep",
 		"$help",
@@ -93,36 +93,31 @@ function test_fonctionnel()
 		"qui sont les createurs ",
 		"qui sont mes createurs ",
 		"sep",
+		"qui sont les createurs d'ugoBot ?",
+		"quel est le bord politique de melenchon ?",
+		"quels sont les partis auquels Melenchon et Macron ont été membre ?",
+		"sep",
+		"quelle est la profession de melu et macron ?",
+		"melu f",
+		"sep",
+		"melu",
+		"Lieu de naissance et date de naissance",
+		"quelle est la date de naissance de Melenchon ? et sa formation ?",
+		"quelle est la date de naissance de Dominique ?",
 	}
 	
 	local t_simple = {
 		"quand Macron a-t-il eu son Baccalauréat ?",
-		"melu f",
-		"affiche l'historique",
-		"sep",
-		"Lieu de naissance et date de naissance de melu",
-		"date de naissance et lieu de naissance de Melenchon et lieu de naissance de Macron ?",
 		"ok",
-		"sep",
-		-- ne répéter 2 fois la m réponse sur 2 lignes
-		-- sur une ligne
-
-		--"(Melenchon ou sa f et naissance). (f et non ou tu)",
 	}
-	local t_cmplx = {
-		"sep",
-		"Quelle est la date de naissance de Mélenchon ?",
-		"sep",
-		"Lieu de naissance et date de naissance de Mélenchon ?",
-		
-		-- TODO : Tester la subtitution par il : mélenchon pui ou
 
-		--"melu ou f",
-		--"bonjour",
-		--"tu ou f",
-		--"quelle est la date de naissance de Melenchon ? et sa formation ?"
-		--"bye",
-		--"qui suis-je ?",
+	local t_cmplx = {
+		"date de naissance",
+		"qui suis-je ?",
+		"quelle est la profession de melu et macron ?",
+		"sep",
+		"quels sont les partis auquels Melenchon et Macron ont été membre ?",
+		"sep",
 	}
 
 	for i, line in pairs(t_simple) do	
@@ -140,7 +135,8 @@ end
 
 -- Traitement d'une ligne de texte par le systeme de dialogue
 function bot_processing(line)
-	dialog.quest = "quest = "..line
+	dialog.quest = "quest  = "..line
+	line = string.lower(line)
 
 	-- traitement de la ligne de texte
 	seq = lp.process(line)
@@ -155,7 +151,8 @@ function contextual_analysis(question)
 		-- on commence par recuperer les donnees hors contexte
 		dialog.hckey   = find_elm(question, l_sujets, true)
 		dialog.hctypes = find_elm(question, l_attributs, false)
-		te = find_elm(question, att_secondaires, false, true)
+		--TODO
+		dialog.nd_type = find_elm(question, att_secondaires, false, true)
 
 		-- puis on fait le lien entre hors contexte et en contexte
 		dialog.eckey, dialog.ectype = hc_to_ec(dialog.eckey, dialog.ectype, dialog.hckey, dialog.hctypes)
@@ -196,7 +193,6 @@ end
 
 function find_elm(question, l_elm, is_key, is_secondaire)
 	local res = {}
-
 	-- On cherche les sujets dans la phrase ou les questions posees
 	for i, att in pairs(l_elm) do	
 		-- sujets
@@ -208,22 +204,14 @@ function find_elm(question, l_elm, is_key, is_secondaire)
 			end
 		-- questions
 		elseif is_secondaire then
-			print("eioss", att)
 			if (#question[tool.tag(att)]) ~= 0 then
 				for i,v in ipairs(question[tool.tag(att)]) do
 					res[#res+1] = question:tag2str(tool.tag(att))[i]
+					print(att, res[#res])
 				end
 			end
-			--TODO
-			--table.insert(res, tool.ee(question, att))
 		else
 			if (#question[tool.tag(tool.qtag(att))]) ~= 0 then
-				--TODO verif si ca marche
-				--[[print("verif")
-				for i,v in ipairs(question[tool.tag(tool.qtag(att))]) do
-					res[#res+1] = question:tag2str(tool.tag(tool.qtag(att)))[i]
-					print("eee", res[#res])
-				end]]
 				res[#res+1] = att
 			end
 		end
@@ -335,15 +323,16 @@ end
 
 
 -- Rempli les attributs necessaires a la generation de la reponse
-function fill_response(mdl, gen, sjt, res)
+function fill_response(mdl, gen, sjt, res, vrb)
 		reponse.model[#reponse.model + 1] = txt.pick_mdl(mdl)
 		reponse.sjt[#reponse.sjt + 1] = sjt
 		reponse.res[#reponse.res + 1] = res
 		reponse.gen[#reponse.gen + 1] = gen 
+		reponse.vrb[#reponse.vrb + 1] = vrb 
 end
 
 
---deprec
+-- TODO deprec
 function q_fermee(key, typ)
 	if tool.in_list(key, l_confirm) then
 		print("yes")
@@ -469,7 +458,7 @@ function search_tag(key, typ, q_tag)
 			
 			gen_answer(pronoun, res, typ_value)
 
-		else gen_answer(firstname.." "..name.." ", res, typ_value) end
+		else gen_answer(firstname.." "..name, res, typ_value) end
 	end
 
 	return true
@@ -480,21 +469,25 @@ end
 function gen_answer(sjt, res, type_val)
 	if type(res) == "table" then
 		rep = ""
+		vrb = #res.." "..type_val.."(s)"
 
 		-- Recherche de la formation
 		for i = 1, #res do
+			--formation
 			if (type_val == db_forma) then
-				rep = rep.." un(e) "..get_forma(res, i)
-				if i == #res-1 then rep = rep.." et"
-				elseif i< #res then rep = rep.."," end
-			else
-				-- parti
-				rep = rep.."du "..res[i]
-				if i == #res-1 then rep = rep.." et " 
-				elseif i < #res then rep = rep..", "end
+				rep = rep.."un(e) "..get_forma(res, i)
+			-- profession
+			elseif(type_val == db_prof) then
+				rep = rep..get_profession(res, i)
+			-- parti
+			elseif (type_val == db_parti) then
+				rep = rep.."le "..res[i]
 			end
+
+			if i == #res-1 then rep = rep.." et " 
+			elseif i < #res then rep = rep..", "end
 		end
-		fill_response(txt.get_mdl(type_val), type_val, sjt, rep)
+		fill_response(txt.get_mdl(type_val), type_val, sjt, rep, vrb)
 		
 	else
 		fill_response(txt.get_mdl(type_val), res, sjt, res)
@@ -502,12 +495,26 @@ function gen_answer(sjt, res, type_val)
 end
 
 
--- réponse pas assez humaine
+-- Récupère les informations sur la profession
+function get_profession(res, i)
+	local  inti = search_in_db(res, i, "intitule")
+	local  date_f = search_in_db(res, i, "date_fin")
+
+	local t = ""
+
+	if (inti ~= -1) then t = t..inti.."" end
+	if (date_f == 0) then t = t.." (toujours en fonction)" end
+	
+	return t
+end
+
+
+-- Récupère les informations sur la formation
 function get_forma(res, i)
 	local  date = search_in_db(res, i, "date")
 	local  name = search_in_db(res, i, "name")
 
-	t = ""
+	local t = ""
 
 	if (name ~= -1) then t = t..name.." " end
 	if (date ~= -1) then t = t.."en "..date end
@@ -534,7 +541,7 @@ end
 
 function init_rep()
 
-	reponse = {model= {}, sjt= {}, res= {}, gen= {}}
+	reponse = {model= {}, sjt= {}, res= {}, gen= {}, vrb= {}}
 end
 
 
@@ -551,18 +558,22 @@ end
 function historique()
 	local h = ""
 	for index,value in pairs(dialog) do
-		res = ""
-		if type(value) == "table" then
-			for i, v in pairs(value) do
-				res = res..v..", "
-			end
-		else res = value end
-
+		res = little_loop(value)
 		h = h..index.."\t"..res.."\n"
 
 		if index == #dialog then h = h.."\n" end
 	end
 	return h.."\n"
+end
+
+function little_loop(value)
+	res = ""
+	if type(value) == "table" then
+		for i, v in pairs(value) do
+			res = res..little_loop(v)..", "
+		end
+	else res = value end
+	return res
 end
 
 

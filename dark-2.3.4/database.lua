@@ -1,5 +1,5 @@
 return {
-	["Melenchon"] = {
+	["melenchon"] = {
 		name = "Mélenchon",
 		firstname = "Jean-Luc",
 		gender = "M",
@@ -36,7 +36,7 @@ return {
 		},
 		profession = {
 			[1] = {
-				intitule = "Président du groupe FI à l'AN",
+				intitule = "Président du groupe La France Insoumise",
 				date_deb = "21/02/2001",
 				date_fin = nil,
 				employeur = "L'état",
@@ -66,7 +66,7 @@ return {
 			},
 		}
 	},
-	["Macron"] = {
+	["macron"] = {
 		name = "Macron",
 		firstname = "Emmanuel",
 		gender = "M",
@@ -103,7 +103,7 @@ return {
 			[2] = {
 				intitule = "Inspecteur des finances",
 				date_deb = "2008",
-				date_fin = nil,
+				date_fin = "2010",
 				employeur = "la banque d'affaires Rothschild & Cie",
 			},	
 		},

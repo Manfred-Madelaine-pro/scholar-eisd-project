@@ -8,4 +8,4 @@ Conception d'un système de dialogue en LUA
 @Manfred Madlaine
 @Cedrick Ribet
 @Hugo Bommart
-@Laos Galmant
+@Léo Galmant
