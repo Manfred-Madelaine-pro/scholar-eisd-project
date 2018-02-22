@@ -1,38 +1,25 @@
 return {
-	["Melenchon"] = {
+	["jean-luc_melenchon"] = {
 		name = "Mélenchon",
 		firstname = "Jean-Luc",
-		gender = "M",
 	
 		birth = "19 août 1951",
 		death = nil,
 		birthplace = "Tanger (Maroc)",
 		
-		bord = "gauche radicale",
 	
 		famille = {
 			[1] = {
 				name = "Georges Melenchon",
 				link = "père",
 				profession = "receveur des postes",
-				birth = "12 novembre 1912",
-				death = "26 janvier 1996",
 			},
 			[2] = {
 				name = "Jeanine Bayona",
 				link = "mère",
 				profession = "institutrice",
-				birth = "12 octobre 1912",
-				death = "26 janvier 1996",
 			},
-			[3] = {
-				name = "Bernadette Abriel",
-				link = "ex-femme",
-				profession = "",
-				birth = "1 novembre 1952",
-				death = "26 janvier 1996",
-			},
-			
+
 		},
 		profession = {
 			[1] = {
@@ -44,10 +31,32 @@ return {
 			
 		},
 		parti = {
-			[1] = "Parti Socialiste",
-			[2] = "Parti de gauche",
-			[3] = "Front de gauche",
-			[4] = "France Insoumise",
+			[1] = {
+			acronyme = "OCI",
+			dates = "1972 - 1976",
+			nom = "Organisation communiste internationaliste",
+		      },
+		      [2] = {
+			acronyme = "PS",
+			dates = "1976 - 2008",
+			nom = "Parti socialiste",
+		      },
+		      [3] = {
+			acronyme = "PG",
+			dates = "depuis 2008",
+			nom = "Parti de gauche",
+		      },
+		      [4] = {
+			acronyme = "FG",
+			dates = "2009 - 2016",
+			nom = "Front de gauche",
+		      },
+		      [5] = {
+			acronyme = "FI",
+			dates = "depuis 2016",
+			nom = "La France insoumise",
+		      },
+
 			
 		},
 		formation = {
@@ -55,18 +64,16 @@ return {
 				name = "Baccalaureat",
 				date = "1969",
 				lieu = "Lycée Rouget et Lisle",
-				mention = nil
 			},
 			[2] = {
 				name = "Licence de philosophie",
 				date = "1972",
 				lieu = "Faculté de lettres et sciences humaines, Besançon",
-				mention = nil
 
 			},
 		}
 	},
-	["Macron"] = {
+	["emmanuel_macron"] = {
 		name = "Macron",
 		firstname = "Emmanuel",
 		gender = "M",
@@ -74,8 +81,6 @@ return {
 		birth = "21 Décembre 1977",
 		death = nil,
 		birthplace = "Amiens (France)",
-		
-		bord = "ni de gauche ni de doite",
 	
 		famille = {
 			[1] = {
@@ -130,5 +135,117 @@ return {
 			},
 		}
 	},
-}
+	["charles_auffray"] = {
+		name = "auffrau",
+		firstname = "Charles",
+	
+		birth = "20 décembre 1887",
+		death = "11 septembre 1957",
+		birthplace = "Marly-le-Roi",
+		
+	
+		profession = {
+			[1] = {
+				intitule = "Député",
+				date_deb = "1924",
+				date_fin = "1928",
+			},
+			[2] = {
+				intitule = "Député",
+				date_deb = "1932",
+				date_fin = "1936",
+			},
+			
+		},
+		parti = {
+			[1] = {
+				nom = "Parti communiste français",
+				acronyme = "PCF",
+				date_adhesion = "1924",
+				date_depart = "1928",
+			},
 
+			[2] = {
+				nom = "Parti d'unité prolétarienne",
+				acronyme = "UO",
+				date_adhesion = "1932",
+				date_depart = "1936",
+			}
+			
+		},
+	},
+	["arlette_laguiller"] = {
+		name = "Laguiller",
+		firstname = "Arlette",
+	
+		birth = "18 mars 1940",
+		death = nil,
+		birthplace = "14e arrondissement de Paris",
+	
+		profession = {
+			[1] = {
+				intitule = "Conseillère régionale d'Île-de-France",
+				date_deb = "15/03/1998",
+				date_fin = "28/03/2004",
+			},
+			[2] = {
+				intitule = "Porte-parole de Lutte ouvrière",
+				date_deb = "1973",
+				date_fin = "08/12/2008",
+			},
+			
+		},
+		parti = {
+			[1] = {
+				nom = "Parti socialiste unifié",
+				acronyme = "PSU",
+				date_adhesion = "1960",
+				date_depart = "1968",
+			},
+
+			[2] = {
+				nom = "Lutte ouvrière",
+				acronyme = "LO",
+				date_adhesion = "",
+				date_depart = "",
+			}
+			
+		},
+	},
+
+	["paul_glotin"] = {
+		name = "Glotin",
+		firstname = "Paul",
+	
+		birth = "18 mai 1870",
+		death = "9 novembre 1933",
+		birthplace = "Bordeaux",
+	
+		profession = {
+			[1] = {
+				intitule = "Député de la Gironde",
+				date_deb = "1919",
+				date_fin = "1924",
+			},
+			[2] = {
+				intitule = "Conseille général de la Gironde",
+
+			},
+			[3] = {
+				intitule = "Adjoint au maire de Bordeaux",
+
+			}
+
+		},
+	},
+
+	["louis_bocueil"] = {
+		name = "Bocueil",
+		firstname = "Louis",
+	
+		birth = "24 juin 1963",
+		death = "",
+		birthplace = "Paris",
+	
+	},
+}
