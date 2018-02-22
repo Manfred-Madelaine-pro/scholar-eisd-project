@@ -106,6 +106,7 @@ function test_fonctionnel()
 		"quelle est la date de naissance de Dominique ?",
 	}
 	
+	-- auffray laguiller glotin bocueil
 	local t_simple = {
 		"quand Macron a-t-il eu son Baccalauréat ?",
 		"ok",
@@ -120,7 +121,7 @@ function test_fonctionnel()
 		"sep",
 	}
 
-	for i, line in pairs(t_simple) do	
+	for i, line in pairs(t_cmplx) do	
 		init_rep()
 		print("> "..line)
 
