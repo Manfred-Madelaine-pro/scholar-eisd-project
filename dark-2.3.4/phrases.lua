@@ -95,10 +95,10 @@ mdl_creatr_u = {
 }
 
 mdl_bord = {
-	tool.bls(sjt).." est du bord "..tool.bls(res)..".",
+	tool.bls(sjt).." est du bord politique de "..tool.bls(res)..".",
 	tool.bls(sjt).." a pour bord : "..tool.bls(res)..".",
 	tool.bls(sjt).." se situe du côté "..tool.bls(res)..".",
-	"Le bord de "..tool.bls(sjt).." est "..tool.bls(res)..".",
+	--"Le bord politique de "..tool.bls(sjt).." est "..tool.bls(res)..".",
 }
 
 mdl_forma = {
@@ -109,7 +109,7 @@ mdl_forma = {
 
 mdl_prof = {
 	tool.bls(sjt).." a eu "..tool.bls(vrb).." à savoir, "..tool.bls(res)..".",
-	"Les professions de "..tool.bls(sjt).." sont "..tool.bls(res)..".",
+	"Les différentes professions que "..tool.bls(sjt).." a eu sont "..tool.bls(res)..".",
 }
 
 mdl_Qparti = {
@@ -119,9 +119,11 @@ mdl_Qparti = {
 
 mdl_basic = {tool.bls(sjt).." -> "..tool.bls(res).."."}
 
+mdl_bac = {tool.bls(sjt).." a eu son "..tool.bls(res).."."}
+
 mdl_birth = {tool.bls(sjt).." est né le "..tool.bls(res).."."}
 
-mdl_Qtype = {"Que souhaitez vous savoir sur "..tool.bls(sjt).." ?"}
+mdl_Qatt = {"Que souhaitez vous savoir sur "..tool.bls(sjt).." ?"}
 
 mdl_t_err = {"Désolé, je n'ai pas d'information sur "..tool.bls(sjt).."."}
 
@@ -133,6 +135,7 @@ mdl_creatr_b = {"Mes vénérables créateurs sont "..tool.bls(res).."\n\nJe les 
 
 
 local table_mdl = {
+	["bac"] = mdl_bac,
 	["bord"] = mdl_bord,
 	["birth"] = mdl_birth,
 	["parti"] = mdl_Qparti,

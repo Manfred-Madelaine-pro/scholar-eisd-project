@@ -5,7 +5,7 @@ Conception d'un système de dialogue en LUA
 
 ##Sujet Politiciens Français
 
-@Manfred Madlaine
-@Cedrick Ribet
+@Manfred Madelaine
+@Cédrick Ribet
 @Hugo Bommart
 @Léo Galmant

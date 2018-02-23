@@ -61,23 +61,19 @@ l_sujets = {
 l_attributs = {
 	db_birth, db_birthp, db_forma, 
 	hdb_createurs, db_parti, 
-	db_bord, db_prof
+	db_bord, db_prof, date_sec
 }
 
 att_secondaires = {
 	date_sec,
 }
 
--- TODO deprec
-l_infirm = {"non", "pas"}
-l_confirm = {"oui", "exact", "bien", "confirme"}
 
-l_prof = {"profession"}
 l_hist = { "historique"}
 l_et   = {"et", "ainsi que"}
-l_help = { "aide moi", "help"}
 l_bord = {"bord politique", "bord"}
-l_user = {"je", "moi", "m'", "mes", "mon"}
+l_prof = {"profession", "professions"}
+l_user = {"je", "m'", "mes", "mon", "miens"}
 l_life = {"univers","vie", "la grande question sur"}
 l_bac  = { "bac", "baccalaureat", "diplome", "licence"}
 l_fin  = {"bye", "au revoir", "quit", "ciao", "adieu","bye-bye"}
@@ -102,7 +98,6 @@ tool.create_lex(f_data)
 
 main:lexicon("#AND", l_et)
 main:lexicon("#42", l_life)
-main:lexicon("#qhelp", l_help)
 main:lexicon(tool.tag(fin), l_fin)
 main:lexicon(tool.tag(hist), l_hist)
 main:lexicon(tool.tag(user), l_user)
@@ -114,7 +109,7 @@ main:lexicon(tool.tag(tool.qtag(db_prof)), l_prof)
 main:lexicon("#neg", {"non","no","ne","n'","pas","sauf","excepte","sans"})
 main:lexicon("#lieuN", {"lieu de naissance", "ou"})
 main:lexicon("#dateN", {"date de naissance"})
-main:lexicon("#formation", {"formation"})
+main:lexicon("#formation", {"formation", "formations"})
 
 
 	----- Analyse d'une question -----
@@ -140,8 +135,8 @@ main:pattern([[
 -- Qestion sur la formation
 main:pattern([[
 	[#Qformation 
-		"quelle" "formation" #pnominal #POS=VRB .*? |
-		"quelle" "formation" #POS=VRB .*? #pnominal |
+		/quelles?/ /formations?/ #pnominal #POS=VRB .*? |
+		/quelles?/ /formations?/ #POS=VRB .*? #pnominal |
 		#formation |
 		"f"
 	]
@@ -149,18 +144,19 @@ main:pattern([[
 
 main:pattern('"quel" .{,3}? "reponse" .{,3}? ['..tool.tag(life)..' #42 ]')
 
-main:pattern('['..tool.tag(tool.qtag(help))..' "$" "help" | #qhelp ]')
+main:pattern('['..tool.tag(tool.qtag(help))..' "$" "help" ]')
 
 main:pattern('[#negation '..tool.tag(neg)..' .{,3}? "pas"]')
 
-main:pattern(' "quand" .{,8}? '..'['..tool.tag(date_sec)..tool.tag(nd_forma)..' ]')
+main:pattern(' "quand" .{,8}? '..'['..tool.tag(tool.qtag(date_sec))..tool.tag(nd_forma)..' ]')
 
 main:pattern('"qui" .{,3}? [#Qcreateurs /createurs?/ ]')
 
 main:pattern('[#Qparti /quels?/ .{,3}? /partis?/ ]')
 
 
--- Reconnaissance de la grammaire dans une question
+	---- Reconnaissance de la grammaire dans une question ----
+
 main:pattern('[#gram_info '..tool.list_tags(l_attributs, true)..']')
 
 main:pattern('[#gram_sujet '..tool.list_tags(l_sujets)..']')
@@ -172,11 +168,11 @@ main:pattern('[#gram_elm #neg | #gram_sujet | #gram_info ]')
 main:pattern([[
 	[]]..tool.tag(gram_Qdouble)..[[ 
 		[]]..tool.tag(gram_sous_quest)..[[  
-			((.{,2}? #gram_sujet .{,2}? )+ | (.{,2}? #gram_info .{,2}? )+ ){2,4} 
+			((.{,4}? #gram_sujet .{,4}? )+ | (.{,4}? #gram_info .{,4}? )+ ){2,4} 
 		] 
 		#AND 
 		[]]..tool.tag(gram_sous_quest)..[[  
-			((.{,2}? #gram_sujet .{,2}? )+ | (.{,2}? #gram_info .{,2}? )+ ){2,4} 
+			((.{,4}? #gram_sujet .{,4}? )+ | (.{,4}? #gram_info .{,4}? )+ ){2,4} 
 		]
 	]
 ]])
@@ -190,16 +186,16 @@ tags = {
 	["#Qformation"]="green",
 	["#Qcreateurs"]= "green",
 	["#Qbirthplace"]= "green",
-	
+
 	["#AND"] = "yellow",
 	["#negation"] = "red",
 	[tool.tag(life)]= "red",
 	[tool.tag(user)]= "red",
 	[tool.tag(hist)]="magenta",
-	[tool.tag(nd_forma)] = "red",
-	[tool.tag(date_sec)]="magenta",
+	--[tool.tag(nd_forma)] = "red",
 	[tool.tag(gram_Qdouble)] = "red",
 	[tool.tag(gram_sous_quest)]="magenta",
 	[tool.tag(tool.qtag(db_bord))] = "red",
 	[tool.tag(tool.qtag(db_prof))] = "red",
+	[tool.tag(tool.qtag(date_sec))]="magenta",
 }

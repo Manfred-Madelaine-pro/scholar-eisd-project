@@ -2,10 +2,18 @@ return {
 	["melenchon"] = {
 		name = "Mélenchon",
 		firstname = "Jean-Luc",
+		particule = "Il",
 	
 		birth = "19 août 1951",
 		death = nil,
 		birthplace = "Tanger (Maroc)",
+
+		bord = {
+			[1] = {
+				name = "gauche radicale",
+				particule = "la",
+			}
+		},
 		
 		profession = {
 			[1] = {
@@ -16,54 +24,61 @@ return {
 		},
 		parti = {
 			[1] = {
-				acronyme = "OCI",
-				dates = "1972 - 1976",
-				nom = "Organisation communiste internationaliste",
+				acronyme = "FI",
+				dates = "depuis 2016",
+				nom = "France insoumise",
+				particule = "la",
 		      },
 			[2] = {
 				acronyme = "PS",
 				dates = "1976 - 2008",
 				nom = "Parti socialiste",
+				particule = "le",
 			},
 			[3] = {
 				acronyme = "PG",
 				dates = "depuis 2008",
 				nom = "Parti de gauche",
+				particule = "le",
 			},
 			[4] = {
 				acronyme = "FG",
 				dates = "2009 - 2016",
 				nom = "Front de gauche",
+				particule = "le",
 			},
-			[5] = {
-				acronyme = "FI",
-				dates = "depuis 2016",
-				nom = "La France insoumise",
-			},	
 		},
 		formation = {
 			[1] = {
+				particule = "un",
 				name = "Baccalaureat",
 				date = "1969",
 				lieu = "Lycée Rouget et Lisle",
 			},
 			[2] = {
+				particule = "une",
 				name = "Licence de philosophie",
 				date = "1972",
 				lieu = "Faculté de lettres et sciences humaines, Besançon",
-
 			},
 		}
 	},
+
 	["macron"] = {
 		name = "Macron",
 		firstname = "Emmanuel",
-		gender = "M",
-	
+		particule = "Il",
+
 		birth = "21 Décembre 1977",
 		death = nil,
-		birthplace = "Amiens (France)",
+		birthplace = "Amiens (France)", 
 	
+		bord = {
+			[1] = {
+				name = "ni de gauche ni de droite (de droite donc)",
+				particule = nil,
+			}
+		},
 		profession = {
 			[1] = {
 				intitule = "Président de la République Française",
@@ -96,7 +111,6 @@ return {
 				name = "Baccalaureat, section scientifique",
 				date = "1995",
 				lieu = "Paris au lycée Henri-IV",
-				mention = "très bien"
 			},
 			[2] = {
 				name = "classes préparatoires de lettres",
@@ -113,6 +127,7 @@ return {
 	["auffray"] = {
 		name = "Auffray",
 		firstname = "Charles",
+		particule = nil,
 	
 		birth = "20 décembre 1887",
 		death = "11 septembre 1957",
@@ -149,6 +164,7 @@ return {
 	["laguiller"] = {
 		name = "Laguiller",
 		firstname = "Arlette",
+		particule = "Elle",
 	
 		birth = "18 mars 1940",
 		death = nil,
@@ -187,6 +203,7 @@ return {
 	["glotin"] = {
 		name = "Glotin",
 		firstname = "Paul",
+		gender = nil,
 	
 		birth = "18 mai 1870",
 		death = "9 novembre 1933",
@@ -213,6 +230,7 @@ return {
 	["bocueil"] = {
 		name = "Bocueil",
 		firstname = "Louis",
+		gender = nil,
 	
 		birth = "24 juin 1963",
 		death = nil,
