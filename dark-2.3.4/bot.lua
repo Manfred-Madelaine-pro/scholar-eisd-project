@@ -25,7 +25,7 @@ local turn = 0
 local POS_KEY = 3
 local dialog  = {}
 local reponse = {}
-local enable_hist = true
+local enable_hist = false
 
 
 -- Main
@@ -38,8 +38,7 @@ function bot.start(lst_attributs)
 	io.write("> ")
 	line = ""
 	while(line ~= "1" or line ~= "2" ) do
-		line = "2"
-		--io.read()
+		line = io.read()
 		if(line == "1")	then
 			tool.init(txt.pick_mdl(start))
 			chat_loop()
@@ -70,36 +69,32 @@ function test_fonctionnel()
 	local t_fini = {
 		"$help", "sep",
 
-			--- Simple --- 
-		"Lieu de naissance ?","sep",
-		"Mélenchon ?",
-		"Lieu de naissance ?","sep",
+			--- Simple & Normal --- 
 
-			--- Normal --- 
-		-- TODO 
-		--"quels sont les partis auquels Melenchon a été membre ?",
-		"Lieu de naissance et date de naissance de melu", "sep",
-		-- Elements multiples 
-		"Mélenchon et toi ?", "sep",
-		"Lieu de naissance de Macron et Mélenchon ?",
+		-- un element
+		"Lieu de naissance ?","sep",
+		"Laguiller ?",
 		
+		-- substitution du sujet
+		"date de naissance ?","sep",
+
+		
+		-- Elements multiples 
+		"Laguiller et toi ?", "sep",
+		"Lieu de naissance de Macron et Auffray ?",
+		-- rename
+		"Lieu de naissance et date de naissance de Auffray", "sep",
+		
+
 		-- répônse double fusionnée
 		-- TODO trouver autre ex 
 		"qui sont les créateurs de Macron et Mélenchon ?",
-		-- substitution par Il
-		"Mélenchon et Macron ?",
-		"qui sont les createurs ",
+
+		"quelle est la date de naissance de Melenchon ? et sa formation ?", "sep",
 
 		-- montrer l'aleatoire
 		--GESTION DE LA CASSE, MINI CORRECTION
 		-- les particules
-
-		-- substitution par il 
-		"Mélenchon",
-		"Lieu de naissance et date de naissance", "sep",
-		"quelle est la date de naissance de Melenchon ? et sa formation ?", "sep",
-
-		-- TODO substitution par elle 
 
 
 			--- Spécial --- 
@@ -108,7 +103,7 @@ function test_fonctionnel()
 		"qui sont tes createurs ?",
 		-- TODO
 		"et les miens ?", "sep",
-		"qui est le createurs de Mélenchon", "sep",
+		"qui sont les createurs de Mélenchon", "sep",
 
 		-- Small talk
 		"Quel est la réponse à la grande question sur la vie, l'univers et le reste","sep",
@@ -123,7 +118,6 @@ function test_fonctionnel()
 		"Lieu de naissance de Mélenchon et qui sont tes créateurs ?","sep",
 
 		"quel est le bord politique de melenchon ?", "sep",
-		--"quels sont les partis auquels Melenchon et Macron ont été membre ?",
 
 		-- liste longue : info sur la taille + écriture inclusive
 		"quelle est la profession de Mélenchon et macron ?"," sep",
@@ -131,6 +125,9 @@ function test_fonctionnel()
 		
 		
 		-- limites  du systèle de dialogue 
+		"de quel bord politique est laguiller ?",
+		"quand glotin a-t-il eu sa Licence ?",
+
 		-- clef icorrecte
 		"quelle est la date de naissance de Dominique ?",
 		
@@ -149,12 +146,17 @@ function test_fonctionnel()
 		-- chercher une information secondaire
 		"quand Macron a-t-il eu son Baccalauréat ?",
 		"quand Macron et melenchon ont-il eu leur Baccalauréat ?",
+		"qui sont les createurs de Mélenchon", "sep",
+		"quelle est la date de naissance de Melenchon ? et sa formation ?", "sep",
 	}
 	
 	-- auffray laguiller glotin bocueil
 	local t_simple = {
 		-- tester les autres politiciens
-		"quand glotin a-t-il eu sa Licence ?",
+		"laguiller",
+		"quel est le parti et date de naissance", 
+		"melenchon",
+		"sep",
 	}
 
 	local t_cmplx = {
@@ -289,7 +291,11 @@ function create_answer(reponse)
 					modifie = txt.fill_mdl(mdl, balise, reponse[balise][i])
 				else
 					--TODO
-					modifie = txt.fill_mdl(mdl, balise, "NUUUL")
+					local vrb = "NUUUL"
+					if(#reponse[balise] >= 1) then
+						vrb = reponse[balise][#reponse[balise]]
+					end
+					modifie = txt.fill_mdl(mdl, balise, vrb)
 				end
 
 				-- on actualise le modele uniquement s'il y a du nouveau
@@ -447,8 +453,8 @@ function search_pattern(key, att)
 		search_tag_sec(key, att)
 	else
 		-- On cherche les questions posees dans la phrase
-		for i, att in pairs(l_attributs) do	
-			if search_tag(key, att, att) then break end
+		for i, m_att in pairs(l_attributs) do	
+			if search_tag(key, m_att, att) then break end
 		end		
 	end
 end
@@ -465,7 +471,7 @@ function search_tag(key, att, q_tag)
 	local firstname = search_in_db(db, key_value, db_fname)
 	
 	if res == 0 then
-		fill_response(mdl_t_err, "att_error : ", att_value)
+		fill_response(mdl_t_err, "att_error ", att_value)
 	elseif res == -1 then
 		fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 	else
@@ -581,7 +587,7 @@ function get_forma(res, i)
 	local t = ""
 
 	if (err(name)) then t = t..part.." "..name end
-	if (err(date)) then t = t.." en "..date end
+	if (err(date)) then t = t.." obtenu(e) en "..date end
 	
 	return t
 end

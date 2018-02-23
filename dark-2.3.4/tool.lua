@@ -21,7 +21,7 @@ end
 function tool.init(txt)
 	local s = " ---- "
 	print("\n\t"..s..bvn..s.."\n")
-	tool.bot_answer(txt.." (entrez '$help' pour de l'aide)")
+	tool.bot_answer(txt.." (Entrez '$help' pour de l'aide)")
 end
 
 

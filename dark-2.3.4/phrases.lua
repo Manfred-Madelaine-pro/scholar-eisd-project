@@ -23,7 +23,7 @@ start = {
 
 mode = "Choissez un mode :\n\z
 	\t 1 - Mode Interactif\n\z
-	\t 2 - Mode Test\n\z
+	\t 2 - Mode Test Fonctionnel\n\z
 "
 
 
@@ -86,7 +86,7 @@ mdl_no_rep = {
 }
 
 mdl_no_gere = {
-	"cette information n'est pas gérée",
+	"cette information n'est pas gérée.",
 }
 
 mdl_creatr_u = {
