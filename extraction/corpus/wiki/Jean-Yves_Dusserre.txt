@@ -1,0 +1,24 @@
+PRETAG Jean-Yves.
+NOMTAG Dusserre.
+Jean-Yves Dusserre, né le 1er janvier 1953 à Gap et mort le 27 décembre 2014 à Chabottes, est un homme politique français, membre de l'UMP.
+
+
+Commerçant de profession, il est élu conseiller municipal de Chabottes, dans les Hautes-Alpes en 1977, commune dont il est maire de 1979 à 2008, puis premier adjoint[1]. Il est également président de la communauté de communes du Champsaur de 2001 à sa mort. Conseiller général des Hautes-Alpes, élu dans le canton de Saint-Bonnet-en-Champsaur à partir de 1992, il est premier vice-président de 2001 à 2004[1] et devient président du Conseil général des Hautes-Alpes le 20 mars 2008.
+Suppléant du député Patrick Ollier 1988 à 2002[1], il préside également le Conseil d'architecture, d'urbanisme et d'environnement des Hautes-Alpes (CAUE) de 1993 à 2008.
+En 2011, il est réélu dès le premier tour dans son canton et reconduit dans ses fonctions de président du Conseil général[2].
+Il est élu sénateur des Hautes-Alpes le 28 septembre 2014 et prend ses fonctions le 1er octobre suivant.
+Il meurt le 27 décembre 2014, des suites d'une longue maladie[3]. C'est sa suppléante Patricia Morhet-Richaud qui prend son mandat le 28 décembre 2014,
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement pour la République (RPR).
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Sénateur des Hautes-Alpes NOMF 1er octobre 2014 – 27 décembre 2014(2 mois et 26 jours) SEP2 Élection REL 28 septembre 2014 SEP2 Prédécesseur REL Pierre Bernard-Reymond SEP2 Successeur REL Patricia Morhet-Richaud.
+NOMF Président du Conseil généraldes Hautes-Alpes NOMF 20 mars 2008 – 27 décembre 2014(6 ans, 9 mois et 7 jours) SEP2 Prédécesseur REL Auguste Truphème SEP2 Successeur REL Michel Roy SEP2 Successeur REL Christiane Mioletti SEP2 Date de naissance REL 1er janvier 1953 SEP2 Lieu de naissance REL Gap, Hautes-Alpes (France) SEP2 Date de décès REL 27 décembre 2014 (à 61 ans) SEP2 Lieu de décès REL Chabottes, Hautes-Alpes (France) SEP2 Nationalité REL française SEP2 Parti politique REL RPRUMP SEP2 Profession REL Commerçant.

@@ -1,0 +1,16 @@
+PRETAG René.
+NOMTAG Dommange.
+René Dommange, né le 18 décembre 1888 à Paris et mort le 27 mai 1977 à Avon (Seine-et-Marne), est un avocat, éditeur musical et homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1932-1943 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Ind. (1932-1936)IURN (1936-1940) SEP2 Date de naissance REL 18 décembre 1888 SEP2 Lieu de naissance REL Avon (Seine-et-Marne) SEP2 Date de décès REL 27 mai 1977 (à 88 ans) SEP2 Lieu de décès REL Avon (Seine-et-Marne) SEP2 Nationalité REL Française SEP2 Résidence REL Paris 7e.

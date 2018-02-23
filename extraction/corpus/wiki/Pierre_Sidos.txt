@@ -1,0 +1,30 @@
+PRETAG Pierre.
+NOMTAG Sidos.
+Pierre Sidos est un homme politique français né le 6 janvier 1927 à Saint-Pierre-d'Oléron.
+Engagé à l'extrême droite, il anime d'abord le mouvement Jeune Nation, puis participe à la création d'Occident, et enfin préside de 1968 à 2012 L'Œuvre française, un mouvement mêlant néofascisme, pétainisme, antisémitisme et une forme de catholicisme social.
+
+
+Fils de François Sidos, ancien des Jeunesses patriotes, devenu sous l’Occupation un haut responsable de la Milice, jugé puis fusillé en 1946, et de Louise Rocchi, il a quatre frères et une sœur.
+Devenu cadet du francisme de Marcel Bucard en 1943, fait pour lequel à la Libération, il est jugé comme mineur en 1946 et condamné[1]. Il fonde, en 1949 — avec ses frères Jacques (jugé pour faits de collaboration en 1946) et François — le mouvement Jeune Nation, qui a été interdit en 1958 et qu’il a reformé sous le nom de Parti nationaliste en 1959. Il a été ensuite membre du MP-13, mouvement pro-Algérie française.
+Emprisonné pour soutien à l'OAS, Pierre Sidos crée ensuite le mouvement Occident, dont il est finalement évincé par des militants plus jeunes. Il fonde ensuite, en 1968, le mouvement L'Œuvre française, qu'il dirige avec le titre de « Présideur ».
+En 1969, la candidature de Pierre Sidos à l'élection présidentielle est rejetée par le Conseil constitutionnel aux motifs que « le nombre des présentations valablement émises en faveur de ce dernier est inférieur au minimum exigé par les dispositions de l'article 3-1 de l'ordonnance n° 62-1292 du 6 novembre 1962[2] ». Ce refus fut pourtant considéré par Le Soleil, organe de L'Œuvre française, comme dû à la présence au Conseil constitutionnel de Gaston Palewski et René Cassin « tous deux d'ascendances juives étrangères[3] », considérations partagées par Roger Peyrefitte[4]. Toutefois, accepter la candidature de Pierre Sidos aurait pu, dans une certaine mesure, être interprété comme un acte de réhabilitation du passé collaborationniste des Sidos durant l'Occupation[5].
+À partir du début des années 1970, Pierre Sidos tient une place assez marginale dans l'extrême droite française. Il n'a d'abord pas souhaité rejoindre des mouvements plus rassembleurs comme Ordre nouveau ou le Front national, mais annonce finalement soutenir le FN en 1996.
+Il participe à l’émission Ciel, mon mardi ! de Christophe Dechavanne le 6 février 1990[n 1].
+Depuis l'été 2010, Pierre Sidos exprime son détachement politique et intellectuel du Front national à la suite de la campagne interne qui voit Marine Le Pen prendre le dessus sur le parti au détriment de Bruno Gollnisch ; dans un entretien accordé à l’hebdomadaire Rivarol daté du 30 juillet 2010, il appelle à proscrire le « tout-électoral » au profit d'un « nationalisme organique », en critiquant la capacité de Marine Le Pen d’assumer des responsabilités politiques pour la France[6].
+En 2012, il quitte la présidence de L'Œuvre française, à laquelle Yvan Benedetti lui succède.
+Le 11 novembre 2013, l'association Les Amis de Pierre Sidos, visant « à faire connaître l'œuvre du patriote Pierre Sidos ainsi que de sa famille », est fondée[7].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti franciste (Parti franciste).
+PART Jeune nation (Jeune nation).
+PART Parti nationaliste (1958–1959) (Parti nationaliste).
+PART Mouvement populaire du 13 mai (Mouvement populaire du 13 mai).
+PART Occident (mouvement politique) (Occident).
+PART L'Œuvre française (L'Œuvre française).
+FONCTIONNORM

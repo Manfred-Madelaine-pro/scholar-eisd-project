@@ -1,0 +1,21 @@
+PRETAG André.
+NOMTAG Baud.
+André Claude Marie Baud[1] est un homme politique français né le 2 juillet 1879 à Arbois (Jura) et mort le 15 juin 1950 dans sa ville natale.
+
+
+Brillant étudiant, il intègre l'École polytechnique et s'engage dans la marine nationale où il participe à diverses opérations en Indochine, en Corse et en Algérie puis, revenu à la vie civile, intègre en 1911, les aciéries du Creusot.
+Durant la guerre de 1914 il est commandant une canonnière. Après avoir débarquer dans la colonie allemande du Cameroun, en octobre 1914, pris part à l'occupation de Corfou en 1916 puis à diverses autres opérations en Méditerranée, il représente la France à la Commission du Danube. Devenu capitaine de corvette, il reprend, après l’armistice de 1918, sa carrière dans l'industrie puis prend sa retraite en 1935; il se lance alors dans l'action politique.
+Proche de la Fédération républicaine, il se présente comme candidat d'Union républicaine et nationale aux élections législatives de 1936 et mène une campagne agressive contre le Front populaire, derrière lequel il voit la main de Moscou.
+Devenu député du Jura, il s'inscrit au groupe parlementaire des Indépendants d'union républicaine et nationale, le plus à droite de la Chambre, et s'investit fortement dans les questions monétaires et financières.
+Il s'abstient volontairement lors du vote du 10 juillet 1940 sur la remise des pleins pouvoirs au Maréchal Pétain. Il regagne ensuite le Jura et, durant l'occupation allemande, sera très actif dans les réseaux d'aide aux victimes du nazisme. Son village étant situé sur la ligne de démarcation, il aide de très nombreuses personnes à passer en « zone libre ».
+Cette attitude lui vaut d'être arrêté par deux fois par les nazis en 1943, puis d'être nommé au Comité départemental de libération après le conflit. Il s'engage alors contre les excès de l'épuration à la Libération en France et est nommé à l'Assemblée consultative provisoire. Il conduit une liste d'Union républicaine et démocratique lors des élections à la Constituante en 1945, mais cette liste n'obtient aucun élu. Il se retire alors de la vie politique.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL IURN SEP2 Date de naissance REL 2 juillet 1879 SEP2 Date de décès REL 15 juin 1950 (à 70 ans) SEP2 Résidence REL Jura.

@@ -1,0 +1,20 @@
+PRETAG François.
+NOMTAG Bachelot.
+François Bachelot est un homme politique français, radiothérapeute de profession, né le 19 avril 1940 au Mans (Sarthe).
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement pour la République (RPR) jusqu'en 1985.
+PART Front national (FN) 1985-1988.
+PART Centre national des indépendants et paysans (CNI) 1989-1990.
+FONCTIONNORM
+
+NOMF Député de la Seine-Saint-Denis NOMF 2 avril 1986 – 14 mai 1988 SEP2 Législature REL VIIIe législature SEP2 Groupe politique REL FN-RN SEP2 Date de naissance REL 19 avril 1940 (77 ans) SEP2 Lieu de naissance REL Le Mans (Sarthe) SEP2 Parti politique REL RPR (jusqu'en 1985)FN (1985-1988)CNI (1989-1990) SEP2 Profession REL Radiothérapeute.

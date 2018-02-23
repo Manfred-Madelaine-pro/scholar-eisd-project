@@ -1,0 +1,17 @@
+PRETAG Léon_de.
+NOMTAG Lépervanche.
+Léon Vincent de Paul Marie Jules Simon de Lépervanche est un homme politique réunionnais né le 21 novembre 1907 à Saint-Denis et mort le 14 novembre 1961 au Port. Il est considéré comme l'un des pères de la départementalisation de son île aux côtés de Raymond Vergès.
+
+
+Léon de Lépervanche a un parcours atypique, issu de la grande bourgeoisie réunionnaise, il descend de sa condition pour occuper en 1923 un emploi subalterne à la compagnie du Chemin de fer et du Port de La Réunion. Il occupera ainsi les fonctions de journalier jusqu'en 1930, il sera licencié du CPR en 1938. Il deviendra maire du Port de 1945 à 1961.
+Élu député le 21 octobre 1945, il s'embarque le 19 novembre qui suit, à bord d'un Junker 52 à destination de l'aéroport du Bourget aux côtés du docteur Raymond Vergès. À Paris, ils initient ensemble la loi de départementalisation (19 mars 1946) qui transforme en départements les quatre vieilles colonies que sont alors la Guadeloupe, la Guyane, la Martinique et La Réunion.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1945-1951 NOMF GouvernementIVe République SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL PCF SEP2 Date de naissance REL 21 novembre 1907 SEP2 Date de décès REL 14 novembre 1961 SEP2 Résidence REL Réunion.

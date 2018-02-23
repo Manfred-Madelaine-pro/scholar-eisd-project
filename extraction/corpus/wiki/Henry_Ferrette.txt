@@ -1,0 +1,17 @@
+PRETAG Henry.
+NOMTAG Ferrette.
+Henry Ferrette est un avocat, journaliste et homme politique français né le 13 juillet 1869 à Chardogne (Meuse) et décédé le 23 juin 1933 à Bar-le-Duc (Meuse)
+
+
+Docteur en droit, avocat au barreau de Bar-le-Duc, il mène en parallèle une carrière de journaliste politique dans la presse locale. Il se lance rapidement en politique. Il est conseiller général du canton de Vavincourt de 1898 à 1910 et de 1928 à 1933 et conseiller municipal de Bar-le-Duc de 1900 à 1908 et de 1929 à 1933.
+Il est élu député de la Meuse en 1898 et siège sur les bancs du groupe antijuif puis de l'Action libérale. Il conserve son poste jusqu'en 1910, date à laquelle il est battu par un nouvel arrivant, André Maginot. Il est à nouveau battu par Maginot en 1914. En 1919, Henry Ferrette retrouve son siège au scrutin de liste, mais au quotient, avec un score très inférieur à la liste menée par Maginot. En 1924, l'ensemble de la liste Maginot passant à la majorité absolue, Ferrette perd son mandat, et n'ose même pas se présenter en 1928 contre Maginot. Ce n'est qu'en 1932, après la mort d'André Maginot, qu'il retrouve son siège de député.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

@@ -1,0 +1,34 @@
+PRETAG Michel.
+NOMTAG Zumkeller.
+Michel Zumkeller, homme politique français, né le 21 janvier 1966 à Belfort (Territoire de Belfort).
+
+
+
+Adhérant en 1996 au Parti républicain (PR), il est membre du bureau du Territoire de Belfort. Le parti devenu Démocratie libérale en juin 1997, il prend la présidence départementale. Il est le leader de l’opposition municipale à Valdoie, commune proche de Belfort, dès mars 2001.
+Candidat en 1998 aux cantonales, il est battu. À l’automne 2000, la suppléante de Jean-Pierre Chevènement démissionne pour lui permettre de retrouver l’Assemblée. Michel Zumkeller est le candidat de droite à la législative partielle et est battu (16,82 % et 34,02 % aux deux tours).
+Comptable, il quitte en 2001 la société de sérigraphie qu’il a créée pour se consacrer plus largement à la politique.
+Il est élu député le 17 juin 2002, pour la XIIe législature (2002-2007) de la 2e circonscription du Territoire de Belfort (2e). En tête au premier tour (25,6 % contre 21,6 %), il bat de 1864 voix (53,4 %) Jean-Pierre Chevènement. Il est membre du groupe UMP et de la commission des affaires culturelles, familiales et sociales de l'Assemblée nationale. Il préside du groupe d’amitié France-Danemark, est vice-président du groupe d’études pour les personnes âgées, membre du groupe d’étude sur la chasse, du groupe d’étude sur les contrefaçons et de la mission d’information sur l’amiante.
+Il est sur la liste UMP de Jean-François Humbert aux régionales battue au second tour par celle (PS) de Raymond Forni. En mars 2004, candidat aux cantonales de Valdoie, il est battu (46,44 % des voix) par Yves Ackermann, maire PS, qui devient président du conseil général.
+Il rejoint le Parti radical valoisien en 2004 dont il devient secrétaire national. Il est proche de l'association Vivent les femmes et de Action Droits de l'Homme dirigée par Françoise Hostalier et parraine un prisonnier politique cubain.
+Il est réélu député le 17 juin 2007, pour la XIIIe législature (2007-2012), dans la 2e circonscription du Territoire de Belfort où de nouveau, il bat Jean-Pierre Chevènement. Il a pour suppléante Emmanuelle Trova-Lacorre.
+Il à nouveau réélu député de cette circonscription le 17 juin 2012 face à Etienne Butzbach.
+Le 16 mars 2008, il est élu Maire de Valdoie.
+Il est membre du groupe d'études sur le problème du Tibet de Assemblée nationale[1].
+Le 18 septembre 2012, il annonce sa participation au bureau national de l'Union des démocrates et indépendants en tant que secrétaire national au commerce, aux PME et à l’artisanat. Il quitte alors le groupe parlementaire de l'UMP pour rejoindre celui de l'UDI, qu'il avait refusé de rejoindre en juin, craignant « un petit combat des chefs à 15 »[2].
+Lors des élections municipales de 2014 pour la mairie de Valdoie, Michel Zumkeller (UDI) est réélu pour un nouveau mandat en battant dès le premier tour son rival socialiste Olivier Domon (PS) avec 65,54 % des suffrages avec sa liste Valdoie Pour Vous.
+Il est depuis le 3 décembre 2014, le nouveau secrétaire général de l'UDI, poste qu'il partage avec la moriniste modérée Brigitte Fourré.
+Il soutient Alain Juppé pour la primaire présidentielle des Républicains de 2016.
+Fin octobre 2017, il relaie à l'Assemblée nationale, avec des députés LR, un amendement portant sur la fiscalité des entrepôts et fourni par le Medef et la Confédération des petites et moyennes entreprises[3],[4].
+
+
+
+
+
+
+
+PARTISNORM
+PART Union des démocrates et indépendants (UDI).
+PART Parti radical valoisien (PRV).
+FONCTIONNORM
+
+NOMF Député de la 2e circonscriptiondu Territoire de Belfort NOMF En fonction depuis le 19 juin 2002(15 ans, 8 mois et 1 jour) SEP2 Élection REL 16 juin 2002 SEP2 Réélection REL 17 juin 200717 juin 201218 juin 2017 SEP2 Législature REL XIIe, XIIIe, XIVe et XVe SEP2 Groupe politique REL UMP (2002-2012)UDI (2012-2017)LC (depuis 2017) SEP2 Prédécesseur REL Jean-Pierre Chevènement (MDC) SEP2 Élection REL 16 mars 2008 SEP2 Réélection REL 23 mars 2014 SEP2 Prédécesseur REL Robert Bolle Reddat (PS) SEP2 Successeur REL Corinne Coudereau SEP2 Avec REL Brigitte Fouré SEP2 Date de naissance REL 21 janvier 1966 (52 ans) SEP2 Lieu de naissance REL Belfort (Territoire de Belfort) SEP2 Nationalité REL Française SEP2 Parti politique REL UDIParti : PRV.

@@ -1,0 +1,19 @@
+PRETAG Henry.
+NOMTAG Chéron.
+Henry Chéron est un homme politique français, né le 11 mai 1867 à Lisieux où il est mort le 14 avril 1936.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Ministre NOMF Sénateur du Calvados.
+NOMF Sénateur du Calvados NOMF Député.
+NOMF Député NOMF Maire de Lisieux SEP2 Date de naissance REL 11 mai 1867 SEP2 Lieu de naissance REL Lisieux SEP2 Date de décès REL 14 avril 1936 (à 68 ans) SEP2 Lieu de décès REL Lisieux SEP2 Nationalité REL Française SEP2 Parti politique REL Républicain SEP2 Profession REL Avocat.

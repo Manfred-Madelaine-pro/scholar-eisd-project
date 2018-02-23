@@ -1,0 +1,25 @@
+PRETAG Roger.
+NOMTAG Combrisson.
+Roger Combrisson, né le 22 février 1922 au Châtelet-en-Brie et mort le 7 février 2008, était un homme politique français. Membre du Parti communiste français, il fut député de la première circonscription de l’Essonne, conseiller général du canton de Corbeil et maire de Corbeil-Essonnes.
+
+
+
+Origines et vie familiale.
+Roger Combrisson est né le 22 février 1922 au Châtelet-en-Brie (Seine-et-Marne) et décédé le 7 février 2008 à l'hôpital Gilles de Corbeil dans sa commune et légua son corps à la science[1]. Il fut arrêté en octobre 1943, incarcéré à Chemnitz puis dans le camp de concentration de Flossenbürg. En 1947, il épousa Denise Caen, postière avec qui il eut deux enfants[2]. Le 23 février 2008, un hommage lui fut rendu par Serge Dassault, sénateur-maire de Corbeil-Essonnes, Manuel Valls, député-maire d’Évry, Michel Berson, président du conseil général de l'Essonne et le maire de la ville jumelle Sindelfingen[3] sur le parvis de l'hôtel de ville de Corbeil-Essonnes devant 1 500 personnes[4].
+Études et formation.
+
+
+
+Roger Combrisson fut à partir de 1947 employé comme chef de district à la SNCF où il était entré en 1945[2].
+Carrière politique.
+En 1936, il adhéra aux Jeunesses communistes. En 1943, il s'engagea dans l’Armée secrète en Maurienne, à partir de 1945 il adhéra au Parti communiste français et à la Confédération générale du travail des cadres cheminots[2]. Devenu secrétaire de la section PCF de Corbeil, il fut élu conseiller municipal le 26 octobre 1947. Il devint maire de Corbeil-Essonnes en 1959 et conserva se mandat jusqu’en 1992. Lors de l’élections législatives de 1962, il échoua dans sa conquête de la treizième circonscription de Seine-et-Oise avec 45,69 % face au maire UNR de Montgeron Armand Cachat[1]. De 1964 à 1967, il fut conseiller général du canton de Corbeil alors dans l’ancien département de Seine-et-Oise, il conserva son mandat dans le nouveau département de l’Essonne jusqu’en 1976 puis le retrouva entre 1985 et 1992. Il fut aussi élu député de la première circonscription de l’Essonne entre 1967 et 1968, entre 1973 et 1981 et entre 1986 et 1988.
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député de la 1re circonscription de l’Essonne NOMF 12 mars 1967 – 30 mai 1968.
+NOMF Conseiller général du canton de Corbeil NOMF 15 mars 1964 – 7 mars 1976 SEP2 Date de naissance REL 22 février 1922 SEP2 Lieu de naissance REL Le Châtelet-en-Brie SEP2 Date de décès REL 7 février 2008 (à 85 ans) SEP2 Lieu de décès REL Corbeil-Essonnes SEP2 Nationalité REL Française SEP2 Parti politique REL PCF SEP2 Profession REL Chef de district à la SNCF.

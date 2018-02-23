@@ -1,0 +1,26 @@
+PRETAG Camille.
+NOMTAG Blaisot.
+Camille Blaisot, né le 19 janvier 1881 à Valognes et mort pour la France le 23 janvier 1945 à Dachau, est un homme politique français.
+
+
+
+
+Avocat au Barreau de Caen ;
+Décédé à Dachau dans le Block 9, chambre 4 (tuberculeux). Le décès n'est signalé à l'administration du camp que le 24 janvier 1945.
+
+Fonctions gouvernementales et mandats.
+
+Député du Calvados du 10 mai 1914 au 31 mai 1942 ;
+Ministre de la Santé publique et des Sports du 27 janvier 1931 au 3 juin 1932 dans les gouvernements Pierre Laval (1), Pierre Laval (2), Pierre Laval (3) et André Tardieu (3) ;
+Sous-secrétaire d'État à la Présidence du Conseil du 7 juin 1935 au 24 janvier 1936 dans le gouvernement Pierre Laval (4).
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1914 – 1942 SEP2 Gouvernement REL La IIIe République SEP2 Groupe politique REL Non inscrit (1914-1919)ERD (1919-1924)URD (1924-1932)FR (1932-1942) SEP2 Date de naissance REL 19 janvier 1881 SEP2 Date de décès REL 24 janvier 1945 (à 64 ans) SEP2 Résidence REL Calvados.

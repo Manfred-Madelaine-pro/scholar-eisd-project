@@ -1,0 +1,20 @@
+PRETAG Paul.
+NOMTAG Escudier.
+Paul Escudier est un homme politique français né le 15 mars 1858 à Paris et décédé le 26 octobre 1931 à Paris.
+
+
+Docteur en droit, avocat à Paris, il est conseiller municipal de Paris de 1893 à 1910, et président en 1902-1903. Il est député de la Seine de 1910 à 1931, inscrit chez les Républicains progressistes, puis à la Fédération républicaine. Il est à l'origine de la création de l'institut médico-légal de Paris.
+En mai 1920, il est nommé membre du comité directeur de la Ligue des patriotes présidée par Maurice Barrès[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

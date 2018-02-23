@@ -1,0 +1,33 @@
+PRETAG Iñigo.
+NOMTAG Urkullu.
+Iñigo Urkullu Renteria, né le 18 septembre 1961 à Alonsotegi, est un homme politique espagnol membre du Parti nationaliste basque (EAJ/PNV).
+Il est président du gouvernement basque depuis 2012.
+
+
+
+Débuts en politique.
+Après avoir obtenu un diplôme de philologie basque, il s'inscrit à l'université de Deusto, où il étudie la gestion des centres de loisirs. En 1980, il devient membre de l'assemblée nationale de la Force jeune basque (EGI), l'organisation de jeunesse de l'EAJ/PNV.
+Au cours des élections du 26 février 1984, il est élu à 22 ans député de Biscaye au Parlement basque. Il entre cette même année au bureau provincial du Parti nationaliste basque. Il quitte ses fonctions au sein de l'EGI en 1985 et se voit réélu parlementaire le 30 novembre 1986.
+Ascension.
+Il démissionne du Parlement et du bureau provincial de l'EAJ/PNV en 1987, lorsqu'il est nommé directeur de la Jeunesse et de l'Action communautaire de la députation forale de Biscaye, présidée par le nationaliste José Alberto Pradera. Il est reconduit à la suite des élections locales de 1991. L'année suivante, il est choisi comme président du bureau de l'assemblée nationale du parti.
+Aux élections régionales du 23 octobre 1994, il est réélu député de Biscaye, quitte ses fonctions administratives et partisanes. Au mois de janvier 1995, il est désigné président de la commission parlementaire sur la Toxicomanie. Il retrouve le bureau provincial de l'EAJ/PNV en 1996.
+Le scrutin du 25 octobre 1998 lui permet de confirmer son mandat, puis il est porté à la présidence de la commission des Droits humains et des Demandes citoyennes en février 1999.
+En 2000, il est élu président de l'EAJ/PNV en Biscaye. Il conserve son mandat et ses fonctions au Parlement régional après les élections du 13 mai 2001, puis du 17 avril 2005.
+Président du PNV.
+Iñigo Urkullu est élu président du Parti nationaliste basque, à l'unanimité au cours de la Ve assemblée générale du parti, le 2 décembre 2007[1].
+Il entre en fonction le 18 janvier 2008. Il est réélu député au cours des élections du 1er mars 2009, mais son parti se voit renvoyé dans l'opposition après trente années au pouvoir. Lors de la tenue de la VIe assemblée générale de l'EAJ/PNV, le 15 janvier 2012, il est de nouveau élu à l'unanimité président du parti[2].
+Président du gouvernement basque.
+Pour les élections anticipées du 21 octobre 2012, il est chef de file de l'EAJ/PNV. Cette élection donne à son parti 27 députés sur 75, en recul de 3 sièges. Iñigo Urkullu est investi président du gouvernement du Pays basque le 13 décembre suivant, lors du second vote, par 27 voix pour, 21 à Laura Mintegi, la candidate d'EH Bildu, et 21 absentions[3]. Il est officiellement nommé deux jours plus tard[4].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (EAJ/PNV).
+FONCTIONNORM
+
+NOMF Président du gouvernement basque NOMF En fonction depuis le 15 décembre 2012(5 ans, 1 mois et 30 jours) SEP2 Gouvernement REL Urkullu I et II SEP2 Législature REL Xe et XIe SEP2 Coalition REL EAJ/PNV-PSE-EE SEP2 Prédécesseur REL Patxi López.
+NOMF Président du Parti nationaliste basque NOMF 18 janvier 2008 – 12 janvier 2013(4 ans, 11 mois et 25 jours) SEP2 Prédécesseur REL Josu Jon Imaz SEP2 Successeur REL Andoni Ortuzar SEP2 Nom de naissance REL Iñigo Urkullu Renteria SEP2 Date de naissance REL 18 septembre 1961 (56 ans) SEP2 Lieu de naissance REL Barakaldo (Espagne) SEP2 Nationalité REL Espagnole SEP2 Parti politique REL EAJ/PNV SEP2 Diplômé de REL Université de Deusto SEP2 Profession REL Professeur SEP2 Religion REL Catholicisme.

@@ -1,0 +1,32 @@
+PRETAG Étienne.
+NOMTAG Butzbach.
+Étienne Butzbach, né le 22 mars 1952 à Belfort, est un homme politique français.
+
+
+Père de quatre enfants, il a fait ses études de médecine à Lyon et à Paris et son internat dans les hôpitaux de Franche-Comté. En tant que médecin, on lui doit notamment la création du centre de santé Léon Blum de Belfort. Il est par ailleurs titulaire d’un DEA de sciences politiques et enseignant à l’Institut d'études européennes à l’Université Paris VIII.
+Il est membre du comité d'honneur de l'Association pour le droit de mourir dans la dignité (ADMD)[1].
+Carrière politique.
+Issu de la gauche autogestionnaire, il rejoint Jean-Pierre Chevènement et intègre dès 1983 la majorité municipale de « Belfort Démocratie » en qualité d’adjoint au maire chargé de la jeunesse.
+Dans la municipalité suivante (1989), il est adjoint à l’urbanisme, l’environnement et au logement. Parallèlement, il prend la présidence de l’agence d’urbanisme du Territoire de Belfort et entre au district de l’agglomération belfortaine. Il participe avec Jean-Pierre Chevènement à la création du Mouvement des citoyens en 1992.
+En 1995, Étienne Butzbach devient adjoint à l’éducation et à la coopération décentralisée et vice-président du district de l’agglomération belfortaine, chargé de préparer son élargissement.
+Enfin, après les élections municipales de 2001, il devient adjoint au maire chargé de l’urbanisme et du logement, du développement universitaire et de la recherche, ainsi que chargé de la coopération décentralisée.
+Il a été le tout premier vice-président de la Communauté d'agglomération belfortaine et président de l’Office départemental d’HLM du Territoire de Belfort, qu’il transforme en Territoire Habitat.
+Entre 1998 et 2000, Étienne Butzbach a été coordinateur de la Commission interministérielle au codéveloppement et aux migrations internationales. Il a présidé l’Agence pour le développement des relations interculturelles et le Fond de coopération décentralisée pour la Palestine.
+Il est secrétaire général de l’Institut d’Études et de Recherche Europe Méditerranée. Il est membre du bureau exécutif de Cités Unies France.
+En juin 2007, il est élu maire de Belfort après la démission de Jean-Pierre Chevènement.
+Le 16 mars 2008, lors du second tour des élections municipales de Belfort, la liste d'union de la gauche qu'il conduit arrive en tête avec 48,27 % des voix, devant celles de l'UMP Damien Meslot (38,06 %) et celle de Christophe Grudler (Divers droite) qui récolte 13,67 %. Il est dès lors réélu maire de Belfort. Il prend quelques mois plus tard la présidence de la Communauté d'agglomération belfortaine.
+En 2010, il est tête de liste pour le Territoire-de-Belfort aux élections régionales. Il recueille 28,32 % des voix, devançant encore une fois Damien Meslot qui n'obtient quant à lui que 26,80 % des suffrages. Il devient 7e vice-président du conseil régional de Franche-Comté.
+En 2012, il est candidat lors des législatives dans la 2e circonscription du Territoire de Belfort. Après les législatives, il décide de quitter le MRC et rejoindre le PS pour préparer les municipales en 2014. Dans la perspective des municipales à Belfort, il démissionne de son poste d'élu au Conseil Régional de Franche-Comté le 17 janvier 2013, abandonnant par la même occasion sa fonction de Vice-président.
+Le 10 octobre 2013, il est investi candidat à sa propre succession à la mairie de Belfort par la section PS de Belfort par 91 % des suffrages exprimés[2] mais cette victoire est contestée par Bruno Kern, son opposant lors du scrutin, qui dénonce des irrégularités par rapport au règlement interne. La demande est jugée irrecevable par le Tribunal de grande instance de Belfort le 28 novembre 2013[3].
+Candidat à sa propre succession lors des municipales de 2014, sa liste est battue par celle du candidat UMP Damien Meslot[4]. Élu conseiller municipal au second tour, il démissionne le 3 avril 2014[5].
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 22 mars 1952 (65 ans) SEP2 Lieu de naissance REL Belfort SEP2 Nationalité REL Française SEP2 Parti politique REL PS.

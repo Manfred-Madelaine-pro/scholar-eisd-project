@@ -1,0 +1,18 @@
+PRETAG Jules.
+NOMTAG Radulph.
+Jules Radulph est un agriculteur et un homme politique français né le 12 janvier 1874 à Proussy, dans le Calvados, et décédé le 18 juillet 1952 dans sa commune natale.
+Devenu président du Conseil agricole régional de Condé-sur-Noireau, et président des Syndicats agricoles du Calvados, il se lance en politique en devenant maire de sa commune natale, puis conseiller général de Condé à partir de 1934. Il est réélu à ce dernier poste en 1937. Membre du Parti agraire et paysan français, il se porte candidat lors d'une élection législative partielle organisée en octobre 1936 sous l'étiquette vague de « candidat républicain indépendant de défense professionnelle et de progrès social ».
+Élu, il rejoint le petit groupe Agraire indépendant, nouvellement créé, qui réunit les députés du PAPF. De sensibilité conservatrice, il milite notamment en faveur des bouilleurs de cru.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Il ne retrouve pas de mandat parlementaire sous la Quatrième République.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Agraire indépendant SEP2 Date de naissance REL 12 janvier 1874 SEP2 Date de décès REL 18 juillet 1952 (à 78 ans) SEP2 Résidence REL Calvados.

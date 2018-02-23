@@ -1,0 +1,31 @@
+PRETAG Joël.
+NOMTAG Sarlot.
+Joël Sarlot, est un homme politique français, né le 5 juillet 1946 à Belfort (Territoire de Belfort) et mort le 10 décembre 2017[1].
+
+
+Vétérinaire[2], il est élu député le 28 mars 1993 dans la 5e circonscription de la Vendée. Il appartient alors au groupe parlementaire Union pour la démocratie française et du centre.
+Réélu en 1997, il quitte l'UDF en 1998 et participe à la création du groupe Démocratie Libérale et indépendants.
+Réélu en 2002, il siège sur les bancs des non inscrits.
+Membre du Mouvement pour la France[Depuis quand ?], il en démissionne en 2006.
+Réélu en 2007, il s'inscrit comme « apparenté » au groupe parlementaire de l'UMP.
+Il est successivement membre de la commission de la production et des échanges (avril 1993 à juin 2002), de la commission des affaires étrangères (juin 2002 à juin 2007), et de la commission de la défense (à partir de juin 2007)[3].
+Jean-François Copé, président du groupe UMP à l'Assemblée nationale à partir du 27 juin 2007, rapporte dans son livre Un député ça compte énormément que Joël Sarlot était rarement présent à l’Assemblée[4].
+Le Conseil constitutionnel le déclare démissionnaire d'office et inéligible pour une durée d'un an à compter du 7 février 2008, en application des dispositions du code électoral relatives à la gestion du compte de campagne[5]. Il devient alors l'assistant parlementaire de son successeur, le MPF Dominique Souchet.
+À nouveau candidat lors des élections législatives de 2012, sous l'étiquette UMP, il se présente avec le soutien du président du conseil général Bruno Retailleau ; mais il est battu au second tour, 23 347 voix s'étant portées sur son nom contre 24 733 à Hugues Fourage, maire (PS) de Fontenay-le-Comte.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF).
+PART Démocratie libérale (parti politique) (Démocratie libérale).
+PART Mouvement pour la France (MPF).
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Député de la 5e circonscription de la Vendée NOMF 2 avril 1993 – 7 février 2008(14 ans, 10 mois et 5 jours) SEP2 Prédécesseur REL Pierre Métais (PS) SEP2 Successeur REL Dominique Souchet (MPF).
+NOMF Conseiller général de la Vendéeélu dans le canton de L'Hermenault NOMF 17 mars 1985 – 22 mars 2015(30 ans et 5 jours) SEP2 Prédécesseur REL Andrée Chaigneau (PS) SEP2 Successeur REL Canton supprimé.
+NOMF Président de la communauté de communes du Pays-de-l'Hermenault NOMF 29 janvier 1996 – 31 décembre 2016(20 ans, 11 mois et 2 jours) SEP2 Prédécesseur REL Création de la C.C. SEP2 Successeur REL Suppression de la C.C. SEP2 Date de naissance REL 5 juillet 1946 SEP2 Lieu de naissance REL Belfort SEP2 Date de décès REL 10 décembre 2017 (à 71 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL UDFDémocratie libéraleMPFUMP SEP2 Diplômé de REL École nationale vétérinaire d'Alfort SEP2 Profession REL Vétérinaire.

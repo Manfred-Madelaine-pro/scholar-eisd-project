@@ -1,0 +1,17 @@
+PRETAG Mourad.
+NOMTAG Kaouah.
+Mourad Kaouah, né le 11 avril 1919 à Aumale et décédé le 7 octobre 1989 d'un infarctus du myocarde[1], est un homme politique et footballeur français d'origine turco-algérienne[2].
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Député d'Alger-ville NOMF 30 novembre 1958 – 3 juillet 1962 SEP2 Successeur REL Indépendance de l'Algérie SEP2 Date de naissance REL 11 avril 1919 SEP2 Lieu de naissance REL Aumale SEP2 Date de décès REL 7 octobre 1989 (à 70 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL Unité de la République SEP2 Profession REL Employé à EDF.

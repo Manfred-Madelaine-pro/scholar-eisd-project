@@ -1,0 +1,29 @@
+PRETAG Jean.
+NOMTAG Boyer.
+Jean Boyer, né le 4 janvier 1937[1] au Puy-en-Velay (Haute-Loire)[2], est un homme politique français membre du Nouveau Centre (NC).
+
+
+
+Exploitant agricole[1] à Blanzac, près de Saint-Paulien (Haute-Loire), il débute dans les années 1970 une carrière d'élu local. Maire de Blanzac de 1971 à 1995[2], il devient en 1979 conseiller général (DVD) du canton de Saint-Paulien[2] puis, en 1985, vice-président du conseil général de la Haute-Loire[2], présidé alors par le centriste Jacques Barrot (UDF-CDS). Il a également été membre du conseil régional d'Auvergne de 1986 à 1998[3].
+Parallèlement à ses activités politiques, il exerce diverses fonctions au sein des organisations professionnelles agricoles. Vice-président de la Mutualité sociale agricole (1983)[2], président du Conservatoire botanique national du Massif Central de Chavaniac-Lafayette (1996-2003)[2], il est nommé en 1996 membre du Conseil économique et social, dont il préside la section de l'agriculture et de l'alimentation jusqu'en 2001[2].
+Candidat DVD aux élections sénatoriales de 2001, il défait le sortant Guy Vissac (RPR) et devient sénateur de la Haute-Loire[1]. Au Sénat, il se spécialiste dans les questions agricoles et rejoint le groupe de l'Union centriste (UC)[1], dont il est élu vice-président[4]. En 2011, après avoir abandonné la vice-présidence du conseil général, il annonce son intention de briguer un nouveau mandat parlementaire[5]. Il est réélu sénateur et élu secrétaire du Sénat en octobre 2011.
+Membre de la Nouvelle UDF dans les années 2000, il rejoint par la suite le Nouveau Centre, et participe en 2010 à la fondation de la fédération de Haute-Loire du parti centriste[6].
+Jean Boyer est chevalier de la Légion d'honneur, officier de l'Ordre national du Mérite et commandeur du Mérite agricole[2].
+Il annonce en janvier 2014 son intention de quitter le Sénat au 1er octobre suivant afin de permettre l'élection de son suppléant, Olivier Cigolotti[7]. Il démissionne en fait le 3 novembre 2014[8], ouvrant ainsi la voie à une élection sénatoriale partielle en haute-Loire.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) CDS.
+PART Centre des démocrates sociaux (CDS).
+PART Union des démocrates et indépendants (UDI) NC.
+PART Nouveau Centre (NC).
+FONCTIONNORM
+
+NOMF Sénateur de la Haute-Loire NOMF 23 septembre 2001 – 3 novembre 2014(13 ans, 1 mois et 11 jours) SEP2 Élection REL 23 septembre 2001 SEP2 Réélection REL 25 septembre 2011 SEP2 Groupe politique REL UDI-UC SEP2 Successeur REL Jean-Marc Boyer.
+NOMF Conseiller général de la Haute-LoireÉlu dans le Canton de Saint-Paulien NOMF 25 mars 1979 – 21 mars 2015(35 ans, 11 mois et 24 jours) SEP2 Prédécesseur REL Joseph Berthold (UDR).
+NOMF Conseiller régional d'Auvergne NOMF 16 mars 1986 – 15 mars 1998(11 ans, 11 mois et 27 jours) SEP2 Date de naissance REL 4 janvier 1937 (81 ans) SEP2 Lieu de naissance REL Puy-en-Velay (Haute-Loire) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF-CDSUDI-NC SEP2 Profession REL Exploitant agricole SEP2 Résidence REL Blanzac.

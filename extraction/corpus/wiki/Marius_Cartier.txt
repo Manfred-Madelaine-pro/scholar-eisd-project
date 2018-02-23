@@ -1,0 +1,18 @@
+PRETAG Marius.
+NOMTAG Cartier.
+Marius Cartier, né le 5 janvier 1913 à Puellemontier (Haute-Marne) et mort le 31 décembre 1992 à Saint-Dizier (Haute-Marne), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député NOMF Biographie SEP2 Date de naissance REL 5 janvier 1913 SEP2 Lieu de naissance REL Puellemontier (Haute-Marne) SEP2 Date de décès REL 31 décembre 1992 (à 79 ans) SEP2 Lieu de décès REL Saint-Dizier (Haute-Marne) SEP2 Nationalité REL Française SEP2 Parti politique REL PCF.

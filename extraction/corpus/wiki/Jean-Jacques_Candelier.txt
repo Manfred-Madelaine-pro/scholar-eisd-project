@@ -1,0 +1,22 @@
+PRETAG Jean-Jacques.
+NOMTAG Candelier.
+Jean-Jacques Candelier est un homme politique français, né le 7 mars 1945 à Bugnicourt (Nord), membre du Parti communiste français (PCF).
+
+
+
+Jean-Jacques Candelier a été élu député le 17 juin 2007, pour la XIIIe législature (2007-2012), dans la 16e circonscription du Nord en battant, au deuxième tour, Michelle Derain (UMP) avec 66,09 % des suffrages. Il succède ainsi à Georges Hage (PCF) qui ne se représentait pas. Il devient vice-président de la commission de la défense nationale.
+Il est réélu le 17 juin 2012 lors du deuxième tour des élections législatives françaises de 2012 en obtenant 100 % des suffrages exprimés[1] ; le candidat socialiste arrivé en deuxième position au premier tour s'étant désisté en sa faveur.
+Il ne se représente pas aux élections législatives de 2017. De son successeur Alain Bruneel, maire de Lewarde, il avait dit en janvier : « Il s’agit d’un élu de terrain, sérieux et efficace, toujours à l’écoute des besoins de la population. »[2].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député de la 16e circonscription du Nord NOMF 20 juin 2007 – 20 juin 2017 SEP2 Élection REL 17 juin 2007 SEP2 Réélection REL 17 juin 2012 SEP2 Groupe politique REL Gauche démocrate et républicaine SEP2 Prédécesseur REL Georges Hage (PCF) SEP2 Successeur REL Alain Bruneel (PCF).
+NOMF Conseiller général du canton de Marchiennes NOMF 17 mars 1985 – 16 mars 2008 SEP2 Prédécesseur REL Pierre Gérard (PCF) SEP2 Successeur REL Jean-Claude Quennesson (PCF) SEP2 Date de naissance REL 7 mars 1945 (72 ans) SEP2 Lieu de naissance REL Bugnicourt (Nord) SEP2 Parti politique REL PCF.

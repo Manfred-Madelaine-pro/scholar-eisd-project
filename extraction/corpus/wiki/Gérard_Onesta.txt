@@ -1,0 +1,24 @@
+PRETAG Gérard.
+NOMTAG Onesta.
+Gérard Onesta, né le 5 août 1960 à Albi, est un homme politique français, membre d'Europe Écologie Les Verts (EÉLV).
+
+
+
+Enfance et formation.
+Fils d'immigré, la branche paternelle de sa famille ayant été chassé d'Italie par le fascisme, Gérard Onesta a fait ses études scientifiques à Albi, puis Toulouse. Diplômé architecte DPLG en 1984, il a dirigé de 1985 à 1999 une agence d'architecture à Albi.
+Activité militante.
+En 1988 il co-fonde la Fédération des jeunes écologistes européens. Il est membre du Conseil national des Verts à partir de 1987 et jusqu'en 1999, ainsi que responsable des questions institutionnelles des débats sur les questions institutionnelles (démocratie, modes de scrutin, règlements, rapports au pouvoir…) de 1989 à 1999. Il occupe également le poste de porte-parole du parti pour la région Midi-Pyrénées de 1991 à 1992, puis celui de porte-parole national entre 1994 et 1995.
+Il a aussi essayé de valoriser les enjeux européens et verts au niveau international, notamment en rédigeant un rapport sur les peuples indigènes, en créant un planisphère alternatif représentant les peuples du monde, ou encore en participant au Sommet de Rio de 1992.
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Verts) jusqu'en 2010.
+PART Europe Écologie Les Verts (EÉLV) depuis 2010.
+FONCTIONNORM
+
+NOMF Député européen NOMF 20 juillet 1999 – 13 juillet 2009(9 ans, 11 mois et 23 jours) SEP2 Élection REL 13 juin 1999 SEP2 Réélection REL 13 juin 2004 SEP2 Législature REL 5e et 6e SEP2 Groupe politique REL Verts/ALE SEP2 Législature REL 3e SEP2 Groupe politique REL Les Verts SEP2 Prédécesseur REL Solange Fernex SEP2 Date de naissance REL 5 août 1960 (57 ans) SEP2 Lieu de naissance REL Albi (France) SEP2 Nationalité REL Français SEP2 Parti politique REL Verts (jusqu'en 2010)EÉLV (depuis 2010).

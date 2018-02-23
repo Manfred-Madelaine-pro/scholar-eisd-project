@@ -1,0 +1,19 @@
+PRETAG Désiré.
+NOMTAG Bouteille.
+Désiré Bouteille est un journaliste et homme politique français, né le 8 novembre 1880 à Auchy-la-Montagne (Oise) et mort le 22 juillet 1940 à Vichy (Allier).
+Directeur du Journal de Clermont en 1905, puis de La Démocratie de l'Oise, il se présente en vain aux élections législatives de 1914, avant d'être mobilisé pendant toute la durée de la Première Guerre mondiale.
+De retour du front, il se présente sur la liste de droite aux élections législatives de 1919 dans l'Oise et est élu, et réélu en 1924 et 1928. Il siège au groupe de l'Entente républicaine démocratique, rebaptisé Union républicaine démocratique à partir de 1924.
+Pendant toute la durée de ses trois mandats successifs, il intervient fréquemment, sur des sujets divers, mais rarement de toute première importance. Il se fera remarquer par un nationalisme anti-allemand assez vif.
+En 1932, il est battu par le radical Armand Dupuis et se retire de la vie politique pour se consacrer à son travail de journaliste.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1932 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL ERD (1919-1924)URD (1924-1932) SEP2 Date de naissance REL 8 novembre 1880 SEP2 Date de décès REL 22 juillet 1940 (à 59 ans) SEP2 Résidence REL Oise.

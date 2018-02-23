@@ -1,0 +1,27 @@
+PRETAG Dany.
+NOMTAG Wattebled.
+Dany Wattebled, né le 22 novembre 1951 à Lesquin (Nord)[1], est un homme politique français. Il est actuellement sénateur du Nord.
+
+Il est père de 3 enfants[1].
+
+
+Carrière politique.
+Dany Wattebled commence sa carrière politique en se présentant à la mairie de Lesquin. Il est élu maire lors des municipales de 1995 et est réélu en 2001, 2008[2] et 2014[3].
+Le 24 septembre 2017, il est élu sénateur du Nord[4],[5].
+Vie privée.
+Il est père de 3 enfants[1].
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Sénateur du Nord NOMF En fonction depuis le 2 octobre 2017(4 mois et 10 jours) SEP2 Élection REL 24 septembre 2017 SEP2 Groupe politique REL RTLI.
+NOMF Conseiller départemental du Nordélu dans le canton de Faches-Thumesnil NOMF En fonction depuis le 2 avril 2015(2 ans, 10 mois et 10 jours) SEP2 Avec REL Annie Leys SEP2 Élection REL 29 mars 2015 SEP2 Prédécesseur REL Canton créé.
+NOMF Conseiller municipal de Lesquin NOMF En fonction depuis juin 1995(22 ans et 8 mois) SEP2 Maire REL Lui-mêmeJean-Marc Ambroziewicz SEP2 Prédécesseur REL Claude Senepart SEP2 Successeur REL Jean-Marc Ambroziewicz.
+NOMF Conseiller général du Nordélu dans le canton de Seclin-Nord NOMF 2008 – 29 mars 2015(7 ans).
+NOMF Président NOMF PrédécesseurNoël Dejonghe SEP2 Prédécesseur REL Noël Dejonghe SEP2 Successeur REL Canton supprimé SEP2 Date de naissance REL 22 novembre 1951 (66 ans) SEP2 Lieu de naissance REL Lesquin (Nord) SEP2 Nationalité REL Française SEP2 Parti politique REL UDFMoDemUDI SEP2 Profession REL Chef d'entreprise.

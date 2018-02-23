@@ -1,0 +1,19 @@
+PRETAG Jean.
+NOMTAG Bernex.
+Jean Bernex, né le 26 octobre 1893 à Saint-Paul-en-Chablais (Haute-Savoie) et décédé le 3 janvier 1947 à Évian-les-Bains (Haute-Savoie), est un homme politique.
+
+
+Fils d'un agriculteur, il participe à la première guerre mondiale et en ressort invalide de guerre. Installé comme médecin à Evian, il entame une carrière politique locale, étant élu conseiller d'arrondissement en 1934, puis conseiller municipal l'année suivante.
+Membre de la Fédération républicaine, il est élu député conservateur de la circonscription de Thonon-les-Bains en 1936, sur un programme de refus du Front populaire. Le 10 juillet 1940, il vote en faveur des pleins pouvoirs à Philippe Pétain. De 1941 à 1943, il accepte du régime de Vichy les fonctions de maire adjoint d'Evian.
+Cependant, membre de la Compagnie F.T.P. 93-12, il soigne les maquis d'Abondance, de Novel et de Bernex. Il est arrêté à Évian-les-Bains par la Gestapo le 17 avril 1944 et déporté à Dachau puis à Neckarelz. Libéré par les Américains à Osterbuken le 4 avril 1945. Il est médaillé de la Résistance N° 51-271: L.C. À son retour le Dr Jean Bernex est élu conseiller général du Canton d'Abondance et vice-président du Conseil Général de Haute-Savoie.
+Il décède à Évian-les-bains le 3 janvier 1947. Le Président Vincent Auriol le décore à Évian-les-bains, à titre posthume, Chevalier de la Légion d'honneur avec mention "Mort pour la France".
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL FRF SEP2 Date de naissance REL 26 octobre 1893 SEP2 Date de décès REL 3 janvier 1947 (à 53 ans) SEP2 Résidence REL Haute-Savoie.

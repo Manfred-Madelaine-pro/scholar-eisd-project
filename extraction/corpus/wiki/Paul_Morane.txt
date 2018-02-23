@@ -1,0 +1,19 @@
+PRETAG Paul.
+NOMTAG Morane.
+Paul Henry Louis Marie Morane est un avocat et un homme politique français né le 17 juin 1901 à Paris 8e et décédé le 27 février 1975 à Neuilly-sur-Seine, dans les Hauts-de-Seine[1].
+Issu de la famille de constructeurs aéronautiques Morane, il devient avocat et administrateur de diverses sociétés. Membre de l'Alliance démocratique, il entre en politique en 1932 en se présentant aux élections législatives dans les Côtes-du-Nord. Battu de justesse par le sortant radical indépendant, il tente à nouveau sa chance en 1936, cette fois-ci avec succès[2]. Il fait alors partie des quinze députés élus en Bretagne signataires d'un « programme du Front Breton », qui vise alors à créer un groupe parlementaire breton à l'Assemblée nationale, et à défendre des lois en faveur de la régionalisation des institution ou en faveur de l'enseignement de la langue bretonne[3]. S'étant présenté comme candidat républicain de gauche, il s'inscrit néanmoins au groupe des Républicains indépendants et d'action sociale, plus conservateur que le groupe parlementaire de l'Alliance.
+En 1938, il est également élu conseiller général des Côtes-du-Nord. La même année, il fonde une mystérieuse Ligue des citoyens du monde.
+Comme député, Paul Morane intervient sur des questions culturelles, économiques ou agricoles. Il vote, le 10 juillet 1940, en faveur de la remise des pleins pouvoirs au Maréchal Pétain.
+À la Libération, Paul Morane fait partie de la petite équipe qui tente de remettre sur pied l'Alliance démocratique en l'intégrant au Rassemblement des gauches républicaines. Il prend la direction d'une nouvelle organisation de jeunesse, les Jeunesses démocratiques, mais ne parvient pas à obtenir de nouveau mandat parlementaire.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL RIAS SEP2 Date de naissance REL 17 juin 1901 SEP2 Date de décès REL 27 février 1975 (à 73 ans) SEP2 Résidence REL Côtes-du-Nord.

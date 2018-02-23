@@ -1,0 +1,18 @@
+PRETAG Georges-Louis.
+NOMTAG Aimond.
+Georges-Louis Aimond ou Georges Aimond est un avocat et un homme politique français né le 29 octobre 1878 et décédé le 6 mai 1923 à Paris, dans le département de la Seine. Il est député de Seine-et-Oise de 1919 à 1923, inscrit au groupe de la Gauche républicaine démocratique.
+Fils d'Émile Aimond, qui fut député puis sénateur de Seine-et-Oise, il effectue ses études de droit à Paris et y devient avocat à la Cour d'appel. Décoré de la croix de guerre à l'issue de la Première Guerre mondiale, il entre en politique en 1919 sous les couleurs de l'Alliance démocratique.
+Candidat en seconde position derrière André Tardieu sur les listes du Bloc national en Seine-et-Oise, il est élu et rejoint le groupe parlementaire de la Gauche républicaine démocratique. Parlementaire discret mais actif, il est à l'origine de plusieurs loi, notamment celles instituant le 11 novembre comme jour férié, prévoyant l'annulation d'un mariage en cas d'aberration mentale de l'un des conjoints ou en faveur des abonnements du travail pour les usagers des chemins de fer.
+Il est emporté par la maladie en cours de mandat, à l'âge de 44 ans.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1923 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GRD SEP2 Date de naissance REL 29 octobre 1878 SEP2 Date de décès REL 6 mai 1923 (à 44 ans) SEP2 Résidence REL Seine-et-Oise.

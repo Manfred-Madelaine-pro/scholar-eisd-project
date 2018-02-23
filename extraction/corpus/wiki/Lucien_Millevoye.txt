@@ -1,0 +1,19 @@
+PRETAG Lucien.
+NOMTAG Millevoye.
+Lucien Millevoye, né le 1er août 1850 à Grenoble (Isère) et mort le 25 mars 1918 à Paris, est un journaliste et homme politique français.
+Petit-fils du poète Charles Hubert Millevoye et fils d'un ancien président de cour d'appel, il est avocat au barreau de Lyon de 1872 à 1875, puis magistrat de 1875 à 1880. Il démissionne au moment de l'expulsion des congrégations, pour marquer son opposition politique à cette mesure. Il se lance alors dans le journalisme politique, où il connait un grand succès.
+Il devient bientôt un proche du général Boulanger, dont il rédige les programmes et discours. Candidat boulangiste dans la Somme en 1889, il bat René Goblet, ancien président du Conseil. C'est un député très fougueux et emporté, qui collectionne les sanctions disciplinaires pour ses écarts de langage. En 1893, il attaque Georges Clemenceau à la tribune de la Chambre, l'accusant, sur la base d'un faux grossier forgé par un certain Norton, d'être un agent de l'Angleterre. Le scandale est tel qu'il est contraint de démissionner de son mandat de député.
+Liée à Maud Gonne, il a une enfant illégitime de cette dernière en 1894 : Iseult Gonne.
+Il reprend alors le journalisme, devenant rédacteur en chef du journal nationaliste La Patrie, financé par son ami Edmond Archdeacon. Il est alors l'un des piliers du camp antidreyfusard, qu'il rejoint notamment par antisémitisme[1]. Il est réélu député en 1898, mais cette fois dans le 16e arrondissement de Paris, et conserve son siège jusqu'à sa mort en 1918. Il est un orateur nationaliste très écouté.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1889-18931898-1918 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL Groupe boulangisteGroupe antijuifAction libérale SEP2 Date de naissance REL 1er août 1850 SEP2 Date de décès REL 25 mars 1918 SEP2 Résidence REL SommeSeine.

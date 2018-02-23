@@ -1,0 +1,24 @@
+PRETAG Gaston.
+NOMTAG Gérard.
+Gaston Gérard, né le 30 avril 1878 à Dijon (Côte-d'Or) et mort dans cette même ville le 5 février 1969, est un avocat et un homme politique français. Il fut maire de Dijon de 1919 à 1935, député de la Côte-d'Or dans les années 1930 et plus brièvement sous-secrétaire d'État sous la IIIe République. Il fut le premier membre d'un gouvernement français à être en charge du tourisme.
+
+Marié en premières noces à Dijon le 6 août 1907 avec Reine Geneviève Bourgogne, il épouse en secondes noces à Chenôve le 14 avril 1964 Odette Andrée Perrot.
+
+
+Issu d'un milieu modeste[1], il nait au domicile de ses parents, Georges Adolphe Gérard, comptable, et Marie-Louise Maison, au 30, rue Amiral Roussin. Sa famille est installé à Dijon depuis de nombreuses générations[1], il fait de brillantes études de droit à l'université de Dijon et devenu avocat, il s'inscrit au barreau de cette ville en 1899[1]. Il attire tôt l'attention. Il entame une carrière politique qui ira de la gauche à la droite et le conduira de fonctions électives locales à divers cabinets ministériels. Gaston Gérard est alors membre de l'Alliance démocratique. Il est élu en 1907, conseiller général pour le canton de Dijon-Ville et mène en parallèle un carrière active d'avocat[1], reconnue par le nombre d'acquittement qu'il obtient aux assises[1].
+Mobilisé pendant la Première Guerre mondiale comme auxiliaire, il passe à sa demande au service armé[1]. Il finira capitaine en ayant reçu deux citations françaises et une belge[1]. À la fin de la guerre, il est décoré de la Légion d'honneur à titre militaire[1].
+Participant à cinq gouvernements, il est le premier membre d'un gouvernement français en charge du Tourisme. Il développe le thermalisme, participe à l'organisation des travaux publics, de la marine marchande et de l'aviation civile.
+Député de la Côte d'Or, il vote les pleins pouvoirs au Maréchal Pétain le 10 juillet 1940. Durant l'Occupation, il se rapprochera du régime de Vichy, espérant être nommé maire de Dijon mais sans succès[2] et sera membre de la Ligue française[3].
+Il est condamné à une peine d’inéligibilité et à l’indignité nationale à la Libération[4].
+Localement très attaché à sa ville natale, il est conseiller général de la Côte-d'Or dès 1907 mais est surtout maire de Dijon de 1919 à 1935. En 1921, avec l'appui de l'industriel dijonnais Xavier Aubert, il crée la Foire gastronomique en s'inspirant du modèle lyonnais de la foire des soieries d'Édouard Herriot[5].
+On lui doit également quelques ouvrages : Au secours du bon sens, Dijon, ma bonne ville, le Miroir du coin et du temps et de nombreuses chroniques parues dans le quotidien dijonnais Le Bien public.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1928-1932puis 1936-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GR (1928-1932)GDRI (1936-1940) SEP2 Prédécesseur REL Charles Dumont SEP2 Successeur REL Robert Jardillier SEP2 Date de naissance REL 30 avril 1878 SEP2 Lieu de naissance REL Dijon, France SEP2 Date de décès REL 5 février 1969 (à 90 ans) SEP2 Lieu de décès REL Dijon, France SEP2 Nationalité REL Française.

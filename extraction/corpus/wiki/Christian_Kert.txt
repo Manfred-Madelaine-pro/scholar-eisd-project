@@ -1,0 +1,39 @@
+PRETAG Christian.
+NOMTAG Kert.
+Christian Kert, né le 25 juillet 1946 à Salon-de-Provence (Bouches-du-Rhône), est un homme politique français de centre-droit.
+Reélu député de la onzième circonscription des Bouches-du-Rhône en 2012, il siège au sein du groupe parlementaire « Les Républicains » dont il est le deuxième vice-président et fait partie de la commission des Affaires culturelles et de l'Éducation. Il est battu en 2017.
+Il est également délégué départemental Les républicains des Bouches-du-Rhône
+
+
+Son engagement politique débute en 1977 par son élection comme conseiller municipal de Salon-de-Provence, ville dont il devient le premier adjoint au maire en 1983 jusqu'en 1989. Il est élu pour la première fois à l'Assemblée nationale en juin 1988 et a, depuis, été réélu jusqu'en 2017, date à laquelle il est battu par le candidat LREM Mohamed Laqhila (46 % des voix contre 53 %)[1].
+Mandats pour la ville de Salon-de-Provence.
+
+de 1977 à 1983 : membre du conseil municipal de Salon-de-Provence (Bouches-du-Rhône)
+de 1983 à 1989 : adjoint au maire de Salon-de-Provence (Bouches-du-Rhône)
+de 1989 à 1993 : membre du conseil municipal de Salon-de-Provence (Bouches-du-Rhône)
+de 2001 à 2008 : membre du conseil municipal de Salon-de-Provence (Bouches-du-Rhône)
+
+Mandats parlementaires.
+
+de 1988 à 2002 : député UDF des Bouches-du-Rhône
+de 2002 à 2015 : député UMP des Bouches-du-Rhône
+de 2015 à 2017 : député Les Républicains (parti français) des Bouches-du-Rhône
+
+Fonctions parlementaires.
+De 2011 à 2017 : vice-président du Groupe parlementaire Les Républicains
+Membre de la Commission des Affaires Culturelles et de l'éducation
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) UMP.
+PART Union pour un mouvement populaire (UMP) Les Républicains.
+PART Les Républicains (Les Républicains).
+FONCTIONNORM
+
+NOMF Député de la 11e circonscription des Bouches-du-Rhône NOMF 23 juin 1988 – 20 juin 2017 SEP2 Élection REL 12 juin 1988 SEP2 Réélection REL 28 mars 1993 • 1er juin 1997 • 16 juin 2002 • 17 juin 2007• 17 juin 2012 SEP2 Groupe politique REL Les Républicains SEP2 Prédécesseur REL Aucun (création) SEP2 Successeur REL Mohamed Laqhila SEP2 Date de naissance REL 25 juillet 1946 (71 ans) SEP2 Lieu de naissance REL Salon-de-Provence (Bouches-du-Rhône) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF, UMP, Les Républicains.

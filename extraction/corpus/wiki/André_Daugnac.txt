@@ -1,0 +1,21 @@
+PRETAG André.
+NOMTAG Daugnac.
+André Daugnac, né le 14 décembre 1919 à Toulouse (Haute-Garonne) et mort le 30 décembre 1995 à Perpignan (Pyrénées-Orientales), est un homme politique français.
+
+
+
+Il devient sénateur des Pyrénées-Orientales le 3 décembre 1987, à la suite du décès de Guy Malé.
+
+
+
+
+
+
+
+PARTISNORM
+PART Section française de l'Internationale ouvrière (SFIO) UDF.
+PART Union pour la démocratie française (UDF) CDS.
+PART Centre des démocrates sociaux (CDS).
+FONCTIONNORM
+
+NOMF Sénateur des Pyrénées-Orientales NOMF 3 décembre 1987 – 1er octobre 1992 SEP2 Successeur REL François Calvet SEP2 Date de naissance REL 14 décembre 1919 SEP2 Lieu de naissance REL Toulouse (Haute-Garonne) SEP2 Date de décès REL 30 décembre 1995 (à 76 ans) SEP2 Lieu de décès REL Perpignan (Pyrénées-Orientales) SEP2 Nationalité REL Française SEP2 Parti politique REL SFIO, UDF, CDS SEP2 Profession REL Entrepreneur.

@@ -1,0 +1,22 @@
+PRETAG Maurice.
+NOMTAG Spronck.
+Maurice Spronck est un écrivain et homme politique français né le 18 février 1861 à Paris et décédé le 28 novembre 1921 à Paris.
+
+
+
+Avocat remarqué, président de la Conférence Molé-Tocqueville en 1889, Maurice Spronck se tourne rapidement vers le journalisme - il collabore notamment à la Revue des deux mondes et au Journal des débats - la littérature et la politique. Homme de droite, il milite d’abord à l’Association Nationale Républicaine, puis à la Ligue des patriotes de Paul Déroulède. A la toute fin du siècle, il participe à la fondation de l’Action Française, et en invente l’un des slogans dans un article d’août 1899 où il écrit que « le nationalisme n’est pas un parti, c’est un état d’esprit »[1] . Mais Spronck, s’il exècre le régime parlementaire, n’en demeure pas moins républicain, et réticent aux thèses monarchistes défendues, au sein de l’Action Française naissante, par Charles Maurras. « L’impression qui se dégage », écrit-il à cette époque, c’est que «  la royauté s’en va. Et elle s’en va, non pas seulement (…) parce que les institutions et les sentiments monarchiques n’existent plus chez les peuples, mais aussi parce qu’ils ne semblent plus guère exister chez les monarques eux-mêmes. »[2]
+À cet angoissé qui, dans son premier ouvrage, évoquait déjà les menaces pesant sur « la civilisation européenne », les cataclysmes et les « guerres exterminatrices de race à race, (…) sous lesquels il ne serait pas impossible que disparût le vieux monde »[3] , une hypothèse qu'il développe en 1894 dans son chef-d’œuvre, L'an 330 de la République[4], l’idée d’une restauration monarchique paraît illusoire. En désaccord avec l’évolution de l’Action Française en train de se convertir au royalisme, Spronck adhère à la Ligue de la Patrie Française, créée en 1899 sous l’égide des écrivains Maurice Barrès et Jules Lemaître. C’est sous cette étiquette qu’il sera élu en 1902 député du sixième arrondissement de Paris où il sera réélu sans interruption jusqu’en 1919[5] ; en 1904, devenu membre de l’Action Libérale, il s’éloigne de la Ligue de la Patrie Française sans pour autant renier ses convictions de jeunesse .
+Jusqu’à sa mort en 1921, Spronck se rattache en effet à un courant « réactionnaire », même s'il se situe sur le versant pré-fasciste de celui-ci, du côté du romantisme, du nietzschéisme[6] et de l’obsession du déclin. Du côté, également, d’un culte de la Force débouchant sur une misogynie qui (même à l’époque) dut passer pour extravagante, sur un vitalisme forcené et sur un anti-intellectualisme aussi implacable que paradoxal[7].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 26 avril 1914 - 7 décembre 1919.
+NOMF Député NOMF 24 avril 1910 - 31 mai 1914.
+NOMF Député NOMF 6 mai 1906 - 31 mai 1910.
+NOMF DéputéSeine NOMF 7 avril 1902 - 31 mai 1906.

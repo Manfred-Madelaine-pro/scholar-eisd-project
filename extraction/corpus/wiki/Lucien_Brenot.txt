@@ -1,0 +1,18 @@
+PRETAG Lucien.
+NOMTAG Brenot.
+Lucien Brenot, né le 29 mars 1948 à Saulieu (Côte-d'Or) est un homme politique français. Il est décédé le 13 octobre 2012 des suites d'une longue maladie à la clinique Drevon de Dijon (Côte-d'Or).
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP).
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Député de la Troisième circonscription de la Côte-d'Or NOMF 1er juin 1993 – 18 juin 1997 SEP2 Gouvernement REL Ve République SEP2 Prédécesseur REL Roland Carraz SEP2 Successeur REL Roland Carraz SEP2 Prédécesseur REL Michel Rasera SEP2 Successeur REL Michel Rotger SEP2 Date de naissance REL 29 mars 1948 SEP2 Lieu de naissance REL Saulieu SEP2 Date de décès REL 13 octobre 2012 (à 64 ans) SEP2 Parti politique REL CNIPUMP SEP2 Profession REL Médecin généraliste SEP2 Résidence REL Chevigny-Saint-Sauveur.

@@ -1,0 +1,23 @@
+PRETAG Charles.
+NOMTAG Desjardins.
+Charles Desjardins, né le 24 décembre 1878 à Lille (Nord) et mort le 6 février 1951 à Paris (Seine), est un homme politique français.
+Fils de Jules Desjardins, ancien député, il devient avocat, d'abord au barreau de Paris, puis à celui de Saint-Quentin.
+Maire de Remaucourt en 1919, il est député de l'Aisne de 1919 à 1928. Battu aux législatives de 1928, il se présente l'année suivante aux sénatoriales où il est élu. Il conserve son siège jusqu'en 1940.
+Bien qu'ayant voté les pleins pouvoirs au maréchal Pétain le 10 juillet 1940, il redevient député de 1945 à 1951, dans les deux assemblées constituantes et dans la première législature de la IVe république.
+Il avait épousé en 1902 Mlle Odent, fille du colonel et petite fille du préfet Paul Odent.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .
+NOMF Sénateur de la Troisième République (d) NOMF .

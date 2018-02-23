@@ -1,0 +1,23 @@
+PRETAG Bénédicte.
+NOMTAG Taurine.
+Bénédicte Taurine, née le 18 juin 1976 à Lavelanet[2], est une femme politique française. Membre du Parti communiste français et de La France insoumise, elle est élue députée de la 1re circonscription de l'Ariège le 18 juin 2017.
+
+
+Bénédicte Taurine est enseignante en sciences de la vie et de la Terre dans un collège, elle exerce en parallèle des fonctions syndicales au syndicat national des enseignements de second degré (SNES)[1].
+En 2015, elle est candidate aux élections régionales en Languedoc-Roussillon-Midi-Pyrénées sur la liste "Nouveau monde en commun", regroupant plusieurs partis de gauche radicale, mais n'est pas élue.
+Elle est élue députée de la première circonscription de l'Ariège le 18 juin 2017 avec 50,28 % des voix au second tour sous la bannière politique de la France insoumise[3],[4]. Membre du Parti communiste français, mais choisie par les militants de la France Insoumise (candidature validée par le comité électoral dirigé par Mathilde Panot, Tayeb Tounsi et Manuel Bompard[5]), elle se présente contre le candidat investi par le PCF.
+Elle est membre de la commission des Affaires économiques.
+Le 19 octobre 2017, elle fait partie des 13 élu(e)s à ne pas avoir déposé leur déclaration d'intérêts ou de patrimoine, à la Haute Autorité pour la transparence de la vie publique (HATVP) ; toutefois selon la députée, sa déclaration a bien été transmise dans les délais mais il y aurait eu un problème informatique[6].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+PART La France insoumise (FI).
+FONCTIONNORM
+
+NOMF Députée française NOMF En fonction depuis le 21 juin 2017(8 mois) SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 1re circonscription de l'Ariège SEP2 Législature REL XVe (Cinquième République) SEP2 Groupe politique REL FI SEP2 Prédécesseur REL Frédérique Massat SEP2 Date de naissance REL 18 juin 1976 (41 ans) SEP2 Lieu de naissance REL Lavelanet (France) SEP2 Nationalité REL  Française SEP2 Parti politique REL PCFFI SEP2 Diplômée de REL Université Toulouse-III SEP2 Profession REL Enseignante en SVT[1].

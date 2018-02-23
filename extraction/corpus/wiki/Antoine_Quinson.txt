@@ -1,0 +1,15 @@
+PRETAG Antoine.
+NOMTAG Quinson.
+Antoine Quinson est un homme politique français né le 12 juin 1904 à Béziers (Hérault) et mort le 27 avril 1966 à Vincennes (Val-de-Marne)
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1951-1962 NOMF GouvernementIVe République-Ve République SEP2 Gouvernement REL IVe République-Ve République SEP2 Groupe politique REL RPF (1951-1955)RGRCR (1956-1958)IPAS (1958-1962) SEP2 Date de naissance REL 12 juin 1904 SEP2 Date de décès REL 27 avril 1966 (à 61 ans) SEP2 Résidence REL Seine.

@@ -1,0 +1,14 @@
+PRETAG Claude.
+NOMTAG Polin.
+Claude Polin, né en 1937, est un philosophe français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM

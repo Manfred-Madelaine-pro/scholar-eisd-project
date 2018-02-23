@@ -1,0 +1,21 @@
+PRETAG Marcelle.
+NOMTAG Ramonet.
+Marcelle Ramonet, femme politique française, née le 22 juin 1949 à Brest (Finistère).
+
+
+
+Elle est élue députée UMP le 16 juin 2002, pour la XIIe législature (2002-2007), dans la circonscription du Finistère (1re). Elle fait partie du groupe UMP. Elle est battue en 2007 par le socialiste Jean-Jacques Urvoas, n'étant pas parvenue à faire l'unanimité à l'UMP.
+La même année, elle est investie tête de la liste UMP pour les municipales de 2008 pour la Ville de Quimper, elle perd au second tour.
+Présidente du Conseil National du Bruit de 2003 à 2007.
+Elle fut membre du groupe d'études sur le problème du Tibet de Assemblée nationale[2].
+Ancienne membre du Conseil économique, social et environnemental, elle a été rapporteuse d'une étude consacrée aux cellules de reclassement publié le 12 janvier 2010[3]
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la 1re circonscription du Finistère NOMF 20 novembre 2001[1] – 18 juin 2002[1] SEP2 Élection REL 1er juin 1997[1] SEP2 Législature REL XIe SEP2 Groupe politique REL DLI SEP2 Réélection REL 16 juin 2002[1] SEP2 Législature REL XIIe SEP2 Groupe politique REL UMP SEP2 Date de naissance REL 22 juin 1949[1] SEP2 Lieu de naissance REL Brest.

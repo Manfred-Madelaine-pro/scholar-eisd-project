@@ -1,0 +1,21 @@
+PRETAG Manuel_de.
+NOMTAG Irujo.
+Manuel de Irujo Ollo est un avocat et homme politique basque-espagnol né le 25 septembre 1891 et mort le 1er janvier 1981. Figure historique du Parti nationaliste basque (EAJ/PNV), il fut député du Guipuscoa et ministre sous la Seconde République espagnole. Il participe a la presque quasi-totalité des gouvernements républicain durant la guerre civile. Il intégra par la suite les différents gouvernements de la seconde république en exil (es) après-guerre.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (EAJ/PNV).
+FONCTIONNORM
+
+NOMF Ministre de la Justice NOMF 17 mai 1937 – 11 décembre 1937 SEP2 Gouvernement REL Negrín I SEP2 Prédécesseur REL Juan García Oliver SEP2 Successeur REL Mariano Ansó.
+NOMF Ministre sans portefeuille NOMF 4 septembre 1936 – 17 mai 1937(8 mois et 13 jours).
+NOMF Député aux Cortes Generalespour Guipuscoa NOMF 7 décembre 1933 – 2 février 1939(5 ans, 1 mois et 26 jours) SEP2 Élection REL 19 novembre 1933 SEP2 Réélection REL 19 février 1936.
+NOMF Sénateur aux Cortes Generalesélu pour la Navare NOMF 20 juillet 1977 – 20 janvier 1979(1 an et 6 mois) SEP2 Élection REL 15 juin 1977 SEP2 Législature REL Législature constituante SEP2 Groupe politique REL BasqueFA.
+NOMF Députée au Parlement de Navarre NOMF 3 avril 1979 – 1er janvier 1981(1 an, 8 mois et 24 jours) SEP2 Nom de naissance REL Manuel de Irujo Ollo SEP2 Date de naissance REL 25 septembre 1891 SEP2 Lieu de naissance REL Estella-Lizarra SEP2 Date de décès REL 1er janvier 1981 SEP2 Lieu de décès REL Bilbao SEP2 Nationalité REL Espagnol SEP2 Parti politique REL EAJ/PNV SEP2 Diplômé de REL Université de SalamanqueUniversité de Deusto SEP2 Profession REL Avocat.

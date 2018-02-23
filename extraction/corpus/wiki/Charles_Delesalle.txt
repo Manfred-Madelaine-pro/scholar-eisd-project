@@ -1,0 +1,20 @@
+PRETAG Charles.
+NOMTAG Delesalle.
+Charles Delesalle est un homme politique français, né le 15 avril 1886 à Lille (Nord) et mort le 26 avril 1973 à Paris.
+
+
+Charles Delesalle est issu d'une grande famille d'industriels du textile et d'hommes politiques : son père, Charles Delesalle, sera notamment maire de Lille et conseiller général du Nord. Après une licence ès sciences, il est lui-même élu conseiller municipal sur la liste d'Union républicaine, puis maire de la Madeleine-les-Lille, le berceau familial, en 1908. Il n'est âgé que de 22 ans.
+Après un échec aux élections législatives de 1914, il fait participe aux combats de la Première Guerre mondiale en s'engageant dans l'aviation. Il use de cette arme nouvelle avec courage. Il reprend ensuite la vie politique et se fait élire sur les listes du Bloc national comme député du Nord en 1919. Il s'inscrit au groupe de la Gauche républicaine démocratique, point de confluence de l'aile avancée de l'Alliance démocratique et des Radicaux indépendants.
+Réélu en 1924, il s'inscrit au groupe de la Gauche radicale, reconstitué. Toutefois, un échec dans sa tentative de conquête de la mairie de Lille en 1925 le convainc de changer de circonscription. En 1928, il devient donc député du Pas-de-Calais, et s'inscrit cette fois au groupe de la Gauche sociale et radicale. Ce parachutage n'en était pas vraiment un, dans la mesure où de forts intérêts agricoles attachaient déjà Charles Delesalle au Pas-de-Calais, dont il présidait d'ailleurs la Fédération départementale des sociétés d'agricultures.
+Réélu en 1932, il retrouve le groupe de la Gauche radicale. En 1933, il entre au gouvernement comme sous-secrétaire d'État à l'Air. Il reste à ce poste sous deux grouvernements, jusqu'en 1934. En 1935, il quitte la Chambre des députés pour se faire élire au Sénat, où, fidèle à la mouvance radicale indépendante, il rejoint le groupe de l'Union démocratique et radicale.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Inéligible à la Libération, il ne brigue pas de nouveaux mandats sous la Quatrième République, mais fait son retour au Parlement en 1958 en se présentant comme candidat de concentration républicaine. Redevenu député 18 ans après avoir quitté le Parlement, il s'inscrit au groupe du centre-gauche, l'Entente démocratique. En 1962, il décide de se retirer définitivement et décède à Paris en 1973.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député du Nord1919-1928Député du Pas-de-Calais1928-1934Sénateur du Pas-de-Calais1934-1944Député du Pas-de-Calais1958-1962 NOMF GouvernementIIIe République-Ve République SEP2 Gouvernement REL IIIe République-Ve République SEP2 Groupe politique REL GRD (1919-1924)GR (1924-1928)GSR (1928-1932)GR (1932-1935)UDR (1935-1940)ED (1958-1962) SEP2 Date de naissance REL 15 avril 1886 SEP2 Date de décès REL 26 avril 1973 (à 87 ans).

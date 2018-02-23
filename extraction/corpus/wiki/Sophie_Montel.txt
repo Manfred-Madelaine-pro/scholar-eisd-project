@@ -1,0 +1,29 @@
+PRETAG Sophie.
+NOMTAG Montel.
+Sophie Montel, née le 22 novembre 1969 à Montbéliard, est une femme politique française.
+Membre du Front national (FN) de 1987 à 2017, elle est conseillère régionale de Franche-Comté de 1998 à 2015, puis de Bourgogne-Franche-Comté depuis 2016, et députée européenne depuis 2014.
+En 2017, devenue une opposante à la ligne « identitaire » du Front national, elle se voit évincée de la présidence du groupe FN au conseil régional de Bourgogne-Franche-Comté et quitte ensuite le parti avec Florian Philippot. Elle devient vice-présidente du nouveau parti de celui-ci, Les Patriotes.
+
+Sophie Montel est mère de deux filles et mariée à Robert Sennerich, conseiller régional FN de Franche-Comté[4] et secrétaire départemental de la fédération FN du Doubs[6]. Le Monde indique qu'il « l’a secondée à chaque étape de sa carrière, élu lui-même ou chargé de mission selon les circonstances »[4].
+
+
+Jeunesse et études.
+Sophie Montel naît le 22 novembre 1969 à Montbéliard d'un père chirurgien-dentiste militant au Front national (elle se dit « fille de deux parents FN »[1]). Elle grandit à Audincourt[2].
+En 1993, elle obtient à l'université de Franche-Comté un diplôme d'études approfondies en histoire médiévale[3],[n 1].
+Carrière politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) 1987-2017.
+PART Les Patriotes (parti politique) (LP) depuis 2017.
+FONCTIONNORM
+
+NOMF Président NOMF PrédécesseurParti créé SEP2 Prédécesseur REL Parti créé.
+NOMF Députée européenne NOMF En fonction depuis le 1er juillet 2014(3 ans, 7 mois et 18 jours) SEP2 Élection REL 25 mai 2014 SEP2 Législature REL 8e SEP2 Groupe politique REL NI (2014-2015)ENL (2015-2017)ELDD (depuis 2017).
+NOMF Conseillère régionale de BourgogneFranche-Comté NOMF En fonction depuis le 1er janvier 2016(2 ans, 1 mois et 18 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Conseillère régionale de Franche-Comté NOMF 15 mars 1998 – 31 décembre 2015(17 ans, 9 mois et 16 jours) SEP2 Élection REL 15 mars 1998 SEP2 Réélection REL 28 mars 200421 mars 2010 SEP2 Date de naissance REL 22 novembre 1969 (48 ans) SEP2 Lieu de naissance REL Montbéliard SEP2 Nationalité REL Française SEP2 Parti politique REL FN (1987-2017)LP (depuis 2017) SEP2 Diplômée de REL Université de Franche-Comté SEP2 Profession REL Chargée de mission SEP2 Site web REL sophiemontel.eu.

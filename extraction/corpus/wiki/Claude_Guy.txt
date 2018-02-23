@@ -1,0 +1,14 @@
+PRETAG Claude.
+NOMTAG Guy.
+Claude Guy (21 janvier 1915-28 janvier 1992) est un officier français connu principalement pour avoir été l'aide de camp de Charles de Gaulle entre 1946 et 1949.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM

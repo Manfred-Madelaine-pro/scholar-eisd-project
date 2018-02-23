@@ -1,0 +1,22 @@
+PRETAG Angèle.
+NOMTAG Chavatte.
+Angèle Chavatte, née le 1er février 1937 à Vermelles (Pas-de-Calais), est une femme politique française.
+
+
+
+
+Mandat parlementaire.
+
+31 juillet 1978 - 22 mai 1981 : Députée de la 11e circonscription du Pas-de-Calais
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Députée de la 11e circonscription du Pas-de-Calais NOMF 31 juillet 1978 – 22 mai 1981 SEP2 Prédécesseur REL Henri Lucas SEP2 Date de naissance REL 1er février 1937 (81 ans) SEP2 Lieu de naissance REL Vermelles (Pas-de-Calais) SEP2 Nationalité REL Française SEP2 Parti politique REL PCF.

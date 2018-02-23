@@ -1,0 +1,23 @@
+PRETAG Philippe.
+NOMTAG Mathot.
+Philippe Mathot est un homme politique ardennais, député de la Xe législature, vice-président du Conseil général des Ardennes, chef d'entreprises, conseiller ministériel, directeur général de l'Agence pour la création d'entreprises, président de l'Agence de Développement Economique des Ardennes.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Républicains indépendants (parti politique) (RI) PR.
+PART Parti républicain (PR) UDF.
+PART Union pour la démocratie française (UDF) UMP.
+PART Union pour un mouvement populaire (UMP) PLD.
+PART Parti libéral démocrate (PLD) Les Républicains.
+PART Les Républicains (Les Républicains).
+FONCTIONNORM
+
+NOMF Député (1993-1997) NOMF GouvernementGouvernement Édouard Balladur , Gouvernement Alain Juppé SEP2 Gouvernement REL Gouvernement Édouard Balladur , Gouvernement Alain Juppé SEP2 Groupe politique REL Union pour la démocratie française et du centre SEP2 Date de naissance REL 30 novembre 1952 (65 ans) SEP2 Lieu de naissance REL Charleville (Ardennes) SEP2 Nationalité REL  Français SEP2 Parti politique REL RI, PR, UDF, UMP PLD, Les Républicains SEP2 Résidence REL Deuxième circonscription des Ardennes.

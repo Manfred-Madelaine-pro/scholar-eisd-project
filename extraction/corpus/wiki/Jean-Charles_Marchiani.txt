@@ -1,0 +1,20 @@
+PRETAG Jean-Charles.
+NOMTAG Marchiani.
+Jean-Charles Marchiani, né le 6 août 1943 à Bastia, est un haut fonctionnaire et un homme politique français.
+Ancien officier du SDECE (devenu DGSE en 1982), Jean-Charles Marchiani a été un intermédiaire lors de négociations pour la libération d'otages au Liban, en Algérie, en France et en Bosnie. Proche de Charles Pasqua, il a été impliqué dans plusieurs affaires d'Etat et condamné à divers reprises, dans les années 2000, pour « recel d'abus de biens sociaux et trafic d'influence ».
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement pour la France et l'indépendance de l'Europe (Rassemblement pour la France et l'indépendance de l'Europe).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député européen NOMF .

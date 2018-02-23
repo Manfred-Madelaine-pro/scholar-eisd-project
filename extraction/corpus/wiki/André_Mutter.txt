@@ -1,0 +1,17 @@
+PRETAG André.
+NOMTAG Mutter.
+André Mutter est un homme politique et résistant français, né le 11 novembre 1901 à Troyes et décédé le 24 décembre 1973 à Annemasse.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Député 1945-1958 NOMF GouvernementIVe République SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL PRL (1945-1951)CRAPS (1951-1955)IPAS (1956-1958) SEP2 Date de naissance REL 11 novembre 1901 SEP2 Lieu de naissance REL Troyes (Aube) SEP2 Date de décès REL 24 décembre 1973 (à 72 ans) SEP2 Lieu de décès REL Annemasse (Haute-Savoie) SEP2 Nature du décès REL crise cardiaque SEP2 Sépulture REL Troyes SEP2 Nationalité REL Française SEP2 Parti politique REL parti national de la liberté SEP2 Conjoint REL Veuf puis re-marié à Odette Roffignon. SEP2 Enfants REL Geneviève, Pierre, Jacques, Jean-Marie, Annie, Marie-France, Françoise, Philippe, Marie-Claude, Daniel SEP2 Profession REL avocat SEP2 Résidence REL Aube.

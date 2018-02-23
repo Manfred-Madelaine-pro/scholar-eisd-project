@@ -1,0 +1,47 @@
+PRETAG Pascal.
+NOMTAG Clément.
+Pascal Clément, né le 12 mai 1945 à Boulogne-Billancourt (Seine), est un homme politique français.
+
+Il est marié à Laure de Choiseul-Praslin (née en 1953), magistrate et conseillère d'État en service extraordinaire[11], elle dirigea de mai 2005 à avril 2009 l'agence française de l'adoption. Il est père de quatre enfants.
+
+
+Famille et études.
+Pascal Clément est le fils de Marcel Clément (1921-2005), philosophe et de Claude Charbonnier.
+Licencié en lettres et en droit de l'Institut d'études politiques de Paris. Il a également suivit des études de philosophie.
+Carrière professionnelle.
+Pascal Clément travaille d'abord comme chef du service marketing de la société Rank Xerox, de 1971 à 1978. Il est ensuite avocat à la cour d'appel de Paris, à compter de 1982. Il est également juge suppléant, entre mai 1987 et mai 1988 puis juge titulaire, entre novembre 1992 et mai 1993, à la Haute Cour de justice.
+Depuis qu'il a quitté le ministère de la justice, il a repris ses activités d'avocat. Il a notamment travaillé pour Vivendi qu'il conseille sur son 4e procès portant sur l'époque Messier (à New York)[1],[2].
+Réélu député de 2007 à 2012, il redevient peu de temps après son élection, avocat, en intégrant le cabinet Orrick Rambaud Martel.
+Pascal Clément a interprété le rôle de l'ambassadeur de France à Cuba dans le 4e épisode du téléfilm Affaires Etrangères diffusée sur TF1 le 3 janvier 2013.
+Carrière politique.
+En 1970, il devient trésorier national des Jeunes Républicains indépendants, puis de 1971 à 1976, il est vice-président de ce mouvement.
+De juin 1978 à septembre 1982, il est secrétaire national du Parti républicain, chargé de l'aménagement du territoire[3].
+De 1995 à 2000, il est secrétaire général de Démocratie libérale et devient président de ce parti en 2001[4],[5],[6].
+
+
+
+Pascal Clément travaille d'abord comme chef du service marketing de la société Rank Xerox, de 1971 à 1978. Il est ensuite avocat à la cour d'appel de Paris, à compter de 1982. Il est également juge suppléant, entre mai 1987 et mai 1988 puis juge titulaire, entre novembre 1992 et mai 1993, à la Haute Cour de justice.
+Depuis qu'il a quitté le ministère de la justice, il a repris ses activités d'avocat. Il a notamment travaillé pour Vivendi qu'il conseille sur son 4e procès portant sur l'époque Messier (à New York)[1],[2].
+Réélu député de 2007 à 2012, il redevient peu de temps après son élection, avocat, en intégrant le cabinet Orrick Rambaud Martel.
+Pascal Clément a interprété le rôle de l'ambassadeur de France à Cuba dans le 4e épisode du téléfilm Affaires Etrangères diffusée sur TF1 le 3 janvier 2013.
+Carrière politique.
+En 1970, il devient trésorier national des Jeunes Républicains indépendants, puis de 1971 à 1976, il est vice-président de ce mouvement.
+De juin 1978 à septembre 1982, il est secrétaire national du Parti républicain, chargé de l'aménagement du territoire[3].
+De 1995 à 2000, il est secrétaire général de Démocratie libérale et devient président de ce parti en 2001[4],[5],[6].
+
+
+
+
+PARTISNORM
+PART Parti républicain (PR).
+PART Démocratie libérale (parti politique) (DL).
+PART Union pour la démocratie française (UDF).
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Président NOMF Premier ministreDominique de Villepin SEP2 Premier ministre REL Dominique de Villepin SEP2 Gouvernement REL de Villepin SEP2 Prédécesseur REL Dominique Perben SEP2 Successeur REL Rachida Dati.
+NOMF Ministre délégué aux Relations avec l'Assemblée nationale NOMF 30 mars 1993 – 11 mai 1995(2 ans, 1 mois et 11 jours).
+NOMF Président NOMF Premier ministreÉdouard Balladur SEP2 Premier ministre REL Édouard Balladur SEP2 Gouvernement REL Balladur SEP2 Prédécesseur REL Louis Mermaz SEP2 Successeur REL Roger Romani.
+NOMF Député de la LoireÉlu dans la 6e circonscription NOMF 17 juin 2007 – 19 juin 2012(5 ans et 2 jours) SEP2 Législature REL XIIIe (Cinquième République) SEP2 Groupe politique REL UMP SEP2 Prédécesseur REL Liliane Vaginay SEP2 Successeur REL Paul Salen SEP2 Législature REL Xe, XIe, XIIe (Cinquième République) SEP2 Groupe politique REL UDF (1995-2002)UMP (2002-2005) SEP2 Prédécesseur REL Jacques Cyprès SEP2 Successeur REL Liliane Vaginay SEP2 Législature REL VIe, VIIe, VIIIe, IXe (Cinquième République) SEP2 Groupe politique REL UDF SEP2 Prédécesseur REL Paul Rivière SEP2 Successeur REL Jacques Cyprès SEP2 Prédécesseur REL Henriette Laurent des Garets SEP2 Successeur REL Louis Jacquet.
+NOMF Président du Conseil général de la Loire NOMF 28 mars 1994 – 16 mars 2008(13 ans, 11 mois et 17 jours) SEP2 Prédécesseur REL Lucien Neuwirth SEP2 Successeur REL Bernard Bonne.
+NOMF Conseiller général de la LoireÉlu dans le canton de Néronde NOMF 22 mars 1982 – 16 mars 2008(25 ans, 11 mois et 23 jours) SEP2 Prédécesseur REL Pierre Simon SEP2 Successeur REL Jean-Claude Tissot SEP2 Nom de naissance REL Pascal Régis Pierre Marie Marcel Clément-Fromentel SEP2 Date de naissance REL 12 mai 1945 (72 ans) SEP2 Lieu de naissance REL Boulogne-Billancourt (Seine) SEP2 Nationalité REL Française SEP2 Parti politique REL PRDLUDFUMP SEP2 Diplômé de REL IEP de Paris SEP2 Profession REL Avocat.

@@ -1,0 +1,25 @@
+PRETAG Pascal.
+NOMTAG Arrighi.
+Pascal Arrighi, né le 16 juin 1921 à Vico (Corse) et mort le 19 août 2004 à Toulon (Var), est un résistant, homme politique, juriste et universitaire français. Il fut le frère de Mgr Jean-François Arrighi, évêque et le père de Marie-Dominique Arrighi, journaliste.
+
+
+
+Pendant la Seconde Guerre mondiale, il est membre du Réseau Orion dans la Résistance avant d'être interné en Espagne au camp de concentration de Miranda (1943). Il entre dans les commandos de France en 1944, il est blessé par cinq balles de mitrailleuse à Bois-le-Prince dans les Vosges.
+Licencié en lettres, diplômé de l’école libre de sciences Politiques (1942)[1], agrégé de droit public et ancien élève de l'École nationale d'administration, Pascal Arrighi devient professeur à l'École française de droit du Caire. Maître de conférences à l'ENA et à l'Institut d'Études Politiques de Paris, professeur à la faculté de droit de l'Institut Catholique de Paris (1962-1970), président de l'université de Toulon (1970-1975), Premier président de l'Université de Corse (1975-1981) qu'il a mise en place.
+Avocat à la cour d’appel de Paris il entre premier au Conseil d'État en 1947, il devient (1948-55) directeur de cabinet du conseiller technique des ministres de l'Air, du Budget, de la Santé Publique, des Affaires économiques, de l'Éducation et des anciens combattants et Conseiller d'État en 1974.
+Au cours de sa carrière politique, Pascal Arrighi a été conseiller municipal d'Ajaccio (1953-1959). En 1956, il devient député de Corse. Ardent partisan de l'Algérie française et politique ambitieux, Pascal Arrighi encadre l'expédition vers la Corse (Opération Résurrection), en mai 1958, pour en faire une base avancée contre la métropole et poursuivre la guerre en Algérie. Bastia et Ajaccio sont investies par 800 parachutistes, l'île est paralysée. Les corses s'organisent en vue d'affrontements. L'arrivée du Général au pouvoir, appelé par René Coty, écartera ce risque. La population corse manifestera en faveur d'un retour du général de Gaulle, qui incarne la France libre. Informé par les Renseignements généraux, le ministre de l'Intérieur Jules Moch envoie une Compagnie républicaine de sécurité niçoise, grâce à des complicités dans la gendarmerie locale, l'opération de maintien de l'ordre échoue. L'immunité parlementaire de Pascal Arrighi est levée par 396 voix contre 175, mais le retour au pouvoir du général de Gaulle lui évite tout ennui judiciaire. Il est réélu député, cette fois UNR, lors des élections législatives anticipées de novembre 1958.
+Pascal Arrighi n'accepte pas l'autodétermination de l'Algérie annoncée par de Gaulle en septembre 1959 et confirmée par la suite, mais ne renie pas son gaullisme (Michel Debré le reconnaît encore comme « gaulliste » lors d'un conseil des ministres d'octobre 1961, selon les notes prises par Louis Terrenoire). Il perd son mandat de député en 1962, mais garde celui de maire de Vico, acquis en 1959, et ce jusqu'en 1983.
+En août 1984, il adhère au Front national, à l'instar d'autres notables de droite, tel Michel de Rostolan ou François Bachelot. En 1985, il participe à la rédaction du programme du FN en vue des élections législatives de l'année suivante, intitulé Pour la France[2],[3]. En mars 1986, il est élu conseiller régional FN de Corse. De 1986 à 1988 il est député de Marseille.
+En septembre 1988, il critique le calembour de Jean-Marie Le Pen sur Michel Durafour : « Monsieur Durafour-Crématoire, merci de cet aveu ! », indiquant au Quotidien de Paris : « avec des mots encore chargés de sens, on ne doit pas faire de mauvais calembours. » Pascal Arrighi est sanctionné pour cela par les instances disciplinaire du FN le 6 septembre. Outré par un tel propos et par l'absence d'excuses qu'oppose J.-M. Le Pen, Pascal Arrighi déclare : « Je me suspends pour toujours. »
+En octobre 1989, il rejoint le Centre national des indépendants et paysans, avec treize autres cadres du FN démissionnaires, comme François Bachelot. Il se retire de la vie politique en 1998, ne se représentant pas à son poste de conseiller régional.
+Pascal Arrighi était Commandeur de la Légion d’honneur, il était aussi Commandeur des Palmes académiques, titulaire de la Médaille militaire, de la Croix de Guerre, trois citations, de la Médaille de la Résistance, de la Médaille des évadés et de la Médaille de l’Aéronautique.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1956-1962puis 1986-1988 NOMF GouvernementIVe République-Ve République SEP2 Gouvernement REL IVe République-Ve République SEP2 Groupe politique REL RRRS (1956-1958)UNR (1958-1962)FN-RN (1986-1988) SEP2 Date de naissance REL 16 juin 1921 SEP2 Lieu de naissance REL Vico (France) SEP2 Date de décès REL 19 août 2004 (à 83 ans) SEP2 Lieu de décès REL Toulon (France) SEP2 Résidence REL Corsepuis Bouches-du-Rhône.

@@ -1,0 +1,42 @@
+PRETAG Marie-Françoise.
+NOMTAG Bechtel.
+Marie-Françoise Bechtel, née Cassiau le 19 mars 1946 à Coarraze, est une haute fonctionnaire et femme politique française.
+Nommée conseillère d'État en 1980, elle dirige l'École nationale d'administration de 2000 à 2002. Elle est députée de l'Aisne entre 2012 et 2017.
+
+Mariée en 1972 à Alain Bechtel, haut fonctionnaire et directeur de sociétés — dont elle divorce en 1995 —, elle a un fils et une fille[20],[2].
+
+
+Fille de Gaston Cassiau (1911-1988), fonctionnaire de l'Équipement, et Marie-Christine Sahorès (1907-1999)[1], institutrice et directrice d'école[2], Marie-Françoise Bechtel est originaire d'Oloron-Sainte-Marie, où elle passe le baccalauréat en 1963[3].
+Elle lit Jean-Paul Sartre, qu'elle « ador[e] »[4]. Après des études de philosophie à l'université Paris-Sorbonne — où elle s'implique lors de Mai 68[2] — elle obtient l'agrégation en 1972[2] et, « adepte de la dialectique hégelienne »[5], enseigne cette discipline aux lycées de Sainte-Foy-la-Grande, Libourne et Chartres durant cinq années.
+En 1978, elle intègre l'École nationale d’administration (ENA) dans la promotion Voltaire. Pour Michel Sapin, elle y est remarquée comme une « femme expérimentée »[2]. Elle sort classée 4e de sa promotion[6].
+Conseillère d'État.
+À sa sortie de l’ENA en 1980, elle intègre le Conseil d'État, conformément à ses ambitions[2]. Elle y fait l'essentiel de sa carrière, mis à part ses passages en cabinets ministériels[3].
+Parcours dans les cabinets ministériels.
+En 1984, elle rencontre Jean-Pierre Chevènement, alors ministre de l'Éducation nationale. Partageant sa vision de l'« élitisme républicain », elle intègre pour deux années son cabinet, où elle est notamment chargée de la question de l'enseignement privé[5].
+En 1993, elle est respectivement chargée de mission puis directrice de cabinet du ministre de la Justice, Michel Vauzelle[7].
+Elle adhère au parti de Jean-Pierre Chevènement en 1997 et retourne à son cabinet en 1999 lorsqu'il est ministre de l'Intérieur[8].
+À la tête de l'ENA.
+En septembre 2000, elle est nommée directrice de l'ENA[9]. À cette époque, certains de ses proches et opposants la trouvent trop autoritaire, tandis que Michel Sapin salue sa « vision du service public riche et affirmée »[2]. Elle quitte cette fonction fin 2002.
+Engagement auprès de Chevènement.
+Lors des élections législatives de 1997, elle est candidate à Paris[10]. Aux municipales de 2001, elle est tête de liste dans le 13e arrondissement de Paris.
+Elle est la directrice de campagne[11] de Jean-Pierre Chevènement à l'élection présidentielle de 2012, jusqu'à ce qu'il retire sa candidature en janvier 2012. En mars 2012, suite à la suite du soutien de Chevènement à la candidature de François Hollande, elle intègre le conseil politique de la campagne « Hollande 2012 »[12].
+Elle est membre du conseil scientifique et vice-présidente de la fondation Res Publica[13][Depuis quand ?].
+Députée de l'Aisne.
+Après avoir tenté sa chance aux élections législatives de 1997 dans la deuxième circonscription de Paris (1,64 % des suffrages)[14], puis en 2007 dans la deuxième circonscription législative de l'Indre (46 % au second tour contre Nicolas Forissier), Marie-Françoise Bechtel est en 2012 candidate d'union MRC-PS[15] dans la quatrième circonscription de l'Aisne, affirmant vouloir « s'implanter » dans ce département ; elle est élue au second tour, avec 53,62 % des voix, face à Isabelle Létrillart. Son suppléant est Patrick Day, maire de Soissons et conseiller général du canton de Soissons-Nord.
+Le 28 juin 2012, elle devient vice-présidente de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République, présidée par Jean-Jacques Urvoas.
+Le 18 juin 2015, à la suite d'un désaccord, elle annonce son départ du Mouvement républicain et citoyen et rejoint le club réactivé de Jean-Pierre Chevènement, République moderne (RM)[16].
+Pour la primaire citoyenne de 2017, elle soutient Arnaud Montebourg[17]. Éliminé du premier tour, ce dernier appelle à voter pour Benoît Hamon mais elle refuse de suivre cette consigne[18].
+Elle est éliminée dès le 1er tour des élections législatives de 2017 avec 7,96 % des voix[19].
+Vie privée.
+Mariée en 1972 à Alain Bechtel, haut fonctionnaire et directeur de sociétés — dont elle divorce en 1995 —, elle a un fils et une fille[20],[2].
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Députée de l'Aisne NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Élection REL 17 juin 2012 SEP2 Circonscription REL 4e circonscription SEP2 Législature REL XIVe SEP2 Groupe politique REL SRC SEP2 Prédécesseur REL Jacques Desallangre SEP2 Successeur REL Marc Delatte SEP2 Prédécesseur REL Raymond-François Le Bris SEP2 Successeur REL Antoine Durrleman SEP2 Nom de naissance REL Marie-Françoise Cassiau SEP2 Date de naissance REL 19 mars 1946 (71 ans) SEP2 Lieu de naissance REL Coarraze (Basses-Pyrénées) SEP2 Parti politique REL MDC (1993-2003)MRC (2003-2015) SEP2 Diplômée de REL Université Paris-SorbonneENA.

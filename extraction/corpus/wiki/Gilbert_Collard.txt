@@ -1,0 +1,36 @@
+PRETAG Gilbert.
+NOMTAG Collard.
+Gilbert Collard, né le 3 février 1948 à Marseille, est un avocat, écrivain et homme politique français.
+Avocat médiatique, il plaide dans des affaires de premier plan.
+Il préside le comité de soutien de Marine Le Pen, candidate du Front national (FN) à l'élection présidentielle de 2012, et devient secrétaire général du Rassemblement bleu Marine. Élu député dans la 2e circonscription du Gard lors des élections législatives de 2012, il est réélu en 2017.
+
+
+
+Enfance, famille et études.
+Gilbert Collard grandit au sein d’une famille bourgeoise[1].
+Il est le fils de Georges Collard, parent de Pierre-Paul Royer-Collard[2] et notaire maurrassien (il travaille d'ailleurs pour la fille adoptive de Charles Maurras), ami de Léon Daudet[3] et membre des Camelots du roi avant de devenir communiste et résistant[4] et d'Odette Tarrazi. Odette est la fille d'Edmond Tarrazi, fils du libanais Fatallah Tarrazi né en 1836 à Beyrouth et de Marie Augustine Monet, et de Marie Amélie Bravay, fille de François Bravay[5],[6]. Un des grands-pères de Gilbert Collard était aide de camp du maréchal Lyautey[7].
+Gilbert Collard vit son enfance au château de la Madone, le domaine familial à proximité de Marseille, ainsi qu’à l’hôtel Métropole à Châtel-Guyon où est enterré un grand-père. Il fait ses études dès l'âge de 8 ans à l'Institution Sainte-Marie, à La Seyne-sur-Mer, puis à la faculté de droit d’Aix-en-Provence[réf. nécessaire] et à l'université Panthéon Assas (Paris II).
+Il a une sœur, Jehanne Collard, avocate spécialisée dans la défense des victimes d'accidents[8].
+Depuis 1987[9], il est marié à Anne-Marie Autard[10]. Elle est condamnée pour outrage à agent par le tribunal correctionnel de Nîmes en juillet 2013[11],[12],[13]. Également son assistante parlementaire[10],[12] et employée de la SELARL Collard[14], elle est candidate suppléante aux élections départementales de 2015[15],[16],[17], puis en seconde position sur la liste gardoise du FN à l'élection régionale de 2015[18], au cours de laquelle elle est élue conseillère régionale. Gilbert Collard a, à ce sujet, été accusé de « népotisme » par les Jeunes Centristes[19].
+Vivant dans un mas à Gallician[20],[21], il est aussi le père de deux filles installées à Paris[20],[22].
+Carrière d'avocat.
+Gilbert Collard est avocat au barreau de Marseille depuis 1971[23]. Il devient secrétaire de la Conférence du stage en 1973. Il a quatre associés et une dizaine de collaborateurs, et ne traite qu'une infime partie des dossiers qu'il reçoit[24].
+Il a défendu de nombreux clients célèbres : Laurent Gbagbo, Charles Pasqua, Marine Le Pen, Valérie Bègue, Paul Aussaresses et Richard Virenque dans l’affaire Festina. Il fut aussi l'avocat de certaines parties civiles dans le procès Barbie, ainsi que dans le procès Christian Rannucci[25]. Il a plaidé dans plusieurs procès médiatiques tels que l'affaire de la profanation du cimetière juif de Carpentras, l'affaire Alègre, l'affaire AZF ou l'affaire VA-OM[26].
+À l'occasion de l'affaire de Carpentras, il défend la thèse (infirmée depuis par la Justice) de la culpabilité de jeunes protégés par des notables de la ville. Il n'hésite pas à brandir devant les caméras une enveloppe (en réalité vide) censée contenir les noms des coupables[27].
+
+
+
+
+
+
+
+PARTISNORM
+PART Section française de l'internationale ouvrière (SFIO) 1964-1969.
+PART Parti socialiste (PS) 1969-1992.
+PART Sans étiquette (SE) 1992-2012.
+PART Rassemblement bleu Marine (RBM) depuis 2012.
+PART Front national (FN) depuis 2017.
+FONCTIONNORM
+
+NOMF Président NOMF PrédécesseurFonction créée SEP2 Prédécesseur REL Fonction créée.
+NOMF Député français NOMF En fonction depuis le 20 juin 2012(5 ans et 8 mois) SEP2 Élection REL 17 juin 2012 SEP2 Réélection REL 18 juin 2017 SEP2 Circonscription REL 2e du Gard SEP2 Législature REL XIVe et XVe SEP2 Groupe politique REL Non-inscrits SEP2 Prédécesseur REL Étienne Mourrut SEP2 Nom de naissance REL Gilbert Georges Jean Camille René Collard SEP2 Date de naissance REL 3 février 1948 (70 ans) SEP2 Lieu de naissance REL Marseille, Bouches-du-Rhône, France SEP2 Nationalité REL française SEP2 Parti politique REL SFIO (1964-1969)PS (1969-1992)SE (1992-2012)RBM (depuis 2012)FN (depuis 2017) SEP2 Diplômé de REL université Panthéon-Assas SEP2 Profession REL avocat SEP2 Résidence REL Gallician SEP2 Site web REL gilbertcollard.fr.

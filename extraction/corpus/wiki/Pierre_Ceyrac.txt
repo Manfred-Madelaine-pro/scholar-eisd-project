@@ -1,0 +1,33 @@
+PRETAG Pierre.
+NOMTAG Ceyrac.
+Pierre Ceyrac, né à Douai[1] le 18 septembre 1946, est un homme politique français.
+
+
+
+Famille.
+Il est le fils d'Annie Defline et Bernard Ceyrac, chef d'entreprise, et le petit-fils d'André Defline. Par son père, il est le neveu de Pierre Ceyrac, de Charles Ceyrac et de François Ceyrac[2][réf. insuffisante].
+Carrière politique.
+Il a été, entre autres, élu député du Nord en 1986, député européen en 1989 et conseiller régional en 1992, dans le Nord-Pas-de-Calais, chaque fois sur les listes du Front national.
+Connu pour être le représentant en France de l'Église de l'Unification (dite « secte Moon ») dont les membres sont, selon ses propres termes, « très marginaux » en France et qui souhaite « propulser Le Pen à l'Élysée pour qu'il devienne notre porte-voix »[2], il rencontre Jean-Marie Le Pen pour la première fois en 1985[3]. Il indique n'avoir été « attiré ni par Le Pen, ni par la politique, mais il fut décidé que je serais "sacrifié pour la cause" »[2] : le FN s'engage à le présenter en position éligible en contrepartie de l'« aide logistique nationale et internationale » et des « arrangements financiers importants » que fournit la secte Moon au FN[4]. Élu député lors des élections législatives de 1986, il indique que « [sa] mission n’est pas de faire des lois mais d’ouvrir Le Pen à l’international »[5]. En février 1987, il accompagne Jean-Marie Le Pen à Washington où il parvient à obtenir la photo d'une poignée de mains entre ce dernier et Ronald Reagan[3]. Avec Jean-Marie Le Chevallier et Charles de Chambrun, il est également l’initiateur d’un rapprochement avec la communauté juive qui conduit Jean-Marie Le Pen à prononcer en 1987 une intervention devant des membres du Congrès juif mondial[5].
+Il est aussi secrétaire général du Mouvement CAUSA (Confédérations des Associations pour l'Unification des Sociétés Américaines) — branche politique de la secte Moon — pour l'Europe[4],[6].
+Il quitte le FN en 1994 par rejet de « l'accumulation des petites phrases de Le Pen »[2],[3], puis la secte Moon en 1997[réf. nécessaire].
+À l'automne 2003, alors sans activité politique, il accompagne Marine Le Pen lors de sa visite aux États-Unis en compagnie de Louis Aliot, d'Éric Iorio (alors époux de Marine Le Pen et cadre du FN) et de Guido Lombardi, ancien représentant de la Ligue du Nord et de la secte Moon[5],[7]. Il accompagne de nouveau Marine Le Pen lors de son « déplacement privé » aux États-Unis en janvier 2017, toujours avec Louis Aliot et Guido Lombardi, alors « membre du réseau de Trump »[1],[7].
+
+
+
+
+Il est le fils d'Annie Defline et Bernard Ceyrac, chef d'entreprise, et le petit-fils d'André Defline. Par son père, il est le neveu de Pierre Ceyrac, de Charles Ceyrac et de François Ceyrac[2][réf. insuffisante].
+Carrière politique.
+Il a été, entre autres, élu député du Nord en 1986, député européen en 1989 et conseiller régional en 1992, dans le Nord-Pas-de-Calais, chaque fois sur les listes du Front national.
+Connu pour être le représentant en France de l'Église de l'Unification (dite « secte Moon ») dont les membres sont, selon ses propres termes, « très marginaux » en France et qui souhaite « propulser Le Pen à l'Élysée pour qu'il devienne notre porte-voix »[2], il rencontre Jean-Marie Le Pen pour la première fois en 1985[3]. Il indique n'avoir été « attiré ni par Le Pen, ni par la politique, mais il fut décidé que je serais "sacrifié pour la cause" »[2] : le FN s'engage à le présenter en position éligible en contrepartie de l'« aide logistique nationale et internationale » et des « arrangements financiers importants » que fournit la secte Moon au FN[4]. Élu député lors des élections législatives de 1986, il indique que « [sa] mission n’est pas de faire des lois mais d’ouvrir Le Pen à l’international »[5]. En février 1987, il accompagne Jean-Marie Le Pen à Washington où il parvient à obtenir la photo d'une poignée de mains entre ce dernier et Ronald Reagan[3]. Avec Jean-Marie Le Chevallier et Charles de Chambrun, il est également l’initiateur d’un rapprochement avec la communauté juive qui conduit Jean-Marie Le Pen à prononcer en 1987 une intervention devant des membres du Congrès juif mondial[5].
+Il est aussi secrétaire général du Mouvement CAUSA (Confédérations des Associations pour l'Unification des Sociétés Américaines) — branche politique de la secte Moon — pour l'Europe[4],[6].
+Il quitte le FN en 1994 par rejet de « l'accumulation des petites phrases de Le Pen »[2],[3], puis la secte Moon en 1997[réf. nécessaire].
+À l'automne 2003, alors sans activité politique, il accompagne Marine Le Pen lors de sa visite aux États-Unis en compagnie de Louis Aliot, d'Éric Iorio (alors époux de Marine Le Pen et cadre du FN) et de Guido Lombardi, ancien représentant de la Ligue du Nord et de la secte Moon[5],[7]. Il accompagne de nouveau Marine Le Pen lors de son « déplacement privé » aux États-Unis en janvier 2017, toujours avec Louis Aliot et Guido Lombardi, alors « membre du réseau de Trump »[1],[7].
+
+
+
+PARTISNORM
+PART Front national (FN) jusqu'en 1994.
+FONCTIONNORM
+
+NOMF Député du Nord NOMF 16 mars 1986 – 14 mai 1988 SEP2 Groupe politique REL FN-RN SEP2 Nom de naissance REL Pierre Ceyrac SEP2 Date de naissance REL 18 septembre 1946 (71 ans) SEP2 Lieu de naissance REL Douai SEP2 Nationalité REL Française SEP2 Parti politique REL FN (jusqu'en 1994) SEP2 Entourage REL François Ceyrac (oncle) SEP2 Profession REL Cadre de direction.

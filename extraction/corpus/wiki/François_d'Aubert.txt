@@ -1,0 +1,25 @@
+PRETAG François.
+NOMTAG d'Aubert.
+François d'Aubert, né le 31 octobre 1943 à Boulogne-Billancourt (Hauts-de-Seine), est un homme politique français.
+Magistrat à la Cour des comptes, ancien député, ministre du Budget et de la Recherche, ancien maire de Laval (Mayenne) et président de la Cité des sciences et de l'industrie, il est élu en septembre 2009 secrétaire du Peer Review Group du Forum mondial sur la transparence et l’échange de renseignements chargé de lutter contre la fraude fiscale en coopération avec l'OCDE.
+
+
+
+Famille.
+Issu d'une famille originaire de la Mayenne : la Famille d'Aubert, il est le fils de Michel d'Aubert et d'Anne de La Vaissière de Lavergne. Il est marié avec Édith Henrion et a trois enfants.
+Études.
+Ancien élève du collège Jules-Ferry à Mayenne, du lycée Ambroise-Paré à Laval (1962) puis du lycée Louis-le-Grand à Paris, il est licencié en droit, diplômé de l’HEC et de Sciences Po Paris. Il fait ensuite l'ENA (promotion Thomas More 1971, avec Michel Bon, Alain Richard, Jean-Paul Huchon et Jean-Claude Trichet).
+
+
+
+
+Issu d'une famille originaire de la Mayenne : la Famille d'Aubert, il est le fils de Michel d'Aubert et d'Anne de La Vaissière de Lavergne. Il est marié avec Édith Henrion et a trois enfants.
+Études.
+Ancien élève du collège Jules-Ferry à Mayenne, du lycée Ambroise-Paré à Laval (1962) puis du lycée Louis-le-Grand à Paris, il est licencié en droit, diplômé de l’HEC et de Sciences Po Paris. Il fait ensuite l'ENA (promotion Thomas More 1971, avec Michel Bon, Alain Richard, Jean-Paul Huchon et Jean-Claude Trichet).
+
+
+
+FONCTIONNORM
+
+NOMF Ministre délégué à la Recherche NOMF 1er avril 2004 – 31 mai 2005(1 an, 1 mois et 30 jours) SEP2 Gouvernement REL Jean-Pierre Raffarin III SEP2 Prédécesseur REL Claudie Haigneré SEP2 Successeur REL François Goulard.
+NOMF Député de la MayenneÉlu dans la 1re circonscription NOMF 12 juin 1997 – 30 avril 2004(6 ans, 10 mois et 18 jours) SEP2 Groupe politique REL DLI puis UMP SEP2 Prédécesseur REL Henri Houdouin SEP2 Successeur REL Henri Houdouin SEP2 Groupe politique REL UDF SEP2 Prédécesseur REL Pierre Buron SEP2 Successeur REL Henri Houdouin SEP2 Prédécesseur REL Yves Patoux SEP2 Successeur REL Roland Houdiard SEP2 Prédécesseur REL Roland Houdiard SEP2 Successeur REL Guillaume Garot SEP2 Date de naissance REL 31 octobre 1943 (74 ans) SEP2 Nationalité REL française.

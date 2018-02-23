@@ -1,0 +1,17 @@
+PRETAG Prosper.
+NOMTAG Blanc.
+Prosper Blanc est un agriculteur et homme politique français, né le 21 juin 1873 à Saint-Martin-le-Châtel (Ain) et mort le 24 octobre 1949 à Bourg-en-Bresse (Ain).
+
+
+Agriculteur, il entre en politique en devenant maire puis conseiller général de son village natal. De sensibilité radicale indépendante, il est élu député sous cette étiquette lors des élections législatives de 1928 avant de se rapprocher de l'Alliance démocratique en 1936. À la Chambre, il siège à la Gauche radicale puis au groupe unifié de l'AD, l'Alliance des républicains de gauche et des radicaux indépendants.
+Ses interventions à la Chambre des députés concernent essentiellement les questions agricoles. Il vote, le 10 juillet 1940, en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Il ne retrouve pas de mandat de parlementaire après la Libération mais participe à la reconstruction de l'Alliance démocratique, dont il est membre du comité directeur.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1928-1940 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL GR (1928-1936)ARGRI (1936-1940) SEP2 Date de naissance REL 21 juin 1873 SEP2 Date de décès REL 24 octobre 1949 (à 76 ans) SEP2 Résidence REL Ain.

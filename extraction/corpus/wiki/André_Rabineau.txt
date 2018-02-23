@@ -1,0 +1,19 @@
+PRETAG André.
+NOMTAG Rabineau.
+André Rabineau, né le 16 janvier 1911 et mort le 15 février 2009, est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) CDS.
+PART Centre des démocrates sociaux (CDS).
+FONCTIONNORM
+
+NOMF Sénateur de l'Allier NOMF 9 mai 1972 – 1er octobre 1989 SEP2 Élection REL 28 septembre 1980 SEP2 Prédécesseur REL André Pruneyre SEP2 Successeur REL Jacques Milliet SEP2 Date de naissance REL 16 janvier 1911 SEP2 Date de décès REL 15 février 2009 (à 98 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF, CDS SEP2 Profession REL Chef d'entreprise.

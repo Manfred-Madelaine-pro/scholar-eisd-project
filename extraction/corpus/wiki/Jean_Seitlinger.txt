@@ -1,0 +1,29 @@
+PRETAG Jean.
+NOMTAG Seitlinger.
+Jean Seitlinger est un avocat, écrivain et homme politique français. Né à Saint-Louis-lès-Bitche le 16 novembre 1924.
+
+
+Son autobiographie vient d'être publiée aux éditions Serpenoise : Jean Seitlinger. Mémoires d'un Européen. Son autobiographie a été préfacée par l'un de ses amis de toujours, le botaniste et écologiste, Jean-Marie Pelt et postfacée par un autre de ses amis, le président de la République de Bulgarie, Gueorgui Parvanov.
+
+
+
+
+
+
+
+PARTISNORM
+PART Mouvement républicain populaire (MRP) 1956.
+PART 1956 (1956) 1958.
+PART 1958 (1958) .
+PART Républicains populaires et centre démocratique (RPCD) 1958.
+PART 1958 (1958) 1962.
+PART 1962 (1962) .
+PART Réformateurs démocrates sociaux (RCDS) 1973.
+PART 1973 (1973) 1978.
+PART 1978 (1978) .
+PART Union pour la démocratie française (UDF) 1978.
+PART 1978 (1978) 1997.
+PART 1997 (1997).
+FONCTIONNORM
+
+NOMF Député 1956-1962puis 1973-1997 NOMF 1956 – 1962 SEP2 Gouvernement REL Quatrième République SEP2 Prédécesseur REL Lui-même SEP2 Successeur REL Étienne Hinsberger SEP2 Gouvernement REL Cinquième République SEP2 Prédécesseur REL Étienne Hinsberger SEP2 Successeur REL Gilbert Maurer SEP2 Date de naissance REL 16 novembre 1924 (93 ans) SEP2 Lieu de naissance REL Saint-Louis-lès-Bitche (Moselle, France) SEP2 Nationalité REL française SEP2 Parti politique REL MRP (1956-1958)RPCD (1958-1962)RCDS (1973-1978)UDF (1978-1997) SEP2 Résidence REL Moselle.

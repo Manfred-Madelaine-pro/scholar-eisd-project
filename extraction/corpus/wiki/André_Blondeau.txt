@@ -1,0 +1,18 @@
+PRETAG André.
+NOMTAG Blondeau.
+André Blondeau, né le 25 octobre 1911 à Coulonges (Vienne) et mort le 13 mai 1996 à Châteauroux (Indre), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député de l'Indre NOMF 2 janvier 1956 – 8 décembre 1958 SEP2 Date de naissance REL 25 octobre 1911 SEP2 Lieu de naissance REL Coulonges (Vienne) SEP2 Date de décès REL 13 mai 1996 (à 84 ans) SEP2 Lieu de décès REL Châteauroux (Indre) SEP2 Nationalité REL Française SEP2 Parti politique REL PCF.

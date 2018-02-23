@@ -1,0 +1,19 @@
+PRETAG Édouard.
+NOMTAG Leveau.
+Édouard Leveau, né le 22 septembre 1933 à Dieppe et mort le 26 mars 2016 au même endroit, est un homme politique français, maire de la ville de Dieppe dans la Seine-Maritime de 2001 à 2008, conseiller général pour le canton de Dieppe-Ouest (1989-2002), conseiller régional de Haute Normandie (1992-1993) et député de la onzième circonscription de la Seine-Maritime d'abord de 1993 à 1997 puis de 2002 à 2007.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement pour la République (RPR) UMP.
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Député de la 11e circonscription de Seine Maritime NOMF 1993 – 1997 SEP2 Législature REL Xème SEP2 Groupe politique REL RPR (1993-1997) SEP2 Prédécesseur REL Jean Beaufils SEP2 Successeur REL Christian Cuvilliez SEP2 Législature REL XIIème SEP2 Groupe politique REL UMP (2002-2003)Non-inscrit (2003-2007) SEP2 Prédécesseur REL Christian Cuvilliez SEP2 Successeur REL Sandrine Hurel SEP2 Prédécesseur REL Christian Cuvilliez SEP2 Successeur REL Sébastien Jumel SEP2 Date de naissance REL 22 septembre 1933 SEP2 Lieu de naissance REL Dieppe SEP2 Date de décès REL 26 mars 2016 (à 82 ans)[1] SEP2 Lieu de décès REL Dieppe SEP2 Nationalité REL Français SEP2 Parti politique REL RPR puis UMP SEP2 Père REL Edmond Leveau SEP2 Mère REL Catherine Mouquet SEP2 Profession REL Ingénieur en électromécanique.

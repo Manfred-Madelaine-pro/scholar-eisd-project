@@ -1,0 +1,15 @@
+PRETAG Georges.
+NOMTAG Bureau.
+Georges Bureau, né le 31 janvier 1870 à Paris où il est mort le 17 décembre 1940, est un homme politique français, membre de l'Alliance démocratique.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1910 – 1940 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GD (1910-1914)RDG (1914-1936)ARGRI (1936-1940) SEP2 Date de naissance REL 31 janvier 1876 SEP2 Date de décès REL 17 décembre 1940 (à 64 ans) SEP2 Résidence REL Seine-Maritime.

@@ -1,0 +1,22 @@
+PRETAG Jean.
+NOMTAG Bartolini.
+Jean Bartolini est un homme politique français né le 10 janvier 1899 à Toulon, dans le Var et mort le 1er février 1977 dans cette même ville[1].
+
+
+
+Issu d'un milieu modeste, Jean Bartolini est ajusteur à l'Arsenal de 1915 à 1935. Il occupe très tôt des responsabilités syndicales, puis devient membre du Parti communiste français. Dès 1929, ses collègues le nomment membre de la Commission exécutive de la Neuvième union régionale unitaire, puis, rapidement, secrétaire général du syndicat unitaire des travailleurs de la marine. Le 12 décembre 1937, il entre au bureau fédéral du Parti communiste du Var, puis, au Comité central du Parti communiste français en 1938. Il restera à ce poste jusqu'en 1954.
+Durant la Seconde Guerre mondiale, comme plusieurs communistes français, il est inculpé pour infraction au décret du 26 septembre 1939, portant dissolution des organisations communistes. Député membre du groupe ouvrier et paysan français, il est arrêté le 8 octobre 1939, déchu de son mandat le 21 janvier 1940, et condamné le 3 avril 1940 par le 3e tribunal militaire de Paris à 5 ans de prison, 4 000 francs d'amende et 5 ans de privation de ses droits civiques, civils et de famille[2] pour être resté fidèle à la ligne de son Parti. Après être passé par plusieurs prisons, il est incarcéré à la maison d'arrêt de Valence jusqu'en 1941, puis à Maison-Carrée, en Algérie, où il reste détenu jusqu'au 5 février 1943 [3].
+Une rue de la ville de Toulon porte aujourd'hui son nom.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député du Var NOMF 30 juin 1935 – 21 janvier 1940 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL communiste SEP2 Prédécesseur REL Pierre Renaudel.
+NOMF Député du Var NOMF 21 octobre 1945 – 8 décembre 1958 SEP2 Nom de naissance REL Jean Baptiste Bertolini SEP2 Date de naissance REL 10 janvier 1899 SEP2 Date de décès REL 1er février 1977 (à 78 ans) SEP2 Parti politique REL PCF SEP2 Résidence REL La Seyne.

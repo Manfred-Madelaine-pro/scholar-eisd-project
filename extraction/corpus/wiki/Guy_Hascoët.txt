@@ -1,0 +1,27 @@
+PRETAG Guy.
+NOMTAG Hascoët.
+Guy Hascoët, né le 29 février 1960 au Mans (Sarthe), est un homme politique français. Membre des Verts, il a été député du Nord de 1997 à 2000 puis secrétaire d'État à l'économie solidaire dans le gouvernement Lionel Jospin de 2000 à 2002. En 2010, il est élu conseiller régional de Bretagne, en tant que tête de liste régionale Europe Écologie.
+
+
+
+Il fut l'un des principaux négociateurs de l'accord entre les Verts et le Parti socialiste de la région Nord-Pas de Calais qui en 1992 devait donner aux Verts leur première présidente de région en la personne de Marie-Christine Blandin, dont il devint vice-président.
+En 1997, il devient député du Nord, et, en mars 2000, il entre au gouvernement de Lionel Jospin pour devenir Secrétaire d'État à l'économie solidaire, c'est-à-dire s'occupant des associations, des coopératives et des mutuelles. Ce poste nouvellement créé ne sera pas renouvelé dans les gouvernements suivants, hormis durant la période 2012-2014. Son arrivée est l'occasion pour Lionel Jospin de trouver un allié dans la minorité la plus remuante des Verts[réf. nécessaire] qui de plus avait pris ses distances lors de l'affaire de l'Erika avec Dominique Voynet.
+Lors de l'assemblée fédérale des Verts à Reims de fin 2004, il tente sans succès de devenir secrétaire national du mouvement, le scénario de collège exécutif où il était secrétaire national fut le premier à être rejeté par le CNIR.
+Il quitte alors les Verts et se consacre, en Bretagne essentiellement, à son activité de consultant en matière de développement durable.
+En 2009, il s'implique dans la campagne d'Europe Écologie. Le 7 novembre 2009, il est choisi par les membres d'Europe Écologie Bretagne, rassemblement d'Europe Écologie et du parti autonomiste Union démocratique bretonne (UDB), pour mener la liste constituée par ce mouvement lors des élections régionales de 2010. Lors du premier tour, le 14 mars 2010, la liste qu’il mène obtient 12,21 % des suffrages, un résultat en deçà de ses espérances qui lui permet cependant de pouvoir se qualifier pour le deuxième tour[1]. Entre les deux tours, Jean-Yves Le Drian, tête de liste PS et président sortant propose un scénario de fusion des deux listes de gauche. La proportionnelle n'y étant pas respectée selon Europe Écologie Bretagne, Guy Hascoët reconduit donc sa liste Europe Écologie au deuxième tour ; c’est la seule région française où un accord n’aura pas été trouvé[2]. Au deuxième tour, sa liste obtient 17,37 % des suffrages et 11 élus au conseil régional de Bretagne[3]. Il retrouve ainsi un mandat électoral dix ans après avoir abandonné son siège de député.
+En raison de ses engagements professionnels, il ne se représente pas[4] en 2015.
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts).
+PART Europe Écologie Les Verts (EELV).
+FONCTIONNORM
+
+NOMF Conseiller régional de Bretagne NOMF 21 mars 2010 – 13 décembre 2015.
+NOMF Président NOMF GouvernementLionel Jospin SEP2 Gouvernement REL Lionel Jospin.
+NOMF Député de la 7e circonscription du Nord NOMF 17 juin 1997 – 27 avril 2000 SEP2 Législature REL XIe SEP2 Prédécesseur REL Michel Ghysel SEP2 Successeur REL André Lebrun SEP2 Date de naissance REL 29 février 1960 (57 ans) SEP2 Lieu de naissance REL Le Mans (Sarthe) SEP2 Nationalité REL Française SEP2 Parti politique REL Les VertsEELV SEP2 Profession REL Technicien supérieur de l'environnement.

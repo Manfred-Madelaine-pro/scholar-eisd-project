@@ -1,0 +1,20 @@
+PRETAG Philippe.
+NOMTAG Meirieu.
+Philippe Meirieu, né le 29 novembre 1949 à Alès (Gard) , est un chercheur et écrivain français, spécialiste des sciences de l'éducation et de la pédagogie[1]. Il a été l'inspirateur de réformes pédagogiques (instauration des modules au lycée ainsi que des IUFM au début des années 1990 ou encore mise en place des Travaux personnels encadrés - TPE - et de l'Éducation civique juridique et sociale - ECJS - dans le cadre de la réforme des lycées de 1998-1999[2]). Professeur en sciences de l'éducation à l'université Lumière-Lyon 2 depuis 1985, il a mené de nombreuses recherches, en particulier sur la différenciation pédagogique et la philosophie de l'éducation. Il a dirigé et fait soutenir 47 thèses[3].
+Engagé aux côtés du PS, puis d'Europe Écologie, il se définit lui-même comme militant et homme de gauche. De 2010 à 2015, il a été vice-président de la région Rhône-Alpes, délégué à la formation tout au long de la vie. En s'appuyant sur les écrits des grands pédagogues (de Rousseau à Freinet), il met en exergue les tensions inhérentes à l'éducation. Il a contribué à diffuser en France les principes pédagogiques issus de l'Éducation nouvelle et serait devenu en 1998, selon le journal Libération, « le pédagogue le plus écouté de nos gouvernants »[4]. Ses thèses concernant la pédagogie ont également suscité de nombreuses critiques.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Europe Écologie Les Verts (Europe Écologie Les Verts).
+FONCTIONNORM
+
+NOMF Président NOMF Président de la convention pour une République écologique.
+NOMF Président de la convention pour une République écologique NOMF En fonction depuis le 1er janvier 2017(1 an, 1 mois et 20 jours) SEP2 Date de naissance REL 29 novembre 1949 (68 ans) SEP2 Lieu de naissance REL Alès (Gard, France) SEP2 Nationalité REL Française SEP2 Parti politique REL Europe Écologie Les Verts SEP2 Profession REL Professeur des universités.

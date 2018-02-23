@@ -1,0 +1,24 @@
+PRETAG Pascal.
+NOMTAG Gauchon.
+Pascal Gauchon, né le 24 mars 1950, est un géopolitologue et homme politique français.
+Il fut secrétaire général du Parti des forces nouvelles de 1974 à 1981, avant de se consacrer à la géopolitique.
+
+
+
+Après avoir fait une classe préparatoire littéraire au lycée Louis-le-Grand[1], il est admis à l'École normale supérieure en 1970[2] et agrégé d'histoire en 1973[3].
+Ex-rédacteur en chef de Défense de l'Occident sous le pseudonyme « Pascal Yague »[4], il fut membre d'Ordre nouveau, s'associa en juin 1974 au Comité d'initiative pour la construction d'un parti nationaliste (CICPN) — avec François Brigneau, Jean-François Galvaire, Roland Gaucher, Jack Marchal, Alain Robert notamment[5] — puis devint secrétaire général du Parti des forces nouvelles de 1974 à 1981[6]. En mai 1979, il participe, en 4e position, derrière Michel de Saint Pierre, Jean-Louis Tixier-Vignancour et Jean-Marie Le Pen, à la tentative de liste commune PFN/FN pour les élections européennes, nommée Union française pour l'Eurodroite des patries (UFEP), avant de déposer sa propre liste sous l'appellation Union française pour l'Eurodroite (UFE), conduite par Jean-Louis Tixier-Vignancour, Alain Robert et Joseph Ortiz[7]. Cette liste ne recueille qu'1,31 % des voix[8].
+Après avoir échoué à être candidat à l'élection présidentielle de 1981[9], il soutient Jacques Chirac : « Je suis conscient que Jacques Chirac n'est pas le candidat de la droite nationaliste, mais s'il existe une chance de battre à la fois Giscard et Mitterrand, c'est Chirac qui la détient. C'est pourquoi il faut l'aider ».
+Il se retire alors de l'action politique pour se consacrer à l'enseignement et à l'édition, devenant notamment responsable de la collection « Major » aux Presses universitaires de France en 1992[10].
+De 1985 à 2011, il fut directeur de Prépasup, un institut privé spécialisé dans les classes préparatoires aux grandes écoles commerciales (ESSEC, HEC, ESCP Europe, EM Lyon, EDHEC) et aux instituts d'études politiques[11]. Il assure un cours d'histoire, de géographie et de géopolitique en classe cube à Ipesup.
+Depuis 2008, il préside l'association Anteios.
+Le 28 mars 2014, il lance une nouvelle revue trimestrielle consacrée à la géopolitique, Conflits, dont il assure la direction[12].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF PrésidentAnteios (d) NOMF depuis 2008.

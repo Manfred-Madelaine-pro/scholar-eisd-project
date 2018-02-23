@@ -1,0 +1,29 @@
+PRETAG Franck.
+NOMTAG Briffaut.
+Franck Briffaut, né le 10 mars 1958 à Paris dans le 12e arrondissement, est un homme politique français.
+
+
+
+Jeunesse.
+Franck Briffaut est né le 10 mars 1958[1] à Paris dans une famille politiquement de gauche, dont le père est un militaire de carrière[2]. Dans sa jeunesse, il est passionné par l'histoire et la philosophie, il s’intéresse vite à la politique[2]. C'est la guerre d’Algérie qui va le pousser en 1977 vers le Front national[2].
+Carrière militaire.
+Il est conducteur de travaux dans le génie militaire, affecté au 6e RPIMA[3].
+Carrière politique.
+Militant brièvement au Parti des Forces nouvelles (PFN), il adhère au Front national en 1977[3].
+Candidat à chaque élection municipale[Où ?] depuis 1995, il est élu en 1998 au conseil régional[3]. En 2003, alors conseiller municipal, il affirme : « Il y a une brochette d'abrutis qui votent FN ! Avec nos militants, nous passons beaucoup de temps à recadrer les discours. Combien de fois j'ai entendu nos partisans nous accuser d'être trop mous ! Surtout ceux qui viennent de gauche ! ». Il dit également : « Les médias passent leur temps à caricaturer et à déformer nos propositions. Nous en tirons bénéfice. Mais un bénéfice éphémère, car, si on gagne, on ne jettera pas les Arabes à la mer, on ne renverra pas tous les immigrés... Je préfère que nous gagnions sur des bases saines, sur notre programme, pas sur ces délires. »[4]. Aux élections municipales de 2008, il est l'un des seuls candidats FN à se maintenir au second tour.
+En mars 2014, il est élu maire de Villers-Cotterêts[3],[5]. Son élection est contestée devant le Conseil d'État car, selon les plaignants, il ne résidait pas à Villers-Cotterêts au moment de son élection[6],[7]. Il déclare ne pas vouloir faire de Villers-Cotterêts un laboratoire idéologique comme le FN l'avait fait de Vitrolles en 1995, ce qu'il estime avoir été une « faute tactique et juridique »[8]. Dès le début de son mandat, il baisse les impôts locaux de manière symbolique et réitère cette action en 2017. Il gèle l'augmentation de ses indemnités ainsi que celles de l'ensemble de ses adjoints, a contrario des élus de la communauté de communes de la Fôret de Retz, qui votent l'augmentation de leurs indemnités.
+Il refuse d'organiser une commémoration de l'abolition de l'esclavage prévue, considérant que c'est se soumettre à une « autoculpabilisation permanente »[9],[10]. Préférant célébrer la réussite du général Dumas, il lui octroie un hommage et baptise une nouvelle route à son nom. Conformément à son programme électoral, il fait supprimer des subventions à la CGT et la LDH ; mais les représentants syndicaux CGT des employés municipaux obtiennent le tableau d'affichage dans l'enceinte de la mairie qui leur avait été refusé par l'ancien maire de gauche, Jean-Claude Pruski[11]. En mars 2015, il affirme : « Je m’attendais à plus de difficultés. Mes opposants promettaient de lutter contre le FN, mais ils ont disparu, je sens une certaine résignation de leur part »[12]. Ses détracteurs, eux, notent sa prudence, qui lui permettrait d’éviter de commettre des faux pas[12].
+En septembre suivant, les livrets de présentation d'une exposition sont confisqués puis placés à la médiathèque de la ville. Le différend concerne un dessin de monstres marins, la sculptrice Sophie Verger a indiqué que la montée des eaux (le thème de son exposition avec Victoria kloek) pourrait également illustrer celle de l'extrême droite. Le maire a dit qu'il « assumait totalement » son geste et qu'« Il faut faire en sorte que la culture reste la culture, car il y a un temps pour tout. Elles ont essayé de faire passer leur message. Je passe le mien »[13]. Pour la fête de la musique prévue le 21 juin 2016, il demande aux artistes de signer une clause de « neutralité politique »[14],[15]. Fin octobre 2016, une trentaine de demandeurs d’asile sont présents dans la commune, accueillis depuis plusieurs mois par l’association Abej Coquerel. Franck Briffaut déclare qu'« Il n’y a pas de problème d’ordre public pour l’instant », mais reproche la culture du secret qu’entretient la préfecture en déclarant : « Ils auraient pu au moins me tenir informé, ne serait-ce que pour expliquer et répondre aux habitants. Ils nous demandent de remonter plein d’informations, mais dans l’autre sens, ce n’est pas vrai »[16].
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) depuis 1977.
+FONCTIONNORM
+
+NOMF Conseiller départemental de l'AisneÉlu dans le canton de Villers-Cotterêts NOMF En fonction depuis le 2 avril 2015(2 ans, 10 mois et 13 jours) SEP2 Avec REL Martine Pigoni SEP2 Élection REL 29 mars 2015 SEP2 Groupe politique REL Front National SEP2 Prédécesseur REL Michel Laviolette.
+NOMF Conseiller régional de Picardie NOMF 15 mars 1998 – 13 mai 2015(17 ans, 1 mois et 28 jours) SEP2 Date de naissance REL 10 mars 1958 (59 ans) SEP2 Lieu de naissance REL Paris SEP2 Nationalité REL Français SEP2 Parti politique REL FN (depuis 1977) SEP2 Profession REL Conducteur de travaux publics.

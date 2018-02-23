@@ -1,0 +1,22 @@
+PRETAG Ernest_de.
+NOMTAG Framond.
+Ernest de Framond de La Framondie, marquis de Charleval et vicomte de La Framondie, dit marquis de La Framondie, est un médecin et un homme politique français né le 5 juin 1886 à Castillonnès, en Lot-et-Garonne, et mort le 24 novembre 1974 à Antrenas, en Lozère.
+
+
+
+Issu d'une ancienne famille de la noblesse du Gévaudan, il porte comme son père le titre de "marquis de La Framondie" au lieu de ceux de "marquis de Charleval" et de "vicomte de La Framondie".
+Médecin de profession, il s'engage en 1914 comme aide-major au 9e régiment d'artillerie. Blessé en 1914, gazé en 1916, il s'attache après la Première Guerre mondiale à défendre le statut des anciens combattants et mutilés de guerre, devenant vice-président de la « Fédération départementale des mutilés ». Très religieux, réputé pour sa générosité et sa modestie, Framond est également investi dans de très nombreuses œuvres à caractère social.
+Adjoint au maire de Marvejols, il se présente en 1932 aux élections législatives sous les couleurs de la conservatrice Fédération républicaine. Élu dès le premier tour de scrutin, avec un score particulièrement écrasant : près de 75 % des voix, il est réélu en 1936. À la Chambre des députés, il se montre principalement actif sur les questions sociales et de santé publique.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Pendant l'occupation, Ernest de Framond se voit confier d'importantes fonctions : membre du Conseil national de Vichy, chargé de missions dans le sud-ouest et l'est par le gouvernement, président de la Légion des combattants de la Lozère et responsable pendant deux ans de l'administration de ce département.
+Il ne retrouve pas le chemin du Parlement après la Seconde Guerre mondiale. Élu conseiller municipal d'Antrenas lors des élections de 1953, il en deviendra le maire trois ans plus tard et le restera jusqu'en 1972. Il fut également président du Conseil de l'Ordre des médecins de la Lozère. Framond poursuivit tout au long de sa vie son action médicale en participant à la fondation de nombreux établissements et associations.
+Ernest de Framond de La Framondie meurt le 24 novembre 1974 à Antrenas, où il est inhumé dans le caveau familial.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL FR SEP2 Date de naissance REL 5 juin 1886 SEP2 Date de décès REL 24 novembre 1974 (à 88 ans) SEP2 Résidence REL Lozère.

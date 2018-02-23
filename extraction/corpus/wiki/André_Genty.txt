@@ -1,0 +1,18 @@
+PRETAG André.
+NOMTAG Genty.
+André Genty est un homme politique français né le 30 avril 1887 à Campneuseville (Seine-Maritime) et décédé le 29 janvier 1969 à Dieppe, dans le même département.
+Ancien combattant lors de la Première Guerre mondiale, agriculteur de profession, il devient maire de la commune de Pierrecourt en 1923, puis conseiller d'arrondissement en 1928.
+En 1936, il est élu député de son département. À la Chambre des députés, il s'inscrit au groupe Agraire indépendant, petite expression parlementaire du Parti agraire et paysan français.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au maréchal Pétain, et conserve ses fonctions de maire sous l'occupation allemande. Il ne retrouve pas de mandat parlementaire après la Seconde Guerre mondiale.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Agraire indépendant SEP2 Date de naissance REL 30 avril 1887 SEP2 Date de décès REL 29 janvier 1969 (à 81 ans) SEP2 Résidence REL Seine-Inférieure.

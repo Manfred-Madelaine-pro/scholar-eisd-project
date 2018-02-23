@@ -1,0 +1,19 @@
+PRETAG Jean.
+NOMTAG Madelain.
+Jean Madelain est un homme politique français, né le 9 janvier 1924.
+
+
+
+Directeur de la Cristallerie de Fougères, Jean Madelain est élu sénateur d'Ille-et-Vilaine le 28 septembre 1980[1], il rejoint après son élection le groupe de l'Union Centriste. Réélu le 24 septembre 1989 pour un second mandat. Il a notamment été membre de la commission des affaires sociales.
+Jean Madelain est maire de Fougères de 1965 à 1971 sous l'étiquette CDS. Il est également conseiller général du canton de Fougères-Nord de 1964 à 1988, Marie-Thérèse Boisseau lui succède à ce poste.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de la Cinquième République NOMF 28 septembre 1980 - 30 septembre 1998.
+NOMF Conseiller général (d)Canton de Fougères-Nord NOMF 1964-1988.

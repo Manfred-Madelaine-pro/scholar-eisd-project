@@ -1,0 +1,23 @@
+PRETAG Jacques.
+NOMTAG Piou.
+Jacques Piou, né le 6 août 1838 à Angers (Maine-et-Loire) et mort le 12 mai 1932 à Paris, est un homme politique français. Avocat, député de la Haute-Garonne de 1885 à 1893 puis de 1898 à 1902, il est ensuite député de la Lozère de 1906 à 1919. Il joue un rôle déterminant dans le ralliement des catholiques à la république, étant le fondateur du premier parti politique, au sens moderne du terme, de centre-droit, et, de 1898 à 1918, reste l'un des principaux dirigeants politiques catholiques français.
+
+
+Jacques Piou est le fils de Constance Piou, premier président de la cour d'appel de Toulouse, nommé sénateur à l'extrême fin du Second Empire et élu député conservateur de la Haute-Garonne en 1871, et de Palmyre Le Dall de Kereon, nièce d'Odilon Barrot. Il est le frère aîné d'Amicie Piou (1847-1917), épouse de Jules Lebaudy (1828-1892), mère de Jacques Lebaudy et Max Lebaudy.
+Après une brève mais brillante carrière d'avocat, il abandonne le barreau de Toulouse à 38 ans pour se lancer dans la politique. Monarchiste libéral, ami et conseiller politique du comte de Paris, l'un des dirigeants, avec Armand de Mackau, de l'Union des Droites de 1885 à 1888, Jacques Piou prit après les élections de 1889 la tête des catholiques ralliés à la République en formant au Parlement avec Auguste d'Arenberg, le groupe de la droite constitutionnelle, qui devient, en 1893, la droite républicaine. Il est battu aux législatives de 1893, les voix royalistes ayant préféré voter contre lui plutôt que pour un rallié, ce qu'elles avaient également fait pour Albert de Mun.
+Il fonde en 1901 avec Albert de Mun et l'appui de Léon XIII l'Action libérale populaire, qui compte au sommet de sa gloire 2 500 comités, 280 000 cotisants et 70 députés.
+L'Action libérale populaire, qui fut le premier parti politique de droite à être solidement organisé, se déclarait constitutionnelle et entendait œuvrer à la défense de toutes les libertés au premier rang desquelles elle plaçait la liberté religieuse menacée par Combes et ses successeurs. Jacques Piou en assura la présidence jusqu'à sa mort et exerça sur elle une autorité sans partage.
+La politique de Jacques Piou, qui cherchait à réconcilier, dans le respect des institutions républicaines, les catholiques avec la République et les républicains avec l'Église de France, fut vivement combattue sur sa droite par les royalistes, par l'Action française, en particulier Charles Maurras et Léon Daudet (qui surnommait ses troupes les « piou-piou »), et les catholiques intransigeants que révulsaient son libéralisme ; sur sa gauche la plus proche, Piou s'opposa aux démocrates chrétiens qui trouvaient son programme trop conservateur et aux républicains modérés qui le jugeaient trop marqué par le catholicisme.
+Il trouva ses concours les plus efficaces chez les catholiques sociaux et les catholiques libéraux, frères ennemis qu'il réussit à faire vivre ensemble dans son parti, ce qui peut être considéré comme un exploit. S'il ne parvint jamais à coaliser, comme il l'avait rêvé, toutes les forces du centre-droit, il n'en fut pas moins, jusqu'en 1918, la personnalité politique de droite la plus influente au Parlement.
+Il épousa Julie Gentien, fille d'un riche notable bordelais (propriétaire du château de Tustal à Sadirac, en Gironde, dont il fut maire) et de Léonie Lefebvre des Noettes, de qui il eut deux filles. L'une mourut à 13 ans et l'autre, Léonie Thérèse, épousa le futur député Camille Guyot de Villeneuve.
+Il fut maire de Sadirac.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1885-1893puis 1898-1902puis 1906-1919 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP2 Groupe politique REL Action libérale SEP2 Date de naissance REL 6 août 1838 SEP2 Date de décès REL 12 mai 1932 (à 93 ans) SEP2 Résidence REL Haute-Garonnepuis Lozère.

@@ -1,0 +1,24 @@
+PRETAG Gérard.
+NOMTAG Vignoble.
+Gérard Vignoble, est un homme politique français, né le 29 octobre 1945 à Roubaix (Nord). Membre du groupe Les Centristes, il est maire de Wasquehal de 1977 à 2014 puis député du Nord de 2002 à 2007.
+
+
+
+Origines familiales, enfance et vie privée.
+Gérald Vignoble est le fils de Émile Vignoble et de Germaine Lahousse. Ses origines lointaines se situent à Tournai, avec pour ancêtre Pierre Wignol, homme de fief sous plumes, et notaire royal de 1660 à 1700 environs. Il devrait être probablement le fils de Robert de Wignol, mais sans certitude, dont le nom apparait dans les registres paroissiaux vers 1620. Installé en 1700 à Mont-Saint-Aubert, comme fermier, Jean Baptiste Wignol né à Tournai eut parmi ses descendants, Jean-Laurent Vignoble, né à Escanaffles qui s'installe à Wattrelos avec son fils Pierre Joseph et seront à l'origine de nombreux rameaux dont descend Désiré Vignoble, le grand-père de Gérard Vignoble. Il est technicien des télécoms (syndiqué CGT).
+Carrière politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS) 1977-1988.
+PART Centre des démocrates sociaux (CDS) 1988-2007.
+PART Mouvement démocrate (MoDem) 2007-2009.
+PART Les Centristes (NC) depuis 2009.
+FONCTIONNORM
+
+NOMF Député du NordÉlu dans la 8e circonscription NOMF 21 juin 2002 – 22 juin 2007(5 ans et 1 jour) SEP2 Élection REL 16 juin 2002 SEP2 Groupe politique REL UDF SEP2 Prédécesseur REL Dominique Baert SEP2 Successeur REL Dominique Baert SEP2 Élection REL 5 juin 1988 SEP2 Groupe politique REL CDS SEP2 Prédécesseur REL Alain Faugaret SEP2 Successeur REL Dominique Baert SEP2 Prédécesseur REL Pierre Herman SEP2 Successeur REL Stéphanie Ducret SEP2 Nom de naissance REL Gérard Vignoble SEP2 Date de naissance REL 29 octobre 1945 (72 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL PS (1977-1988)CDS (1988-2007)MoDem (2007-2009)NC (depuis 2009) SEP2 Père REL Émile Vignoble SEP2 Mère REL Germaine Lahousse SEP2 Profession REL Technicien réseau SEP2 Religion REL Catholique SEP2 Résidence REL Wasquehal - Nord.

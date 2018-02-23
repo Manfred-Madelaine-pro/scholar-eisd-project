@@ -1,0 +1,16 @@
+PRETAG Jean.
+NOMTAG Dides.
+Jean Dides (5 août 1915, Paris — 2 avril 2004, Paris) était un commissaire de police et membre des Renseignements généraux (RG) sous le gouvernement Pierre Mendès France, conseiller municipal et député poujadiste français. Chargé de la Ve section des RG dont la mission était de traquer les Résistants étrangers sous Vichy, il se sert de sa position pour engager une action de résistance[réf. nécessaire], il est immédiatement réintégré à l'époque de l'épuration. Après la libération il s'engage dans la lutte anti-communiste, devenant le principal adjoint dans cette mission du préfet de police de Paris Jean Baylot. Ecarté de son poste de commissaire suite à l'« affaire des fuites » de 1954, qui déstabilise le ministre de l'Intérieur François Mitterrand, jugé trop favorable à la décolonisation, il se fait élire en janvier 1956 sous la bannière de l'Union et fraternité française. Jean Dides conserve toutefois son influence dans la police, en particulier lors de la crise de mai 1958 où les forces de l'ordre lui sont acquises.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1956-1958) NOMF GouvernementIVe République SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL UFF SEP2 Date de naissance REL 5 août 1915 SEP2 Date de décès REL 2 avril 2004 (à 88 ans).

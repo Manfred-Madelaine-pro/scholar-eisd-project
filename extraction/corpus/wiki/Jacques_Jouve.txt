@@ -1,0 +1,28 @@
+PRETAG Jacques.
+NOMTAG Jouve.
+Jacques Jouve, né le 10 mars 1932 à Antignac (Cantal) et mort le 27 octobre 2014 à Limoges[1], est un homme politique français.
+
+
+
+Jacques Jouve adhère à vingt ans au Parti communiste français, juste avant d'entrer dans l'administration des postes et d'être nommé inspecteur adjoint des PTT à Alger, en Algérie.
+Militant du syndicat CGT des PTT, il est très actif dans les grèves de 1953. Revenu en métropole pour faire son service militaire en 1955, il retrouve ensuite l'Algérie et s'engage dans le soutien à la lutte nationaliste, notamment auprès d'André Ruiz, secrétaire général de l'Union générale des syndicats algériens.
+Chargé d'organiser en 1958 un transfert de fonds en faveur du FLN, il est arrêté en août par la DST. Condamné à six mois de prison, il est radié des PTT et expulsé d'Algérie en 1959.
+Il travaille alors pour La Vie ouvrière, organe de la CGT avant d'être réintégré en 1960, d'abord au central de Paris-Nord, puis, comme inspecteur central à Limoges.
+Il poursuit alors son engagement syndical d'une part, devenant secrétaire du syndicat CGT des PTT de la Haute-Vienne, et politique, toujours au PCF.
+Membre du Bureau fédéral du PCF de la Haute-Vienne en 1965, il est élu au conseil municipal de Limoges sur une liste d'union de la gauche, menée par Louis Longequeue, en 1977, et occupe la fonction d' adjoint, réélu en 1983, 1989. Poste qu'il conservera jusqu'en 1998. Il reste conseiller municipal jusqu'en 2001.
+L'année suivante, les 12 & 19 mars 1978 il est élu député de Haute-Vienne. Il obtient le 12 mars, au 1er tour, 24 980 suffrages ( 29,54% des suffrages) devançant de peu le candidat socialiste, Marcel Mocoeur (28,13%). J. Jouve totalise 47 556 voix le 19 mars, soit 55,94 % des suffrages, avec une participation record de 85,90 % de votants. Cependant il perd son mandat en 1981 du fait de la « vague rose » qui envoie Marcel Mocœur au Palais-Bourbon. Il obtient 23 430 voix (31,16% des suffrages), moins que Marcel Mocoeur, le candidat du PS qui totalise 28 092 voix ( 37,36%) au 1er tour.
+Élu conseiller régional en 1986, il suit Marcel Rigout et d'autres « rénovateurs » communistes qui quittent le PCF et fondent Alternative démocratie socialisme (ADS) en 1989. C'est sous cette étiquette qu'il est réélu au conseil municipal de Limoges en 1989 et 1995, et au conseil régional en 1992 et 1998. Au sein de l'assemblée régionale, il exerce la fonction de vice-président, chargé des transports pendant toute cette période.
+Après 1998, il se retire progressivement de la vie politique : il ne se représente pas à l'élection régionale de 2004, Il ne se représente pas aux municipales de 2001, abandonnant son mandat de conseiller municipal.
+Il décède le 27 octobre 2014 à Limoges. Les obsèques civiles eurent lieu le mercredi 29 octobre au crématorium de Landouge. Un dernier hommage lui a été rendu à la chambre funéraire municipale de Limoges.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+FONCTIONNORM
+
+NOMF Député de la 3e circonscription de la Haute-Vienne NOMF 19 mars 1978 – 22 mai 1981 SEP2 Date de naissance REL 10 mars 1932 SEP2 Lieu de naissance REL Antignac (Cantal) SEP2 Date de décès REL 27 octobre 2014 (à 82 ans) SEP2 Lieu de décès REL Limoges (Haute-Vienne) SEP2 Nationalité REL Française SEP2 Parti politique REL Parti communiste français.

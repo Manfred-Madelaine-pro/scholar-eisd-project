@@ -1,0 +1,19 @@
+PRETAG Laurent.
+NOMTAG Vergès.
+Laurent Vergès est un homme politique français, né le 23 avril 1955 à Saint-Denis de La Réunion et mort le 12 octobre 1988 au Port[1], également à La Réunion. Il accéda très jeune au poste de député de La Réunion à la suite de son élection dans la deuxième circonscription de ce département d'outre-mer situé dans le sud-ouest de l'océan Indien. Son premier mandat fut interrompu par son décès, du fait d'un accident de la route.
+
+
+
+Laurent Vergès est un membre de la famille Vergès, dont les membres comprennent de nombreuses personnalités politiques. Il est le petit-fils du docteur Raymond Vergès, le neveu de Jacques Vergès et le fils de Paul Vergès. Il est le frère de Françoise Vergès et Pierre Vergès.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de La RéunionÉlu dans la 2e circonscription NOMF 15 octobre 1987 – 12 octobre 1988(11 mois et 27 jours) SEP2 Prédécesseur REL Paul Vergès SEP2 Successeur REL Alexis Pota.
+NOMF Conseiller régional de La Réunion NOMF 21 mars 1986 – 12 octobre 1988(2 ans, 6 mois et 21 jours) SEP2 Élection REL 16 mars 1986.
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 23 avril 1955 SEP2 Date de décès REL 12 octobre 1988 (à 33 ans) SEP2 Père REL Paul Vergès SEP2 Résidence REL Quatrième circonscription de La Réunion.

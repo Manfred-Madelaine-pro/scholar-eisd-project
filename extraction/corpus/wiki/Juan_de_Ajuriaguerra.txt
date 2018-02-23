@@ -1,0 +1,17 @@
+PRETAG Juan_de.
+NOMTAG Ajuriaguerra.
+Juan de Ajuriaguerra Ochandiano (né le 6 août 1903 à Bilbao et mort le 25 août 1978 à Ayegui, en Navarre) est un homme politique espagnol.
+
+
+Il est le leader du Parti nationaliste basque et son président en exil sous la dictature franquiste. Lors de la restauration de la démocratie en Espagne, il est le président du comité mixte chargé du transfert des pouvoirs au gouvernement basque et député à l'Assemblée législative constituante.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (Parti nationaliste basque).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

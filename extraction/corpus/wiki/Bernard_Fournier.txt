@@ -1,0 +1,29 @@
+PRETAG Bernard.
+NOMTAG Fournier.
+Bernard Fournier, né le 13 septembre 1946 à Saint-Étienne (Loire), est un homme politique français.
+
+
+
+Bernard Fournier est issu d'une famille de la vieille bourgeoisie ligérienne originaire de Saint-Nizier-de-Fornas dans l'ancienne province du Forez. Il naît et effectue sa scolarité à Saint-Étienne où ses parents se sont fixés.
+Il milite très tôt dans les mouvements gaullistes et adhère à l'Union des jeunes pour le progrès (UJP). Il préside en 1978 ce mouvement gaulliste qui a donné de multiples personnalités politiques, comme Gérard Larcher, Michel Barnier et François Fillon, notamment. Il emporte les élections cantonales de mars 1985 dans le canton de Saint-Bonnet-le-Château. Il démissionne de la présidence de l'UJP pour se consacrer à son mandat de conseiller général. Georges Tron lui succède à la tête du mouvement.
+En mars 1989, il devient maire de Saint-Nizier-de-Fornas, réélu en juin 1995, il y restera jusqu'en 2001. Le 28 novembre 1996, il crée la communauté de communes du Pays de Saint-Bonnet-le-Château.
+Le 19 novembre 1997, il est élu au Sénat à la suite d'une élection sénatoriale partielle qui fait suite au décès du sénateur François Mathieu, dont il était proche. Il est réélu le 23 septembre 2001, le 25 septembre 2011 et le 24 septembre 2017. Il siège également à l'Assemblée parlementaire du Conseil de l'Europe depuis novembre 2008, d'abord en qualité de membre suppléant et depuis 2013 en qualité de membre titulaire.
+Il a annoncé en 2010 ne pas vouloir représenter sa candidature aux élections cantonales de mars 2011 et met un terme à sa carrière de conseiller général.
+Il est le seul sénateur UMP à s'abstenir sur le Pacte budgétaire européen en octobre 2012.
+Il soutient François Fillon pour la primaire présidentielle des Républicains de 2016.
+Il est membre de la Commission des Affaires étrangères, de la Défense et des Forces armées.
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement pour la République (RPR).
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (LR).
+FONCTIONNORM
+
+NOMF Sénateur de la Loire NOMF En fonction depuis le 19 novembre 1997(20 ans, 3 mois et 2 jours) SEP2 Élection REL 23 septembre 2001 SEP2 Réélection REL 25 septembre 201124 septembre 2017 SEP2 Groupe politique REL RPR (1997-2002)UMP (2002-2015)LR (depuis 2015) SEP2 Successeur REL Louis Perrin.
+NOMF Conseiller général de la LoireÉlu dans le canton de Saint-Bonnet-le-Château NOMF 1985 – 2011(26 ans) SEP2 Prédécesseur REL M. Fouilloux SEP2 Successeur REL Iwan Mayet SEP2 Nom de naissance REL Bernard Marie Louis Fournier SEP2 Date de naissance REL 13 septembre 1946 (71 ans) SEP2 Lieu de naissance REL Saint-Étienne (Loire) SEP2 Nationalité REL française SEP2 Parti politique REL RPRUMPLR SEP2 Profession REL Conseil en entreprise.

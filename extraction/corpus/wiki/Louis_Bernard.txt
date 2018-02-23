@@ -1,0 +1,18 @@
+PRETAG Louis.
+NOMTAG Bernard.
+Louis Bernard est un homme politique français, né le 26 janvier 1886 à Nîmes et mort le 28 février 1956 dans la même ville.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Section française de l'Internationale ouvrière (SFIO).
+FONCTIONNORM
+
+NOMF Député du Gard (1914-1919) NOMF Biographie SEP2 Date de naissance REL 26 janvier 1886 SEP2 Lieu de naissance REL Nîmes SEP2 Date de décès REL 28 février 1956 SEP2 Parti politique REL SFIO SEP2 Profession REL Horticulteur SEP2 Résidence REL Nîmes.

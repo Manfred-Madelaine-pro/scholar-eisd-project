@@ -1,0 +1,21 @@
+PRETAG Michel.
+NOMTAG Billout.
+Michel Billout, né le 19 février 1958, est un homme politique français, membre du Parti communiste français.
+
+
+
+Issue d'une famille d'ouvriers, instituteur de formation, il est élu sénateur de Seine-et-Marne le 26 septembre 2004[1]. Il siège à la commission des Affaires étrangères, de la Défense et des Forces armées et occupe la vice-présidence de la Commission des Affaires européennes.
+Au nom du groupe communiste, républicain et citoyen (CRC), il s'occupe donc des affaires internationales mais s'intéresse également de près aux problématiques liées aux transports terrestres et à l'énergie.
+Michel Billout ne brigue pas un nouveau mandat au Sénat en 2017.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Sénateur de Seine-et-Marne NOMF 2 octobre 2004 – 1er octobre 2017(12 ans, 11 mois et 29 jours) SEP2 Élection REL 26 septembre 2004 SEP2 Réélection REL 25 septembre 2011 SEP2 Groupe politique REL CRC SEP2 Élection REL 16 décembre 2012 (partielle) SEP2 Réélection REL 30 mars 2014 SEP2 Prédécesseur REL Philippe Delannoy SEP2 Prédécesseur REL Claude Pasquier SEP2 Successeur REL Philippe Delannoy SEP2 Date de naissance REL 19 février 1958 (60 ans) SEP2 Lieu de naissance REL Paris SEP2 Nationalité REL Français SEP2 Parti politique REL PCF SEP2 Profession REL Instituteur.

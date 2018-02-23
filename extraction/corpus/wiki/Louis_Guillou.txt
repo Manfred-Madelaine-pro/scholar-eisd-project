@@ -1,0 +1,19 @@
+PRETAG Louis.
+NOMTAG Guillou.
+Louis Guillou, né le 6 mars 1921 à Cléder (Finistère) et mort le 7 mars 1998 à Morlaix (Finistère), est un homme politique français.
+
+
+
+Louis Guillou est exploitant agricole. Il fut membre du CD, du CDP et de l'UDF.
+En février 1978, il est fait chevalier de la Légion d'honneur.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur du Finistère NOMF 23 septembre 1962 – 1er octobre 1971 SEP2 Élection REL 23 septembre 1962.
+NOMF Député du Finistère NOMF 10 novembre 1946 – 4 juillet 1951 SEP2 Date de naissance REL 6 mars 1921 SEP2 Lieu de naissance REL Cléder (Finistère) SEP2 Date de décès REL 7 mars 1998 (à 77 ans) SEP2 Lieu de décès REL Morlaix (Finistère) SEP2 Nationalité REL Française.

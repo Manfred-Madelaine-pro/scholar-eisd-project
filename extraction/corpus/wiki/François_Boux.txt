@@ -1,0 +1,21 @@
+PRETAG François.
+NOMTAG Boux.
+François, Olivier, Marie Boux de Casson est un homme politique né le 24 février 1908 à Vannes, dans le Morbihan, et décédé le 31 janvier 1981 à Paris.
+
+
+
+En 1935, il devient adjoint au maire de Challans. Il est ensuite élu député de la Vendée sous l'étiquette conservatrice de la Fédération républicaine, le 3 mai 1936, à l'âge de 28 ans[1], dans la deuxième circonscription des Sables-d'Olonne, contre le député sortant Charles Gallet, Démocrate populaire[1]. Il est alors proche du Parti social français du colonel de La Rocque[1]. Il ajoute à ces mandats une élection comme conseiller d'arrondissement en 1938.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain [1] et la même année, sous l'occupation allemande, il est nommé délégué départemental à l'Information par le gouvernement de Vichy[1].
+Il ne retrouve pas de mandat de parlementaire après la Libération en dépit de trois tentatives en 1951 (battu au premier tour sous l'étiquette Défense des libertés)[1], en 1956 (comme candidat poujadiste[1]) et en 1958[1] mais demeure fortement impliqué dans la vie locale et regagne un siège de conseiller général en 1955[1], battant à l'occasion le candidat sortant, Armand de Baudry d'Asson, issu du Centre national des indépendants et paysans. Il retrouve également le conseil municipal de Challans en 1959[1]. Il participa à l'Union des intellectuels indépendants présidé par Jacques Isorni[1].
+Il a par ailleurs fondé la foire-exposition de Challans dont il a été longtemps le président.
+Il fut inculpé en février 1973 dans le vol du cercueil de Philippe Pétain, le commando ayant enlevé le cercueil à l'île d'Yeu ayant fait une étape dans son château de la Vérie où il ne se trouvait alors pas. Il niera avoir été informé de cette opération alors que le chef du commando Hubert Massol indiquera qu'il avait son accord[2]..
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1936-1940) NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL FR SEP2 Date de naissance REL 24 février 1908 SEP2 Date de décès REL 31 janvier 1981 (à 72 ans) SEP2 Résidence REL Vendée.

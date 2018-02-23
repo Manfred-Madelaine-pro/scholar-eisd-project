@@ -1,0 +1,16 @@
+PRETAG Raymond.
+NOMTAG Bourgine.
+Raymond Bourgine est un journaliste et homme politique français, né le 9 mars 1925 à Diégo-Suarez (Madagascar) et mort le 29 novembre 1990 à Paris.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de Paris NOMF 25 septembre 1977 – 29 novembre 1990(13 ans, 2 mois et 4 jours) SEP2 Élection REL 25 septembre 1977 SEP2 Réélection REL 28 septembre 198025 septembre 198328 septembre 198624 septembre 1989 SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL RI (1977-1986)RPR (1986-1990) SEP2 Prédécesseur REL Jean Auburtin SEP2 Successeur REL Camille Cabana (par intérim) SEP2 Date de naissance REL 9 mars 1925 SEP2 Lieu de naissance REL Diégo-Suarez, Madagascar SEP2 Date de décès REL 29 novembre 1990 (à 65 ans) SEP2 Lieu de décès REL Paris,  France SEP2 Résidence REL Paris.

@@ -1,0 +1,31 @@
+PRETAG Anne.
+NOMTAG Le.
+Anne Le Strat (prononcé [an lə.stʁat]), née le 25 septembre 1968 à Lorient[1], est une femme politique française, membre des Verts jusqu'en 2008[2], conseillère de Paris de 2001 à 2014 et adjointe au maire de Paris chargée de l'eau, de l'assainissement et de la gestion des canaux de 2008 à 2014[3].
+
+
+
+Parcours électoral et militant.
+Anne Le Strat adhère aux Verts en 1992. Elle est membre du conseil national de ce parti, avant d’en être secrétaire générale adjointe.
+Candidate Verte aux législatives dans la 18e circonscription de Paris en 1997, elle obtient 6,74 % des voix. Elle est coordinatrice du programme des Verts aux Européennes de 1999. Tête de liste des Verts dans le 18e arrondissement lors des élections municipales de 2001, elle obtient 15,94 % des voix au premier tour, avant d'être élue conseillère de Paris au second, sur la liste d'Union de la gauche.
+En 2008, écartée de la liste des Verts[2], Anne Le Strat se présente sur celle du Parti socialiste, en tant que candidate d’ouverture, toujours dans le 18e arrondissement. Quatrième de la liste, elle est réélue et devient adjointe au maire, chargée de l'eau, de l'assainissement et de la gestion des canaux.
+Elle fut également présidente de la Fondation Copernic, laboratoire d'idées de gauche, et elle est porte-parole du Mouvement Utopia[4], association politique présente au Parti socialiste, chez Les Verts et au Front de gauche.
+Gestion de l'eau.
+En janvier 2002, elle a soutenu avec succès sa thèse de doctorat en géopolitique intitulée « L’eau comme enjeu dans le conflit israélo-palestinien : une ressource commune, des représentations différentes, des intérêts en confrontation »[5].
+En 2001, elle est nommée présidente-directrice générale de la Société anonyme de gestion des eaux de Paris (SAGEP), qui deviendra Eau de Paris en 2005. Elle est ensuite présidente de cette régie de 2009 à 2014. À partir du 2009-03-033 mars 2009, elle est également co-fondatrice et présidente d'Aqua Publica Europea[6],[7], association des opérateurs publics d'eau en Europe[8].
+Dans l'exercice de ses fonctions, elle réforme le service de l'eau parisien en ne reconduisant pas les contrats conclus avec Suez et Veolia[9]. Depuis le 2010-01-011er janvier 2010, Eau de Paris[10] est la régie municipale chargée de la production et de la distribution de l’eau dans Paris, depuis le captage jusqu’au robinet des consommateurs. L'opération, controversée à l'époque, aurait, selon Anne Le Strat, permis de réaliser de grandes économies[11].
+Membre du Comité de bassin de l'Agence de l'eau Seine-Normandie, Anne Le Strat fut élue présidente de ce comité le 2011-09-2929 septembre 2011. Son élection fut néanmoins contestée, puis annulée par le tribunal administratif de Cergy-Pontoise, qui déclara finalement André Santini vainqueur de l'élection[12].
+Respect des droits des femmes et de la diversité.
+Elle fut également longtemps déléguée à la CADAC (Coordination des associations pour le droit à l'avortement et à la contraception)[13].
+Lorsqu'elle était à la tête d'Eau de Paris, la régie s’est distinguée dans le domaine de l'égalité sociale : signature de la charte de la diversité en 2004, obtention du label Égalité en 2005, renouvelé en 2009, ainsi que du label diversité toujours en 2009 (et renouvelé en 2012)[14].
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts) 1997-2008.
+FONCTIONNORM
+
+NOMF Conseillère de Paris NOMF 2 avril 2001 – 12 avril 2014 SEP2 Élection REL 18 mars 2001 SEP2 Réélection REL 18 mars 2008 SEP2 Date de naissance REL 25 septembre 1968 (49 ans) SEP2 Lieu de naissance REL Lorient (Morbihan) SEP2 Nationalité REL  Française SEP2 Parti politique REL Les Verts (1997-2008) SEP2 Diplômé de REL Université Paris-VIII.

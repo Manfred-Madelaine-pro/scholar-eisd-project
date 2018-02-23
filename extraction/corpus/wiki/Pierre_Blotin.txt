@@ -1,0 +1,25 @@
+PRETAG Pierre.
+NOMTAG Blotin.
+Pierre Blotin est un homme politique français né en 1939.
+Il est le numéro deux du Parti communiste français de 1994 à 2000.
+
+
+
+Pierre Blotin naît en 1939[1]. Instituteur de profession, il adhère au Parti communiste français (PCF) en 1957[1], à dix-huit ans[2], avant d'en gravir peu à peu les échelons.
+D'abord secrétaire de Jacques Duclos, il dirige l'école des cadres du parti puis est en 1974-1976 (aux côtés de Jean-Claude Lefort ou Francis Wurtz) un des proches collaborateurs de Georges Marchais[3].
+À partir de 1994[2], chargé de la communication et son numéro deux officieux[2], il est un des principaux conseillers (avec Bernard Vasseur) de Robert Hue, ce qui lui vaut des critiques sur sa trop grande proximité supposée avec ce dernier[3]. À ce poste, qu'il quitte en 2000 pour favoriser le renouvellement[4], il est considéré comme « le dernier apparatchik du parti » et « l'homme de la mutation » et de l'ouverture du parti[2].
+En juin 2002, il aurait été l'auteur d'un document non signé, diffusé dans les fédérations du parti et défendant l'action de Robert Hue[5].
+Depuis 2006, Pierre Blotin fait partie du conseil scientifique de la Fondation Gabriel-Péri[6].
+En 2007, à l'occasion du débat interne au PCF à propos de la stratégie présidentielle, il propose la « fondation d'un autre parti communiste » qui deviendrait un allié gouvernemental du Parti socialiste[7].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français) à partir de 1957.
+PART 1957 (1957).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

@@ -1,0 +1,19 @@
+PRETAG Léonce.
+NOMTAG Franco.
+Léonce Franco, né le 27 septembre 1903 à Vannes (Morbihan) et mort le 8 mars 1974 à Vannes (Morbihan), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP).
+FONCTIONNORM
+
+NOMF Député de la 1re circonscription du Morbihan NOMF 16 mai 1962 – 9 octobre 1962 SEP2 Élection REL 30 novembre 1958 SEP2 Législature REL Ire SEP2 Prédécesseur REL Raymond Marcellin SEP2 Successeur REL Raymond Marcellin.
+NOMF Conseiller général du canton de Vannes-Ouest NOMF avril 1949 – mars 1974 SEP2 Prédécesseur REL Pierre Dalido SEP2 Successeur REL Paul Chapel SEP2 Prédécesseur REL Jean-Marie Jollivet SEP2 Successeur REL Ferdinand Loysel SEP2 Date de naissance REL 27 septembre 1903 SEP2 Lieu de naissance REL Vannes (Morbihan, France) SEP2 Date de décès REL 8 mars 1974 (à 70 ans) SEP2 Lieu de décès REL Vannes (Morbihan, France) SEP2 Nationalité REL  France SEP2 Parti politique REL CNIP SEP2 Conjoint REL Marcelle Jeanne Enout SEP2 Enfants REL 6 enfants SEP2 Profession REL Chirurgien.

@@ -1,0 +1,19 @@
+PRETAG Victor.
+NOMTAG Rochereau.
+Victor Rochereau est un industriel et homme politique français, né le 14 septembre 1881 à Saint-Martin-des-Noyers, en Vendée, où il est mort le 2 janvier 1962.
+Conseiller d'arrondissement, il est élu député de la Vendée en 1914 sous les couleurs de l'Action libérale populaire, le parti chrétien conservateur de l'époque. Systématiquement réélu jusqu'à la chute de la Troisième République, membre de la Fédération républicaine, il appartient à différents groupes parlementaires de la droite, celui des Indépendants le plus souvent.
+Sa longévité s'explique-t-elle par sa discrétion ? Toujours est-il qu'il ne prend la parole qu'une seule fois à la tribune de la Chambre des députés, en 1933, lors d'un débat sur la viticulture et le commerce du vin.
+Il vote, le 10 juillet, en faveur de la remise des pleins pouvoirs au maréchal Pétain. Il ne retrouve pas de mandat parlementaire après la Libération.
+Son fils, Henri Rochereau, sera sénateur, ministre de l'Agriculture, puis commissaire européen sous la Cinquième République.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1914-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL AL (1914-1919)Ind. (1919-1924)NI (1924-1928)Ind. (1928-1932)FR (1932-1936)IR (1936-1940) SEP2 Date de naissance REL 14 septembre 1881 SEP2 Date de décès REL 2 janvier 1962 (à 80 ans) SEP2 Résidence REL Vendée.

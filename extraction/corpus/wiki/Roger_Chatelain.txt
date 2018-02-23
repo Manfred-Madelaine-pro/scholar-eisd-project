@@ -1,0 +1,18 @@
+PRETAG Roger.
+NOMTAG Chatelain.
+Roger Louis Jean Chatelain est un homme politique français, né à Niort le 14 février 1913 et décédé à Niort le 7 janvier 1997.
+Pharmacien à Niort, fils et petit-fils de pharmaciens, Roger Chatelain milite dans sa jeunesse à Jeune République, mouvement chrétien s'opposant aux dictatures et partisan de la rénovation des mœurs politiques. Pendant la seconde guerre mondiale, il est membre du réseau de Résistance Libération Nord puis président pour les Deux-Sèvres du Mouvement de Libération Nationale (MLN). Nommé en 1944 à la Libération conseiller municipal de Niort, il est confirmé à l'élection de 1945 et élu la même année conseiller général de Frontenay Rohan-Rohan. Il est ensuite président départemental de l'UDSR puis du Rassemblement des gauches républicaines (RGR).
+Il occupe de nombreuses fonctions régionales : vice-président du Marais Poitevin, président du Comité des activités commerciales niortaises, président du Crédit Immobilier et de la Société coopérative des HLM des Deux-Sèvres, président du Comité interprofessionnel du logement pour l'arrondissement de Niort.
+Roger Chatelain est réélu conseiller municipal de Niort en 1953. Il soutient l'action de Pierre Mendès France, adhère en 1955 au Parti radical et devient secrétaire général de la Fédération des Deux-Sèvres. Il est élu en 1956 député des Deux-Sèvres, battant Gabriel Citerne, ancien député communiste. Il vote l'investiture de Guy Mollet, s'oppose à celle de Maurice Bourgès-Maunoury et s'abstient pour celle de Félix Gaillard. Il refuse en 1958 la confiance et les pleins pouvoirs au général de Gaulle et n'est pas réélu aux élections législatives de 1958[1]. Il sera de nouveau élu conseiller municipal de Niort en mars 1977 et restera conseiller général de Frontenay Rohan-Rohan (dernière élection en mars 1982)[2].
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1956-1958 NOMF GouvernementIVe République SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL RRRS SEP2 Date de naissance REL 14 février 1913 SEP2 Date de décès REL 7 janvier 1997 SEP2 Résidence REL Deux-Sèvres.

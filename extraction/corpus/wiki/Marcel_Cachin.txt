@@ -1,0 +1,31 @@
+PRETAG Marcel.
+NOMTAG Cachin.
+Marcel Cachin est un homme politique français, né le 20 septembre 1869 à Paimpol[1],[2] (Côtes-du-Nord) et mort le 12 février 1958 à Choisy-le-Roi (Seine). Parlementaire socialiste puis communiste de 1914 à 1958 (excepté sous l'occupation), il a été le directeur du journal L'Humanité de 1918 à sa mort.
+
+
+
+Jeunesse, formation et débuts professionnels.
+Le père de Marcel Cachin s'appelle également Marcel Cachin et est gendarme ; sa mère est Marie-Louise née Le Gallou, fileuse de lin. Après des études au lycée Saint-Charles de Saint-Brieuc et au lycée Émile-Zola de Rennes, il suit les cours de la faculté des lettres de Bordeaux et passe sa licence en 1893. Il est professeur de philosophie à Bordeaux pendant quinze ans.
+Toute sa vie, il fut très attaché au breton, « langue de la paysannerie et du prolétariat breton ».
+Parcours politique.
+
+
+
+
+Sa fille Marcelle Cachin (1911-1998) épousa Paul Hertzog, chirurgien. Elle-même médecin, elle était membre du parti communiste et député.
+Son fils, Charles Cachin, pédiatre, épousa Ginette Signac, fille de Paul Signac. Leur fille, Françoise Cachin (1936-2011), devint historienne d'art et conservatrice de musée.
+Son neveu, Yves Cachin (1916-2010), chirurgien réputé, directeur de l'Institut Gustave-Roussy, milita également un temps au PCF et était titulaire de la médaille de la Résistance.
+Son petit-fils, Olivier Cachin (né en 1962), est un journaliste spécialisé dans les musiques noires et le hip-hop. Il a également été le présentateur de l'émission Rapline sur M6 de 1990 à 1993.
+
+
+
+PARTISNORM
+PART Section française de l'Internationale ouvrière (SFIO) 1914.
+PART 1914 (1914) 1921.
+PART 1921 (1921) .
+PART Parti communiste français (PCF) 1921.
+PART 1921 (1921) 1958.
+PART 1958 (1958).
+FONCTIONNORM
+
+NOMF Député 1914-1936puis 1945-1958Sénateur 1936-1940 NOMF GouvernementIIIe République-IVe République SEP2 Gouvernement REL IIIe République-IVe République SEP2 Nom de naissance REL Gilles Marcel Cachin SEP2 Date de naissance REL 20 septembre 1869 SEP2 Lieu de naissance REL Paimpol (France) SEP2 Date de décès REL 12 février 1958 (à 88 ans) SEP2 Lieu de décès REL Choisy-le-Roi (France) SEP2 Parti politique REL SFIO (1914-1921)PCF (1921-1958) SEP2 Résidence REL Seine.

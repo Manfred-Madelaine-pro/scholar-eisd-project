@@ -1,0 +1,40 @@
+PRETAG André.
+NOMTAG Labarrère.
+André Labarrère, né le 12 janvier 1928 à Pau et mort le 16 mai 2006, est un homme politique français.
+Membre du Parti socialiste, il a été député, sénateur, vice-président de l'Assemblée nationale entre 1973 et 1974, ministre chargé des relations avec le Parlement de 1981 à 1986, ainsi que maire de la ville de Pau de 1971 à 2006.
+Il a aussi publié plusieurs ouvrages, sur des sujets aussi divers que la ville de Pau, la graphologie ou le cinéma, et animé des émissions de télévision.
+
+André Labarrère ne faisait pas un mystère de son homosexualité, qu'il révèle néanmoins juste après le décès de sa mère. Il reste l'un des premiers hommes politiques français à l'avoir annoncée publiquement. Le sujet est le thème de son roman, Le Bal des célibataires, publié en 1997. Cela ne l'empêche pas de se prononcer en 2004 contre le mariage de couples homosexuels, au moment où Noël Mamère (député Verts) célèbre dans sa mairie de Bègles les noces d'un couple gay.
+Personnage atypique, il parle également de Jean-Marie Le Pen comme d'un ami[1]. Les deux hommes se côtoient à l'UNEF en 1947-1949. La parution en novembre 2012 du livre Le Pen, une histoire française, affirme qu’il aurait existé une relation homosexuelle entre les deux hommes dans les années 1970[2].
+Il entretient également des relations amicales avec une voyante condamnée dans les années 1990 pour abus de biens sociaux.
+Le 11 avril 2006, il annonce qu'il est atteint d'un cancer et décède un mois plus tard.
+
+
+Agrégé d'histoire et docteur en lettres, André Labarrère enseigne à l'université Laval de Québec entre 1959 et 1966. Il anime également des émissions sur l'histoire de l'art à la télévision à Montréal et présente des émissions sur la graphologie, plus qu'un passe-temps pour lui.
+Carrière politique.
+
+Militant socialiste, il se fait remarquer lors de la visite à Pau de Jean-Louis Tixier-Vignancour. Il rejoint par la suite la Convention des institutions républicaines (CIR) fondée par François Mitterrand. Il est membre du Bureau politique national du Parti Socialiste de 1968 à 1971 et membre du Comité Directeur National du Parti socialiste dès 1968.
+André Labarrère est élu député des Pyrénées-Atlantiques pour la première fois en mars 1967. Battu en 1968, il est de nouveau élu en 1973 et sera réélu à chaque élection jusqu'en 2001, année où il entre au Sénat.
+Il est élu Conseiller général de Pau-Ouest en 1967, réélu à la suite du découpage Conseiller général de Pau-Jurançon en 1973, 1979, 1985 et démissionnaire en 1988 pour cumul.
+Il est élu Conseiller Régional depuis l'origine à juin 1981, réélu en mars 1986, et démissionne le même mois.
+Il est président du Conseil Régional d'Aquitaine de 1979 à 1981.
+Ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement de 1981 à 1986
+Président de l'Association des Eco-Maires depuis sa création en 1989 jusqu'en 1999
+Maire de Pau de 1971 à 2006, sénateur des Pyrénées-Atlantiques de 2001 à 2006, membre du groupe socialiste du Sénat, il est réélu avec 57 % des voix au premier tour lors des municipales de 2001 dans une ville plutôt conservatrice et n'excluait pas encore en 2006, de se représenter en 2008 (en 1989. François Bayrou est le seul de ses adversaires à le mettre en ballottage)
+Président du Syndicat Intercommunal de l'Agglomération Paloise
+
+Les quelques affaires judiciaires locales (affaires de diffamation, d'usurpation de fonction ou de faux et usage de faux, prise illégale d'intérêt notamment) qui l'ont suivi au cours de ses mandats, ont eu peu de prise sur sa popularité. Mis huit fois en examen, il n'a jamais été condamné.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur des Pyrénées-Atlantiques NOMF 1er octobre 2001 – 16 mai 2006(4 ans, 7 mois et 15 jours) SEP2 Élection REL 23 septembre 2001 SEP2 Prédécesseur REL Louis Althapé SEP2 Successeur REL Annie Jarraud-Vergnolle.
+NOMF Ministre délégué chargédes Relations avec le Parlement NOMF 22 mai 1981 – 20 mars 1986(4 ans, 9 mois et 26 jours).
+NOMF Président NOMF GouvernementPierre Mauroy I, II et IIILaurent Fabius SEP2 Gouvernement REL Pierre Mauroy I, II et IIILaurent Fabius SEP2 Prédécesseur REL Jacques Limouzy SEP2 Successeur REL André Rossinot.
+NOMF Député des Pyrénées-AtlantiquesÉlu dans la 1re puis 3e circonscription NOMF 2 avril 1986 – 30 septembre 2001(15 ans, 5 mois et 28 jours) SEP2 Élection REL 16 mars 1986 SEP2 Prédécesseur REL scrutin proportionnel SEP2 Successeur REL David Habib SEP2 Élection REL 12 mars 1967 SEP2 Prédécesseur REL Pierre Sallenave SEP2 Successeur REL Georges Labazée.
+NOMF Président du Conseil régional d'AquitaineConseiller régional de 1974 à 1986 NOMF 1979 – 1981 SEP2 Prédécesseur REL Jacques Chaban-Delmas SEP2 Successeur REL Philippe Madrelle SEP2 Nom de naissance REL André Labarrère-Paulé SEP2 Surnom REL Dédé SEP2 Date de naissance REL 12 janvier 1928 SEP2 Lieu de naissance REL Pau, France SEP2 Date de décès REL 16 mai 2006 (à 78 ans) SEP2 Lieu de décès REL Pau, France SEP2 Nationalité REL française SEP2 Famille REL Célibataire, sans enfants.

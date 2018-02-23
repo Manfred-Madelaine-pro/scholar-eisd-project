@@ -1,0 +1,17 @@
+PRETAG Robert.
+NOMTAG Laurens.
+Robert Laurens est un homme politique français, né le 26 septembre 1910 à Lacroix-Barrez (Aveyron), décédé le 20 septembre 2005 dans la même localité.
+
+
+Robert Laurens né à Lacroix-Barrez, village du nord-Aveyron où son père est maire. Il est conseiller municipal, maire, député de 1951 à 1955 et sénateur de l'Aveyron de 1956 à 1971.
+Son frère, Camille Laurens est député du Cantal, secrétaire d'État et ministre de l'agriculture.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1951-1955 ; Sénateur 1956-1971 NOMF Groupe politiqueUnion des républicains indépendants et paysans SEP2 Groupe politique REL Union des républicains indépendants et paysans SEP2 Date de naissance REL 26 septembre 1910 SEP2 Date de décès REL 20 septembre 2005 SEP2 Résidence REL Aveyron.

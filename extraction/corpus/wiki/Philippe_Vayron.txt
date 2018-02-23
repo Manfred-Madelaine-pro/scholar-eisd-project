@@ -1,0 +1,18 @@
+PRETAG Philippe.
+NOMTAG Vayron.
+Philippe Vayron, né le 20 janvier 1926 à Paris et décédé le 1er juin 1972 à Créteil (France) par suicide, est un homme politique français, député de la 48e circonscription de la Seine du 30 décembre 1958 au 9 octobre 1962.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP).
+FONCTIONNORM
+
+NOMF Député de la 48e circonscription de la Seine NOMF 30 décembre 1958 – 9 octobre 1962 SEP2 Groupe politique REL IPAS SEP2 Successeur REL Pierre Billotte SEP2 Nom de naissance REL Philippe Pierre Jules Eugène Charles Vayron SEP2 Date de naissance REL 20 janvier 1926 SEP2 Lieu de naissance REL Paris (France) SEP2 Date de décès REL 1er juin 1972 (à 46 ans) SEP2 Lieu de décès REL Créteil (France) SEP2 Parti politique REL CNIP SEP2 Profession REL Professeur.

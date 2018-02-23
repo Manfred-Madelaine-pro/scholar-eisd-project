@@ -1,0 +1,25 @@
+PRETAG Georges.
+NOMTAG Antoine.
+Georges Antoine est né le 1er mai 1852 à Amiens et décédé à Saint-Brieuc, le 28 novembre 1940. Il fut maire d'Amiens et député de la Somme.
+
+
+
+Né à Amiens, le 1er mai 1852, Georges Antoine est le fils de Louis-Henry Antoine, architecte de la ville d'Amiens, et d'Élise Dubois. Élève brillant, il devint architecte lui-même.
+Georges Antoine combattit pendant la Guerre de 1870. Sa bravoure lui valut d'être médaillé et cité à l'ordre de la Nation.
+Il entama sa carrière politique sur le tard. En 1908, il commença sa carrière d'administrateur des intérêts publics, comme conseiller municipal d'Amiens. Adjoint au maire, il assuma les fonctions de maire d'Amiens du 19 août 1910 au 19 mai 1912, à la suite du décès d'Albert Catoire. Il devint adjoint au maire d'Amiens pendant la Grande Guerre et fut l'un des conseillers municipaux pris en otage par les Allemands en août 1914[1]. Son fils aîné mourut au combat, le 11 novembre 1914, à l'âge de 36 ans.
+Un député conservateur.
+De tendance conservatrice catholique, il fut élu député de la Somme le 16 novembre 1919 sur la liste républicaine d'intérêt national et à la Chambre bleu horizon, s'inscrivit au groupe de l'Entente républicaine démocratique.
+Réélu député le 11 mai 1924, il fut le seul élu de la liste républicaine d'union nationale et sociale, réélu une nouvelle fois en avril 1928, dans la première circonscription d'Amiens au deuxième tour de scrutin.
+À la Chambre, il fut principalement actif au sujet des dommages de guerre, des prisonniers civils et militaires et sur la réglementation de la profession d'architecte.
+Il mit fin à sa carrière politique en 1932.
+Il mourut au cours de l'exode à Saint-Brieuc, le 28 novembre 1940.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la Somme NOMF 1919 – 1932 SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL Entente républicaine démocratique SEP2 Prédécesseur REL Lucien Lecointe SEP2 Successeur REL Lucien Lecointe SEP2 Prédécesseur REL Albert Catoire SEP2 Successeur REL Alphonse Fiquet SEP2 Nom de naissance REL Georges Nicolas Antoine SEP2 Date de naissance REL 1er mai 1852 SEP2 Lieu de naissance REL Amiens (Somme) SEP2 Date de décès REL 28 novembre 1940 (à 88 ans) SEP2 Lieu de décès REL Saint-Brieuc (Côtes-d'Armor) SEP2 Nationalité REL  Française SEP2 Profession REL Architecte SEP2 Religion REL Catholique SEP2 Résidence REL Amiens (Somme).

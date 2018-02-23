@@ -1,0 +1,28 @@
+PRETAG Jacques.
+NOMTAG Féron.
+Jacques Féron, né le 11 janvier 1912 à Houilles (Seine-et-Oise) et mort le 20 janvier 2009, est un homme politique français. Député de Paris, il a été président du Centre national des indépendants et paysans (CNI).
+
+
+
+Il a été PDG des usines automobiles Chausson.
+Mandats locaux.
+Jacques Féron a été conseiller de Paris de 1947 à 1959 et de 1983 à 2001. Il a présidé le Conseil de Paris de 1955 à 1956. Il a été maire du 19e arrondissement de la capitale de 1983 à 1994.
+Mandats nationaux.
+Jacques Féron a été député indépendant de Paris à cinq reprises entre 1956 et 1997 sous les couleurs du CNI. Il a présidé le CNIP de 1987 à 1989.
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP) RPR.
+PART Rassemblement pour la République (RPR).
+FONCTIONNORM
+
+NOMF Député de la 20e circonscription de Paris NOMF 2 avril 1993 – 21 avril 1997(4 ans et 19 jours) SEP2 Législature REL 10e (Ve République) SEP2 Prédécesseur REL Jean-Christophe Cambadélis SEP2 Successeur REL Jean-Christophe Cambadélis.
+NOMF Député de Parisscrutin proportionnel NOMF 1er avril 1986 – 14 mai 1988(2 ans, 1 mois et 13 jours) SEP2 Législature REL 8e (Ve République) SEP2 Législature REL 6e (Ve République) SEP2 Prédécesseur REL aucun SEP2 Successeur REL Michel Bulté.
+NOMF Député de la 28e circonscription de Paris NOMF 3 avril 1978 – 22 mai 1981(3 ans, 1 mois et 19 jours) SEP2 Législature REL 6e (Ve République) SEP2 Prédécesseur REL Henri Fiszbin SEP2 Successeur REL Manuel Escutia.
+NOMF Député de la 6e circonscription de Paris NOMF 9 décembre 1958 – 9 octobre 1962(3 ans et 10 mois) SEP2 Législature REL 1re (Ve République) SEP2 Prédécesseur REL circonscription créée SEP2 Successeur REL Bernard Dupérier.
+NOMF Député de la Seine NOMF 2 janvier 1956 – 8 décembre 1958(2 ans, 11 mois et 6 jours) SEP2 Législature REL 3e (IVe République) SEP2 Date de naissance REL 11 janvier 1912 SEP2 Lieu de naissance REL Houilles (Seine-et-Oise) SEP2 Date de décès REL 20 janvier 2009 (à 97 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL Française SEP2 Parti politique REL CNIP-RPR SEP2 Profession REL Chef d'entreprise.

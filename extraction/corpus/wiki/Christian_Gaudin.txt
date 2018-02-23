@@ -1,0 +1,22 @@
+PRETAG Christian.
+NOMTAG Gaudin.
+Christian Gaudin, né le 13 janvier 1950, est un homme politique français.
+
+
+
+Enseignant du supérieur de profession, il est élu sénateur de Maine-et-Loire le 23 septembre 2001. Membre de l'UDF, il quitte le MoDem le 19 mai 2008 et rejoint ensuite le Nouveau Centre. Nommé préfet en octobre 2010, il quitte son siège parlementaire qui revient à Catherine Deroche.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF).
+PART Mouvement démocrate (MoDem).
+PART Nouveau Centre (NC).
+FONCTIONNORM
+
+NOMF Sénateur de Maine-et-Loire NOMF 1er octobre 2001 – 11 octobre 2010 SEP2 Élection REL 23 septembre 2001 SEP2 Groupe politique REL UC SEP2 Successeur REL Catherine Deroche.
+NOMF Conseiller général du canton de Montrevault NOMF 29 mars 1992 – 11 octobre 2010 SEP2 Élection REL 29 mars 1992 SEP2 Réélection REL 22 mars 199828 avril 2004 SEP2 Prédécesseur REL Christian de Villoutreys de Brignac SEP2 Successeur REL Serge Piou SEP2 Date de naissance REL 13 janvier 1950 (68 ans) SEP2 Nationalité REL française SEP2 Parti politique REL UDFMoDemNC SEP2 Profession REL Enseignant du supérieur.

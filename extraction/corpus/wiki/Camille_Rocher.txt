@@ -1,0 +1,19 @@
+PRETAG Camille.
+NOMTAG Rocher.
+Camille Rocher est un homme politique français né le 8 octobre 1877 à La Côte-Saint-André (Isère) et décédé le 19 décembre 1952 à Cannes (Alpes-Maritimes).
+Propriétaire et viticulteur à Roybon, où il est conseiller municipal, il est député de l'Isère de 1919 à 1924, inscrit au groupe de l'Entente républicaine démocratique. Il se spécialise sur les questions minières, s'occupant beaucoup des mines de la Sarre et des mines de potasse d'Alsace.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

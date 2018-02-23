@@ -1,0 +1,29 @@
+PRETAG Jean-Pierre.
+NOMTAG Pierre-Bloch.
+Jean-Pierre Pierre-Bloch, né le 29 janvier 1939 à Paris et mort dans la même ville le 28 septembre 2013, est un homme politique et journaliste français.
+
+
+
+Fils de Jean Pierre-Bloch, ancien député socialiste de l'Aisne et président fondateur de la LICRA, Jean-Pierre Pierre-Bloch a été, dans les années 1960, secrétaire de Johnny Hallyday[1]. Il entre en 1974 au cabinet du président par intérim Alain Poher comme chargé de mission, puis devient conseiller au ministère du Travail. Il est un temps directeur du quotidien France-Soir (en 1985 notamment).
+Il est élu, en mars 1978, député UDF-PSD de Paris, par 13 702 voix contre 13 132 au communiste Louis Baillot, qui l'avait remporté lors de l'élection précédente de 1973. Il est battu par Lionel Jospin en 1981.
+Membre de la LICRA, Jean-Pierre Pierre-Bloch signe, en octobre 1987, dans la revue Demain, notre 18e, un article titré « Le Pen nazi, raciste antisémite - par haine des juifs, il nie l'évidence. », dans lequel il écrit à l'adresse du président du Front national : « Vous représentez le parti des néonazis… Pour vous, nazi, les juifs ne sont pas français. Bientôt, vous ne vous contenterez pas de vouloir renvoyer les étrangers chez eux. Vous prêcherez la solution finale ». Constatant l'« outrance dans l'expression de sa pensée », la Cour d'appel de Paris le condamne pour diffamation[2]. Il perd sur le même motif contre LCI, à laquelle il reprochait une hostilité contre Israël[3].
+Il participe à l’émission à scandales Ciel, mon mardi ! de Christophe Dechavanne le 6 février 1990[n 1].
+En 1993, il est élu dans la 19e circonscription de Paris, mais son élection est invalidée par le Conseil constitutionnel et son siège est remporté par le socialiste Daniel Vaillant, lors de l'élection partielle. Conseiller de Paris (DL, puis UMP) du 18e arrondissement, il est adjoint au maire de Paris de 1983 à 2001.
+Il est le candidat de Jean Tiberi dans le 18e arrondissement de Paris aux élections municipales de 2001, arrivant troisième après les socialistes et la droite menée par Philippe Séguin.
+Il est mis en examen, le 20 octobre 2001, pour « recel d’abus de biens sociaux » par le juge Édith Boizette qui soupçonne la société dirigée par sa femme d'avoir bénéficié de prêts de plusieurs dizaines de millions de francs pour des opérations immobilières[4]. Il bénéficie d'un non-lieu par le juge Renaud Van Ruymbeke[3]. Le 21 décembre 2002, il est à nouveau mis en examen par un juge d'instruction du parquet de Nanterre[5] qui le soupçonne d'avoir perçu, entre 1994 et 1999, des rémunérations d'une société de Neuilly sans y avoir été employé. Il est relaxé par la cour d'appel de Versailles le 14 mars 2008.
+Il rejoint en 2007 le Nouveau Centre.
+À la tête de l'agence de communication Africa Media, il organise la campagne de 2007 du président sénégalais Abdoulaye Wade, qui lui confie également fin 2006 l'organisation du Festival mondial des arts nègres (Fesman), événement doté d'un budget de 22 milliards de francs CFA, remis à plusieurs reprises. En conflit avec Karim Wade, il en est évincé mi-2009, provoquant un conflit devant les tribunaux : le Sénégal réclame au français le remboursement d'une avance d'environ 2 milliards de CFA et Jean-Pierre Pierre-Bloch requérant en réponse 6 milliards de dommages et intérêts[3].
+Il suit alors l'ancien Premier ministre de Wade, Macky Sall, également en rupture avec le président sénégalais, et l'accompagne dans sa campagne pour l'élection présidentielle sénégalaise de 2012[3].
+Il meurt des suites « d'une longue maladie »[6] le 28 septembre à Paris.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti social-démocrate (MDSF).
+FONCTIONNORM
+
+NOMF Député de la 27e circonscription de Paris NOMF 3 avril 1978 – 22 mai 1981 SEP2 Législature REL 6e (Ve République) SEP2 Groupe politique REL UDF SEP2 Prédécesseur REL Louis Baillot SEP2 Successeur REL Lionel Jospin SEP2 Date de naissance REL 29 janvier 1939 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 28 septembre 2013 (à 74 ans) SEP2 Lieu de décès REL Paris SEP2 Parti politique REL MDSF SEP2 Profession REL Chef de cabinet, journaliste.

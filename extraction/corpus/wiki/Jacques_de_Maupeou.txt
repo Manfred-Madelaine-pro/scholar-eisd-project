@@ -1,0 +1,21 @@
+PRETAG Jacques_de.
+NOMTAG Maupeou.
+Jacques de Maupeou d'Ableiges, (prononcé « mau-pou »), né le 28 décembre 1899 à Nantes (Loire-Atlantique), mort le 22 janvier 1963 à Auzay (Vendée), propriétaire exploitant agricole, est un homme politique français, sénateur de la Vendée de 1948 à 1963.
+
+
+
+Il est le fils de Gilles Noël de Maupeou d'Ableiges (1862-1927) et Louise de Rorthays de Monbail (1862-1952)[1].
+Ancien élève de l'École du Louvre et de l'École des langues orientales, il contribue à la Revue des deux Mondes et au Journal des débats. Il dirige la Revue du Bas-Poitou de 1939 à 1956.
+En mai 1940, il est à la tête d'une section de canons anti-char dans les Ardennes et est décoré de la Croix de guerre pour sa conduite à la bataille de Vendresse près de Sedan. Fait prisonnier par les Allemands à Saint-Valery-en-Caux en juin, il s'évade en juillet et revient chez lui en Vendée.
+En 1948, il est élu au Conseil de la République et s'inscrit au groupe du RPF. Réélu en 1952 et en 1958, il est ensuite élu au Sénat en 1959. Il décède en cours de mandat en 1963.
+Au Sénat, il s'inscrit au groupe des Républicains et indépendants. Il siège à la commission des affaires culturelles.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1948-1963 NOMF GouvernementIVe République-Ve République SEP2 Gouvernement REL IVe République-Ve République SEP2 Groupe politique REL RPF (1946-1959)RI (1959-1963) SEP2 Nom de naissance REL Gilles Jacques Marie de Maupeou d'Ableiges SEP2 Date de naissance REL 28 décembre 1899 SEP2 Date de décès REL 22 janvier 1963 SEP2 Résidence REL Vendée.

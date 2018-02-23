@@ -1,0 +1,25 @@
+PRETAG Pierre.
+NOMTAG Descaves.
+Pierre Descaves, né le 1er octobre 1924 à Khenchela (Algérie) et mort le 7 mai 2014 à Neuilly-sur-Seine, est un homme politique français.
+
+
+
+Docteur en Sciences économiques, licencié en Droit, diplômé de l'Institut de Droit des Affaires, et expert comptable de profession, il s'est engagé dans l'armée française en 1944 et a participé à la Libération de la France[1].
+Pied-noir, né à Khenchela (Algérie), fils de Georges Descaves, Commissaire de Police assassiné par le FLN en 1958, il s'engage en 1961 dans l'Organisation armée secrète (OAS), mouvement qui essaie de maintenir l'Algérie française en recourant au terrorisme. Selon Le Monde, « M. Descaves participa à une série d'attentats en sa qualité d'activiste de l'OAS[2]. » Emprisonné pour ses activités, il fut interné au camp militaire de Saint-Maurice-l'Ardoise, d'où il s'est échappé en février 1961[1].
+Dans les années 1970 et 1980, il milite dans les clubs Avenir et libertés de Bernard-Claude Savy, puis rejoint le Front national (FN) en 1984[3]. Il devient membre du comité central et secrétaire national aux Rapatriés. Vice-président du Syndicat national de la petite et moyenne industrie (SNPMI), c'est aussi un notable économique et social, à l'instar de François Bachelot ou Guy Le Jaouen[4], et incarne une tendance plutôt « pro-israélienne » au sein du Front national[5].
+Pierre Descaves est élu député de l'Oise en 1986, mais battu en 1988. Il mène la liste FN aux élections municipales, à Noyon, un an plus tard, et devient conseiller municipal. Il se représente en 1995, et obtient 48,12 % des suffrages exprimés, contre 51,87 % à la liste RPR-UDF de Bertrand Labarre. Il sera à nouveau candidat en 2001 sur la liste intitulée "Pierre Descaves Noyon Renaissance" où il occupe la treizième position. la liste obtient 34,12 % des voix au second tour et il n'est pas réélu.
+En janvier 1998, il est chargé du commerce et de l'artisanat dans le contre-gouvernement du FN supervisé par Jean-Claude Martinez[6].
+La même année, il est élu conseiller général. Sa voix permet à Jean-François Mancel de rester président du conseil général de l'Oise. Il ne se représente pas en 2004, et le canton bascule à gauche, de même que la majorité au conseil général. De 1986 à 2010, Pierre Descaves est également conseiller régional de Picardie. Il est réélu conseiller régional en 2004 sur la liste Front national menée par Michel Guiniot. Après avoir quitté le FN pour le PDF, il figure en 5e position aux européennes de 2009 puis en dernière position sur la liste départementale de la Somme lors des régionales de 2010. En 2010, il signe la pétition de Paul-Éric Blanrue pour l'abrogation de la loi Gayssot[7]. Lors du second congrès du Parti de la France en février 2013, Pierre Descaves est élu au Bureau politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) 1984-2009.
+PART Parti de la France (PDF) 2009-2014.
+FONCTIONNORM
+
+NOMF Député de l'Oise NOMF 1986 – 1988 SEP2 Groupe politique REL FN-RN SEP2 Nom de naissance REL Pierre Descaves SEP2 Date de naissance REL 1er octobre 1924 SEP2 Lieu de naissance REL Khenchela SEP2 Date de décès REL 7 mai 2014 (à 89 ans) SEP2 Lieu de décès REL Neuilly-sur-Seine SEP2 Nationalité REL Française SEP2 Parti politique REL FN (1984-2009)PDF (2009-2014) SEP2 Profession REL Expert-comptable.

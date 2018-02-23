@@ -1,0 +1,29 @@
+PRETAG Jacqueline.
+NOMTAG Eustache-Brinio.
+Jacqueline Eustache-Brinio, née le 5 septembre 1956 à Houilles (Seine-et-Oise)[1], est une femme politique française. Elle est actuellement sénatrice du Val-d'Oise.
+
+
+Jacqueline Eustache-Brinio commence sa carrière politique en se présentant à la mairie de Saint-Gratien. De 1983 à 2001, elle est adjointe au maire chargée des affaires sociales[2],[3]. Elle est maire de Saint-Gratien[4] de 2001 à 2017.
+En 2004, elle est élue conseillère régionale d'Île-de-France[5],[6].
+En 2009, Jacqueline Eustache-Brinio est agressée[7],[8],[9].
+En 2011, le sénateur Hugues Portelli lui propose d'être candidate sur sa liste lors des sénatoriales[10]. Elle figure en 2e position sur la liste de la majorité présidentielle, mais elle n'est pas élue[11].
+Julien Bachard lui succède en tant que vice-président de la communauté d'agglomération Plaine Vallée délégué à l'habitat et à l'aménagement du territoire[12],[13].
+Le 24 septembre 2017, elle est élue sénatrice du Val-d'Oise[14],[15],[16],[17].
+À la suite de cette élection, elle démissionne de son mandat au conseil régional d'Île-de-France[18].
+Julien Bachard lui succède à la tête de la municipalité[19],[20],[21],[22].
+
+
+
+
+
+
+
+PARTISNORM
+PART Démocratie libérale (parti politique) (DL).
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (Les Républicains).
+FONCTIONNORM
+
+NOMF Conseillère municipale de Saint-Gratien NOMF En fonction depuis le 20 octobre 2017(4 mois et 1 jour) SEP2 Maire REL Julien Bachard SEP2 Élection REL 24 septembre 2017 SEP2 Groupe politique REL LR.
+NOMF Conseillère régionale d'Île-de-France NOMF 28 mars 2004 – 20 octobre 2017(13 ans, 6 mois et 22 jours) SEP2 Élection REL 28 mars 2004 SEP2 Réélection REL 21 mars 201013 décembre 2015.
+NOMF Président NOMF SuccesseurNathalie Groux SEP2 Successeur REL Nathalie Groux SEP2 Prédécesseur REL François Scellier SEP2 Successeur REL Julien Bachard SEP2 Maire REL François Scellier SEP2 Date de naissance REL 5 septembre 1956 (61 ans) SEP2 Lieu de naissance REL Houilles (Seine-et-Oise) SEP2 Nationalité REL Française SEP2 Parti politique REL DLUMPLes Républicains SEP2 Profession REL Ancienne Enseignante.

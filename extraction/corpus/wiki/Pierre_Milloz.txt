@@ -1,0 +1,17 @@
+PRETAG Pierre.
+NOMTAG Milloz.
+Pierre Milloz, né le 3 septembre 1927 à Alger, est un homme politique et juriste français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (Front national).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

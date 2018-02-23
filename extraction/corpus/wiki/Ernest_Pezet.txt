@@ -1,0 +1,27 @@
+PRETAG Ernest.
+NOMTAG Pezet.
+Ernest Pezet, né le 6 décembre 1887 à Rignac (Aveyron) et mort le 21 novembre 1966 à Paris (Seine), est un homme politique français.
+
+
+
+Fils d'un meunier, il s'oriente très tôt vers le journalisme. Il est membre du Sillon de Marc Sangnier, dont il est le collaborateur. Mobilisé, il est plusieurs fois blessé. En 1919, il est l'un des six fondateurs de l'Union nationale des combattants. Rédacteur en chef de la Voix du combattant, il sillonne la France pour organiser les associations d'anciens combattants. Il est à l'origine de la retraite mutualiste du combattant, de l'office du combattant, de la croix du combattant. Dans le même temps, il collabore à de nombreux journaux à Paris et en province.
+En 1924, il est l'un des fondateurs du Parti démocrate populaire. En 1928, il est élu député du Morbihan. Il est très actif au sein de la commission des Affaires étrangères, dont il est vice-président. Il y est le spécialiste de l'Europe centrale et orientale. Il s'intéresse beaucoup aux questions de propagande et de censure. En 1930 et 1931, il est secrétaire de la Chambre.
+Le 10 juillet 1940, il vote les pleins pouvoirs au maréchal Pétain, mais bascule immédiatement dans la Résistance, dans les réseaux démocrate-chrétiens, notamment le « groupe de la rue de Lille ». Il participe à la rédaction des Cahiers du travaillisme français entre septembre 1943 et mai 1944 aux côtés d'autres démocrates chrétiens comme Robert Buron[1]. À la Libération, il est relevé de son inéligibilité. Il est réélu député MRP du Morbihan à la première assemblée constituante. Il retrouve son poste de vice-président de la commission des Affaires étrangères. Il est vice-président du Conseil de la République en 1952.
+En 1946, il est membre de la délégation française à la conférence de paix et à la première Assemblée générale des Nations unies. En décembre 1946, il est élu sénateur par l'Assemblée nationale. Il conserve ce mandat, au titre des Français de l'étranger, jusqu'en 1959. Il préside le groupe MRP au Sénat. Vice-président de la commission des Affaires étrangères de 1951 à 1955, c'est un parlementaire très actif, rapporteur de nombreux textes importants de sa commission : plan Marshall, traité de l'Atlantique nord, création de la Communauté européenne du charbon et de l'acier. En 1952, il est nommé membre de l'assemblée du Conseil de l'Europe.
+En parallèle, il est, jusqu'à sa mort, président de l'Association professionnelle de la presse républicaine. Il préside aussi pendant plusieurs années l'Union des Français de l'étranger.
+Par le mariage de son fils Jacques, Ernest Pezet est le beau-père de l'artiste peintre et sculpteur Geneviève Pezet.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti démocrate populaire (PDP) MRP.
+PART Mouvement républicain populaire (MRP).
+FONCTIONNORM
+
+NOMF Conseiller de la République des Français de l'étranger NOMF décembre 1946 – 1959.
+NOMF Député du Morbihan à l'Assemblée constituante NOMF 6 novembre 1945 – 10 juin 1946 SEP2 Élection REL 21 octobre 1945.
+NOMF Député du Morbihan NOMF 1er juin 1928 – 10 juillet 1940 SEP2 Élection REL 29 avril 1928 SEP2 Réélection REL 8 mai 19323 mai 1936 SEP2 Législature REL XIVe, XVe et XVIe SEP2 Date de naissance REL 6 décembre 1887 SEP2 Lieu de naissance REL Rignac (Aveyron, France) SEP2 Date de décès REL 21 novembre 1966 (à 78 ans) SEP2 Lieu de décès REL Paris (Seine, France) SEP2 Nationalité REL  France SEP2 Parti politique REL PDP, puis MRP SEP2 Profession REL Journaliste.

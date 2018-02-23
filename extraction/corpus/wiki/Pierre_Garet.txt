@@ -1,0 +1,17 @@
+PRETAG Pierre.
+NOMTAG Garet.
+Pierre Garet, né le 7 septembre 1905 à Montdidier (Somme), mort le 10 décembre 1972 à Amiens, est un homme politique français. Il fut député de la Somme de 1945 à 1958 et ministre à trois reprises durant la IVe République.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1945-1958Sénateur 1959-1972 NOMF GouvernementQuatrième République-Cinquième République SEP2 Gouvernement REL Quatrième République-Cinquième République SEP2 Groupe politique REL MRP (1945-1951)RI (1951-1955)IPAS (1956-1958)RI (1959-1972).
+NOMF Ministre du Travail et de la Sécurité sociale NOMF 8 mars 1952 – 8 janvier 1953 SEP2 Premier ministre REL Antoine Pinay SEP2 Gouvernement REL Gouvernement Pinay.
+NOMF Ministre de la Reconstruction et du Logement NOMF 6 novembre 1957 – 1er juin 1958 SEP2 Premier ministre REL Félix GaillardPierre Pflimlin SEP2 Gouvernement REL Gouvernement Félix GaillardGouvernement Pierre Pflimlin SEP2 Date de naissance REL 7 septembre 1905 SEP2 Date de décès REL 10 décembre 1972 SEP2 Résidence REL Somme.

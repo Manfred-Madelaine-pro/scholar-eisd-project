@@ -1,0 +1,30 @@
+PRETAG Bruno.
+NOMTAG Mégret.
+Bruno Mégret, né le 4 avril 1949 à Paris, est un haut fonctionnaire et homme politique français.
+Après avoir été membre du Rassemblement pour la République (RPR), puis dirigé son propre mouvement, les Comités d'action républicaine (CAR), il rejoint dans les années 1980 le Front national (FN), dont il devient l'un des principaux dirigeants. Après sa rupture avec Jean-Marie Le Pen en 1998, il fonde le Mouvement national républicain (MNR), parti classé à l'extrême droite et qui se réclame de la « droite nationaliste et conservatrice ».
+
+
+Origine.
+Bruno Mégret est le fils du haut fonctionnaire Jacques Mégret et de Colette Constantinides[note 1]. Il est l'aîné d'une famille de quatre enfants dont il est le seul garçon.
+À Bruxelles, où son père est en poste aux Communautés européennes, Bruno Mégret est scolarisé à l'école européenne[note 2]. De retour à Paris, il est pensionnaire à l'Institut catholique Bossuet[note 3] et inscrit en seconde au lycée Louis-le-Grand avant d'y être admis en classe préparatoire. Reçu à l'École polytechnique[note 4] en 1969, il en sort dans la « botte[note 5] » et intègre le corps des Ponts et Chaussées[note 6].
+Diplômé de l'Institut des hautes études de Défense nationale, capitaine de réserve de l'Arme blindée de cavalerie, il a été élève officier de réserve de l'École de cavalerie de Saumur (incluant un stage commando à Quélern, puis deux mois en garnison en Allemagne à Offenbourg). Il a ensuite passé huit mois à Laon comme sous-lieutenant au 6e régiment de cuirassiers.
+En 1974, ses études en France terminées, il part, muni d'une bourse, pour les États-Unis où il passe une année à l'université de Californie à Berkeley. Il en revient avec un diplôme de Master of Science.
+Chargé de mission au Commissariat général du Plan en 1975 et 1976[note 7], il est affecté à l'aménagement du territoire lors de la préparation du VIe plan[note 8].
+Nommé à la direction départementale de l'équipement de l'Essonne en 1977[note 9], il est ensuite conseiller technique au cabinet du ministre de la Coopération de 1979 à 1981, puis directeur adjoint des infrastructures et des transports à la préfecture de la région Île-de-France jusqu'en 1986. Mis en disponibilité, il rejoint son corps d'origine deux ans plus tard, après sa défaite aux élections législatives. Jusqu'en juin 1989, où il est élu député européen, il est chargé de mission au conseil général de l'environnement et du développement durable (CGEDD)[réf. nécessaire].
+Parcours politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement pour la République (RPR) 1975-1982.
+PART Comités d'action républicaine (CAR) 1982-1988.
+PART Front national (FN) 1987-1998.
+PART Mouvement national républicain (MNR) depuis 1998.
+FONCTIONNORM
+
+NOMF Député européen NOMF 25 juillet 1989 – 20 juillet 1999(9 ans, 11 mois et 25 jours) SEP2 Élection REL 15 juin 1989 SEP2 Réélection REL 12 juin 1994 SEP2 Législature REL 3e et 4e SEP2 Groupe politique REL GTDE (1989-1994)NI (1994-1999).
+NOMF Député de l'Isère NOMF 16 mars 1986 – 14 mai 1988(2 ans, 1 mois et 28 jours) SEP2 Législature REL VIIIe (Cinquième République) SEP2 Groupe politique REL Front national-Rassemblement national SEP2 Date de naissance REL 4 avril 1949 (68 ans) SEP2 Lieu de naissance REL Paris (France) SEP2 Nationalité REL française SEP2 Parti politique REL RPR (1975-1982)CAR (1982-1988)FN (1987-1998)MNR (depuis 1998) SEP2 Père REL Jacques Mégret SEP2 Conjoint REL Catherine Rascovsky SEP2 Profession REL Haut fonctionnaire.

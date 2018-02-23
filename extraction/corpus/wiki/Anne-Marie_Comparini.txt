@@ -1,0 +1,27 @@
+PRETAG Anne-Marie.
+NOMTAG Comparini.
+Anne-Marie Comparini est une femme politique française de centre droit, née le 11 juillet 1947 à Orange (Vaucluse).
+Elle a été présidente du conseil régional de Rhône-Alpes (1999-2004) et députée du Rhône (2002-2007).
+
+
+
+Originaire du Vaucluse, Anne-Marie Comparini suit des études de droit à Lyon, où elle est diplômée en droit public et obtient un certificat d'études supérieures de l'Institut du droit du travail.
+Elle travaille à l'ORTF et à l’INA, puis devient assistante parlementaire de Raymond Barre de 1978 à 2001.
+Anne-Marie Comparini entre au conseil régional de Rhône-Alpes en 1986. Réélue en 1992 conseillère régionale, elle est adjointe de Raymond Barre à la mairie de Lyon, entre 1995 et 2001, chargée de la politique de la Ville et des universités.
+En 1999, après l'invalidation par le Conseil d'État de l'élection de Charles Millon à la présidence du Conseil régional de Rhône-Alpes, elle est élue à la tête de la région, grâce aux voix de toute la gauche et à celles des élus UDF qui ne soutenaient plus Charles Millon depuis qu'il avait accepté, en 1998, les voix du Front national. Candidate à sa succession au nom de l'union de la droite UDF-UMP, aux élections de 2004, elle perd face à la liste de gauche menée par Jean-Jack Queyranne.
+Elle est élue députée le 16 juin 2002, pour la XIIe législature (2002-2007), dans la 1re circonscription du Rhône, et membre de la Commission des lois. Restée fidèle à François Bayrou dans la foulée de l'élection présidentielle de 2007, elle est battue aux législatives suivantes dès le premier tour, sous l'étiquette Mouvement démocrate elle ne recueille en effet que 17,37 % des suffrages.
+Conseillère régionale, promise à la tête de liste du parti de François Bayrou pour les municipales à Lyon, elle annonce en septembre 2007 sa décision de se retirer de la vie politique, et de ne plus briguer de nouveau mandat, décidant toutefois d'aller à l'issue de son mandat de conseillère régionale en 2010[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF).
+PART Mouvement démocrate (MoDem).
+FONCTIONNORM
+
+NOMF Présidente du Conseil régional deRhône-Alpes NOMF 4 janvier 1999 – 28 mars 2004(5 ans, 2 mois et 24 jours) SEP2 Prédécesseur REL Charles Millon SEP2 Successeur REL Jean-Jack Queyranne.
+NOMF Députée du RhôneÉlue dans la 1re circonscription NOMF 19 juin 2002 – 19 juin 2007(5 ans) SEP2 Prédécesseur REL Bernadette Isaac-Sibille SEP2 Successeur REL Michel Havard SEP2 Élection REL 18 juin 1995 SEP2 Maire REL Raymond Barre SEP2 Date de naissance REL 11 juillet 1947 (70 ans) SEP2 Lieu de naissance REL Orange (Vaucluse) SEP2 Nationalité REL  Française SEP2 Parti politique REL UDFMoDem SEP2 Profession REL Administratrice.

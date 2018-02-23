@@ -1,0 +1,20 @@
+PRETAG Roger.
+NOMTAG Clair.
+Roger Clair, né le 17 mars 1900 à Parent et mort le 8 mai 1967 à Paris, est un militant communiste puis trotskiste français.
+Engagé au sein du Parti communiste français, il en est exclu en 1935 pour avoir contesté le soutien de Staline à la politique militaire française. Il rejoint alors rapidement le groupe trotskiste constitué autour de Pierre Naville et Jean Rous, et participe à la création du Parti ouvrier internationaliste. C'est pendant cette période qu'il fait la rencontre de celle qui devient sa compagne, Suzanne Charpy.
+Il en est exclu en 1937 du fait de la découverte par le biais de poursuites judiciaires à son encontre, de son activité de fabrication de faux papiers. Finalement acquitté en 1939, il reprend son activité militante, toujours auprès de Pierre Naville qui a rejoint le PSOP de Marceau Pivert.
+Aux débuts de l'Occupation, il participe aux activités du Mouvement national révolutionnaire, dont la durée de vie est brève.
+Après 1941, il ne semble plus avoir eu d'activité publique notable.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

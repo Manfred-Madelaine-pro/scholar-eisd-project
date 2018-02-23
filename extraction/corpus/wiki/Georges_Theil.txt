@@ -1,0 +1,22 @@
+PRETAG Georges.
+NOMTAG Theil.
+Georges Theil, dit Gilbert Dubreuil, né en 1940, est un militant politique français.
+Membre du Front national, il a été condamné à plusieurs reprises pour négationnisme.
+
+
+
+Fils d'un résistant assassiné en avril 1944, Georges Theil a travaillé comme administrateur des Télécommunications affecté à France Télécom. Il est à la retraite depuis juillet 2000.
+Il a été conseiller régional FN en Rhône-Alpes de 1998 à 2004. Il fait partie des 500 signataires qui proposent Jean-Marie Le Pen comme candidat à l'élection présidentielle de 2002.
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (Front national).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Conseiller régional NOMF .

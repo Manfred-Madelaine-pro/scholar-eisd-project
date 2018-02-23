@@ -1,0 +1,20 @@
+PRETAG Camille.
+NOMTAG Mermod.
+Camille Mermod est un homme politique français né le 12 octobre 1878 à Martignat (Ain) et décédé le 11 août 1967 à Martignat.
+Industriel, il est député de l'Ain de 1919 à 1924, inscrit au groupe de l'Entente républicaine démocratique, et de 1934 à 1936, à la Fédération républicaine. Sous l'Occupation, il est commissaire du gouvernement de Vichy à Blois.
+Sa fille Lucille (née en 1913) a épousé l'archiviste Jean Mallon, connu pour ses travaux sur la paléographie latine.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

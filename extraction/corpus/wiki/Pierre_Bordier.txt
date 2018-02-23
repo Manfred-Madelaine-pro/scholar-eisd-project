@@ -1,0 +1,21 @@
+PRETAG Pierre.
+NOMTAG Bordier.
+Pierre Bordier, né le 21 juin 1945, est un homme politique français.
+
+
+
+Vétérinaire de profession, Pierre Bordier est élu sénateur de l'Yonne le 26 septembre 2004.
+Il est mis en examen en 2017 pour « recel de détournement de fonds publics », soupçonné avec six autres sénateurs du groupe UMP d'avoir créé une association fictive, financée par de l'argent public, afin de s'en approprier les financements[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Sénateur de l'Yonne NOMF 1er octobre 2004 – 30 septembre 2014(9 ans, 11 mois et 29 jours) SEP2 Élection REL 26 septembre 2004 SEP2 Groupe politique REL UMP.
+NOMF Conseiller général de l'Yonneélu dans le canton de Saint-Fargeau NOMF 29 mars 1992 – 22 mars 2015(22 ans, 11 mois et 21 jours) SEP2 Prédécesseur REL Simone Wattine SEP2 Successeur REL Canton supprimé SEP2 Successeur REL Jean Joumier SEP2 Date de naissance REL 21 juin 1945 (72 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL UMP SEP2 Profession REL Vétérinaire.

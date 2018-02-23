@@ -1,0 +1,19 @@
+PRETAG Henri.
+NOMTAG Patenôtre-Desnoyers.
+Henri Patenôtre-Desnoyers est un homme politique français né le 3 février 1883 à Charenton-le-Pont (Seine) et décédé le 21 février 1958 à Montmorency (Seine-et-Oise).
+Industriel, il est maire d'Enghien-les-Bains et député de Seine-et-Oise de 1928 à 1936, inscrit au groupe des Républicains de gauche, puis au Centre républicain. Il s'occupe surtout des questions relatives à la région parisienne.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance démocratique (Alliance démocratique).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

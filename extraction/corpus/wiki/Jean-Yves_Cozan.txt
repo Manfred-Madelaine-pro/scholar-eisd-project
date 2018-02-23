@@ -1,0 +1,27 @@
+PRETAG Jean-Yves.
+NOMTAG Cozan.
+Jean-Yves Cozan, né le 16 mai 1939 à Brest (Finistère) et mort dans la nuit du 15 au 16 juin 2015[1],[2], est un homme politique français du Modem, proche du Parti breton.
+
+Jean-Yves Cozan est le père d'Isabelle Le Bal, 1re adjointe au maire de Quimper depuis 2014.
+
+
+Après des études de sociologie, il devient journaliste à l’hebdomadaire Le Progrès de Cornouaille dont il devient le directeur (1962-69), avant d’entrer au cabinet d'André Colin, ancien ministre, conseiller général d'Ouessant et président du conseil général du Finistère (1969-78), en qualité de secrétaire général du CODAFF, comité d'expansion du Finistère. D’abord inscrit au Centre des démocrates sociaux (CDS), il continue sa carrière politique comme adhérent de l’UDF et membre du Club Idées-Action d’Alain Madelin, tout en concluant des accords avec le PS. Ainsi, en 1998, il se maintient au second tour des élections sénatoriales où trois candidats socialistes sont élus et un sortant RPR réélu. En 1998, il mène une liste « Indépendants de Bretagne » non affiliée à un parti mais qui fait partie de la majorité de droite.
+Il est élu adjoint au maire de Quimper (1977-89), conseiller général du canton d'Ouessant (depuis le décès d'André Colin en 1978), conseiller régional de Bretagne de 1986 à 1988, et à nouveau de 1998 à 2004, enfin député du Finistère de 1986 à 1997.
+Parallèlement, il fut, à partir de 1983, président du parc naturel régional d'Armorique et de six sociétés d’économie mixte. En outre, il fut président de Finist'air et administrateur de la SEM d’aménagement du Finistère. Il est désigné « Breton de l’année 1991 » par Armor Magazine.
+À l’Assemblée nationale, il siégea à la commission de la défense et présida activement le groupe d’amitié France-Chine.
+Au conseil régional de Bretagne, dont il fut vice-président jusqu'en 2004, il prit en charge la promotion de l’identité bretonne et de la culture.
+Le 30 mars 2009, il rejoint le Modem[3]. Au printemps 2010 il est président du comité de soutien à la liste Modem aux élections régionales en Bretagne, "Bretagne au Centre" [4].
+
+
+
+
+
+
+
+PARTISNORM
+PART Mouvement démocrate (Modem).
+FONCTIONNORM
+
+NOMF Député du Finistère NOMF 1986 – 1997 SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL UDF (1986-1988)UDC (1988-1993)UDFC (1993-1997) SEP2 Prédécesseur REL Jean Beaufort SEP2 Successeur REL Kofi Yamgnane.
+NOMF Conseiller général du canton d'Ouessant NOMF 1978 – 2015 SEP2 Prédécesseur REL André Colin SEP2 Successeur REL suppression du canton.
+NOMF Conseiller régional de Bretagne NOMF 1986 – 1988 SEP2 Date de naissance REL 16 mai 1939 SEP2 Lieu de naissance REL Brest (Finistère, France) SEP2 Date de décès REL 16 juin 2015 SEP2 Parti politique REL Modem SEP2 Enfants REL Isabelle Le Bal SEP2 Profession REL Journaliste SEP2 Résidence REL Quimper.

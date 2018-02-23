@@ -1,0 +1,18 @@
+PRETAG Jean-Marie.
+NOMTAG Caro.
+Jean-Marie Caro, né le 14 août 1929 à Istanbul (Turquie), et mort le 17 février 2014 (à 84 ans) est un homme politique français.
+Il fut député du Bas-Rhin (UDF) de 1973 à 1993, président de l'assemblée de l'UEO de 1984 à 1987 et Conseiller général de Villé de 1973 à 1993.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la 6e circonscription du Bas-Rhin NOMF 23 juin 1988 – 1er avril 1993(4 ans, 9 mois et 9 jours) SEP2 Élection REL 12 juin 1988 SEP2 Groupe politique REL RDS (1973-1978)UDF (1978-1986) SEP2 Successeur REL Alain Ferry SEP2 Élection REL 11 mars 1973 SEP2 Réélection REL 19 mars 197814 juin 1981 SEP2 Groupe politique REL UDF SEP2 Prédécesseur REL Gérard Lehn.
+NOMF Député du Bas-Rhinscrutin proportionnel à un tour NOMF 2 avril 1986 – 14 mai 1988(2 ans, 1 mois et 13 jours) SEP2 Élection REL 16 mars 1986 SEP2 Groupe politique REL UDF SEP2 Date de naissance REL 14 août 1929 SEP2 Lieu de naissance REL Istanbul (Turquie) SEP2 Date de décès REL 17 février 2014 (à 84 ans) SEP2 Nationalité REL Française SEP2 Conjoint REL Anne-Marie Vonesh SEP2 Profession REL Administrateur au Conseil de l'Europe SEP2 Résidence REL Bas-Rhin.

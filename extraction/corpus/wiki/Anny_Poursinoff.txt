@@ -1,0 +1,30 @@
+PRETAG Anny.
+NOMTAG Poursinoff.
+Anny Poursinoff, né le 30 octobre 1951 à Stenay (Meuse), est une infirmière et femme politique française. Ancienne conseillère régionale d'Île-de-France, elle est députée de la 10e circonscription des Yvelines de 2010 à 2012.
+
+
+
+Conseillère régionale.
+Anny Poursinoff est une ancienne infirmière. Ancienne responsable de la commission femme des Verts, elle est élue au conseil régional d'Île-de-France en 1992 puis à nouveau en 2004. Elle s'y occupe notamment d'agriculture.
+Lors des élections régionales de 2010, elle est tête de liste Europe Écologie Les Verts dans les Yvelines. Réélue, elle devient présidente de Natureparif[1] en remplacement de Jean-Vincent Placé le 2 juin 2010.
+Le 5 septembre 2010 elle annonce sa démission du conseil régional, ainsi que de la présidence de Natureparif, conformément au principe du non-cumul des mandats[2].
+Élections législatives.
+Candidate aux élections législatives dans la 10e circonscription des Yvelines en 1997, elle arrive au second tour face à Christine Boutin mais perd avec 45,08 % des voix[3]. En 2002[4] et en 2007[5], elle se présente mais ne peut se maintenir au second tour.
+À la suite de la démission de Christine Boutin, elle arrive deuxième au premier tour des élections législatives partielles le 20 septembre 2009 face à Jean-Frédéric Poisson, dépassant la candidate socialiste Françoise Pelissolo. Jean-Frédéric Poisson est ensuite élu au second tour, avec cinq voix d'avance puis par une seule voix d'écart après recomptage. Une décision du Conseil Constitutionnel invalide cette élection, à cause du faible écart de voix et d'un tract de Gérard Larcher, sénateur-maire de Rambouillet, distribué la veille du second tour, affirmant que les Verts avaient voté pour le Grenelle de l'environnement, ce qui n'est pas le cas[6].
+Une nouvelle élection partielle a lieu les 4 et 11 juillet 2010. Elle est à nouveau candidate sous l'étiquette Les Verts Europe Écologie, soutenue par le PS, dont son suppléant Didier Fischer est membre[7]. Elle arrive en tête du premier tour avec 42,62 % des voix[8] avant de l'emporter au second tour avec 51,72 % des suffrages[9].
+Elle devient ainsi la quatrième députée des Verts de la XIIIe législature. Anny Poursinoff pose sa première question au gouvernement pour dénoncer les attaques gouvernementales contre la presse dans l'affaire Woerth-Bettencourt. À l'occasion de son premier vote, concernant la loi sur le voile intégral, elle dit avoir fait évoluer le vote des députés verts du contre à l'abstention[10].
+Aux élections législatives de juin 2012, sous l'étiquette Parti socialiste et Europe Écologie Les Verts, elle est battue par Jean-Frédéric Poisson (UMP), avec 46,35 % des voix[11].
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts).
+PART Europe Écologie Les Verts (EELV).
+FONCTIONNORM
+
+NOMF Députée française NOMF 12 juillet 2010 – 17 juin 2012 SEP2 Circonscription REL 10e des Yvelines SEP2 Prédécesseur REL Jean-Frédéric Poisson (UMP) SEP2 Successeur REL Jean-Frédéric Poisson (UMP).
+NOMF Conseillère régionale d'Île-de-France NOMF 29 mars 2004 – 1er septembre 2010 SEP2 Successeur REL Caroline Bardot (PCF) SEP2 Date de naissance REL 30 octobre 1951 (66 ans) SEP2 Lieu de naissance REL Stenay (Meuse) SEP2 Parti politique REL Les VertsEELV.

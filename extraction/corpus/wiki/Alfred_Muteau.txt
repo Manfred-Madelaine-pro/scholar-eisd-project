@@ -1,0 +1,16 @@
+PRETAG Alfred.
+NOMTAG Muteau.
+Alfred Muteau est un homme politique français né le 1er mars 1850 à Dijon (Côte-d'Or) et mort le 8 avril 1916 (à 66 ans) à Paris.
+Petit-fils de Jules Étienne François Muteau, député de la Côte-d'Or, il devient après des études de droit commissaire de la Marine. Il devient ensuite secrétaire général de l'Alliance française et de la société internationale pour l'étude des questions d'assistance, membre du conseil supérieur de l'Assistance. Il publie de nombreux livres et articles de presse. En 1895, il est conseiller général du canton de Selongey et devient député de la Côte-d'Or de 1898 à 1914, inscrit au groupe de la Gauche démocratique.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

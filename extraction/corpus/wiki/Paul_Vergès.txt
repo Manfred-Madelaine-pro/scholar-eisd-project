@@ -1,0 +1,22 @@
+PRETAG Paul.
+NOMTAG Vergès.
+Paul Vergès, né le 5 mars 1925 à Ubon Ratchathani (Siam, actuelle Thaïlande) et mort le 12 novembre 2016 à Saint-Denis (La Réunion), est un homme politique français.
+
+
+
+Famille et jeunesse.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste réunionnais (PCR).
+FONCTIONNORM
+
+NOMF Sénateur de La Réunion NOMF 1er octobre 2011 – 12 novembre 2016(5 ans, 1 mois et 11 jours) SEP2 Élection REL 25 septembre 2011 SEP2 Réélection REL 28 septembre 2014 SEP2 Successeur REL Gélita Hoarau SEP2 Élection REL 23 septembre 2001.
+NOMF Président du conseil régional de La Réunion NOMF 23 mars 1998 – 26 mars 2010(12 ans et 3 jours) SEP2 Prédécesseur REL Margie Sudre SEP2 Successeur REL Didier Robert.
+NOMF Député européen NOMF 20 juillet 2004 – 4 octobre 2007(3 ans, 2 mois et 14 jours) SEP2 Élection REL 13 juin 2004 SEP2 Législature REL 6e SEP2 Successeur REL Madeleine de Grandmaison SEP2 Élection REL 10 juin 1979 SEP2 Législature REL 1re et 2e.
+NOMF Député français NOMF 2 avril 1993 – 14 avril 1996(3 ans et 12 jours) SEP2 Élection REL 28 mars 1993 SEP2 Circonscription REL 2e circonscription de La Réunion SEP2 Prédécesseur REL Alexis Pota SEP2 Successeur REL Claude Hoarau SEP2 Élection REL 16 mars 1986 SEP2 Circonscription REL 2e circonscription de La Réunion SEP2 Successeur REL Laurent Vergès SEP2 Élection REL 2 janvier 1956 SEP2 Circonscription REL La Réunion SEP2 Législature REL IIIe (Quatrième République) SEP2 Élection REL 21 mars 1971 SEP2 Prédécesseur REL Paul Appolinaire Grondin SEP2 Successeur REL Pierre Vergès SEP2 Nom de naissance REL Paul Émile Marie Just Vergès[1] SEP2 Date de naissance REL 5 mars 1925 SEP2 Lieu de naissance REL Ubon Ratchathani(Siam, actuelle Thaïlande) SEP2 Date de décès REL 12 novembre 2016 (à 91 ans) SEP2 Lieu de décès REL Saint-Denis (La Réunion) SEP2 Nationalité REL Française SEP2 Parti politique REL PCR SEP2 Père REL Raymond Vergès SEP2 Fratrie REL Jacques Vergès SEP2 Enfants REL Pierre Vergès, Laurent Vergès, Françoise Vergès SEP2 Profession REL Journaliste SEP2 Résidence REL La Réunion.

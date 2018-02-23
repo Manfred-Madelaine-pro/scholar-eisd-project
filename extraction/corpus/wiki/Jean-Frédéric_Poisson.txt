@@ -1,0 +1,34 @@
+PRETAG Jean-Frédéric.
+NOMTAG Poisson.
+Jean-Frédéric Poisson, né le 22 janvier 1963 à Belfort, est un homme politique français, maire de Rambouillet (Yvelines) de 2004 à 2007 et député entre 2007 et 2010 et de 2012 à 2017.
+Depuis 2013, il préside le Parti chrétien-démocrate (PCD), après en avoir été vice-président. À ce titre, il se présente à la primaire de la droite de 2016, où il finit en sixième position sur sept candidats.
+
+
+
+Jeunesse.
+Jean-Frédéric Poisson a grandi dans un quartier HLM de Villeneuve-la-Garenne. Il est l'aîné d'une famille de quatre enfants, ses parents sont agnostiques et divorcent alors qu'il a 10 ans, en 1973. Selon ses dires, il connaît une jeunesse chaotique et est « élevé à la bagarre de rue »[1]. Décrocheur scolaire, sa découverte de la philosophie en terminale modifie totalement sa vie. Il se convertit notamment au catholicisme en plein cours de philosophie, en janvier 1982[1]. « Ce jour-là, ni apparition, ni illumination, j’ai juste eu la conviction d’être aimé de Dieu, j’ai éprouvé une grande sérénité » dit-il[1]. Il se rapproche alors de l'abbaye de Fontgombault, où il effectue de nombreuses retraites.
+Il obtient en 2001 un doctorat en philosophie de l'université Paris Sorbonne, sous la direction de Pierre Magnard, avec le sujet : « Bioéthique, éthique et humanisme : les lois françaises de 1994 »[2].
+Il est aussi diplômé de la faculté libre de philosophie de Paris (IPC), et titulaire d'un master 2 de droit social, obtenu en 2011 à l'université de Versailles-Saint-Quentin-en-Yvelines.
+Après une expérience de DRH dans la métallurgie, il dirige une entreprise de conseil en RH et dialogue social[3].
+Carrière politique.
+Membre de l'UMP, il est élu maire de Rambouillet (Yvelines) après l'entrée de Gérard Larcher au gouvernement Raffarin III. Celui-ci redevient maire de la ville en juin 2007 et Jean-Frédéric Poisson son adjoint.
+Il est suppléant de Christine Boutin, députée sortante de la 10e circonscription des Yvelines, lors des élections législatives de 2007. Elle l'emporte en obtenant 58,37 % des voix au second tour. À la suite de sa nomination dans le gouvernement Fillon II, il devient député, le 20 juillet 2007. Jean-Frédéric Poisson siège au sein du groupe UMP et à la commission des affaires culturelles, familiales et sociales, où il devient l'un des spécialistes des questions d'emploi (cf. ci-dessous rapports parlementaires). Il est nommé secrétaire national de l'UMP chargé de l'emploi[4].
+À la suite du départ de Christine Boutin du gouvernement et de son choix de ne pas reprendre son siège de députée, une élection partielle est organisée[5]. Jean-Frédéric Poisson est élu député le 27 septembre 2009, avec 50,01 % des suffrages (cinq voix d'écart) face à la candidate écologiste Anny Poursinoff[6]. Le taux d'abstention avait été particulièrement élevé : 77,24 % au premier tour, 74,01 % au second. Le 20 mai 2010, le Conseil constitutionnel annule l'élection au motif de la distribution d'un tract à la veille du scrutin et du faible écart de voix (réduit par eux dans leurs deux premiers considérant de cinq à une seule voix à la suite d'erreurs dans le décompte des suffrages)[7].
+Une nouvelle élection législative partielle a lieu les 4 et 11 juillet 2010. Jean-Frédéric Poisson est battu au second tour par Anny Poursinoff (Europe Écologie), qui l'emporte avec 51,72 % des voix, toujours dans un contexte de forte abstention (70,58 %)[8].
+Jean-Frédéric Poisson est élu aux élections législatives de juin 2012 sur la 10e circonscription des Yvelines avec le soutien de l'UMP, du Parti chrétien-démocrate, du Parti radical, du Mouvement pour la France, du CNIP, du Nouveau Centre, du Parti libéral démocrate et de France écologie. Il est élu au second tour face à la députée sortante Anny Poursinoff, avec 53,65 % des voix[9].
+Il est l'un des députés UMP à voter contre le Pacte budgétaire européen, en octobre 2012.[réf. nécessaire] En juin 2013, il est élu vice-président de la commission des lois à l'Assemblée nationale,
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour un mouvement populaire (UMP).
+PART Parti chrétien-démocrate (PCD).
+FONCTIONNORM
+
+NOMF Président du Parti chrétien-démocrate NOMF En fonction depuis le 16 novembre 2013(4 ans, 3 mois et 4 jours) SEP2 Élection REL 14 novembre 2013 SEP2 Prédécesseur REL Charles-Henri Jamin (intérim)Christine Boutin.
+NOMF Député français NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Élection REL 17 juin 2012 SEP2 Circonscription REL 10e des Yvelines SEP2 Législature REL XIVe SEP2 Prédécesseur REL Anny Poursinoff SEP2 Successeur REL Aurore Bergé SEP2 Élection REL 27 septembre 2009 (partielle) SEP2 Circonscription REL 10e des Yvelines SEP2 Législature REL XIIIe SEP2 Prédécesseur REL Christine Boutin SEP2 Successeur REL Anny Poursinoff SEP2 Élection REL 17 juin 2007 SEP2 Circonscription REL 10e des Yvelines SEP2 Législature REL XIIIe SEP2 Prédécesseur REL Christine Boutin SEP2 Successeur REL Christine Boutin.
+NOMF Président de la communauté d'agglomération Rambouillet Territoires NOMF 1er janvier 2009 – 9 janvier 2017(8 ans et 8 jours) SEP2 Prédécesseur REL Gérard Larcher SEP2 Successeur REL Marc Robert SEP2 Prédécesseur REL Gérard Larcher SEP2 Successeur REL Gérard Larcher SEP2 Date de naissance REL 22 janvier 1963 (55 ans) SEP2 Lieu de naissance REL Belfort (Territoire de Belfort) SEP2 Nationalité REL française SEP2 Parti politique REL UMPPCD SEP2 Diplômé de REL université Paris-Sorbonne SEP2 Profession REL chef d'entreprise SEP2 Religion REL catholique.

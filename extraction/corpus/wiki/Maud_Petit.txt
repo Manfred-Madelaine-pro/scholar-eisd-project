@@ -1,0 +1,23 @@
+PRETAG Maud.
+NOMTAG Petit.
+Maud Petit, née en 15 novembre 1971 à Paris, est une femme politique française membre de MoDem et députée du Val-de-Marne.
+
+
+Née à Paris dans le XVe arrondissement, Maud Petit a grandi en Martinique. Elle y effectue sa scolarité à Fort-de-France, au Couvent Saint-Joseph de Cluny, au Collège de Pointe des Nègres puis au Lycée Schœlcher, avant de partir en Normandie poursuivre ses études supérieures de Droit et de Lettres Modernes, à l'université de Caen[1].
+Fille d'architecte urbaniste et d'une doctoresse en géographie, aînée d'une fratrie de 5 frères et sœurs, elle est aussi petite-fille de Camille Petit, médecin devenu député-maire de Martinique de 1967 à 1986, et fondateur du mouvement gaulliste en Martinique. Elle est elle-même mère de deux enfants.
+Elle effectue sa carrière professionnelle dans le secteur privé, dans le domaine des Ressources humaines en particulier.
+Engagée dans le bénévolat, notamment auprès du Secours Populaire à Ivry sur Seine, elle est élue conseillère municipale de Villiers-sur-Marne aux élections municipales 2014 sur la liste d'union UMP-UDI-MoDem conduite par Jacques Alain Bénisti. Elue de la majorité, elle a alors en charge la délégation de la Petite Enfance.
+Maud Petit devient députée de la quatrième circonscription du Val-de-Marne lors des élections législatives de 2017 sous les couleurs du MoDem[2]. Elle arrive largement en tête au soir du premier tour, obtenant 40,37 %, soit 18 % de plus que la candidate LR Marie-Carole Ciuntu, qui obtient 22,35 % et qu'elle affronte au second tour. Le dimanche 18 juin, elle est élue avec 53,55 % des suffrages exprimés.
+Elle est l'une des seuls députés de la majorité présidentielle à avoir voté contre la suppression de la réserve parlementaire[3]. estimant qu'elle devait être encadrée plutôt que supprimée.
+Maud Petit siège à la Commission Éducation et Affaires culturelles de l'Assemblée. Elle est aussi secrétaire de la Délégation Outre-Mer depuis juillet 2017.
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Députée de la 4e circonscription du Val-de-Marne NOMF En fonction depuis le 21 juin 2017(7 mois et 26 jours) SEP2 Élection REL 18 juin 2017 SEP2 Législature REL XVe SEP2 Groupe politique REL MoDem SEP2 Prédécesseur REL Jacques-Alain Bénisti (UMP) SEP2 Date de naissance REL 15 novembre 1971 (46 ans) SEP2 Lieu de naissance REL Paris SEP2 Nationalité REL Française SEP2 Parti politique REL MoDem.

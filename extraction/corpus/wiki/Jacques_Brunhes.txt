@@ -1,0 +1,22 @@
+PRETAG Jacques.
+NOMTAG Brunhes.
+Jacques Brunhes, homme politique français, né le 7 octobre 1934 à Paris.
+
+
+
+
+Ancien professeur de lettres
+Il est réélu député le 16 juin 2002, pour la XIIe législature (2002-2007), dans la circonscription des Hauts-de-Seine (1re)
+Il fait partie du groupe communiste
+Il reçoit la distinction de Chevalier dans l'ordre de la Légion d'honneur en 2008[1].
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1978-1986puis 1988-2007 NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL PCF SEP2 Date de naissance REL 7 octobre 1934 (83 ans) SEP2 Lieu de naissance REL Paris SEP2 Résidence REL Première circonscription des Hauts-de-Seine.

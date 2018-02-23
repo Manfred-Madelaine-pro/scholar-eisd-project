@@ -1,0 +1,34 @@
+PRETAG Mylène.
+NOMTAG Troszczynski.
+Mylène Troszczynski, née le 16 mai 1972 à Chauny dans le département de l’Aisne, est une femme politique française.
+Conseillère régionale de Picardie depuis le 22 mars 2010, elle est élue député européen de la circonscription Nord-Ouest lors des élections européennes de 2014 sur la liste du Front national (Rassemblement bleu Marine).
+
+Elle est l'épouse de Laurent Guiniot, et donc la belle-fille de Michel Guiniot, leader du FN en Picardie[6].
+
+
+Études et carrière professionnelle.
+Mylène Troszczynski est d'origine polonaise par son grand-père paternel[1].
+Après une scolarité au lycée Gay-Lussac de Chauny (Aisne), elle fait des études d'histoire à l'université de Reims-Champagne-Ardenne.[réf. nécessaire]
+Chargée de communication dans le privé jusqu'en juillet 2014[1], Mylène Troszczynski est candidate pour le Front national à de multiples reprises à l’occasion des élections.
+Carrière politique.
+Elle se présente pour la première fois aux élections cantonales de 2004 sur le canton de Senlis, et réalise un score de 18%. En 2007, elle est suppléante aux élections législatives dans la 4e circonscription de l'Oise[2]. Puis, elle est finalement élue conseillère régionale de Picardie sur la liste conduite par Michel Guiniot en 2010.
+À l'occasion des élections législatives de 2012, elle est candidate dans la 4e circonscription de l'Oise. Elle obtient 20,77 % des voix au premier tour.
+Pour les élections municipales de 2014, elle est tête de liste à Senlis dans l’Oise, et obtient 9,6 % des suffrages, ne pouvant se maintenir au second tour[3].
+En mai 2014, Mylène Troszczynski est candidate sur la liste conduite par Marine Le Pen pour les élections européennes. Élue le 25 mai 2014, elle est membre de la commission du Marché intérieur et Protection des consommateurs et devient membre de la délégation interparlementaire du Chili.
+Candidate sur les listes de Marine Le Pen lors des élections régionales de 2015 en Nord-Pas-de-Calais-Picardie, elle est réélue conseillère régionale dans cette nouvelle région fusionnée.
+En 2017, elle est candidate pour le Front national aux législatives dans la 4e circonscription de l'Oise.
+Affaire.
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) depuis 2002.
+FONCTIONNORM
+
+NOMF Députée européenne NOMF En fonction depuis le 1er juillet 2014 SEP2 Élection REL 25 mai 2014 SEP2 Législature REL 8e SEP2 Groupe politique REL NI (2014-2015)ENL (depuis 2015).
+NOMF Conseillère régionale des Hauts-de-France NOMF En fonction depuis le 4 janvier 2016 SEP2 Élection REL 13 décembre 2015.
+NOMF Conseillère régionale de Picardie NOMF 22 mars 2010 – 13 décembre 2015 SEP2 Élection REL 21 mars 2010 SEP2 Date de naissance REL 16 mai 1972 (45 ans) SEP2 Lieu de naissance REL Chauny, Aisne SEP2 Nationalité REL Française SEP2 Parti politique REL FN (depuis 2002) SEP2 Profession REL Chargée de communication.

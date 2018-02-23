@@ -1,0 +1,28 @@
+PRETAG Henri.
+NOMTAG Barabant.
+Henri Barabant, né le 9 novembre 1874 à Vougeot (Côte-d'Or) et mort le 11 septembre 1951 à Dijon, est un homme politique français.
+Maire de Dijon de 1904 à 1908, il est élu député de la 1re circonscription de la ville, en 1914, puis à nouveau en 1924. En 1921, il est élu au comité directeur du Parti communiste (PC), avant d'en être exclu en 1922.
+
+
+
+En 1897, il est secrétaire du groupe socialiste de Dijon, puis de la fédération ouvrière socialiste de la Côte-d'Or, ralliée au Parti ouvrier socialiste révolutionnaire (POSR). Il représente la Côte-d'Or au congrès de Lyon. Puis, en 1901, il réorganise le POSR pour l'intégrer au Parti socialiste français.
+En 1917, il se prononce pour la participation de la SFIO à la conférence de Stockholm. En juin, dans Le Rappel, il salue la victoire des minoritaires au conseil national du Parti socialiste. Puis en 1918, toujours dans Le Rappel, il proteste contre la condamnation de Louis Malvy par la Haute Cour. En 1920, au congrès socialiste de Strasbourg, il se rallie à la motion pour la "reconstruction de l'Internationale" mais s'oppose à l'entrée immédiate dans la IIIe Internationale. Pourtant, en décembre, à l'issue du congrès de Tours, auquel il ne participe pas, il demeure avec la majorité dans le Parti communiste et les 42 mandats de sa fédération se prononcent pour l'adhésion à la IIIe Internationale. Dès octobre, en lançant Le Populaire de Bourgogne, il avait donné un organe départemental au Parti communiste.
+En 1921, le congrès de Marseille du PC l'élit au comité directeur mais en 1922 il entre en conflit avec le PC. Le congrès fédéral ne le suit pas dans sa volonté de rendre la fédération autonome. En mai, il transforme son Populaire de Bourgogne, jusqu'alors « quotidien de la fédération communiste de Côte-d'Or » en « journal de toutes les fractions du bloc socialiste et républicain » et n'y insère qu'avec parcimonie les communiqués du PC. En octobre, à Saint-Claude, il participe à un congrès de groupes communistes dissidents constituant l'Union fédérative des socialistes révolutionnaires de l'Est. Le congrès de Paris l'exclut alors du PC.
+En 1926, au conseil national socialiste, il approuve la motion de la minorité pour une reprise des relations dans l'Internationale.
+
+
+
+
+
+
+
+PARTISNORM
+PART Section française de l'Internationale ouvrière (SFIO) 1914.
+PART 1914 (1914) 1919.
+PART 1919 (1919) .
+PART Union socialiste-communiste (USC) 1924.
+PART 1924 (1924) 1928.
+PART 1928 (1928).
+FONCTIONNORM
+
+NOMF Député1914-1919puis 1924-1928 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL SFIO (1914-1919)USC (1924-1928) SEP2 Prédécesseur REL Simon Fournier-Faucher SEP2 Successeur REL Charles Dumont SEP2 Date de naissance REL 9 novembre 1874 SEP2 Lieu de naissance REL Vougeot, France SEP2 Date de décès REL 11 septembre 1951 (à 76 ans) SEP2 Lieu de décès REL Dijon, France SEP2 Nationalité REL  Française SEP2 Parti politique REL SFIO (1914-1919)USC (1924-1928).

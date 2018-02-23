@@ -1,0 +1,24 @@
+PRETAG Stéphane.
+NOMTAG Buffetaut.
+Stéphane Buffetaut est un homme politique français, né le 8 mai 1953 à Paris. Il a été député européen et est aujourd'hui membre du Comité économique et social européen.
+Sa résidence officielle est fixée à Versailles, mais du fait de ses activités professionnelles, il réside aussi la moitié de son temps à Bruxelles où il a de nombreuses attaches.
+Spécialiste de droit public, il est titulaire d'un DESS de droit européen.
+Il est actuellement Directeur chargé des relations avec les institutions européennes du groupe Veolia Environnement [1]
+
+
+Stéphane Buffetaut a été Secrétaire Général du MPF. Il adhère en 1999 au RPF (fusion provisoire du MPF et des dissidents du RPR groupés autour de Charles Pasqua) à la suite Philippe de Villiers. En 2002, il choisit de rejoindre l'UMP. À la demande de l'ancienne Présidente du CNI, Annick du Roscoät, il devient également adhérent du CNI en 2008 au titre de la double appartenance. Bien que Premier Vice-président de ce mouvement et Président de sa fédération des Yvelines, il fait le choix de rester volontairement en retrait de la vie politique et de ne plus être au premier plan. En 2011, il fait le choix d'œuvrer à un rapprochement du CNI avec le Parti Chrétien Démocrate de Christine Boutin,MPF de Philippe de Villiers, sans oublier Charles Millon et les réseaux de la Droite libérale Chrétienne. Ce positionnement permet le lancement de discussion entre ces partis et personnalités, en vue de la constitution d'un alliance politiques aux législatives de juin 2012. De ce fait, il adhère, en mai de cette même année, officiellement au PCD et intègre son Bureau Politique. Il décide également de se réinvestir activement dans la vie politique pour pouvoir défendre et promouvoir l'esprit chrétien dans la gestion de la société.
+Le 10 mars 2012, il annonce, à Bruxelles, lors d’un rassemblement de jeunes français vivant en Belgique, en présence de Christine Boutin sa candidature aux élections législatives françaises du 3 et 17 juin 2012 dans la 4e circonscription des Français de l’étranger (BENELUX). Il est officiellement investi pour celles-ci par le PCD et le CNIP. Il est éliminé dès le premier tour, obtenant 1,96 % des voix.
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti chrétien-démocrate (PCD) CNI.
+PART Centre national des indépendants et paysans (CNI).
+FONCTIONNORM
+
+NOMF Député européen NOMF 20 juillet 1997 – 19 juillet 1999 SEP2 Date de naissance REL 8 mai 1953 (64 ans) SEP2 Lieu de naissance REL Paris, Seine (France) SEP2 Nationalité REL  Française SEP2 Parti politique REL PCD-CNI SEP2 Profession REL Cadre dirigeant SEP2 Religion REL Catholique SEP2 Résidence REL Versailles, Yvelines, FranceBruxelles, Belgique.

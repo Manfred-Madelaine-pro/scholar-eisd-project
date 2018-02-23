@@ -1,0 +1,20 @@
+PRETAG Jean-Marie.
+NOMTAG Alexandre.
+Jean-Marie Alexandre est d'abord un instituteur et devient un homme politique français, ancien membre du Parti socialiste puis du Mouvement des citoyens, il a été secrétaire général du Mouvement républicain et citoyen jusqu'en juin 2008.
+Né le 25 novembre 1946 à Souchez (Pas-de-Calais), Jean-Marie Alexandre a été député au Parlement européen entre 1987 et 1994, membre du groupe du Parti socialiste européen. Il fut conseiller technique au cabinet de Jean-Pierre Chevènement, ministre de la défense de 1988 à 1991.
+Il est actuellement maire de sa ville natale et était vice-président du conseil régional du Nord-Pas-de-Calais jusqu'en 2015.
+Il fut le président de l'association La Vie Active au service des personnes handicapées ou en difficultés essentiellement basée dans le Pas-de-Calais (plus de 70 établissements et services). Il est aussi président du Crédit social des fonctionnaires et PDG de l'établissement financier Crédit et Service Financier (Créserfi).
+
+
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Conseiller régionalNord-Pas-de-Calais NOMF .
+NOMF Député européen NOMF .

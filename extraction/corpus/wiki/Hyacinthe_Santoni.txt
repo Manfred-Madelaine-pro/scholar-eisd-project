@@ -1,0 +1,18 @@
+PRETAG Hyacinthe.
+NOMTAG Santoni.
+Hyacinthe Santoni, né le 1er janvier 1939 à Sartène (Corse), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Debout la France (Debout la France).
+FONCTIONNORM
+
+NOMF Député de la 1re circonscription des Bouches-du-Rhône NOMF 21 juin 1981 – 1er avril 1986 SEP2 Date de naissance REL 1er janvier 1939 (79 ans) SEP2 Lieu de naissance REL Sartène (Corse) SEP2 Nationalité REL  Française SEP2 Parti politique REL Debout la France.

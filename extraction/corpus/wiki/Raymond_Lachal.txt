@@ -1,0 +1,19 @@
+PRETAG Raymond.
+NOMTAG Lachal.
+Raymond Lachal est un homme politique français collaborationniste, né le 4 mai 1898 à Marsac-en-Livradois, dans le département du Puy-de-Dôme et décédé le 11 janvier 1963 à Ambert.
+
+
+Ancien combattant, grand mutilé de la guerre de 1914-18[1], employé de la Caisse d'épargne, il devient adjoint au maire d'Ambert puis, en 1932, député du Puy-de-Dôme avec le soutien de Pierre Laval. Membre de l'Alliance démocratique il est proche d'André Tardieu et rejoint le groupe parlementaire constitué autour de ce dernier, le Centre républicain.
+Réélu en 1936, il siège à l'Alliance des républicains de gauche et des radicaux indépendants, le nouveau groupe parlementaire unifié de l'Alliance démocratique. Il accède à la mairie d'Ambert en 1938.
+Il vote, le 10 juillet 1940, en faveur de la remise des pleins pouvoirs au Maréchal Pétain. À l'instar de son mentor Pierre Laval, il s'engage alors dans la collaboration et appartient à l'aile la plus pro-allemande du nouveau régime. Il devient en juin 1942 directeur général de la Légion française des combattants dont il veut faire la cellule-mère du Parti unique sur lequel le régime doit s'appuyer - tentative vouée à l'échec. Il est titulaire de la Francisque gallique n°1127.
+Il comparaît devant la Cour de justice de Paris en octobre 1949; il bénéficie d'un arrêt d'acquittement[2].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL CR (1932-1936)ARGRI (1936-1940) SEP2 Date de naissance REL 4 mai 1898 SEP2 Date de décès REL 11 janvier 1963 (à 64 ans) SEP2 Résidence REL Puy-de-Dôme.

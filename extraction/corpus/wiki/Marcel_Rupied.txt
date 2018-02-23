@@ -1,0 +1,22 @@
+PRETAG Marcel.
+NOMTAG Rupied.
+Marcel Rupied est un homme politique, né le 2 octobre 1880 à Châtellerault (Vienne) et mort le 20 avril 1967 à Vitré. Il a été député d'Ille-et-Vilaine puis sénateur d'Ille-et-Vilaine et président du Conseil général d'Ille-et-Vilaine.
+
+
+
+Après des études secondaires au collège Saint-Vincent de Rennes, il obtient un baccalauréat ès lettres puis s’inscrit à l’Université de Rennes. Licencié en droit, Marcel Rupied s’installe en 1905 à Vitré et exerce la profession de notaire.
+Il est élu en 1922 dans le canton de Vitré-Ouest, lors des élections au Conseil général d’Ille-et-Vilaine qu’il préside jusqu’à sa démission en 1928. Ayant retrouvé son siège de conseiller général en 1934, il préside l’assemblée départementale en 1937, mandat qu’il conserve pendant vingt-deux ans, de 1937 à 1945, puis de 1947 à 1961. Élu au conseil municipal de Vitré en 1935, il en devient le premier magistrat en 1939.
+Marcel Rupied fut arrêté et incarcéré à Rennes par les Allemands, après avoir refusé de désigner des otages.
+Destitué de sa fonction à la Libération en 1944, il sera élu maire de Vitré le 19 mai 1945, il est ensuite candidat à la première Assemblée nationale Constituante dans le département d’Ille-et-Vilaine. À son arrivée à l’Assemblée, il rejoint alors le groupe des républicains indépendants.
+Marcel Rupied est élu au Conseil de la République le 7 novembre 1948, sur la liste du RPF. Il sera réélu en 1955. Cependant, il échouera à se faire élire, le 26 avril 1959, au Sénat de la Cinquième République.
+Marcel Rupied meurt le 20 avril 1967, dans sa 87e année.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur(1948 – 1959)Député(1945 – 1946) NOMF GouvernementIVe République Ve République SEP2 Gouvernement REL IVe République Ve République SEP2 Groupe politique REL PRLRPFCNIP SEP2 Date de naissance REL 2 octobre 1880 SEP2 Date de décès REL 20 avril 1967 (à 86 ans) SEP2 Résidence REL Ille-et-Vilaine.

@@ -1,0 +1,21 @@
+PRETAG François.
+NOMTAG Mortelette.
+François Mortelette était un homme politique français, né le 20 mars 1926 à Waziers et décédé le 16 avril 2008. Il a été député de la ville de Blois et conseiller général de Loir-et-Cher.
+
+
+Né à Waziers dans le Nord (59) en 1926, il milite dès l'âge de 16 ans aux Jeunes Ouvriers Chrétiens avant de participer à la création de la CFTC.
+Professionnellement il s'oriente vers la finance et poursuit son action politique comme militant social-démocrate. Il est élu conseiller municipal de Waziers en 1953. Il est le premier élu non communiste de cette ville du Nord depuis 1920.
+Recruté par la banque régionale de l'Ouest, il s'installe à Blois dans les années soixante où il poursuit son activité politique et militante au sein de la fédération du PS de Loir-et-Cher. Il est élu maire de Saint-Sulpice de Pommeray en 1977 (et le sera jusqu'en 2001). Il a aussi été président de la LICRA de Loir-et-Cher.
+En 1976, il est élu au Conseil général de Loir-et-Cher dont il deviendra vice-président chargé des finances. Dans la foulée de la victoire de François Mitterrand aux élections présidentielles, il est élu député de Blois aux élections législatives françaises de 1981.
+À la fin de la VIIe législature de la Cinquième République française, il se désengage de la politique pour se consacrer exclusivement à son métier de banquier comme inspecteur général de la banque régionale de l'Ouest.
+Son engagement auprès des citoyens français a été honoré du titre de chevalier de la Légion d'honneur le 1er janvier 1998.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1981-1986 NOMF juin 1981 – avril 1986 SEP2 Gouvernement REL Ve république SEP2 Groupe politique REL Parti socialiste SEP2 Date de naissance REL 20 mars 1926 SEP2 Date de décès REL 16 avril 2008 (à 82 ans) SEP2 Résidence REL première circonscription de Loir-et-Cher.

@@ -1,0 +1,19 @@
+PRETAG François_de.
+NOMTAG Champeaux.
+François de Champeaux est un homme politique français né le 10 août 1903 à Essey (Côte-d'Or) et décédé le 25 mars 1980 à Neuilly-sur-Seine (Hauts-de-Seine).
+Ancien élève de l'École libre des sciences politiques, il devient maire de sa commune natale en 1929, à l'âge de 25 ans. Il mène parallèlement une carrière de journaliste, interviewant notamment le président américain Franklin Delano Roosevelt en 1935. Cette même année, il devient conseiller général du canton de Pouilly-en-Auxois.
+Membre de l'Alliance démocratique, il est élu député en 1936, et s'inscrit au groupe unifié de l'Alliance, l'Alliance des républicains de gauche et des radicaux indépendants.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Sous l'occupation allemande, il se consacre à l'aide aux populations victimes de réquisitions abusives et aux jeunes menacés par le Service du travail obligatoire. En 1943, il prend contact avec les réseaux locaux de Résistance pour participer au rapatriement d'aviateurs canadiens parachutés en Côte-d'Or. L'année suivante, il devient commandant adjoint du maquis et président du Comité départemental de libération.
+Il participe aux combats locaux puis s'engage dans l'armée française. À ce titre, il participe à la campagne d'Allemagne et est le premier officier français à entrer dans le camp de Dachau après sa libération. Après sa démobilisation, il abandonne la vie politique, devenant fonctionnaire international à l'OTAN puis homme d'affaires.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARGRI SEP2 Date de naissance REL 10 août 1903 SEP2 Date de décès REL 25 mars 1980 (à 76 ans) SEP2 Résidence REL Côte-d'Or.

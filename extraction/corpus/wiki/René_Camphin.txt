@@ -1,0 +1,34 @@
+PRETAG René.
+NOMTAG Camphin.
+René Camphin, dit colonel Beaudoin, né le 21 février 1913 à Saint-Nicolas (Pas-de-Calais) et décédé le 6 mars 1954 à Paris, est un résistant et homme politique français.
+
+
+
+Fils de deux militants communistes d'Arras, lui-même adhérents aux jeunesses communistes dès 1927, il est ouvrier typographe, puis plombier, avant de devenir employé à la voirie municipale d'Arras et anime le syndicat CGTU des communaux, avant de devenir, après la réunification syndicale, secrétaire du syndicat CGT.
+Entré au PCF en 1933, il s'investit dans les campagnes du Front populaire et devient, l'année suivante, après son licenciement, secrétaire du rayon d'Arras du PCF. Il dirige l'édition départementale du journal du parti, L'Enchainé.
+Appelé en 1938 à seconder Auguste Lecoeur à la direction régionale du parti, il s'installe à Lens.
+En 1939, il est arrêté pour avoir signé, avec ce dernier et Cyprien Quinet, un tract défendant le pacte germano-soviétique. Condamné à trois mois de prison par le conseil de guerre, il est cependant incorporé dans l'armée en mai 1940, participe aux combats et se retrouve prisonnier en Allemagne.
+Evadé en septembre 1941, il se réfugie dans la zone sud avant d'être rappelé par Lecoeur en région parisienne pour participer à la résistance communiste.
+En février 1943, le "Colonel Baudouin" (son pseudonyme) entre au comité militaire national dirigé par Charles Tillon, et qui a la responsabilité d'organiser l'action des FTP. Il s'occupe essentiellement du recrutement et de l'encadrement militaire.
+En mai, son frère Maurice, résistant, pris par les allemands depuis mai 1942, est fusillé. Son autre frère, Paul, officier FTP, connaît le même sort en novembre.
+Grand organisateur de la mise en ordre de bataille des FTP pour la libération de Paris, il participe lui-même au combat. Son engagement lui vaut de finir la guerre avec le grade de colonel des FFI et plusieurs décorations militaires.
+Après avoir participé à l'intégration des FTP dans les FFI, il retourne à Arras en 1946 et, membre du comité central du parti, devient secrétaire adjoint, puis secrétaire (1947) de la fédération communiste du Pas-de-Calais, fonction qu'il quitte deux ans plus tard.
+Conseiller municipal d'Arras à partir de 1945, il est élu député à la première constituante et siège ensuite à l'Assemblée nationale jusqu'à sa mort.
+Pendant toute cette période, il est un proche collaborateur d'Auguste Lecoeur, et entretient des relations régulières avec Maurice Thorez.
+Son engagement jusqu'au-boutiste dans les grèves de 1947, qui prennent dans son département un caractère particulièrement violent, rend difficile pour lui le soutien à la ligne officiel de "reprise du travail" décidée par la direction communiste. Il n'exprime cependant pas publiquement cette distance.
+Plus tard, en 1948 et 1949, il défendra une proposition de loi pour l'amnistie des mineurs condamnés pour faits de grève.
+A l'Assemblée, il est d'une façon générale particulièrement actif parmi les députés communistes, multipliant les interventions sur des sujets divers, mais plus particulièrement ceux concernant les mineurs.
+Impliqué dans la mise en cause d'Auguste Lecoeur par la direction du PCF en 1954, lui-même susceptible d'être frappé de mesures disciplinaires internes, il meurt dans des circonstances mal éclaircies, la veille d'une intervention devant le comité central dans laquelle la direction communiste lui avait demandé de justifier l'exclusion de Lecoeur. L'hypothèse du suicide est retenue par la police. Camphin, cependant, souffrait d'un cancer des poumons depuis plusieurs années.
+Pour faire taire les rumeurs, le parti organise en mars 1954 une grande cérémonie à Arras où est rendu hommage aux trois frères Camphin.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député du Pas-de-Calais NOMF 21 octobre 1945 – 6 mars 1954 SEP2 Nom de naissance REL René Paul Camphin SEP2 Nationalité REL Française SEP2 Parti politique REL PCF SEP2 Profession REL Ouvrier typographe.

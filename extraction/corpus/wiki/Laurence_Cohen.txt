@@ -1,0 +1,19 @@
+PRETAG Laurence.
+NOMTAG Cohen.
+Laurence Cohen, née le 15 janvier 1953, est une femme politique française. Membre du Parti communiste français, elle est sénatrice du Val-de-Marne.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Conseillère régionale d'Île-de-France NOMF 28 mars 2004 – 13 décembre 2015(11 ans, 8 mois et 15 jours).
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 15 janvier 1953 (65 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL PCF SEP2 Profession REL Orthophoniste.

@@ -1,0 +1,29 @@
+PRETAG Vincent.
+NOMTAG Inizan.
+Vincent Inizan, né le 18 avril 1869 à Kernouës (Finistère) où il est mort le 12 mars 1951, est un homme politique français, député du Finistère de 1919 à 1942.
+
+
+
+Né en plein cœur du pays de Léon, fils de cultivateurs appartenant au groupe des juloded, Vincent Inizan fréquente quelques années le collège de Lesneven avant de consacrer sa vie à son terroir plutôt que d'embrasser l'une des carrières libérales que pouvaient lui ouvrir d'excellentes études. Le 30 avril 1895, il épouse Joséphine Fagon qui appartient à une riche famille paysanne de Milizac. Devenu maire de Kernouës il fit, en 1909, un voyage d'étude en Angleterre à la suite duquel il créa, avec le sénateur Louis Pichon, le stud book du cheval de trait breton. Ses compétences en matière agricole l'amenèrent à collaborer à diverses publications économiques, notamment le Paysan de France et le Petit journal agricole.
+Aux élections générales législatives de 1919, il se présenta sur la liste républicaine et démocratique d'union nationale conduite par Paul Simon, avocat et député sortant. Avec 60 668 voix sur 143 463 votants, il fut élu en compagnie de cinq de ses colistiers, la liste de concentration républicaine et celle du parti socialiste n'obtenant respectivement que trois et deux sièges.
+L'union républicaine devait confirmer ses positions aux élections de 1924 qui donnèrent à Vincent Inizan l'occasion d'un éclatant succès personnel puisqu'il atteignit, avec 67 293 voix, un nombre de suffrages supérieur à celui de tous ses colistiers.
+Le retour au scrutin d'arrondissement permit d'apprécier toute la popularité et l'estime dont il jouissait : dans la 3e circonscription de Brest, il obtint en 1928, 10 715 voix pour 14 378 votants ; en 1932, 12 029 voix pour 14 378 votants et en 1936, 12 029 voix pour 14 140 votants, soit l'intégralité des suffrages exprimés.
+Il fit partie, lors de la campagne électorale de 1936, des quinze députés élus en Bretagne signataires d'un « programme du Front Breton », qui visait alors à créer un groupe parlementaire breton à l'Assemblée nationale, et à défendre des lois en faveur de la régionalisation des institution ou en faveur de l'enseignement de la langue bretonne[2].
+Cette fidélité du corps électoral s'explique par les qualités humaines de Vincent Inizan, mais aussi par la constance de son action au sein de la Chambre des députés pendant cinq législatures. Vice-président de la commission des douanes, membre de la commission de la marine marchande et de la commission de la marine militaire, ses efforts s'orientèrent essentiellement vers la défense de l'économie bretonne.
+Homme d'ordre, il soutint avec énergie l'action de Raymond Poincaré et, plus tard, celle des cabinets Laval et Tardieu. Il voulait la paix, intérieure et extérieure, la stabilité dans les finances publiques, la mesure dans les interventions de l'État.
+Défenseur des intérêts bretons, Vincent Inizan s'efforça sans relâche d'infléchir la politique douanière et de contingentement dans le sens de la protection de productions locales telles que le blé, la pomme de terre, l'iode et la viande de porc. Les difficultés de l'élevage du cheval, notamment du « postier breton » de Lesneven qui avait servi jusqu'alors à la remonte de l'artillerie, inspirèrent un grand nombre de ses interventions.
+Il s'intéressa aussi au problème de la migration des populations bretonnes qu'il voulait orienter vers les départements du sud-ouest. Membre de la commission supérieure du crédit maritime, il fut le porte-parole des professionnels de l'économie côtière, depuis les marins-pêcheurs jusqu'aux ramasseurs de goémon. Enfin, partisan d'une révision en faveur des fermiers de la législation des baux ruraux, il s'efforça de développer les formes mutuelles du crédit et de la coopération agricoles.
+Le 10 juillet 1940, il ne prit pas part au vote du Congrès de Vichy qui confiait les pleins pouvoirs au gouvernement sous l'autorité et la signature de Philippe Pétain.
+À l'arrivée des troupes allemandes, Vincent Inizan démissionne de son mandat de maire de Kernouës.
+Il est fait chevalier de la Légion d'honneur le 19 août 1947.
+Ayant abandonné la vie politique, il s'éteint dans son village natal, le 12 décembre 1951, à l'âge de 82 ans.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1919 – 1942 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL RDG (1919-1924)URD (1924-1932)FR (1932-1942[1]) SEP2 Date de naissance REL 18 avril 1869 SEP2 Lieu de naissance REL Kernouës SEP2 Date de décès REL 12 mars 1951 (à 81 ans) SEP2 Lieu de décès REL Kernouës SEP2 Résidence REL Finistère.

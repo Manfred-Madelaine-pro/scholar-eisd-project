@@ -1,0 +1,58 @@
+PRETAG Noël.
+NOMTAG Mamère.
+Noël Mamère, né le 25 décembre 1948 à Libourne (Gironde), est un ancien journaliste et homme politique français, partisan d'une écologie politique.
+Membre des Verts puis d'Europe Écologie Les Verts (EÉLV) jusqu'en 2013, il est maire de Bègles de 1989 à 2017 et député de 1997 à 2017.
+Candidat à l'élection présidentielle française de 2002, il obtient 5,25 %, soit le meilleur score réalisé par un candidat écologiste lors d'un scrutin présidentiel.
+
+
+
+Jeunesse et études.
+Issu d'une famille catholique de droite, ses parents sont négociants en chaussures, Roger et Marthe Mamère. Il est le frère de Jean Mamère, journaliste sportif de télévision, mort en 1995 à la suite d'un cancer. Il se marie le 2 mai 1981 à Françoise Pichon, maître de conférence à l'université de Paris-Sorbonne. Ils ont un fils, Adrien, avocat au barreau de Paris.
+Il décroche son baccalauréat en 1968 au sein du lycée Saint-Joseph de Sarlat-la-Canéda en Périgord. Il poursuivra ses études par une maîtrise en droit à la faculté de Bordeaux, avant d'intégrer l'Institut d'études politiques de Bordeaux et de terminer son cursus universitaire par un doctorat en sciences de l'information et de la communication. Écologiste convaincu, il se réclame héritier de la pensée de Jacques Ellul[1], qu'il a pour enseignant durant ses études de droit et de Bernard Charbonneau, avec lequel il accomplit ses premiers pas d'écologiste au début des années 1970.
+Au début des années 1980, il tente une percée dans la chanson avec le titre Les enfants de par là[2] et participera, en 2010, au tournage de la mini-série de Gérard Mordillat, Les Vivants et les Morts.
+Il est membre du comité d'honneur de l'Association pour le droit de mourir dans la dignité (ADMD).
+De 1973 à 1977, il est assistant à l'université de Bordeaux.
+Carrière journalistique.
+Il a été journaliste pigiste pour l'ORTF de Bordeaux de 1969 à 1972 et correspondant aquitain du Quotidien de Paris de 1974 à 1975. Sur Antenne 2, de 1977 à 1992, il devient animateur et rédacteur en chef du magazine télévisé C'est la Vie, première émission généraliste traitant des questions d'environnement et de défense des consommateurs.
+De 1982 jusqu'en 1986, toujours sur Antenne 2, il présente l'émission d’Antenne 2 midi ; avant d’exercer les mêmes fonctions aux journaux du week-end de la chaîne, pendant un an de 1986 a 1987.
+Parallèlement, il présente le Grand Raid Le Cap Terre de Feu, de 1984 à 1985.
+Il présente et anime, de 1986 à 1992, l'émission Résistances.
+Il tient entre 2012 et 2015 un blog sur le site Rue89, intitulé Noël toute l'année[3].
+Il est l'auteur d'éditoriaux réguliers publiés sur les sites Mediapart et Reporterre.
+Il est également coauteur de documentaires[4] :
+
+Juste Planète, 2005, France 5, avec Jean-Michel Vennemani
+L'homme qui est mort de chagrin, 2005, France 2, avec Jean-Michel Vennemani
+L'affaire Finaly, 2007, Programm 33 et France 3, avec Alain Moreau et David Korn-Brzoza
+Un monde sans humains ?, 2012, Arte France, avec Philippe Borrel
+L'urgence de ralentir, 2014, Arte France, avec Philippe Borrel
+Climatosceptiques, la guerre du climat, 2015, France 5, avec Franck Guérin et Laure Noualhat
+
+Entre 1981 et 1986, il enregistre une chanson, Les enfants de par-là, qu'il a écrite sur une musique de Dominique Galopin et dont il fait la promotion télévisée dans l'émission Un temps pour tout présentée par Monique Cara et Alain Valentini. Cependant, cette chanson est restée inédite, n'ayant jamais fait l'objet d'un disque.
+À partir de janvier 2018, il contribue au Journal, une émission journalistique diffusée sur Internet quotidiennement à 20 h par Le Média, où il anime une interview hebdomadaire de philosophes, experts, militants ou auteurs[5].
+Carrière politique.
+En juin 1988, il est élu comme suppléant du député socialiste de la 10e circonscription de Gironde, Gilbert Mitterrand.
+En 1989, il est élu maire de Bègles à la tête d'une liste « majorité présidentielle », contre le sortant communiste soutenu par les instances départementales du Parti socialiste[6] et réélu jusque-là. Il échoue toutefois à se faire élire député lors d'une législative partielle (causée par la démission de Catherine Lalumière) le 25 juin 1989 dans la 3e circonscription de la Gironde. Il échouera dans la même circonscription en mars 1993 sous l'étiquette écologiste.
+En 1990, il crée avec Brice Lalonde Génération écologie (GE). Deux ans plus tard, il devient vice-président et porte-parole national de Génération écologie. En 1994, il quitte Génération écologie, à la suite du virage centriste de ce parti entamé sous l'impulsion de Brice Lalonde, et fonde Convergences écologie solidarité dont il devient le président. Cette même année, il est élu député européen sur la liste de Bernard Tapie, tête de liste « Énergie radicale », jugeant qu'il faut développer un véritable courant écologiste de gauche.
+En 1995, après le retrait de Jacques Delors, il soutient Lionel Jospin au premier tour de l'élection présidentielle.
+
+
+
+
+
+
+
+PARTISNORM
+PART Génération écologie (GE) 1990-1994.
+PART Convergences écologie solidarité (CES) 1994-1998.
+PART Les Verts (Les Verts) 1998-2010.
+PART Europe Écologie Les Verts (EÉLV) 2010-2013.
+PART Sans étiquette (SE) 2013-2017.
+PART Génération·s, le mouvement (Génération·s) depuis 2017.
+FONCTIONNORM
+
+NOMF Député français NOMF 12 juin 1997 – 20 juin 2017(20 ans et 8 jours) SEP2 Élection REL 1er juin 1997 SEP2 Réélection REL 16 juin 200217 juin 200717 juin 2012 SEP2 Circonscription REL 3e de la Gironde SEP2 Législature REL XIe, XIIe, XIIIe, XIVe (Cinquième République) SEP2 Prédécesseur REL Jean-Claude Barran SEP2 Successeur REL Loïc Prud'homme.
+NOMF Député européen NOMF 19 juillet 1994 – 11 août 1997(3 ans et 23 jours) SEP2 Élection REL 12 juin 1994 SEP2 Législature REL 4e SEP2 Groupe politique REL Verts.
+NOMF Conseiller régional d'Aquitaine NOMF 16 mars 1998 – 25 mars 1998(9 jours) SEP2 Élection REL 15 mars 1998.
+NOMF Président NOMF 23 mars 1992 – 27 juin 1994(2 ans, 3 mois et 4 jours) SEP2 Élection REL 22 mars 1998.
+NOMF Président NOMF Maire de Bègles SEP2 Réélection REL juin 1995mars 2001mars 2008avril 2014 SEP2 Prédécesseur REL Bernard Moncla SEP2 Successeur REL Clément Rossignol Puech SEP2 Nom de naissance REL Noël Jean Mamère SEP2 Date de naissance REL 25 décembre 1948 (69 ans) SEP2 Lieu de naissance REL Libourne (Gironde, France) SEP2 Nationalité REL française SEP2 Parti politique REL GE (1990-1994)CES (1994-1998)Les Verts (1998-2010)EÉLV (2010-2013)SE (2013-2017)Génération·s (depuis 2017) SEP2 Diplômé de REL IEP de Bordeaux.

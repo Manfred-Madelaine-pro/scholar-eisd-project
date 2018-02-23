@@ -1,0 +1,16 @@
+PRETAG Jean.
+NOMTAG Sourbet.
+Jean Sourbet est un homme politique français né le 1er novembre 1900 à Morizès (Gironde) et mort le 21 décembre 1962 à Morizès (Gironde).
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 2 juin 1946 – 21 décembre 1962 SEP2 Gouvernement REL IVe République-Ve République SEP2 Groupe politique REL PRL (1946-1951)CRAPS (1951-1956)IPAS (1956-1962)RI (1962) SEP2 Date de naissance REL 1er novembre 1900 SEP2 Date de décès REL 21 décembre 1962 (à 62 ans) SEP2 Résidence REL Gironde.

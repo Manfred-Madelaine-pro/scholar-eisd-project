@@ -1,0 +1,20 @@
+PRETAG Michel.
+NOMTAG Junot.
+Michel Junot, né le 29 septembre 1916 dans le 14e arrondissement de Paris et décédé le 20 juillet 2008, est un haut fonctionnaire et un homme politique français, député de l’ancienne deuxième circonscription de la Seine de 1958 à 1962.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (IPAS).
+PART Rassemblement pour la République (RPR).
+FONCTIONNORM
+
+NOMF Député européen NOMF 19 juin 1981 – 12 janvier 1983(1 an, 6 mois et 24 jours) SEP2 Prédécesseur REL Maurice Doublet SEP2 Successeur REL Roger Gauthier.
+NOMF Député de la 2e circonscription de Paris NOMF 30 novembre 1958 – 9 octobre 1962(3 ans, 10 mois et 9 jours) SEP2 Législature REL 1re (Ve République) SEP2 Prédécesseur REL circonscription créée SEP2 Successeur REL Jean Sainteny SEP2 Successeur REL Jean-Pierre Hanniet SEP2 Date de naissance REL 29 septembre 1916 SEP2 Lieu de naissance REL Paris (France) SEP2 Date de décès REL 20 juillet 2008 (à 91 ans) SEP2 Parti politique REL IPASRPR SEP2 Profession REL Haut fonctionnaire.

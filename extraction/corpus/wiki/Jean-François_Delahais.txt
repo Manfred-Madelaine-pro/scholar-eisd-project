@@ -1,0 +1,16 @@
+PRETAG Jean-François.
+NOMTAG Delahais.
+Jean-François Delahais, né le 30 janvier 1940 à Malesherbes (Loiret), est un homme politique français. Élu maire de Saint-Égrève en 1977, il est député entre 1988 et 1993 puis suppléant de Edwige Avice aux élections législatives de 1993 pour la 5e circonscription de l'Isère. À ce titre, il la remplace à l'Assemblée nationale lorsqu'elle est nommée au gouvernement.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la 5e circonscription de l'Isère NOMF 29 juillet 1988 – 1er avril 1993 SEP2 Législature REL IXe (Cinquième République) SEP2 Groupe politique REL socialiste SEP2 Prédécesseur REL Edwige Avice (titulaire) SEP2 Successeur REL Philippe Langenieux-Villard SEP2 Prédécesseur REL Jean Balestas SEP2 Successeur REL Robert Fiat SEP2 Date de naissance REL 30 janvier 1940 (78 ans) SEP2 Nationalité REL Française.

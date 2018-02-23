@@ -1,0 +1,23 @@
+PRETAG Jean-Claude.
+NOMTAG Étienne.
+Jean-Claude Étienne, né le 6 août 1941 à Vouziers (Ardennes) et mort le 11 mars 2017[1],[2], est un homme politique français.
+
+
+
+Professeur de médecine de profession, Jean-Claude Étienne est élu sénateur de la Marne le 23 septembre 2001, après avoir été député de la deuxième circonscription de la Marne.
+Le 27 octobre 2010, il est nommé membre du groupe des personnalités qualifiées au Conseil économique, social et environnemental (CESE). Il est remplacé au Sénat par sa suppléante Mireille Oudit, à compter du 3 novembre 2010.
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement pour la République (RPR).
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Sénateur de la Marne NOMF 1er octobre 2001 – 2 novembre 2010(9 ans, 1 mois et 1 jour) SEP2 Élection REL 23 septembre 2001 SEP2 Groupe politique REL RPR puis UMP.
+NOMF Président duconseil régional de Champagne-Ardenne NOMF 1998 – 2004 SEP2 Prédécesseur REL Jean Kaltenbach SEP2 Successeur REL Jean-Paul Bachy.
+NOMF Député de la 2e circonscription de la Marne NOMF 2 avril 1993 – 30 septembre 2001(8 ans, 3 mois et 28 jours) SEP2 Prédécesseur REL Georges Colin SEP2 Successeur REL Catherine Vautrin SEP2 Date de naissance REL 6 août 1941 SEP2 Lieu de naissance REL Vouziers (Ardennes) SEP2 Date de décès REL 11 mars 2017 (à 75 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL RPRUMP SEP2 Profession REL Professeur agrégé de médecine.

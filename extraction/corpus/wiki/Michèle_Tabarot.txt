@@ -1,0 +1,25 @@
+PRETAG Michèle.
+NOMTAG Tabarot.
+Michèle Tabarot est une femme politique française, née le 13 octobre 1962 à Alicante (Espagne). Députée des Alpes-Maritimes depuis 2002, elle est la secrétaire générale de l’UMP entre 2012 et 2014.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti républicain (Parti républicain).
+PART Union pour la démocratie française (UDF) DL.
+PART Démocratie libérale (parti politique) (DL).
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (Les Républicains).
+FONCTIONNORM
+
+NOMF Députée des Alpes-MaritimesÉlue dans la 9e circonscription NOMF En fonction depuis le 19 juin 2002(15 ans, 8 mois et 2 jours) SEP2 Élection REL 16 juin 2002 SEP2 Réélection REL 17 juin 200717 juin 201218 juin 2017 SEP2 Législature REL XIIe, XIIIe, XIVe et XVe SEP2 Groupe politique REL UMP (2002-2015)LR (depuis 2015) SEP2 Prédécesseur REL André Aschieri SEP2 Élection REL 18 juin 1995 SEP2 Prédécesseur REL Pierre Bachelet SEP2 Successeur REL Yves Pigrenet.
+NOMF Président NOMF PrédécesseurJean-François Copé SEP2 Prédécesseur REL Jean-François Copé SEP2 Successeur REL Luc Chatel.
+NOMF Présidente de la Commission des Affaires culturelles et de l'Éducationde l'Assemblée nationale NOMF 1er juillet 2009 – 28 juin 2012(2 ans, 11 mois et 27 jours) SEP2 Législature REL XIIIe SEP2 Prédécesseur REL Nouvelle commission SEP2 Successeur REL Patrick Bloche.
+NOMF Conseillère générale des Alpes-MaritimesÉlue dans le canton du Cannet NOMF 27 mars 1994 – 22 août 2002(8 ans, 4 mois et 26 jours) SEP2 Prédécesseur REL Lucien Griffa SEP2 Successeur REL Patrick Tambay SEP2 Date de naissance REL 13 octobre 1962 (55 ans) SEP2 Lieu de naissance REL Alicante (Espagne) SEP2 Nationalité REL Française SEP2 Parti politique REL Parti républicainUDF-DLUMPLes Républicains SEP2 Père REL Robert Tabarot SEP2 Fratrie REL Philippe Tabarot (frère).

@@ -1,0 +1,19 @@
+PRETAG Michel.
+NOMTAG Sy.
+Michel Sy, né le 26 septembre 1930 aux Ponts-de-Cé (Maine-et-Loire), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP) RPR.
+PART Rassemblement pour la République (RPR).
+FONCTIONNORM
+
+NOMF Député de la 25e circonscription de la Seine NOMF 10 juin 1960 – 9 octobre 1962 SEP2 Groupe politique REL IPAS SEP2 Prédécesseur REL Jean Pécastaing SEP2 Successeur REL Alexandre Sanguinetti SEP2 Date de naissance REL 26 septembre 1930 (87 ans) SEP2 Lieu de naissance REL Les Ponts-de-Cé SEP2 Parti politique REL CNIP, RPR SEP2 Profession REL Chargé de recherche au CNRS.

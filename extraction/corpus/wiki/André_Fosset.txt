@@ -1,0 +1,19 @@
+PRETAG André.
+NOMTAG Fosset.
+André Fosset, né le 13 novembre 1918 à Paris et mort le 27 mars 2001, est un homme politique français.
+
+
+
+Il est l'auteur en tant que ministre d'une loi sur la protection de la nature. Issu d'un milieu populaire, André Fosset est formé par la JOC ou Jeunesse Ouvrière Chrétienne. Il adhère au Mouvement républicain populaire dès sa fondation et devient en 1945 le plus jeune conseiller de Paris. Il est réélu en 1953 et siège jusqu'en 1959. Président de la fédération de la Seine du MRP en 1957, André Fosset est élu sénateur en 1959, réélu dans les Hauts-de-Seine en 1968. Il est questeur du Sénat de 1968 à 1971, président du groupe de l'Union centriste de 1974 à 1976 avant d'entrer dans le gouvernement Chirac. Sénateur à nouveau de 1977 à 1995, après avoir été conseiller économique et social de mars à octobre 1977, il se spécialise dans les questions d'information. Il dirige aussi les relations extérieurs du groupe Hersant et devient directeur du Parisien libéré (1978-1981). Il siège au conseil d'administration d'Antenne 2 de 1982 à 1995. Conseiller régional d'Ile-de-France de 1977 à 1998, il y préside le groupe UDF (1986-1992) avant de se charger comme vice-président du logement et de l'action sociale, puis des lycées (1992-1998). Administrateur (1972-1989) puis vice-président du conseil de surveillance de l'orfèvrerie Christofle (1990-1994), il préside de 1977 à 1992 le Comité français des expositions et est nommé Président d'honneur du Comité de France.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de la Cinquième République NOMF .
+NOMF Sénateur de la Communauté NOMF .
+NOMF Sénateur de la Quatrième République (d) NOMF .

@@ -1,0 +1,18 @@
+PRETAG Louis.
+NOMTAG Maillot.
+Louis Maillot était un homme politique français, né le 21 août 1899 au Barboux (Doubs) et décédé le 28 août 1975 à Bonnétage (Doubs).
+Exploitant agricole, il milite très tôt dans différentes organisations de droite, y compris l'Action française. Maire du Barboux dès 1945, conseiller général du canton du Russey en 1955, réélu en 1961, il est élu sénateur en octobre 1957 sous l'étiquette indépendante.
+En novembre 1958, il est élu député de la circonscription de Pontarlier sous les couleurs de l'UNR. Il est réélu en 1962.
+En 1967, il est réélu en tant que suppléant d'Edgar Faure, qui, nommé ministre, lui laisse son siège.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1957-1958 Député 1958-1968 NOMF 1957 – SEP2 Gouvernement REL IVe République Ve République SEP2 Groupe politique REL UNR SEP2 Date de naissance REL 21 août 1899 SEP2 Date de décès REL 28 août 1975 (à 76 ans) SEP2 Résidence REL Doubs.

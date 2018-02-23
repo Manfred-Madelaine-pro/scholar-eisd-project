@@ -1,0 +1,24 @@
+PRETAG Stéphane.
+NOMTAG Ravier.
+Stéphane Ravier, né le 4 août 1969 à Gap, est un homme politique français.
+Membre du Front national, où il siège au bureau politique depuis 2010, il est conseiller régional de la région Provence-Alpes-Côte d'Azur, sénateur des Bouches-du-Rhône et maire du VIIe secteur dans les quartiers nord de Marseille. Stéphane Ravier est une figure symbolique de la percée du Front national aux élections municipales et sénatoriales de 2014.
+
+
+
+Stéphane Ravier naît le 4 août 1969 à Gap[1]. Il est le fils d'un ouvrier électricien et d'une mère au foyer italienne naturalisée française à 15 ans. Sa famille s'installe à Marseille, dans les quartiers Nord, quand il a trois ans. Son grand-père était communiste et ses parents votaient François Mitterrand.
+Il est reçu au concours de la fonction publique d'État et intègre l'administration des Postes, télégraphes et téléphones (PTT) dans le service postal[2]. Il occupe ensuite les fonctions d'employé au service commercial d'Orange (ex-PTT) à Marseille. Il est désormais en disponibilité de la fonction publique[2].
+Stéphane Ravier est marié et père de deux enfants.
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN).
+FONCTIONNORM
+
+NOMF Sénateur NOMF En fonction depuis le 1er octobre 2014(3 ans, 4 mois et 15 jours) SEP2 Élection REL 28 septembre 2014 SEP2 Circonscription REL Bouches-du-Rhône SEP2 Groupe politique REL RASNAG SEP2 Prédécesseur REL Serge Andreoni SEP2 Prédécesseur REL Garo Hovsepian SEP2 Successeur REL Sandrine D'Angio.
+NOMF Conseiller régional NOMF En fonction depuis le 28 mars 2010(7 ans, 10 mois et 19 jours) SEP2 Élection REL 28 mars 2010 SEP2 Réélection REL 13 décembre 2015 SEP2 Circonscription REL Provence-Alpes-Côte d'Azur.
+NOMF Président NOMF Groupe politiqueFront national SEP2 Groupe politique REL Front national SEP2 Date de naissance REL 4 août 1969 (48 ans) SEP2 Lieu de naissance REL Gap (France) SEP2 Nationalité REL Française SEP2 Parti politique REL FN(depuis 1985) SEP2 Profession REL Fonctionnaire des PTT SEP2 Religion REL Catholicisme SEP2 Résidence REL Marseille.

@@ -1,0 +1,16 @@
+PRETAG Louis.
+NOMTAG Biétrix.
+Louis Biétrix est un homme politique français né le 29 février 1880 à Besançon, et, mort le 18 mars 1952 à Chalon-sur-Saône (Saône-et-Loire)[1].
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL IURN SEP2 Nom de naissance REL Louis Henri Biétrix SEP2 Date de naissance REL 29 février 1880 SEP2 Lieu de naissance REL Besançon SEP2 Date de décès REL 18 mars 1952 (à 72 ans) SEP2 Lieu de décès REL Chalon-sur-Saône SEP2 Résidence REL Doubs.

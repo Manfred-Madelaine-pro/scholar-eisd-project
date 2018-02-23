@@ -1,0 +1,18 @@
+PRETAG Charles.
+NOMTAG Prévet.
+Charles Prévet est un homme politique français né le 18 mars 1852 à Paris et décédé le 25 février 1914 à Paris. Il est le frère de Jules Prevet.
+Il succède dès 1875 à son père au conseil d'administration du Figaro. Il est également président du conseil d'administration du Petit Journal, dont il sera un temps le directeur. Il crée une industrie de conserves alimentaires à Meaux, et est président des Forges de Saint-Denis. Il est une personne en vue dans le monde des Affaires.
+Conseiller municipal de Meaux en 1881, il est ensuite maire de Nangis et conseiller général. Il est député de Seine-et-Marne de 1885 à 1893, siégeant au groupe de la Gauche radicale. Il est souvent rapporteur des textes concernant les travaux publics et les chemins de fer. Il est sénateur de Seine-et-Marne de 1894 à 1909, inscrit au groupe de la Gauche républicaine. Il continue à être très actif sur les sujets des travaux publics.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .
+NOMF Sénateur de la Troisième République (d) NOMF .

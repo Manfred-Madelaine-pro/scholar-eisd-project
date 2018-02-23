@@ -1,0 +1,26 @@
+PRETAG Michel.
+NOMTAG Pouzol.
+Michel Pouzol, né le 5 juillet 1962 à Clermont-Ferrand, est un homme politique français. Ancien membre du Parti socialiste, il était député de la troisième circonscription de l'Essonne.
+
+
+
+Origines et vie familiale.
+Michel Pouzol est né le 5 juillet 1962 à Clermont-Ferrand, au pied des montagnes auvergnates, d'une famille de condition modeste. Son père était ouvrier à l'usine Michelin et sa mère était gardienne d'immeuble. Il a connu avec son épouse et leurs trois enfants[1],[2] une situation d'extrême précarité en 2002, vivant dans un cabanon en lisière de forêt en région parisienne[2].
+Études et formation.
+Étudiant au lycée Sidoine Apollinaire de Clermont-Ferrand, il obtient son baccalauréat en 1980 et décide de s'inscrire en première année de l'école d’architecture de Clermont-Ferrand. En septembre 1981, il intègre la Faculté de Sciences humaines (Psychologie et Économie) de Clermont-Ferrand.
+Carrière professionnelle.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS) 2007-2018.
+PART Génération·s, le mouvement (Génération·s) depuis 2017.
+FONCTIONNORM
+
+NOMF Député de la 3e circonscription de l’Essonne NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Élection REL 17 juin 2012 SEP2 Législature REL XIVe législature SEP2 Groupe politique REL SRC puis SER SEP2 Prédécesseur REL Geneviève Colot (UMP) SEP2 Successeur REL Laëtitia Romeiro Dias.
+NOMF Conseiller général de l'Essonneélu dans le canton de Brétigny-sur-Orge NOMF 16 mars 2008 – 29 mars 2015(7 ans et 13 jours) SEP2 Élection REL 16 mars 2008 SEP2 Prédécesseur REL Paul Simon (VEC) SEP2 Successeur REL Nicolas Méary (UDI)Sophie Rigault (UMP).
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 5 juillet 1962 (55 ans) SEP2 Lieu de naissance REL Clermont-Ferrand SEP2 Nationalité REL française SEP2 Parti politique REL PS (2007-2018)Génération·s (depuis 2017) SEP2 Profession REL cadre supérieur du secteur public.

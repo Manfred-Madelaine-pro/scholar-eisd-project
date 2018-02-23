@@ -1,0 +1,25 @@
+PRETAG Bernard.
+NOMTAG Saugey.
+Bernard Saugey, né le 3 mars 1943 à Lyon, est un homme politique français, membre du groupe UMP au Sénat.
+Administrateur de journaux de profession, il a été élu sénateur de l'Isère le 23 septembre 2001.
+Franc-maçon, il est adhérent de la Grande Loge nationale française (GLNF) et il a présidé la Fraternelle parlementaire[1],[2].
+Il parraine Laurent Wauquiez pour le congrès des Républicains de 2017, scrutin lors duquel est élu le président du parti[3].
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (Les Républicains).
+FONCTIONNORM
+
+NOMF Sénateur de l'Isère NOMF 1er octobre 2001 – 1er octobre 2017 SEP2 Élection REL 23 septembre 2001 SEP2 Réélection REL 25 septembre 2011 SEP2 Groupe politique REL UMP puis LR.
+NOMF Député de la 8e circonscription de l'Isère NOMF 2 avril 1993 – 21 avril 1997(4 ans et 19 jours) SEP2 Élection REL 28 mars 1993 SEP2 Législature REL Xe législature SEP2 Prédécesseur REL Louis Mermaz (PS) SEP2 Successeur REL Louis Mermaz (PS).
+NOMF Conseiller général de l'Isèreélu dans le Canton d'Heyrieux NOMF 30 septembre 1973 – 27 mars 2011(37 ans, 5 mois et 25 jours) SEP2 Prédécesseur REL Lucien Tardy (PS) SEP2 Successeur REL Thierry Auboyer (PS).
+NOMF Président du Conseil général de l'Isère NOMF 27 mars 1998 – 23 mars 2001(2 ans, 11 mois et 24 jours) SEP2 Prédécesseur REL Michel Hannoun (RPR) SEP2 Successeur REL André Vallini (PS) SEP2 Prédécesseur REL Pierre Odet SEP2 Successeur REL Raymond Berthier SEP2 Date de naissance REL 3 mars 1943 (74 ans) SEP2 Lieu de naissance REL Lyon (Rhône) SEP2 Nationalité REL Française SEP2 Parti politique REL UMPLes Républicains SEP2 Profession REL Administrateur de journaux.

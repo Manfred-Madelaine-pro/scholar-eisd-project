@@ -1,0 +1,18 @@
+PRETAG Georges.
+NOMTAG Leredu.
+Georges Jean Leredu est un homme politique français de la IIIe République. Il fut député de Seine-et-Oise de 1914 à 1927, puis sénateur, et ministre de l’Hygiène, de l’Assistance et de la Prévoyance sociales, en 1920.
+
+
+
+Georges Jean Leredu naît le 2 juin 1860, à Metz, en Moselle[1]. Après des études juridiques, il devient avocat. Georges Leredu est élu maire de Franconville-la-Garenne en 1908. Il reste maire jusqu'en 1919. En 1914, il se présente aux élections législatives. Élu député de Seine-et-Oise, il siège de 1914 à 1927. Il siège également comme sénateur jusqu’en 1936. Georges Leredu fut par ailleurs ministre de l’Hygiène, de l’Assistance et de la Prévoyance sociales, après avoir été secrétaire d’État des régions libérées d'Alsace-Moselle durant quelques mois, à partir du 20 février 1920, ainsi que ministre de la santé.
+Georges Jean Leredu décéda à Paris, le 23 juin 1943[1].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1914-1927Sénateur 1927-1936 NOMF 1914 – SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL ERD (1919-1924)GRD (1924-1927) SEP2 Date de naissance REL 2 juin 1860 SEP2 Date de décès REL 23 juin 1943 (à 83 ans) SEP2 Résidence REL Seine-et-Oise.

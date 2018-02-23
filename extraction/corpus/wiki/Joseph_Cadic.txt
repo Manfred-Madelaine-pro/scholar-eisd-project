@@ -1,0 +1,33 @@
+PRETAG Joseph.
+NOMTAG Cadic.
+Joseph Cadic est un homme politique français né le 5 septembre 1886 à Noyal-Pontivy, dans le Morbihan, et décédé le 7 mai 1971 dans sa ville natale.
+
+
+
+Exploitant agricole, il entre en politique en 1919 en devenant conseiller municipal de Noyal-Pontivy. En 1924, il est élu député du Morbihan sur la liste de la Fédération républicaine indépendante du Morbihan. Il s'inscrit au groupe parlementaire de l'Union républicaine démocratique et devient, l'année suivante, maire de sa commune natale. Réélu député en 1928 il se spécialise dans les questions agricoles.
+Battu en 1932 par le candidat du Parti radical-socialiste, il retrouve son mandat de député après les élections de 1936 qui voient la victoire du Rassemblement populaire. Il fait alors partie des quinze députés élus en Bretagne signataires d'un « programme du Front Breton », qui vise alors à créer un groupe parlementaire breton à l'Assemblée nationale, et à défendre des lois en faveur de la régionalisation des institution ou en faveur de l'enseignement de la langue bretonne[1]. Comme de nombreux adhérents de la Fédération républicaine dans les années 1930, il s'en éloigne et choisit de ne rejoindre aucun groupe parlementaire.
+Le 10 juillet 1940, il vote en faveur de la Remise des pleins pouvoirs au Maréchal Pétain. Il tente, en 1941, de franchir la ligne de démarcation. Arrêté par les allemands, il effectue un mois de prison avant d'être démis de ses mandats. En 1945, il est frappé d'inéligibilité comme tous les parlementaires ayant approuvé la prise du pouvoir par le Maréchal Pétain ; consulté, un jury d'honneur refuse de le rétablir dans ses droits.
+Réélu maire en 1953, son inéligibilité qui sera supprimée par la loi du 6 août 1953, fut alors soulevée. Toutefois le caractère non suspensif du recours et la lenteur de la procédure lui permettent d'exercer son mandat jusqu'en mars 1956. Déclaré inéligible, il se présente avec succès à l'élection municipale organisée afin de pourvoir son siège devenu vacant puis ses collègues du Conseil le réélisent au poste de maire.
+En 1956, il se présente aux élections législatives sur la liste d'Union des indépendants et paysans et des républicains nationaux conduite par Raymond Marcellin. Élu, il siège au groupe du Parti paysan d'union sociale. En 1958, il soutient l'arrivée au pouvoir du Général de Gaulle et quitte définitivement le Parlement.
+Il fonde la même année le Service social breton, dont il est le premier président.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union républicaine démocratique (URD) 1924.
+PART 1924 (1924) 1932.
+PART 1932 (1932) .
+PART Non-inscrit (NI) 1936.
+PART 1936 (1936) 1940.
+PART 1940 (1940) .
+PART Parti paysan d'union sociale (PPUS) 1956.
+PART 1956 (1956) 1958.
+PART 1958 (1958).
+FONCTIONNORM
+
+NOMF Député du Morbihan (sous la quatrième République) NOMF 2 janvier 1956 – 8 décembre 1958 SEP2 Élection REL 2 janvier 1956 SEP2 Législature REL IIIe.
+NOMF Député du Morbihan (sous la troisième République) NOMF 1er juin 1936 – 10 juillet 1940 SEP2 Élection REL 3 mai 1936 SEP2 Législature REL XVIe SEP2 Élection REL 25 mai 1924 SEP2 Réélection REL 29 avril 1928 SEP2 Législature REL XIIIe et XIVe SEP2 Date de naissance REL 5 septembre 1886 SEP2 Lieu de naissance REL Noyal-Pontivy (Morbihan, France) SEP2 Date de décès REL 7 mai 1971 (à 84 ans) SEP2 Lieu de décès REL Noyal-Pontivy (Morbihan, France) SEP2 Nationalité REL  France SEP2 Parti politique REL URD (1924-1932)NI (1936-1940)PPUS (1956-1958) SEP2 Profession REL Agriculteur.

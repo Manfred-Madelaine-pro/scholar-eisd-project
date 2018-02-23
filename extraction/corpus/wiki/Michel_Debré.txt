@@ -1,0 +1,38 @@
+PRETAG Michel.
+NOMTAG Debré.
+Michel Debré, né le 15 janvier 1912 dans le 7e arrondissement de Paris et mort le 2 août 1996 à Montlouis-sur-Loire, est un homme d'État français, notamment le premier Premier ministre de la Ve République, de 1959 à 1962, il est considéré comme l’un des « barons du gaullisme ».
+Résistant et gaulliste, il est garde des Sceaux dans le gouvernement de Gaulle III, à partir de 1958 ; il dirige le groupe de travail chargé de la rédaction de la Constitution de la Ve République. Premier ministre de la République française à partir de janvier 1959, il démissionne en avril 1962, à la suite d'un désaccord avec le président Charles de Gaulle concernant une révision constitutionnelle : celle de l'élection du président de la République au suffrage universel direct. De Gaulle voulait faire passer cette révision constitutionnelle par voie référendaire, ainsi réviser la constitution avec l'article 11 de la constitution alors que l'article prévu à cet effet est l'article 89 (Titre XVI de la Constitution : De la Révision).
+Il occupe par la suite les fonctions de ministre de l'Économie et des Finances, de 1966 à 1968, puis des Affaires étrangères, de 1968 à 1969, et enfin de la Défense nationale et « numéro deux du gouvernement », de 1969 à 1973.
+
+
+
+Jeunesse, formation et débuts en politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti républicain, radical et radical-socialiste (Radical).
+PART Rassemblement du peuple français (RPF).
+PART Républicains sociaux (Républicains sociaux).
+PART Union pour la nouvelle République (UNR).
+PART Union des démocrates pour la République (UDR).
+PART Rassemblement pour la République (RPR).
+FONCTIONNORM
+
+NOMF Député français NOMF 2 avril 1973 – 14 mai 1988(15 ans, 1 mois et 12 jours) SEP2 Élection REL 4 mars 1973 SEP2 Circonscription REL 1re de La Réunion SEP2 Législature REL Ve, VIe, VIIe, VIIIe (Cinquième République) SEP2 Prédécesseur REL Henry Sers SEP2 Successeur REL Auguste Legros SEP2 Élection REL 23 juin 1968 SEP2 Circonscription REL 1re de La Réunion SEP2 Législature REL IVe (Cinquième République) SEP2 Prédécesseur REL Henry Sers SEP2 Successeur REL Henry Sers SEP2 Élection REL 5 mars 1967 SEP2 Circonscription REL 1re de La Réunion SEP2 Législature REL IIIe (Cinquième République) SEP2 Prédécesseur REL Henry Sers SEP2 Successeur REL Henry Sers SEP2 Élection REL 5 mai 1963 SEP2 Circonscription REL 1re de La Réunion SEP2 Législature REL IIe (Cinquième République) SEP2 Prédécesseur REL Frédéric Champierre de Villeneuve SEP2 Successeur REL Henry Sers.
+NOMF Ministre d'État chargé de laDéfense nationale NOMF 22 juin 1969 – 28 mars 1973(3 ans, 9 mois et 6 jours).
+NOMF Président NOMF GouvernementJacques Chaban-DelmasPierre Messmer I SEP2 Gouvernement REL Jacques Chaban-DelmasPierre Messmer I SEP2 Prédécesseur REL Pierre Messmer SEP2 Successeur REL Robert Galley.
+NOMF Ministre des Affaires étrangères NOMF 31 mai 1968 – 20 juin 1969(1 an et 20 jours).
+NOMF Président NOMF GouvernementGeorges Pompidou IVMaurice Couve de Murville SEP2 Gouvernement REL Georges Pompidou IVMaurice Couve de Murville SEP2 Prédécesseur REL Maurice Couve de Murville SEP2 Successeur REL Maurice Schumann.
+NOMF Ministre de l'Économie et des Finances NOMF 8 janvier 1966 – 31 mai 1968(2 ans, 4 mois et 23 jours).
+NOMF Président NOMF GouvernementGeorges Pompidou III et IV SEP2 Gouvernement REL Georges Pompidou III et IV SEP2 Prédécesseur REL Valéry Giscard d'Estaing SEP2 Successeur REL Maurice Couve de Murville SEP2 Élection REL 21 mars 1965 SEP2 Prédécesseur REL Maurice Mercier SEP2 Successeur REL André Chollet.
+NOMF Président NOMF GouvernementMichel Debré SEP2 Gouvernement REL Michel Debré SEP2 Coalition REL Majorité présidentielleUNR - UDT - CNIP - MRP - FAEAS puis RNURGaullistes - Droite - Centre SEP2 Prédécesseur REL Charles de Gaulle (président du Conseil) SEP2 Successeur REL Georges Pompidou.
+NOMF Ministre de l'Éducation nationale(intérim) NOMF 23 décembre 1959 – 15 janvier 1960(23 jours).
+NOMF Président NOMF GouvernementMichel Debré SEP2 Gouvernement REL Michel Debré SEP2 Prédécesseur REL André Boulloche SEP2 Successeur REL Louis Joxe.
+NOMF Président NOMF GouvernementCharles de Gaulle III SEP2 Gouvernement REL Charles de Gaulle III SEP2 Prédécesseur REL Robert Lecourt SEP2 Successeur REL Edmond Michelet.
+NOMF Conseiller général d'Indre-et-LoireÉlu dans le canton d'Amboise NOMF 19 mars 1976 – 3 avril 1992(16 ans et 20 jours) SEP2 Élection REL 7 novembre 1948 SEP2 Prédécesseur REL André Chollet SEP2 Successeur REL Bernard Debré SEP2 Élection REL 7 novembre 1948 SEP2 Prédécesseur REL André Chollet SEP2 Successeur REL Bernard Debré.
+NOMF Sénateur français NOMF 7 novembre 1948 – 1er juin 1958(9 ans, 6 mois et 25 jours) SEP2 Élection REL 7 novembre 1948 SEP2 Circonscription REL Indre-et-Loire SEP2 Législature REL IVe République SEP2 Successeur REL Jacques Vassor SEP2 Nom de naissance REL Michel Jean Pierre Debré SEP2 Date de naissance REL 15 janvier 1912 SEP2 Lieu de naissance REL Paris 7e (France) SEP2 Date de décès REL 2 août 1996 (à 84 ans) SEP2 Lieu de décès REL Montlouis-sur-Loire, Indre-et-Loire (France) SEP2 Nature du décès REL Maladie de Parkinson SEP2 Nationalité REL Française SEP2 Parti politique REL RadicalRPFRépublicains sociauxUNRUDRRPR SEP2 Père REL Robert Debré SEP2 Mère REL Jeanne Debat-Ponsan SEP2 Fratrie REL Olivier Debré SEP2 Conjoint REL Anne-Marie « Linette » Lemaresquier (1912-2001) SEP2 Enfants REL Vincent DebréFrançois DebréBernard DebréJean-Louis Debré SEP2 Diplômé de REL Faculté de droit de l'université de ParisSciences Po SEP2 Profession REL Haut fonctionnaire.

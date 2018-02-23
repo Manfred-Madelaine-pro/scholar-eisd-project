@@ -1,0 +1,30 @@
+PRETAG Barbara.
+NOMTAG Pompili.
+Barbara Pompili, née le 13 juin 1975 à Bois-Bernard (Pas-de-Calais), est une femme politique française.
+Adhérente des Verts à partir de 2000 puis d'Europe Écologie Les Verts (EÉLV), elle travaille à l'Assemblée nationale à partir de 2002, puis est élue députée de la deuxième circonscription de la Somme en 2012 avec le soutien du Parti socialiste. Durant la XIVe législature, elle co-préside le groupe écologiste jusqu'en février 2016, devenant ainsi la première femme à occuper la présidence d'un groupe parlementaire à l'Assemblée nationale. Entre-temps, elle quitte EÉLV et rejoint le Parti écologiste. Elle est secrétaire d’État chargée de la Biodiversité du 11 février 2016 au 10 mai 2017, dans les gouvernements de Manuel Valls puis de Bernard Cazeneuve, et fait adopter la loi pour la reconquête de la biodiversité, de la nature et des paysages.
+Réélue en 2017 avec le soutien de La République en marche !, elle est affiliée au groupe La République en marche et préside la commission du Développement durable et de l'Aménagement du territoire lors de la XVe législature.
+
+
+
+Enfance, formation et vie privée.
+Elle passe son enfance à Liévin, dans le Pas-de-Calais. Elle est diplômée de l'institut d'études politiques de Lille[1] et réside à Amiens depuis 2006[2].
+Barbara Pompili est la compagne de Christophe Porquier, ancien vice-président du conseil régional de Picardie et ancien membre d'EELV[3],[4],[5].
+Elle est mère d'une fille née en 2003[1].
+Carrière politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts) 2000-2010.
+PART Europe Écologie Les Verts (EELV) 2010-2015.
+PART Parti écologiste (PÉ) depuis 2016.
+PART La République en marche ! (REM) depuis 2017.
+FONCTIONNORM
+
+NOMF Députée de la 2e circonscription de la Somme NOMF En fonction depuis le 21 juin 2017(7 mois et 27 jours) SEP2 Élection REL 18 juin 2017 SEP2 Législature REL XVe SEP2 Groupe politique REL LREM SEP2 Prédécesseur REL Romain Joron SEP2 Élection REL 17 juin 2012 SEP2 Législature REL XIVe SEP2 Groupe politique REL Écologiste SEP2 Prédécesseur REL Olivier Jardé SEP2 Successeur REL Romain Joron.
+NOMF Présidente de la Commission du Développement durable et de l'Aménagement du territoire de l'Assemblée nationale NOMF En fonction depuis le 29 juin 2017(7 mois et 19 jours) SEP2 Législature REL XVe SEP2 Prédécesseur REL Jean-Paul Chanteguet.
+NOMF Président NOMF GouvernementValls IICazeneuve SEP2 Gouvernement REL Valls IICazeneuve SEP2 Prédécesseur REL Fonction créée SEP2 Successeur REL Fonction supprimée SEP2 Avec REL François de Rugy (2012-2015)Cécile Duflot (2015-2016) SEP2 Successeur REL François de Rugy SEP2 Date de naissance REL 13 juin 1975 (42 ans) SEP2 Lieu de naissance REL Bois-Bernard (Pas-de-Calais) SEP2 Nationalité REL française SEP2 Parti politique REL Les Verts (2000-2010)EELV (2010-2015)PÉ (depuis 2016)REM (depuis 2017) SEP2 Conjoint REL Christophe Porquier SEP2 Enfants REL 1 fille SEP2 Diplômée de REL Sciences Po Lille SEP2 Profession REL assistante parlementaire (anciennement).

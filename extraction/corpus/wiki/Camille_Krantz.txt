@@ -1,0 +1,16 @@
+PRETAG Camille.
+NOMTAG Krantz.
+Camille Krantz (Charles Camille Julien Krantz), né le 24 août 1848 à Dinozé (Vosges) et mort le 30 avril 1924 à Paris, est un homme politique français.
+Ancien élève de l'École polytechnique (X 1868), Camille Krantz fut professeur de droit administratif à l'école des ponts et chaussées. Il a participé à l'organisation des expositions universelles de 1878 (chef de cabinet du commissaire général de l'exposition, son oncle l'ingénieur des Ponts et Chaussées et sénateur Jean-Baptiste Sébastien Krantz (1817-1899) et 1893 (Commissaire général de la section française à l’exposition de Chicago).
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 22 février 1891 – 31 mai 1910 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL Progressistes SEP2 Nom de naissance REL Charles Camille Julien Krantz SEP2 Date de naissance REL 24 août 1848 SEP2 Lieu de naissance REL Dinozé (Vosges),  France SEP2 Date de décès REL 30 avril 1924 SEP2 Lieu de décès REL Paris,  France SEP2 Sépulture REL Cimetière de Saint-Laurent, Épinal, (Vosges) SEP2 Nationalité REL française SEP2 Père REL Charles Dieudonné Krantz SEP2 Mère REL Louise Charlotte Rosalie Collignon SEP2 Conjoint REL Madeleine Alexandrine Balfourier SEP2 Résidence REL Vosges.

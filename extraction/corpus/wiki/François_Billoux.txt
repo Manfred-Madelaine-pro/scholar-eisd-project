@@ -1,0 +1,25 @@
+PRETAG François.
+NOMTAG Billoux.
+François Billoux, né le 21 mai 1903 à Saint-Romain-la-Motte (Loire) et mort le 14 janvier 1978 à Menton (Alpes-Maritimes), est un homme politique français.
+Membre du Parti communiste français, il a été député des Bouches-du-Rhône et ministre de la Santé publique, puis de l’Économie nationale, puis de la Reconstruction et de l’Urbanisme, et de la Défense nationale.
+
+
+
+François Billoux est fils des métayers vignerons Michel Billoux et Marie Chavroche. Sur l'instigation de son père, il adhère en 1917 aux Jeunesses socialistes.
+En 1919, il s'inscrit à la CGT dans l'entreprise commerciale où il travaille, puis en mai 1920 à la section SFIO de Roanne qu'il fait adhérer à l'Internationale communiste. Il est secrétaire général de la Jeunesse communiste en 1924. Il entre au comité central en 1926 et devient membre titulaire du Bureau politique dès 1936.
+Il est élu député des Bouches-du-Rhône à la Chambre des députés en 1936.
+Accusé d'avoir participé à la constitution du Groupe ouvrier et paysan français à la Chambre, en remplacement du groupe communiste dissous, et propagé des « mots d’ordre émanant de la IIIe Internationale », François Billoux est arrêté le 8 octobre 1939, déchu de son mandat le 21 janvier 1940 et condamné le 3 avril 1940 par le 3e tribunal militaire de Paris à 5 ans de prison, 4 000 francs d'amende et 5 ans de privation de ses droits civiques et politiques[1].
+En mars 1941, il est transféré à la centrale de Maison-Carrée à Alger où il retrouve 27 autres parlementaires communistes[2]. Il est libéré après le débarquement allié en Afrique du Nord en 1943.
+En novembre 1943, François Billoux fait partie de la première Assemblée consultative provisoire siégeant à Alger (1943-1944). Il souhaite faire porter l'effort sur l'épuration et le renforcement de l'armée[3]. Le 4 avril 1944, il est remplacé par Étienne Fajon, après avoir été nommé commissaire d'État au Comité français de Libération nationale.
+Membre des deux Assemblées constituantes, il est député jusqu’en 1978 et plusieurs fois membre du gouvernement.
+Il est directeur politique de La Marseillaise, puis dès 1956 de France-Nouvelle pendant l’affaire Servin-Casanova. Il quitte le secrétariat du Comité central en 1956 après en avoir fait partie pendant deux ans.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député des Bouches-du-Rhône1936-19401945-1978 NOMF GouvernementIIIe République - Gouvernement provisoire de la République française - IVe République - Ve République SEP2 Gouvernement REL IIIe République - Gouvernement provisoire de la République française - IVe République - Ve République SEP2 Groupe politique REL communiste SEP2 Successeur REL Guy Hermier SEP2 Date de naissance REL 21 mai 1903 SEP2 Lieu de naissance REL Saint-Romain-la-Motte SEP2 Date de décès REL 14 janvier 1978 (à 74 ans) SEP2 Lieu de décès REL Menton.

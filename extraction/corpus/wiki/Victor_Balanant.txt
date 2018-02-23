@@ -1,0 +1,17 @@
+PRETAG Victor.
+NOMTAG Balanant.
+Victor Balanant est un homme politique français né le 3 juillet 1888 à Brest (Finistère) et décédé le 17 août 1944 à Buzançais (Indre).
+Il est élu en 1919 député du Finistère sur la Liste républicaine et démocratique d'union nationale, apparentée au Bloc national. Il est alors apparenté à l'Alliance démocratique. Militant démocrate-chrétien, il fait partie du Groupe des 14 qui, issu du Bureau d'action civique, donne naissance au premier groupe parlementaire démocrate-chrétien de France, le groupe des Démocrates ; ce groupe parlementaire donnera naissance au Parti démocrate populaire.
+Battu aux élections législatives de 1928, il continue son action politique dans le journalisme. Engagé dans la Résistance pendant la Seconde Guerre mondiale, Victor Balanant décède à Buzançais en 1944 après un parachutage de grenades. Il sauve la vie de ses camarades menacés par l'explosion d'une caisse de munitions. Avant de mourir, il eut le temps de leur dire : « Mourir c'est servir » ; il est déclaré Mort pour la France.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1928 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL RDG (1919-1924)Dém. (1924-1928) SEP2 Date de naissance REL 3 juillet 1888 SEP2 Date de décès REL 17 août 1944 (à 56 ans) SEP2 Résidence REL Finistère.

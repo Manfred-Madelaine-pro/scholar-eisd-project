@@ -1,0 +1,27 @@
+PRETAG Pierre.
+NOMTAG Larrouturou.
+Pierre Larrouturou, né le 19 octobre 1964 à Périgueux (Dordogne), est un économiste et homme politique français, ancien conseiller régional d'Île-de-France.
+Spécialisé dans les questions d'économie, il est connu comme partisan actif du partage du temps de travail, sur lequel il travailla avec Gilles de Robien.
+Membre du Parti socialiste, qu'il quitte en 1991 puis retrouve en 2002, il le quitte à nouveau en 2009 pour adhérer à Europe Écologie Les Verts, sous l'étiquette duquel il devient conseiller régional d'Île-de-France. Après son départ du parti, il reprend sa carte au PS en 2012. Il dépose une motion cosignée avec Stéphane Hessel et Florence Augier pour le congrès de Toulouse. En 2013, il quitte à nouveau le PS ; avec des personnalités issues du collectif Roosevelt, il crée un nouveau parti politique, Nouvelle Donne, qu'il co-préside jusqu'en 2016.
+
+
+
+Famille et études.
+Pierre Larrouturou est le cinquième fils d'une famille de six enfants dont le père était un scientifique d'EDF. Il est le frère du chercheur Bernard Larrouturou (né en 1958) et le cousin du journaliste de Quotidien Paul Larrouturou.
+Il fait des études d'ingénieur agronome (AgroParisTech) puis sort diplômé de l'Institut d'études politiques de Paris. Il commence sa carrière en devenant, en 1989, ingénieur-conseil chez Andersen Consulting, d'où il se met en retrait en 1993. Il y travaille alors à temps partiel[1],[2], deux jours par semaine[3]. Après les lois Aubry sur les 35 heures, il crée un cabinet de consultants, Nouvel équilibre, bénéficiant de financements prévus par la loi Aubry[4]. Son cabinet aura un budget de 3 millions de francs[3]. Il quittera Andersen Consulting en 2000[1], pour se consacrer à ses engagements militants[5]. En 2008, Marianne le présentait comme « l'un des cinq économistes qui avaient annoncé la crise financière »[6].
+Marié, il a deux enfants, et est catholique pratiquant[1].
+Carrière politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS) 1988-1991, 2002-2009, 2012-2013.
+PART Europe Écologie Les Verts (EELV) 2009-2011.
+PART Nouvelle Donne (parti politique) (ND) depuis 2013.
+FONCTIONNORM
+
+NOMF Conseiller régional d'Île-de-France NOMF 21 mars 2010 – 13 décembre 2015(5 ans, 8 mois et 22 jours) SEP2 Élection REL 21 mars 2010 SEP2 Date de naissance REL 19 octobre 1964 (53 ans) SEP2 Lieu de naissance REL Périgueux SEP2 Nationalité REL française SEP2 Parti politique REL PS (1988-1991, 2002-2009, 2012-2013)EELV (2009-2011)ND (depuis 2013) SEP2 Fratrie REL Bernard Larrouturou SEP2 Diplômé de REL AgroParisTechIEP de Paris SEP2 Profession REL Ingénieur agronome SEP2 Religion REL Catholicisme.

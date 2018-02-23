@@ -1,0 +1,27 @@
+PRETAG Jordan.
+NOMTAG Bardella.
+Jordan Bardella, né le 13 septembre 1995 à Drancy, est un homme politique français, membre du Front national.
+
+
+
+Issu d'une famille maternelle originaire de Turin, Jordan Bardella est né le 13 septembre 1995 à Drancy[1], Après avoir obtenu un baccalauréat économique et social[2], il étudie la géographie à l'université Paris-Sorbonne[3].
+En 2012, il adhère au Front national alors qu'il est en classe de seconde[2]. À 19 ans, en 2014, il devient secrétaire départemental du FN de Seine-Saint-Denis[4]. Il est candidat, en binôme avec Christine Prus, aux élections départementales de 2015 sur le canton de Tremblay-en-France ; ils obtiennent 41,04 % des voix au second tour, et ne sont pas élus[5].
+Le 1er janvier 2015, il participe avec Éric Richermoz à une soirée de Nouvel An organisée par Kelly Betesh, où est invité Pierre Gentillet, président des Jeunes de la Droite populaire, et qui suscite la polémique car elle est vue comme un rapprochement entre droite et extrême droite[6].
+Réputé proche de Florian Philippot[7], il est chargé en 2015 de la question des banlieues au sein du FN[3]. Lors des élections régionales de la même année, tête de liste FN en Seine-Saint-Denis, il est élu au conseil régional d'Île-de-France, avec Huguette Fatna, avec 14,7 % des voix au second tour[8].
+Candidat aux élections législatives de 2017 dans la 12e circonscription de Seine-Saint-Denis, il est éliminé au premier tour avec 15,06 % des suffrages exprimés[9].
+Le 21 septembre 2017, après la démission de Florian Philippot du FN, Marine Le Pen, qui souhaite faire émerger une nouvelle génération de responsables au sein du parti, nomme Julien Sanchez, Sébastien Chenu et Jordan Bardella porte-paroles du Front national[10],[11].
+En octobre 2017, il est mis en examen pour diffamation envers le maire d'Aulnay-sous-Bois, Bruno Beschizza, ayant déclaré qu'il avait des « liens troubles […] avec l'islamisme radical »[12].
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (Front national).
+FONCTIONNORM
+
+NOMF Président NOMF Conseiller régional d'Île-de-France.
+NOMF Conseiller régional d'Île-de-France NOMF En fonction depuis le 18 décembre 2015(2 ans, 2 mois et 4 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 13 septembre 1995 (22 ans) SEP2 Lieu de naissance REL Drancy SEP2 Nationalité REL Français SEP2 Parti politique REL Front national.

@@ -1,0 +1,49 @@
+PRETAG François.
+NOMTAG Mitterrand.
+François Mitterrand (Écouter), né le 26 octobre 1916 à Jarnac (Charente) et mort le 8 janvier 1996 à Paris (7e arrondissement), est un homme d'État français, président de la République du 21 mai 1981 au 17 mai 1995.
+Agent contractuel sous le régime de Vichy puis résistant, il est onze fois ministre sous la IVe République, notamment ministre des Anciens combattants et des Victimes de guerre, ministre de la France d'Outre-mer, ministre de l'Intérieur et garde des Sceaux, ministre de la Justice. Il est député de 1946 à 1958, sénateur de 1959 à 1962, puis à nouveau député de 1962 à 1981. L'attentat simulé de l'Observatoire le tient un temps à l'écart de la vie politique.
+Opposé au retour du général de Gaulle au pouvoir, il affronte celui-ci lors de l'élection présidentielle de 1965, qu'il perd au second tour. En 1971, il devient premier secrétaire du Parti socialiste, créé à l'issue du congrès d'Épinay. Candidat de l'union de la gauche à la présidentielle de 1974, il est battu au second tour par Valéry Giscard d'Estaing.
+Soutenu par le Parti socialiste, il remporte l'élection présidentielle de 1981 face à Valéry Giscard d'Estaing, président sortant. Premier socialiste à occuper la présidence de la République sous la Ve République, il fait voter l'abolition de la peine de mort, puis décide du « tournant de la rigueur ». Après la défaite de la gauche aux élections législatives de 1986, il nomme Jacques Chirac à la tête du gouvernement, inaugurant la première cohabitation.
+En 1988, il est réélu président de la République face à Jacques Chirac. Son second septennat est marqué par l'engagement militaire de la France dans la guerre du Golfe, par l'adoption du traité de Maastricht, par la deuxième cohabitation (avec Édouard Balladur), par le déclin de sa popularité, par des révélations sur son passé et son état de santé déclinant.
+Ayant effectué deux septennats complets, François Mitterrand détient le record de longévité à la présidence de la République française. Atteint d'un cancer de la prostate dès 1981, il meurt quelques mois après son départ de l'Élysée.
+
+
+
+
+
+
+Pendant la Seconde Guerre mondiale, François Mitterrand rencontre une jeune résistante bourguignonne, Danielle Gouze, et l'épouse le 28 octobre 1944. Avec elle (présidente, de 1986 à 2011, de la fondation France Libertés fondée en 1986), il a eu trois fils :
+
+Pascal, né le 10 juillet 1945, décédé à 2 mois et vingt jours le 30 septembre 1945 ;
+Jean-Christophe, né le 19 décembre 1946, ancien conseiller aux affaires africaines du président ;
+Gilbert, né le 4 février 1949, maire de Libourne (Gironde) de 1989 à 2011 et député de la Gironde de 1981 à 1993 puis de 1997 à 2002.
+
+D'une relation extra-conjugale avec Anne Pingeot, conservatrice de musée, François Mitterrand a eu une fille : Mazarine Pingeot, née le 18 décembre 1974, à Avignon, qu'il reconnaît le 25 janvier 1984 devant notaire[17]. Après avoir obtenu son agrégation de philosophie, elle a commencé une carrière d'enseignante puis est devenue écrivaine et chroniqueuse de télévision.
+Par ailleurs, Hravn Forsne, un militant politique suédois né en 1988, affirme, dans un entretien publié dans un journal suédois le 8 août 2014, être le fils biologique de François Mitterrand[18],[19]. Sa mère, la journaliste suédoise Christina Forsne, avait évoqué, dans un livre paru en 1997, la liaison qu'elle aurait eue avec l'ancien chef de l'État français[20],[21].
+Généalogie.
+
+
+
+PARTISNORM
+PART Union démocratique et socialiste de la Résistance (UDSR) 1946-1965.
+PART Convention des institutions républicaines (CIR) 1965-1971.
+PART Parti socialiste (PS) 1971-1995.
+FONCTIONNORM
+
+NOMF Président de la République française NOMF 21 mai 1981 – 17 mai 1995(13 ans, 11 mois et 26 jours) SEP2 Élection REL 10 mai 1981 SEP2 Réélection REL 8 mai 1988 SEP2 Premier ministre REL Pierre MauroyLaurent FabiusJacques ChiracMichel RocardÉdith CressonPierre BérégovoyÉdouard Balladur SEP2 Prédécesseur REL Valéry Giscard d'Estaing SEP2 Successeur REL Jacques Chirac SEP2 Prédécesseur REL Alain Savary SEP2 Successeur REL Lionel Jospin.
+NOMF Député français NOMF 6 décembre 1962 – 21 mai 1981(18 ans, 5 mois et 15 jours) SEP2 Élection REL 25 novembre 1962 SEP2 Réélection REL 12 mars 196730 juin 196811 mars 197319 mars 1978 SEP2 Circonscription REL 3e de la Nièvre SEP2 Législature REL IIe, IIIe, IVe, Ve, VIe (Cinquième République) SEP2 Groupe politique REL Socialiste, Fédération de la gauche démocrate et socialiste, Parti socialiste et des Radicaux de gauche puis Socialiste SEP2 Prédécesseur REL Jehan Faulquier SEP2 Successeur REL Bernard Bardin.
+NOMF Sénateur français NOMF 26 avril 1959 – 13 décembre 1962(3 ans, 7 mois et 17 jours) SEP2 Élection REL 26 avril 1959 SEP2 Circonscription REL Nièvre SEP2 Groupe politique REL Socialiste SEP2 Prédécesseur REL Jean Doussot SEP2 Successeur REL Daniel Benoîst.
+NOMF Ministre d'État, garde des Sceaux,ministre de la Justice NOMF 1er février 1956 – 21 mai 1957(1 an, 3 mois et 20 jours).
+NOMF Président NOMF GouvernementGuy Mollet SEP2 Gouvernement REL Guy Mollet SEP2 Prédécesseur REL Robert Schuman SEP2 Successeur REL Édouard Corniglion-Molinier.
+NOMF Ministre de l'Intérieur NOMF 19 juin 1954 – 5 février 1955(7 mois et 17 jours).
+NOMF Président NOMF GouvernementPierre Mendès France SEP2 Gouvernement REL Pierre Mendès France SEP2 Prédécesseur REL Léon Martinaud-Déplat SEP2 Successeur REL Maurice Bourgès-Maunoury.
+NOMF Ministre d'État délégué au Conseil de l'Europe NOMF 28 juin 1953 – 4 septembre 1953(2 mois et 7 jours).
+NOMF Président NOMF GouvernementJoseph Laniel I SEP2 Gouvernement REL Joseph Laniel I SEP2 Prédécesseur REL Pierre Pflimlin (indirectement) SEP2 Successeur REL Maurice Faure (indirectement).
+NOMF Ministre d'État NOMF 20 janvier 1952 – 28 février 1952(1 mois et 8 jours).
+NOMF Président NOMF GouvernementEdgar Faure I SEP2 Gouvernement REL Edgar Faure I.
+NOMF Ministre de la France d'Outre-mer NOMF 12 juillet 1950 – 10 juillet 1951(11 mois et 28 jours).
+NOMF Président NOMF GouvernementRené Pleven IHenri Queuille I SEP2 Gouvernement REL René Pleven IHenri Queuille I SEP2 Prédécesseur REL Paul Coste-Floret SEP2 Successeur REL Louis Jacquinot.
+NOMF Ministre des Anciens combattantset des Victimes de guerre NOMF 24 novembre 1947 – 19 juillet 1948(7 mois et 25 jours).
+NOMF Président NOMF GouvernementRobert Schuman I SEP2 Gouvernement REL Robert Schuman I SEP2 Prédécesseur REL Daniel Mayer SEP2 Successeur REL André Maroselli.
+NOMF Président NOMF GouvernementPaul Ramadier I SEP2 Gouvernement REL Paul Ramadier I SEP2 Prédécesseur REL Max Lejeune SEP2 Successeur REL Daniel Mayer.
+NOMF Député français NOMF 10 novembre 1946 – 8 décembre 1958(12 ans et 28 jours) SEP2 Élection REL 10 novembre 1946 SEP2 Réélection REL 17 juin 19512 janvier 1956 SEP2 Circonscription REL Nièvre SEP2 Législature REL Ire, IIe, IIIe (Quatrième République) SEP2 Groupe politique REL Socialiste SEP2 Prédécesseur REL Roger Gillot SEP2 Successeur REL Jehan Faulquier SEP2 Nom de naissance REL François Maurice Adrien Marie Mitterrand SEP2 Date de naissance REL 26 octobre 1916 SEP2 Lieu de naissance REL Jarnac, Charente (France) SEP2 Date de décès REL 8 janvier 1996 (à 79 ans) SEP2 Lieu de décès REL Paris (7e, France) SEP2 Nature du décès REL cancer de la prostate SEP2 Nationalité REL française SEP2 Parti politique REL UDSR (1946-1965)CIR (1965-1971)PS (1971-1995) SEP2 Conjoints REL Danielle Gouze SEP2 Enfants REL Pascal MitterrandJean-Christophe MitterrandGilbert MitterrandMazarine Pingeot SEP2 Diplômé de REL Université de ParisÉcole libre des sciences politiques SEP2 Profession REL AvocatÉditeur de presse SEP2 Religion REL Catholicisme[1] puis agnosticisme[1].

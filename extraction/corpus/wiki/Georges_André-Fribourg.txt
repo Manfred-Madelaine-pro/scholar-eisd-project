@@ -1,0 +1,18 @@
+PRETAG Georges.
+NOMTAG André-Fribourg.
+Georges André-Fribourg est un homme politique français né le 20 novembre 1887 à Bourmont, dans la Haute-Marne, et décédé le 27 septembre 1948 à Paris.
+Jeune étudiant brillant, professeur agrégé d'histoire, il sert comme soldat dans les combats de la Première Guerre mondiale. En 1919, il se présente aux élections législatives dans le département de l'Ain sur la Liste des combattants et d'intérêts économiques qui emporte 4 des 6 sièges à pourvoir. À la Chambre des députés, il rejoint le groupe de l'Action républicaine et sociale qui regroupe, dans le sillage de l'Alliance démocratique, de jeunes élus réformateurs.
+André-Fribourg s'impose rapidement comme l'un des élus influents et écoutés de l'assemblée. Réélu en 1924 sur la liste du Cartel des gauches, il rejoint le groupe radical-socialiste. Vice-président de la commission de l’Enseignement, il s’intéresse également aux questions relatives à la liberté de la presse et à la défense des contribuables. Battu en 1928 lors du retour au scrutin d’arrondissement par un autre député sortant membre de la Fédération républicaine, il regagne son siège en 1932, devenant cette fois vice-président de la commission des Affaires étrangères.
+Il ne se représente pas aux élections législatives de 1936 et se retire de la vie politique. Également auteur de très nombreux ouvrages et publications en histoire, commandeur de la Légion d'honneur, il décède à Paris en 1948.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1928puis 1932-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARS (1919-1924)RRRS (1924-1936) SEP2 Date de naissance REL 20 novembre 1887 SEP2 Date de décès REL 27 septembre 1948 (à 60 ans) SEP2 Résidence REL Ain.

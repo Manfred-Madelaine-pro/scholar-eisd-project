@@ -1,0 +1,22 @@
+PRETAG Henri.
+NOMTAG Caillemer.
+Henri Caillemer, homme de lettres sous le pseudonyme de Charles Mauban, conseiller des affaires culturelles, né le 16 novembre 1907 à Grenoble (Isère), mort le 3 mars 1981 à La Roche-sur-Yon (Vendée), est un homme politique français, député de la Vendée de 1958 à 1962.
+
+
+
+Henri Caillemer est le fils de Robert Caillemer (1875-1921), successivement professeur des Facultés de droit de Grenoble, Aix-en-Provence, puis Paris, et de Denise Giraud (1882-1939). Par cette dernière, issue d'une famille de juristes poitevins, Henri Caillemer héritera du château de Choisy, dont il fera sa résidence dans la commune du Givre.
+Ayant suivi des études de droit et de sciences politiques, il prend le pseudonyme de Charles Mauban, publie plusieurs romans et textes, ainsi qu'une traduction de Pigs have wings (Le Plus beau cochon du monde), de Pelham Grenville Wodehouse. Il collabore à la Revue des deux Mondes, à La Revue du siècle, à La Revue du XXe siècle et à La Nouvelle Revue française, ainsi qu'à l'hebdomadaire Rivarol de 1951 à 1957.
+D'abord délégué régional à la Jeunesse du Lyonnais en 1940, sous le Régime de Vichy, il exerce diverses fonctions dans l'administration centrale chargée de la jeunesse, jusqu'à devenir en 1942 directeur du Secrétariat général à la Jeunesse, chargé de la zone sud.
+Installé en Vendée après la Libération, il est élu député dans la 2e circonscription de la Vendée en 1958 sous l'étiquette Indépendants et paysans, face au radical-socialiste Pierre Nau, conseiller général et maire de Luçon. Il est nommé membre du Sénat de la Communauté.
+Ayant participé en 1959 à la création du Rassemblement pour l'Algérie Française, il appelle à voter non lors des référendums du 8 janvier 1961 sur l'autodétermination de l'Algérie et du 8 avril 1962 sur l'approbation des accords d'Évian.
+Battu en 1962 par Marcel Bousseau (UNR), il est nommé en 1963 conseiller culturel auprès de l'ambassade de France en Afghanistan (1963-1968). Il occupera ensuite le même poste en Norvège et à Chypre et prendra sa retraite en 1973.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la Vendée (1958-1962) NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Date de naissance REL 16 novembre 1907 SEP2 Date de décès REL 3 mars 1981 (à 73 ans).

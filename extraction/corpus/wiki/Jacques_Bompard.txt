@@ -1,0 +1,23 @@
+PRETAG Jacques.
+NOMTAG Bompard.
+Jacques Bompard est un homme politique français, né le 24 février 1943 à Montpellier.
+Affichant des positions libérales-conservatrices, il est membre fondateur du Front national (FN), qu'il quitte en 2005 pour rejoindre le Mouvement pour la France (MPF) de Philippe de Villiers. En 2010, il rompt avec le MPF pour fonder et présider la Ligue du Sud, parti classé à l'extrême droite et très implanté dans la partie nord du département de Vaucluse.
+En 1995, il est élu maire d'Orange, faisant partie des trois seuls membres du Front national à emporter une commune aux élections municipales françaises de 1995 ; il est constamment réélu à la tête de la municipalité depuis. Il a également été conseiller régional de Provence-Alpes-Côte d'Azur, conseiller général de Vaucluse, et a siégé comme député à l'Assemblée nationale de 1986 à 1988 et de 2012 à 2017.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) 1972-2005.
+PART Mouvement pour la France (MPF) 2005-2010.
+PART Ligue du Sud (LS) depuis 2010.
+FONCTIONNORM
+
+NOMF Conseiller général de Vaucluse NOMF 24 novembre 2002 – 20 juin 2012(9 ans, 6 mois et 27 jours) SEP2 Circonscription REL canton d'Orange-Ouest SEP2 Prédécesseur REL Paul Durieu SEP2 Successeur REL Marie Brun.
+NOMF Député français NOMF 20 juin 2012 – 21 août 2017(5 ans, 2 mois et 1 jour) SEP2 Élection REL 17 juin 2012 SEP2 Réélection REL 18 juin 2017 SEP2 Circonscription REL 4e de Vaucluse SEP2 Législature REL XIVe et XVe SEP2 Groupe politique REL NI SEP2 Prédécesseur REL Paul Durieu SEP2 Successeur REL Marie-France Lorho SEP2 Élection REL 16 mars 1986 SEP2 Circonscription REL Vaucluse SEP2 Législature REL VIIIe SEP2 Groupe politique REL FN-RN.
+NOMF Conseiller régional deProvence-Alpes-Côte d'Azur NOMF 16 mars 1986 – 24 novembre 2002(16 ans, 8 mois et 8 jours) SEP2 Élection REL 16 mars 1986 SEP2 Groupe politique REL FN SEP2 Date de naissance REL 24 février 1943 (74 ans) SEP2 Lieu de naissance REL Montpellier SEP2 Nationalité REL Française SEP2 Parti politique REL FN (1972-2005)MPF (2005-2010)LS (depuis 2010) SEP2 Conjoint REL Marie-Claude Bompard SEP2 Diplômé de REL Université Montpellier 1 SEP2 Profession REL Chirurgien-dentiste SEP2 Religion REL Christianisme SEP2 Site web REL jacquesbompard.fr.

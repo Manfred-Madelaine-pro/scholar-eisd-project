@@ -1,0 +1,22 @@
+PRETAG Alain.
+NOMTAG Mayoud.
+Alain Mayoud, né le 7 décembre 1942 à L'Arbresle (Rhône) et mort le 23 mai 1993 à Saint-Romain-de-Popey (Rhône), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Républicains indépendants (parti politique) (RI) UDF.
+PART Union pour la démocratie française (UDF) PR.
+PART Parti républicain (PR).
+FONCTIONNORM
+
+NOMF Député de la 8e circonscription du Rhône NOMF 5 juin 1988 – 23 mai 1993 SEP2 Successeur REL Michel Mercier.
+NOMF Député du Rhône(scrutin proportionnel par département) NOMF 16 mars 1986 – 14 mai 1988.
+NOMF Député de la 9e circonscription du Rhône NOMF 11 mars 1973 – 1er avril 1986 SEP2 Prédécesseur REL Pierre Nové-Josserand SEP2 Successeur REL André Bazin SEP2 Date de naissance REL 7 décembre 1942 SEP2 Lieu de naissance REL L'Arbresle (Rhône) SEP2 Date de décès REL 23 mai 1993 (à 50 ans) SEP2 Lieu de décès REL Saint-Romain-de-Popey (Rhône) SEP2 Nationalité REL  Française SEP2 Parti politique REL RI, UDF, PR SEP2 Profession REL Cadre au Crédit agricole.

@@ -1,0 +1,23 @@
+PRETAG Germaine.
+NOMTAG Peyroles.
+Germaine Peyroles, née le 22 mars 1902 à Montaigu (Jura) et décédée le 26 octobre 1979 à Paris, est une avocate et femme politique française, membre du Mouvement républicain populaire (MRP). Elle est députée constituante de la Seine entre 1945 et 1946 puis députée du même département entre 1946 et 1951 et entre 1954 et 1955.
+
+
+
+Origines et vie privée.
+Germaine Peyroles est issue d'une famille de gauche, qui fut dreyfusarde au début du siècle. Son père, professeur de français, l'incite à suivre des études qui la mènent jusqu'à l'université et l'obtention du certificat d'avocat. Son époux, Georges, est également avocat. Il la pousse à s'engager en politique, au Parti démocrate populaire, dont elle devient secrétaire générale de la section féminine.
+Elle s'engage dans la Résistance peu après l'armistice de 1940. Le couple, vivant près de Reims, recueille des aviateurs anglais débarqués en France, les aidant parfois à rejoindre l'Espagne. Ils sont notamment embauchés pour des actions de sabotage par le Special Operations Executive ; son mari est pendant un temps emprisonné. Après la Libération, elle reprend son activité politique, et est élue députée de la Seine.
+Elle est mère de quatre enfants ; l'un d'eux est l'écrivain et scénariste Gilles Perrault[1].
+Carrière politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Mouvement républicain populaire (MRP).
+FONCTIONNORM
+
+NOMF Députée de Seine-et-Oise NOMF 14 mars 1954 – 1er décembre 1955 SEP2 Élection REL 14 mars 1954 (scrutin partiel) SEP2 Législature REL IIe et IIIe législatures SEP2 Élection REL 21 octobre 1945 SEP2 Réélection REL 2 juin 194610 novembre 1946 SEP2 Législature REL Ire et IIe Assemblées nationales constituantesIre législature de la IVe République SEP2 Date de naissance REL 22 mars 1902 SEP2 Lieu de naissance REL Montaigu (Jura) SEP2 Date de décès REL 26 octobre 1979 (77 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL  Française SEP2 Parti politique REL MRP SEP2 Profession REL Avocate.

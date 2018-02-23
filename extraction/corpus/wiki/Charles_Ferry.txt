@@ -1,0 +1,19 @@
+PRETAG Charles.
+NOMTAG Ferry.
+Charles Ferry, né le 23 mai 1834 à Saint-Dié et mort le 21 juillet 1909 à Paris, banquier, préfet, député et sénateur des Vosges, frère cadet du président du Conseil Jules Ferry et père du député Abel Ferry.
+
+
+Banquier et homme d'affaires, Charles Ferry devint chef de cabinet de Jules Favre durant le siège de Paris de 1870. Il fut nommé préfet de la Saône-et-Loire, le 20 mars 1871, puis commissaire du gouvernement en Corse en octobre 1871. Il devint préfet de la Haute-Garonne le 11 novembre 1871 et occupa ces fonctions jusqu'au 24 mai 1873. Il reprit ensuite ses occupations bancaires et commerciales.
+Il joua un rôle déterminant dans la répression de l'agitation communarde, comme préfet de Saône-et-Loire, en 1871 ainsi que dans la répression de l'agitation bonapartiste en Corse. Il se chargea de la consolidation du pouvoir central républicain, comme préfet de la Haute-Garonne[1].
+Charles Ferry fut administrateur de la Banque franco-égyptienne en 1870. Il fut aussi administrateur de la Banque de l'Indochine.
+Il a épousé en 1878 Geneviève Allain-Targé. Ils eurent un seul fils, Abel Ferry.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député et sénateur NOMF député1881-18851893-18981898-1902 – sénateur1888-1891 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL Républicain progressiste SEP2 Date de naissance REL 23 mai 1834 SEP2 Date de décès REL 21 juillet 1909 (à 75 ans) SEP2 Résidence REL Vosges.

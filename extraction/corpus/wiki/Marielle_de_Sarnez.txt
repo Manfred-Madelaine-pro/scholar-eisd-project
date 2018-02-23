@@ -1,0 +1,28 @@
+PRETAG Marielle_de.
+NOMTAG Sarnez.
+Marielle de Sarnez, née le 27 mars 1951 dans le 8e arrondissement de Paris, est une femme politique française.
+Bras droit de François Bayrou, elle est la première vice-présidente du Mouvement démocrate. Députée européenne de 1999 à 2017, elle siège au sein du groupe ADLE et exerce la fonction de secrétaire générale du Parti démocrate européen. Elle est ministre chargée des Affaires européennes de mai à juin 2017, puis devient présidente de la commission des Affaires étrangères de l'Assemblée nationale.
+
+
+Famille et jeunesse.
+Marielle Lebel de Sarnez est la fille du résistant et député Olivier de Sarnez[1].
+Son baccalauréat en poche, elle exerce différents métiers, parmi lesquels vendeuse d'encarts publicitaires pour un annuaire d'artisans.
+Elle est divorcée de Philippe Augier, avec qui elle a eu deux enfants : Justine et Augustin.
+Carrière politique.
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Présidente de la commission des Affaires étrangères de l'Assemblée nationale NOMF En fonction depuis le 29 juin 2017(7 mois et 22 jours) SEP2 Législature REL XVe (Cinquième République) SEP2 Prédécesseur REL Élisabeth Guigou.
+NOMF Députée française NOMF En fonction depuis le 21 juin 2017(7 mois et 30 jours) SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 11e de Paris SEP2 Législature REL XVe SEP2 Groupe politique REL MoDem SEP2 Prédécesseur REL Pascal Cherki.
+NOMF Ministre chargée des Affaires européennes NOMF 17 mai – 19 juin 2017(1 mois et 2 jours).
+NOMF Président NOMF Premier ministreÉdouard Philippe SEP2 Premier ministre REL Édouard Philippe SEP2 Gouvernement REL Philippe I SEP2 Prédécesseur REL Harlem Désir (secrétaire d'État) SEP2 Successeur REL Nathalie Loiseau.
+NOMF Députée européenne NOMF 20 juillet 1999 – 17 mai 2017(17 ans, 9 mois et 27 jours) SEP2 Élection REL 13 juin 1999 SEP2 Réélection REL 13 juin 20047 juin 200925 mai 2014 SEP2 Législature REL 5e, 6e, 7e et 8e SEP2 Groupe politique REL ADLE SEP2 Successeur REL Patricia Lalonde.
+NOMF Conseillère de ParisÉlue dans le 6e arrondissement NOMF En fonction depuis le 31 mars 2014(3 ans, 10 mois et 20 jours) SEP2 Élection REL 30 mars 2014 SEP2 Maire REL Anne Hidalgo.
+NOMF Conseillère de ParisÉlue dans le 14e arrondissement NOMF 25 mars 2001 – 11 avril 2010(9 ans et 17 jours) SEP2 Élection REL 18 mars 2001 SEP2 Maire REL Bertrand Delanoë SEP2 Successeur REL Jean-François Martins SEP2 Nom de naissance REL Marielle Lebel de Sarnez SEP2 Date de naissance REL 27 mars 1951 (66 ans) SEP2 Lieu de naissance REL Paris (France) SEP2 Nationalité REL française SEP2 Parti politique REL UDF-CDS, UDF-FD, UDF, MoDem SEP2 Père REL Olivier de Sarnez SEP2 Conjoint REL Philippe Augier SEP2 Enfants REL Justine Augier.

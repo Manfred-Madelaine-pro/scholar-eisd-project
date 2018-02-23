@@ -1,0 +1,29 @@
+PRETAG Jacques.
+NOMTAG Colombier.
+Jacques Colombier, né le 17 février 1952, est un homme politique français, membre du Front national. Il est actuellement député européen.
+
+Il est marié et a une fille[1].
+
+
+Carrière professionnelle.
+Il est agent immobilier de profession[1].
+Carrière politique.
+
+
+
+Il est agent immobilier de profession[1].
+Carrière politique.
+
+
+
+
+PARTISNORM
+PART Front national (FN) depuis 1975.
+FONCTIONNORM
+
+NOMF Député européen NOMF En fonction depuis le 2 février 2018(9 jours) SEP2 Élection REL Succède à Édouard Ferrand SEP2 Circonscription REL Sud-Ouest SEP2 Législature REL 8e SEP2 Groupe politique REL ENL SEP2 Prédécesseur REL Édouard Ferrand.
+NOMF Conseiller régional de Nouvelle-Aquitaine NOMF En fonction depuis le 4 janvier 2016(2 ans, 1 mois et 7 jours).
+NOMF Président NOMF Conseiller municipal de Bordeaux.
+NOMF Conseiller municipal de Bordeaux NOMF En fonction depuis le 28 mars 2014(3 ans, 10 mois et 14 jours) SEP2 Maire REL Alain Juppé SEP2 Maire REL Jacques Chaban-DelmasAlain JuppéHugues MartinAlain Juppé.
+NOMF Conseiller régional d'Aquitaine NOMF 1986 – 2010.
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 17 février 1952 (65 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL FN (depuis 1975) SEP2 Profession REL Agent immobilier.

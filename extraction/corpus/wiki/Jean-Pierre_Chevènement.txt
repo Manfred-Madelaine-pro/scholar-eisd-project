@@ -1,0 +1,37 @@
+PRETAG Jean-Pierre.
+NOMTAG Chevènement.
+Jean-Pierre Chevènement, né le 9 mars 1939 à Belfort (Territoire de Belfort), est un homme politique français.
+Il est plusieurs fois ministre dans les années 1980 et 1990, député, maire de Belfort, sénateur. Longtemps membre du Parti socialiste, il est à l'origine du Mouvement des citoyens (MDC) et du Mouvement républicain et citoyen (MRC). Il se présente à l'élection présidentielle de 2002, avec des positions qualifiées de « souverainistes », et recueille 5,33 % des voix.
+
+Il épouse le 29 juin 1970 dans le 15e arrondissement de Paris Nisa Grunberg, peintre et sculptrice. Ils ont eu deux fils : Raphaël (scénariste, réalisateur et journaliste) et Jean-Christophe.
+Il est locataire, à partir de 1983, d'un appartement de cinq pièces dans le cinquième arrondissement de Paris, propriété de la Régie immobilière de la ville de Paris[3]. Durant les années 2000, plusieurs articles de presse évoquent cette situation[4],[5], bien que la légalité de cette location ne soit pas contestée[6],[7]. Jean-Pierre Chevènement refuse de donner suite aux propositions de deux adjoints au maire de Paris, Jean-Yves Mano et Pierre Aidenbaum, qui lui suggèrent de libérer ce logement « par souci d'exemplarité »[8], soulignant qu'il a déjà accepté une importante augmentation de loyer[9].
+Carrière professionnelle.
+
+
+Enfance et études.
+Jean-Pierre Chevènement est le fils de Pierre Chevènement, instituteur, et de Juliette Garessus, institutrice. La famille Chevènement est une famille franc-comtoise d'origine suisse (canton de Fribourg), dont le nom était à l'origine Schwennemann, francisé en Chevènement au XVIIIe siècle[1].
+Lauréat du concours général en grec et géographie, membre de la Conférence Olivaint (1957-1959)[2], il est diplômé de l'Institut d'études politiques de Paris (1960) et élève de l'ENA dans la même promotion (promotion Stendhal 1963-1965) que Lionel Jospin, Jacques Toubon et Ernest-Antoine Seillière. En 1967, il a publié, sous un pseudonyme, avec son ami et premier collaborateur au CERES (alors courant de la SFIO), Didier Motchane, L'Énarchie ou les Mandarins de la société bourgeoise, premier livre grand public traitant de l'ENA. Il est aussi diplômé d'allemand de l'université de Vienne.
+Vie privée.
+Il épouse le 29 juin 1970 dans le 15e arrondissement de Paris Nisa Grunberg, peintre et sculptrice. Ils ont eu deux fils : Raphaël (scénariste, réalisateur et journaliste) et Jean-Christophe.
+Il est locataire, à partir de 1983, d'un appartement de cinq pièces dans le cinquième arrondissement de Paris, propriété de la Régie immobilière de la ville de Paris[3]. Durant les années 2000, plusieurs articles de presse évoquent cette situation[4],[5], bien que la légalité de cette location ne soit pas contestée[6],[7]. Jean-Pierre Chevènement refuse de donner suite aux propositions de deux adjoints au maire de Paris, Jean-Yves Mano et Pierre Aidenbaum, qui lui suggèrent de libérer ce logement « par souci d'exemplarité »[8], soulignant qu'il a déjà accepté une importante augmentation de loyer[9].
+Carrière professionnelle.
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Sénateur du Territoire de Belfort NOMF 1er octobre 2008 – 30 septembre 2014(5 ans, 11 mois et 29 jours) SEP2 Élection REL 21 septembre 2008 SEP2 Prédécesseur REL Yves Ackermann SEP2 Successeur REL Cédric Perrin SEP2 Prédécesseur REL Jackie Drouet SEP2 Successeur REL Étienne Butzbach SEP2 Prédécesseur REL Emile Gehant SEP2 Successeur REL Jackie Drouet.
+NOMF Ministre de l'Intérieur NOMF 4 juin 1997 – 29 août 2000(3 ans, 2 mois et 25 jours).
+NOMF Président NOMF GouvernementJospin SEP2 Gouvernement REL Jospin SEP2 Prédécesseur REL Jean-Louis Debré SEP2 Successeur REL Daniel Vaillant.
+NOMF Ministre de la Défense NOMF 12 mai 1988 – 29 janvier 1991(2 ans, 8 mois et 17 jours).
+NOMF Président NOMF GouvernementRocard I et II SEP2 Gouvernement REL Rocard I et II SEP2 Prédécesseur REL André Giraud SEP2 Successeur REL Pierre Joxe.
+NOMF Ministre de l'Éducation nationale NOMF 19 juillet 1984 – 20 mars 1986(1 an, 8 mois et 1 jour).
+NOMF Président NOMF GouvernementFabius SEP2 Gouvernement REL Fabius SEP2 Prédécesseur REL Alain Savary SEP2 Successeur REL René Monory.
+NOMF Ministre d'État, Ministrede la Recherche et de l'Industrie NOMF 22 mai 1981 – 23 mars 1983(1 an, 10 mois et 1 jour).
+NOMF Président NOMF GouvernementPierre Mauroy IPierre Mauroy II SEP2 Gouvernement REL Pierre Mauroy IPierre Mauroy II SEP2 Prédécesseur REL André GiraudPierre Aigrain SEP2 Successeur REL Laurent Fabius.
+NOMF Député du Territoire de BelfortÉlu dans la 1re puis la 2e circonscription NOMF 22 octobre 2000 – 18 juin 2002(1 an, 7 mois et 27 jours) SEP2 Prédécesseur REL Gilberte Marin-Moskovitz SEP2 Successeur REL Michel Zumkeller SEP2 Prédécesseur REL Gilberte Marin-Moskovitz SEP2 Successeur REL Gilberte Marin-Moskovitz SEP2 Prédécesseur REL Élection à la proportionnelle par département SEP2 Successeur REL Gilberte Marin-Moskovitz SEP2 Prédécesseur REL André Tisserand SEP2 Successeur REL Lucien Couqueberg SEP2 Date de naissance REL 9 mars 1939 (78 ans) SEP2 Lieu de naissance REL Belfort (Territoire de Belfort) SEP2 Nationalité REL française SEP2 Parti politique REL SFIO (1964-1969)PS (1969-1993)MDC (1993-2002)Pôle républicain (2002-2003)MRC (2003-2015) SEP2 Conjoint REL Nisa Grunberg SEP2 Diplômé de REL IEP de Paris (1960)ENA (1965).

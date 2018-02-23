@@ -1,0 +1,22 @@
+PRETAG Lionel_de.
+NOMTAG Tinguy.
+Lionel, Henri, Jean, René de Tinguy du Pouët né à Paris le 6 avril 1911, mort le 9 septembre 1981 à Neuilly-sur-Seine, est un homme politique français.
+
+
+
+Fils de Jean de Tinguy du Pouët, député conservateur de la Vendée sous la IIIe République, ainsi que président du conseil général, il est élève de l'École polytechnique (X1929) et entre au Conseil d'État à l'âge de 23 ans (plus jeune conseiller d'État jusqu'à aujourd'hui).
+Mobilisé en 1939 comme capitaine d’artillerie, il est prisonnier de guerre à l'Oflag VI-D pendant cinq ans, malgré plusieurs tentatives d’évasion.
+
+
+
+
+
+
+
+PARTISNORM
+PART Mouvement républicain populaire (MRP).
+FONCTIONNORM
+
+NOMF Sénateur de la Vendée NOMF 25 septembre 1977 – 9 septembre 1981.
+NOMF Ministre de la Marine marchande NOMF 2 juillet 1950 – 12 juillet 1950 SEP2 Gouvernement REL Queuille II SEP2 Prédécesseur REL André Colin SEP2 Successeur REL Gaston Defferre SEP2 Gouvernement REL Bidault II SEP2 Gouvernement REL Bidault II.
+NOMF Député de la Vendée NOMF 2 juin 1946 – 2 avril 1967 SEP2 Date de naissance REL 6 avril 1911 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 9 septembre 1981 SEP2 Lieu de décès REL Neuilly-sur-Seine SEP2 Parti politique REL MRP.

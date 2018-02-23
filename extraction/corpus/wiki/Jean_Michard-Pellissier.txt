@@ -1,0 +1,18 @@
+PRETAG Jean.
+NOMTAG Michard-Pellissier.
+Jean Michard-Pellissier est un homme politique français, né le 3 octobre 1909 à Gap (Hautes-Alpes) et décédé le 31 octobre 1976 à Paris.
+
+
+
+Docteur en droit et diplômé de l'école libre des sciences politiques, il devient avocat à la cour d'appel de Paris[1]. Continuant sa carrière d'avocat, en parallèle de sa vie politique, il sera, en 1970 avocat de la défense lors du procès Guérini[2].
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Député NOMF 26 avril 1936 – 31 mai 1942(6 ans, 1 mois et 5 jours) SEP2 Groupe politique REL GI SEP2 Prédécesseur REL Fonction crée SEP2 Successeur REL Pierre Chatenet SEP2 Date de naissance REL 3 octobre 1909 SEP2 Lieu de naissance REL Gap (Hautes-Alpes) SEP2 Date de décès REL 31 octobre 1976 (à 67 ans) SEP2 Lieu de décès REL Paris (Seine) SEP2 Nationalité REL française SEP2 Parti politique REL Gauche indépendante SEP2 Entourage REL Avocat SEP2 Diplômé de REL diplômé de l'école libre des sciences politiques SEP2 Résidence REL Hautes-Alpes.

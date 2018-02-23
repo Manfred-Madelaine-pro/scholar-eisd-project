@@ -1,0 +1,29 @@
+PRETAG Laurence.
+NOMTAG Abeille.
+Laurence Abeille est une femme politique française née le 17 juin 1960 à Neuilly-sur-Seine.
+Conseillère municipale de la commune de Fontenay-sous-Bois de 2001 à 2014 et adjointe au maire de 2008 à 2014[1], elle est élue députée à l'Assemblée nationale le 17 juin 2012 sous l'étiquette Europe Écologie Les Verts (EELV) dans la 6e circonscription du Val-de-Marne face au député UMP sortant Patrick Beaudouin[2]. Elle perd son siège de députée lors du scrutin de 2017.
+
+Elle est l'épouse de Jean Desessard, sénateur (EELV) de Paris[6].
+
+
+Carrière politique.
+Laurence Abeille est conseillère municipale de la ville de Fontenay-sous-Bois de 2001 à 2014, occupant à partir de 2008 le poste de 3e adjointe, déléguée à l’urbanisme. En 2004, elle est élue conseillère régionale d'Île-de-France, et réélue en 2010. Elle quitte ce mandat le 19 juillet 2012, à la suite de son élection de députée de la sixième circonscription du Val-de-Marne pour la quatorzième législature de la Cinquième République. En tant que députée, elle est membre de la commission du Développement durable et de l'Aménagement du territoire et membre suppléante au Conseil supérieur de l'économie sociale et solidaire. Elle préside également le groupe d'études Préservation et reconquête de la biodiversité de l'Assemblée nationale.
+Par ailleurs, Laurence Abeille est présidente de l’Agence régionale de l'environnement et des nouvelles énergies - Île-de-France (ARENE) jusqu'au 19 octobre 2012.
+Elle soutient Yannick Jadot dans le cadre de la primaire présidentielle écologiste de 2016[3] puis Benoît Hamon lors du rassemblement EELV-PS pour les élections présidentielle 2017.
+En mai 2017, Laurence Abeille se représente aux élections législatives de la 6e circonscription du Val de Marne, avec comme suppléant Franck-Olivier Torro, associatif vincennois, fondateur notamment des Jardins suspendus[4]. Elle est éliminée au premier tour, arrivant troisième derrière le candidat La République en Marche ! et le candidat UDI[5].
+Vie privée.
+Elle est l'épouse de Jean Desessard, sénateur (EELV) de Paris[6].
+
+
+
+
+
+
+
+PARTISNORM
+PART Europe Écologie Les Verts (EELV).
+FONCTIONNORM
+
+NOMF Députée de la 6e circonscription du Val-de-Marne NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Élection REL 17 juin 2012 SEP2 Législature REL XIVe SEP2 Groupe politique REL Écologiste (jusqu'en mai 2016) SEP2 Prédécesseur REL Patrick Beaudouin (UMP) SEP2 Successeur REL Guillaume Gouffier-Cha (LREM) SEP2 Élection REL 16 mars 2008.
+NOMF Conseillère municipale de Fontenay-sous-Bois NOMF 25 mars 2001 – 30 mars 2014(13 ans et 5 jours) SEP2 Élection REL 18 mars 2001.
+NOMF Conseillère régionale d'Île-de-France NOMF 28 mars 2004 – 19 juillet 2012(8 ans, 3 mois et 21 jours) SEP2 Élection REL 28 mars 2004 SEP2 Réélection REL 21 mars 2010 SEP2 Date de naissance REL 17 juin 1960 (57 ans) SEP2 Lieu de naissance REL Neuilly-sur-Seine, Seine, France SEP2 Nationalité REL Française SEP2 Parti politique REL EELV SEP2 Conjoint REL Jean Desessard SEP2 Site web REL laurence-abeille.fr.

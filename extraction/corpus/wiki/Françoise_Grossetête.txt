@@ -1,0 +1,69 @@
+PRETAG Françoise.
+NOMTAG Grossetête.
+Françoise Grossetête, née le 17 mai 1946 à Lyon, est une femme politique française, membre des Républicains (LR).
+
+
+
+Formation.
+
+Maîtrise en droit public et science politique (1969)
+Certificat d'études supérieures de droit social et de droit du travail (1969)
+
+Parcours professionnel.
+
+Enseignante en droit dans l'enseignement supérieur (1969-1974)
+Assistante parlementaire (1988-1997)[réf. nécessaire]
+
+Carrière politique.
+Députée européenne depuis 1994, Françoise Grossetête conduit la liste UMP aux élections européennes de 2009 pour la circonscription Sud-Est (Rhône-Alpes, PACA, Corse)[1]. Sa liste obtient 29,34 % des suffrages, largement devant Europe Écologie (18,27 %) et le Parti socialiste (14,49 %). Ainsi réélue, elle continue de siéger au groupe du Parti populaire européen.
+Elle remporte la primaire UMP pour être tête de liste en région Rhône-Alpes aux élections régionales de 2010, en battant largement Étienne Blanc et Jean-Claude Carle[2].
+Fin janvier 2014, elle est désignée pour être no 2 de la liste UMP de la circonscription Sud-Est pour les élections européennes de la même année.
+Elle soutient Nicolas Sarkozy pour la primaire présidentielle des Républicains de 2016. Dans le cadre de sa campagne, elle est nommée oratrice nationale chargé de l'Europe.
+Le 4 mars 2017, dans le cadre de l'affaire Fillon, elle renonce à soutenir le candidat LR François Fillon à l'élection présidentielle[3].
+Elle parraine Laurent Wauquiez pour le congrès des Républicains de 2017, scrutin lors duquel est élu le président du parti[4].
+
+
+
+Maîtrise en droit public et science politique (1969)
+Certificat d'études supérieures de droit social et de droit du travail (1969)
+
+Parcours professionnel.
+
+Enseignante en droit dans l'enseignement supérieur (1969-1974)
+Assistante parlementaire (1988-1997)[réf. nécessaire]
+
+Carrière politique.
+Députée européenne depuis 1994, Françoise Grossetête conduit la liste UMP aux élections européennes de 2009 pour la circonscription Sud-Est (Rhône-Alpes, PACA, Corse)[1]. Sa liste obtient 29,34 % des suffrages, largement devant Europe Écologie (18,27 %) et le Parti socialiste (14,49 %). Ainsi réélue, elle continue de siéger au groupe du Parti populaire européen.
+Elle remporte la primaire UMP pour être tête de liste en région Rhône-Alpes aux élections régionales de 2010, en battant largement Étienne Blanc et Jean-Claude Carle[2].
+Fin janvier 2014, elle est désignée pour être no 2 de la liste UMP de la circonscription Sud-Est pour les élections européennes de la même année.
+Elle soutient Nicolas Sarkozy pour la primaire présidentielle des Républicains de 2016. Dans le cadre de sa campagne, elle est nommée oratrice nationale chargé de l'Europe.
+Le 4 mars 2017, dans le cadre de l'affaire Fillon, elle renonce à soutenir le candidat LR François Fillon à l'élection présidentielle[3].
+Elle parraine Laurent Wauquiez pour le congrès des Républicains de 2017, scrutin lors duquel est élu le président du parti[4].
+
+
+
+
+Enseignante en droit dans l'enseignement supérieur (1969-1974)
+Assistante parlementaire (1988-1997)[réf. nécessaire]
+
+Carrière politique.
+Députée européenne depuis 1994, Françoise Grossetête conduit la liste UMP aux élections européennes de 2009 pour la circonscription Sud-Est (Rhône-Alpes, PACA, Corse)[1]. Sa liste obtient 29,34 % des suffrages, largement devant Europe Écologie (18,27 %) et le Parti socialiste (14,49 %). Ainsi réélue, elle continue de siéger au groupe du Parti populaire européen.
+Elle remporte la primaire UMP pour être tête de liste en région Rhône-Alpes aux élections régionales de 2010, en battant largement Étienne Blanc et Jean-Claude Carle[2].
+Fin janvier 2014, elle est désignée pour être no 2 de la liste UMP de la circonscription Sud-Est pour les élections européennes de la même année.
+Elle soutient Nicolas Sarkozy pour la primaire présidentielle des Républicains de 2016. Dans le cadre de sa campagne, elle est nommée oratrice nationale chargé de l'Europe.
+Le 4 mars 2017, dans le cadre de l'affaire Fillon, elle renonce à soutenir le candidat LR François Fillon à l'élection présidentielle[3].
+Elle parraine Laurent Wauquiez pour le congrès des Républicains de 2017, scrutin lors duquel est élu le président du parti[4].
+
+
+PARTISNORM
+PART Parti républicain (PR).
+PART Démocratie libérale (parti politique) (DL).
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (LR).
+FONCTIONNORM
+
+NOMF Députée européenne NOMF En fonction depuis le 20 juillet 1994(23 ans, 7 mois et 1 jour) SEP2 Élection REL 12 juin 1994 SEP2 Circonscription REL Sud-Est SEP2 Législature REL 4e, 5e, 6e, 7e et 8e SEP2 Groupe politique REL PPE SEP2 Élection REL 1er juillet 2014.
+NOMF Président NOMF Législature8e SEP2 Législature REL 8e.
+NOMF Conseillère régionale de Rhône-Alpes NOMF 26 mars 2010 – 1er janvier 2015(4 ans, 9 mois et 6 jours) SEP2 Élection REL 21 mars 2010.
+NOMF Président NOMF 21 mars 1986 – 20 mars 1998(11 ans, 11 mois et 27 jours) SEP2 Élection REL 16 mars 1986.
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 17 mai 1946 (71 ans) SEP2 Lieu de naissance REL Lyon SEP2 Nationalité REL Française SEP2 Parti politique REL PRDLUMPLR SEP2 Profession REL Professeur de droit.

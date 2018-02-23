@@ -1,0 +1,31 @@
+PRETAG François_de.
+NOMTAG Rugy.
+François de Rugy, né le 6 décembre 1973 à Nantes (Loire-Atlantique), est un homme d'État français, président de l'Assemblée nationale depuis le 27 juin 2017.
+Député de la 1re circonscription de Loire-Atlantique depuis 2007, il est élu par deux fois co-président du groupe écologiste de l'Assemblée nationale, entre 2012 et 2015 puis en 2016 avant de devenir, cette même année, vice-président de l'Assemblée nationale[Note 2]. D'abord membre du groupe écologiste, qu'il quitte en 2016 pour rejoindre le groupe socialiste, il siège au sein du groupe La République en marche ! depuis 2017.
+Candidat à la primaire citoyenne de 2017 dans la perspective de l'élection présidentielle de 2017, il obtient un faible résultat et, contrairement à l’engagement public qu’il avait pris, s'engage rapidement auprès d'Emmanuel Macron, finalement élu président de la République.
+Il est élu, le 27 juin 2017, président de l'Assemblée nationale pour la XVe législature, devenant ainsi le treizième président de la chambre basse du Parlement français sous la Ve République et le plus jeune titulaire de cette fonction depuis Laurent Fabius sous ce même régime.
+
+
+
+Famille.
+
+
+Après des études secondaires au lycée Gabriel-Guist'hau de Nantes, il suit les cours de l'Institut d'études politiques de Paris, dont il est diplômé en 1994[7],[8] dans la section Communication et ressources humaines[9].
+Carrière politique.
+
+
+
+
+
+PARTISNORM
+PART Génération écologie (GÉ) 1991-1994.
+PART Les Verts (LV) 1997-2010.
+PART Europe Écologie Les Verts (EÉLV) 2010-2015.
+PART Parti écologiste (PÉ) depuis 2015.
+PART La République en marche ! (LREM) depuis 2017.
+FONCTIONNORM
+
+NOMF Président de l'Assemblée nationale NOMF En fonction depuis le 27 juin 2017(7 mois et 24 jours) SEP2 Législature REL XVe SEP2 Prédécesseur REL Claude Bartolone.
+NOMF Président du Parti écologiste NOMF En fonction depuis le 2 septembre 2015(2 ans, 5 mois et 18 jours) SEP2 Prédécesseur REL Parti créé.
+NOMF Député français NOMF En fonction depuis le 20 juin 2007(10 ans et 8 mois) SEP2 Élection REL 17 juin 2007 SEP2 Réélection REL 17 juin 201218 juin 2017 SEP2 Circonscription REL 1re de Loire-Atlantique SEP2 Législature REL XIIIe, XIVe et XVe SEP2 Groupe politique REL GDR (2007-2011)NI (2011-2012)ECO (2012-2016)SER (2016-2017)LREM (depuis 2017).
+NOMF Président NOMF LégislatureXIVe SEP2 Législature REL XIVe SEP2 Prédécesseur REL Denis Baupin SEP2 Successeur REL Danielle Brulebois SEP2 Avec REL Cécile Duflot SEP2 Prédécesseur REL Barbara Pompili SEP2 Successeur REL Groupe supprimé SEP2 Avec REL Barbara Pompili SEP2 Prédécesseur REL Groupe créé SEP2 Successeur REL Cécile Duflot SEP2 Nom de naissance REL François Henri Goulletde Rugy SEP2 Date de naissance REL 6 décembre 1973 (44 ans) SEP2 Lieu de naissance REL Nantes (Loire-Atlantique, France) SEP2 Nationalité REL Français SEP2 Parti politique REL GÉ (1991-1994)LV (1997-2010)EÉLV (2010-2015)PÉ (depuis 2015)LREM (depuis 2017) SEP2 Diplômé de REL IEP de Paris SEP2 Résidence REL Hôtel de Lassay, Paris(VIIe).

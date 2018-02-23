@@ -1,0 +1,16 @@
+PRETAG Louis.
+NOMTAG Dubois.
+Louis, Joseph, Marie Dubois, né le 10 juin 1859 à Palais à Belle-Île-en-Mer (Morbihan) et décédé le 20 janvier 1946 à Puteaux (Hauts-de-Seine), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1910-1932 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL RP (1910-1914)FR (1914-1919)ERD (1919-1924)URD (1924-1932) SEP2 Date de naissance REL 10 juin 1859 SEP2 Date de décès REL 20 janvier 1946 SEP2 Résidence REL Seine.

@@ -1,0 +1,29 @@
+PRETAG Eva.
+NOMTAG Joly.
+Eva Joly, née Gro Eva Farseth[1] le 5 décembre 1943 à Oslo en Norvège, est une magistrate franco-norvégienne, devenue femme politique en France. Elle est députée européenne (groupe Verts-ALE) depuis 2009.
+Nommée juge d'instruction au pôle financier du palais de justice de Paris en 1990, elle se fait connaître en instruisant des dossiers politico-financiers médiatisés, tels que des affaires concernant Bernard Tapie et l'entreprise Elf.
+En 2009, elle est élue députée européenne dans la circonscription Île-de-France, sur la liste Europe Écologie. Elle est candidate d'Europe Écologie Les Verts à l'élection présidentielle de 2012 où elle recueille 2,31 % des voix. Elle est ensuite réélue au parlement européen en 2014.
+En 2015, elle exerce comme avocate au Barreau de Paris.
+
+
+
+Jeunesse et formation.
+Gro Eva Farseth[2] naît le 5 décembre 1943 à Motzfeldts gate (rue Motzfeldt), dans un quartier modeste d'Oslo[3], d'une famille d'origine rurale.
+Elle passe une partie de son enfance dans le quartier ouvrier de Grünerløkka (blanchisseries, boulangeries, meuneries, voileries…), à Oslo, et en fréquente les écoles.
+À 18 ans, après avoir fini troisième au concours de Miss Norvège[4], elle quitte son pays natal avant d'exercer divers métiers : fille au pair[5], secrétaire aux Disques Barclay, dactylo, couturière à domicile[6].
+En 1967, elle épouse un étudiant en médecine, Pascal Joly, le fils aîné de la famille où elle travaillait au pair, et cousin de Sylvie Joly, malgré l'opposition de ses futurs beaux-parents[7]. C'est ainsi qu'elle obtient, à 24 ans, la double nationalité norvégienne et française. Ils ont une fille, Caroline, qui deviendra avocate au Barreau de Paris, et un fils, devenu architecte. Tout en poursuivant des études de droit, Eva Joly gagne sa vie comme styliste en décoration d'intérieur[3]. Quand son mari termine ses études de médecine, le couple s'installe à la campagne, à Bouray-sur-Juine, près d'Étampes[3]. Eva Joly obtient une licence en droit et un DEA de sciences politiques[8], et devient conseillère juridique de l'hôpital psychiatrique d'Étampes.
+En 1981, elle réussit un concours exceptionnel d'entrée à l'École nationale de la magistrature, et précise : « Il n'y avait pas d'épreuve de culture générale et cela me convenait »[9]. La même année, à 38 ans, elle est nommée substitut du procureur de la République à Orléans.
+En 1989, elle est détachée au comité interministériel de restructuration industrielle (CIRI), organisme rattaché au ministère de l'Économie et des Finances, qui épaule les entreprises en difficulté dans les zones sinistrées. Elle en devient la première secrétaire générale adjointe à ne pas sortir de l'École nationale d'administration (ENA). Elle est également auditrice de l'Institut des hautes études de Défense nationale, dont elle a suivi l'enseignement en 1996[10].
+Affaire Elf.
+
+
+
+
+
+
+
+PARTISNORM
+PART Europe Écologie Les Verts (EÉLV).
+FONCTIONNORM
+
+NOMF Députée européenne NOMF En fonction depuis le 14 juillet 2009(8 ans, 7 mois et 6 jours) SEP2 Élection REL 7 juin 2009 SEP2 Réélection REL 25 mai 2014 SEP2 Législature REL 7e et 8e SEP2 Groupe politique REL Verts/ALE SEP2 Nom de naissance REL Gro Eva Farseth SEP2 Date de naissance REL 5 décembre 1943 (74 ans) SEP2 Lieu de naissance REL Oslo (Norvège) SEP2 Nationalité REL NorvégienneFrançaise SEP2 Parti politique REL EÉLV SEP2 Diplômé de REL ENM SEP2 Profession REL Juge d'instruction.

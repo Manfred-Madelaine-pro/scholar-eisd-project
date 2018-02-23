@@ -1,0 +1,35 @@
+PRETAG Paul.
+NOMTAG Girod.
+Paul Girod, né le 27 juin 1931 à Boulogne-Billancourt (Hauts-de-Seine), est un homme politique français.
+
+
+
+Après des études d'ingénieur, il reprend, en 1954, l'exploitation de son oncle, agriculteur dans l'Aisne.
+Le 7 mai 1978, il devient sénateur de l'Aisne, à la suite de la nomination de Jacques Pelletier dans le gouvernement de Raymond Barre III. Il est réélu les 28 septembre 1980, 24 septembre 1989 et 27 septembre 1998 au second tour de scrutin[2]. Membre du groupe du RDSE, puis de l'UMP à partir de 2002, il met un terme à sa carrière parlementaire en 2008. Ayant effectué 30 ans de mandat, il est élevé à la dignité de sénateur honoraire.
+Epoux de Pascale Waymel, il est père de 5 enfants.
+Autre mandat.
+
+Maire de Droizy depuis 1958
+
+Anciens mandats.
+
+Conseiller général de l'Aisne pour le canton d'Oulchy-le-Château de 1972 à 2001 ; président du conseil général de l'Aisne jusqu'en 1998, au moment où la gauche reprend la majorité. En 2001, il favorise l'élection du candidat UDF Hervé Muzart
+Conseiller régional (1973-1988) et vice-président du conseil régional de Picardie de 1985 à 1988[3]
+Vice-président du Sénat de 1995 à 2001[4]
+Membre de l'Office parlementaire d'évaluation des choix scientifiques et technologiques jusqu'en 2002[4]
+Membre de la Cour de Justice de la République
+Président du Haut Comité français pour la défense civile.
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de l'Aisne NOMF 7 mai 1978 – 30 septembre 2008(30 ans, 4 mois et 23 jours) SEP2 Élection REL 26 juin 1971[1] SEP2 Réélection REL 28 septembre 198024 septembre 198927 septembre 1998 SEP2 Groupe politique REL RDSEpuisUMP SEP2 Prédécesseur REL Jacques Pelletier.
+NOMF Conseiller général de l'AisneÉlu dans le canton d'Oulchy-le-Château NOMF 1972 – 18 mars 2001 SEP2 Prédécesseur REL Jacques Moquet SEP2 Successeur REL Hervé Muzart.
+NOMF Président du Conseil général de l'Aisne NOMF 3 octobre 1988 – 27 mars 1998(9 ans, 5 mois et 24 jours) SEP2 Prédécesseur REL Charles Brazier SEP2 Successeur REL Jean-Pierre Balligand.
+NOMF Conseiller régional de Picardie NOMF 1973 – 1988 SEP2 Date de naissance REL 27 juin 1931 (86 ans) SEP2 Lieu de naissance REL Boulogne-Billancourt (Hauts-de-Seine) SEP2 Conjoint REL Pascale Waymel SEP2 Résidence REL Aisne.

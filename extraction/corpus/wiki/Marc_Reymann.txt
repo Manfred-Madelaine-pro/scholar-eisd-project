@@ -1,0 +1,19 @@
+PRETAG Marc.
+NOMTAG Reymann.
+Marc Reymann, né le 7 juin 1937 à Strasbourg (Bas-Rhin) - mort le 9 novembre 2010[1] est un homme politique français.
+Il a été député du Bas-Rhin de 1986 à 2007.
+En juin 2007, en annonçant ne pas briguer un nouveau mandat de député, il met un terme à sa carrière politique.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .
+NOMF Député européen NOMF .

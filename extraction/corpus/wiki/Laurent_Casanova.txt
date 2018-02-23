@@ -1,0 +1,23 @@
+PRETAG Laurent.
+NOMTAG Casanova.
+Laurent Casanova est un homme politique et résistant français. Né le 9 octobre 1906 à Souk Ahras (Algérie), il est décédé le 20 mars 1972 à Paris.
+
+
+
+Carrière politique.
+D'origine corse, né en Algérie, il fait des études secondaires grâce à une bourse avant de rejoindre Paris pour y suivre des études universitaires en droit, qu'il achève en 1930 avec une licence.
+Il adhère au Parti communiste français en 1929, sous la pression de sa future épouse, Danielle Casanova. À partir de 1933, il devient permanent du parti, puis entre dans l’appareil clandestin du PCF dont il assure la direction à partir de 1934, sous le contrôle de Maurice Thorez.
+À partir de 1936, ses fonctions dans l'appareil communiste sont assez peu précises. Il travaille en étroite collaboration avec Maurice Thorez, et s'installe au siège du parti. Mobilisé en 1939, fait prisonnier, il s’évade, reprend contact avec le parti par l'intermédiaire de Claudine Chomat en mars 1942[1] et travaille d'abord au sein de la résistance communiste avec Pierre Villon. Il entre ensuite au Comité Militaire National des FTP, dont le chef, Charles Tillon pense en faire le représentant à l’Assemblée consultative provisoire en 1944, mais il ne parvient jamais à Alger. À la Libération il est finalement délégué à cette assemblée par le Front national (novembre 1944-août 1945), puis il est élu député de Seine-et-Marne aux deux Assemblées nationales constituantes, puis à l'Assemblée nationale dans laquelle il siège pendant toute la durée de la IVe République (1946-1958). Il est ministre des Anciens combattants et des Victimes de guerre dans les gouvernements provisoires de Félix Gouin et de Georges Bidault du 26 janvier au 8 juillet 1946.
+Il devient membre titulaire du Comité central en juillet 1945, puis suppléant au Bureau national en juin 1947 et enfin titulaire en juin 1954, à l'occasion du XIIIe Congrès du PCF.
+Chargé des relations avec les intellectuels, il défend la ligne soviétique « pure et dure », représentée à Moscou par Lyssenko. Il s'opposa cependant à l'extrêmisme d'Auguste Lecœur, qui avait peu ou prou les mêmes responsabilités que lui dans le parti, sur l'affaire de la publication par les Lettres françaises d'un portrait de Staline par Picasso peu conforme aux règles du « réalisme socialiste ». En 1954, il participe à l'exclusion de Lecoeur après avoir largement soutenu celle de Charles Tillon, qu'il remplace d'ailleurs en 1952 à la direction du Mouvement de la paix, au sein duquel il représente le PCF.
+Après les révélations du XXe Congrès du PCUS, Casanova devient représentatif au sein des instances dirigeantes du PCF d'un courant favorable à un changement de style et de pensée. Il a le soutien de Khrouchtchev et obtient le prix Lénine international pour la paix en 1960. Maurice Thorez parvient à bloquer cet « aggiornamento  » et élimine Casanova des instances dirigeantes en mai 1961, ainsi que Marcel Servin et Maurice Kriegel-Valrimont (XVIe Congrès du PCF).
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1946-1958 NOMF GouvernementIVe République SEP2 Gouvernement REL IVe République SEP2 Groupe politique REL PCF SEP2 Date de naissance REL 9 octobre 1906 SEP2 Date de décès REL 20 mars 1972 (à 65 ans) SEP2 Résidence REL Seine-et-Marne.

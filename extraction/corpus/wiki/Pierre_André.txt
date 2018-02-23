@@ -1,0 +1,16 @@
+PRETAG Pierre.
+NOMTAG André.
+Pierre André, né le 27 octobre 1903 à Dieulouard (Meurthe-et-Moselle) et mort le 9 avril 1983 à Boulogne-Billancourt (Hauts-de-Seine), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de Meurthe-et-Moselle NOMF 1946 – 1958 SEP2 Législature REL Ire, IIe, IIIe (Quatrième République) SEP2 Date de naissance REL 27 octobre 1903 SEP2 Lieu de naissance REL Dieulouard SEP2 Date de décès REL 9 avril 1983 SEP2 Lieu de décès REL Boulogne-Billancourt.

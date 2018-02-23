@@ -1,0 +1,21 @@
+PRETAG Ronan.
+NOMTAG Dantec.
+Ronan Dantec est un auteur et homme politique français né le 5 août 1963[1] à Brest.
+Il est membre du parti politique Europe Écologie Les Verts.
+
+
+
+Conseiller municipal de la ville de Nantes, il est élu sénateur[2] de la Loire-Atlantique le 25 septembre 2011 et élu pour un second mandat le 24 septembre 2017. Il est vice-président de la commission de l'aménagement du territoire et du développement durable du Sénat.
+Vétérinaire de formation, il s’est ensuite tourné vers la radio et la création culturelle. Il est l’auteur de nombreuses expositions et de livres sur l’histoire des loisirs populaires, l’évolution des représentations et des identités.
+
+
+
+
+
+
+
+PARTISNORM
+PART Europe Écologie Les Verts (EELV).
+FONCTIONNORM
+
+NOMF Sénateur de la Loire-Atlantique NOMF En fonction depuis le 1er octobre 2011(6 ans, 4 mois et 19 jours) SEP2 Élection REL 25 septembre 2011 SEP2 Réélection REL 24 septembre 2017 SEP2 Groupe politique REL Écologiste (2012-2017)RDSE (depuis 2017) SEP2 Date de naissance REL 5 août 1963 (54 ans) SEP2 Lieu de naissance REL Brest (Finistère) SEP2 Nationalité REL Française SEP2 Parti politique REL EELV SEP2 Profession REL Vétérinaire / Auteur.

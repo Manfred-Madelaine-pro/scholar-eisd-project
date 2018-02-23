@@ -1,0 +1,25 @@
+PRETAG Muguette.
+NOMTAG Dini.
+Muguette Dini, née le 16 mars 1940 à Illiers-Combray (Eure-et-Loir)[1], est une personnalité politique française, membre du groupe UDI - UC.
+
+
+
+Enseignante retraitée, elle a été élue sénatrice du Rhône le 26 septembre 2004.
+Le 27 juin 2009, elle participe à la fondation du parti politique Alliance centriste[2].
+Présidente de la Commission des Affaires sociales depuis le 7 juillet 2009[3]. Membre de la commission des affaires sociales à partir du 4 juillet 2007
+Membre de la commission des affaires culturelles jusqu'au 4 juillet 2007
+Membre de la Délégation aux droits des femmes et à l'égalité des chances entre les hommes et les femmes ; puis membre titulaire le 31 juillet 2007
+Membre de la Mission commune d'information sur le fonctionnement des dispositifs de formation professionnelle le 10 janvier 2007.
+Elle est l'épouse de l'homme d'affaires Paul Dini.
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance centriste (AC).
+FONCTIONNORM
+
+NOMF Conseillère générale du Canton de Limonest NOMF 27 mars 1994 – 16 mars 2008 SEP2 Prédécesseur REL Jacques Berger SEP2 Successeur REL Max Vincent SEP2 Date de naissance REL 16 mars 1940 (77 ans) SEP2 Lieu de naissance REL Illiers-Combray (Eure-et-Loir) SEP2 Nationalité REL Française SEP2 Parti politique REL AC SEP2 Profession REL Enseignante retraitée.

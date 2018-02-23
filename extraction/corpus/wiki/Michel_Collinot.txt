@@ -1,0 +1,23 @@
+PRETAG Michel.
+NOMTAG Collinot.
+Michel Collinot, né le 2 novembre 1946, est un homme politique français.
+
+
+Proche de Jean-Pierre Stirbois, il milite au Mouvement jeune révolution (MJR) dans les années 1960 et fut l'un des promoteurs de l'Union solidariste en 1976.
+Il rejoint le Front national en 1977 et est élu député européen en 1984. Il siège au conseil régional de Bourgogne de 1986 à 1998. Il est aussi l'un des fondateurs, avec Roland Gaucher, Jean Bourdier, François Brigneau et Jean-François Touzé, de National hebdo.
+C'est aussi à Michel Collinot que le FN doit le concept de la Fête des Bleu-blanc-rouge[réf. nécessaire].
+Michel Collinot s'est retiré de la vie politique en 1998.
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (Front national).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Conseiller régional NOMF .
+NOMF Député européen NOMF .

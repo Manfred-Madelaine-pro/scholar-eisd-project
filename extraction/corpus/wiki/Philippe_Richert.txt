@@ -1,0 +1,38 @@
+PRETAG Philippe.
+NOMTAG Richert.
+Philippe Richert, né le 22 mai 1953 à Ingwiller (Bas-Rhin), est un homme politique français. Sénateur entre 1992 et 2010, il exerce la fonction de ministre chargé des collectivités territoriales dans le troisième gouvernement Fillon, de 2010 à 2012. Il est président du conseil régional du Grand Est et de l'association Régions de France de 2016 à 2017, date à laquelle il se retire de la vie politique.
+
+
+
+
+
+
+Il travaille au sein de l'Éducation nationale de 1974 à 1992. D'abord professeur de sciences naturelles de 1974 à 1986, successivement aux collèges d'Achenheim puis de Reichshoffen, il devient, après un an de formation, principal adjoint du collège de La Wantzenau de 1987 à 1992. Il suit également les cours de la 48e session de l'Institut des hautes études de défense nationale de 1995 à 1996.
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) 1985-2002.
+PART 1985 (1985) 2002.
+PART 2002 (2002).
+PART Centre des démocrates sociaux (CDS) 1985-1995.
+PART 1985 (1985) 1995.
+PART 1995 (1995).
+PART Force démocrate (Force démocrate) 1995-1998.
+PART 1995 (1995) 1998.
+PART 1998 (1998).
+PART Union pour un mouvement populaire (UMP) 2002-2015.
+PART 2002 (2002) 2015.
+PART 2015 (2015).
+PART Les Républicains (Les Républicains) depuis 2015.
+PART 2015 (2015).
+FONCTIONNORM
+
+NOMF Président du conseil régional du Grand Est NOMF 1er janvier 2016[N 1] – 30 septembre 2017(1 an, 8 mois et 29 jours) SEP2 Élection REL 4 janvier 2016 SEP2 Prédécesseur REL Lui-même (Alsace)Jean-Paul Bachy(Champagne-Ardenne)Jean-Pierre Masseret (Lorraine) SEP2 Successeur REL Jean-Luc Bohl (intérim)Jean Rottner.
+NOMF Président du conseil régional d'Alsace NOMF 26 mars 2010 – 31 décembre 2015(5 ans, 9 mois et 7 jours) SEP2 Élection REL 21 mars 2010 SEP2 Prédécesseur REL André Reichardt SEP2 Successeur REL Lui-même (fusion des régions Alsace, Champagne-Ardenne et Lorraine).
+NOMF Ministre chargé des Collectivités territoriales NOMF 14 novembre 2010 – 10 mai 2012(1 an, 5 mois et 26 jours).
+NOMF Président NOMF GouvernementFrançois Fillon III SEP2 Gouvernement REL François Fillon III SEP2 Prédécesseur REL Alain Marleix SEP2 Successeur REL Estelle Grelier (indirectement, secrétaire d'État).
+NOMF Sénateur français NOMF 20 février 2005 – 14 décembre 2010(5 ans, 9 mois et 24 jours) SEP2 Circonscription REL Bas-Rhin SEP2 Successeur REL André Reichardt SEP2 Élection REL 27 septembre 1992 SEP2 Réélection REL 24 septembre 199526 septembre 2004 SEP2 Circonscription REL Bas-Rhin.
+NOMF Président du conseil général du Bas-Rhin NOMF 22 juillet 1998 – 20 mars 2008(9 ans, 7 mois et 27 jours) SEP2 Prédécesseur REL Daniel Hoeffel SEP2 Successeur REL Guy-Dominique Kennel.
+NOMF Conseiller général du Bas-Rhin NOMF 21 mars 1982 – 20 mars 2008(25 ans, 11 mois et 28 jours) SEP2 Circonscription REL Canton de la Petite-Pierre SEP2 Prédécesseur REL Roger Deininger SEP2 Successeur REL Gaston Dann SEP2 Date de naissance REL 22 mai 1953 (64 ans) SEP2 Lieu de naissance REL Ingwiller (Bas-Rhin) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF (1985-2002)CDS (1985-1995)Force démocrate (1995-1998)UMP (2002-2015)Les Républicains (depuis 2015) SEP2 Diplômé de REL Strasbourg I - Louis Pasteur SEP2 Profession REL Professeur de sciences naturellesPrincipal de collège.

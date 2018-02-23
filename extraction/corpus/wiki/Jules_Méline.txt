@@ -1,0 +1,20 @@
+PRETAG Jules.
+NOMTAG Méline.
+Jules Méline, né le 20 mai 1838 à Remiremont (Vosges) et mort le 21 décembre 1925 à Paris, est un homme politique français de la gauche républicaine, président du Conseil de 1896 à 1898. Défenseur du monde agricole, il met en place en 1892 des mesures protectionnistes pour les produits agricoles (Tarif Méline).
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Président du Conseil des ministres françaiset Ministre de l'agriculture NOMF 28 avril 1896 – 15 juillet 1898(2 ans, 2 mois et 17 jours).
+NOMF Président NOMF GouvernementMéline SEP2 Gouvernement REL Méline SEP2 Prédécesseur REL Léon Bourgeois SEP2 Successeur REL Henri Brisson.
+NOMF Président de la Chambre des députés NOMF 4 avril 1888 – 11 novembre 1889(1 an, 7 mois et 7 jours) SEP2 Prédécesseur REL Charles Floquet SEP2 Successeur REL Charles Floquet.
+NOMF Député 1872-1903Sénateur 1903-1925 NOMF Biographie SEP2 Nom de naissance REL Félix Jules Méline SEP2 Date de naissance REL 20 mai 1838 SEP2 Lieu de naissance REL Remiremont (Vosges, France) SEP2 Date de décès REL 21 décembre 1925 (à 87 ans) SEP2 Lieu de décès REL Paris (France) SEP2 Nationalité REL française SEP2 Parti politique REL Centre-gauche, républicain.

@@ -1,0 +1,29 @@
+PRETAG Bernard.
+NOMTAG Deflesselles.
+Bernard Deflesselles né le 16 octobre 1953 à Paris, est un homme politique français.
+
+
+
+Il est élu député pour la première fois en 1999, au cours d'une élection partielle, dans la neuvième circonscription des Bouches-du-Rhône, longtemps détenue par le PCF. La précédente élection partielle, qui avait vu l'élection d'Alain Belviso (PCF) - lequel avait battu Bernard Deflesselles de 20 voix en 1998 - avait été annulée à la suite d'une fraude ayant profité au candidat communiste[1].
+Il est réélu le 16 juin 2002, pour la XIIe législature (2002-2007). Il est nommé membre de la commission de la Défense nationale et des Forces armées.
+Il a été réélu le 10 juin 2007, dès le premier tour, avec 51,83 % des voix et réélu en 2012.
+En août 2012, il annonce qu'il soutient Jean-François Copé lors du congrès pour la présidence de l'UMP[2].
+Il soutient Jean-François Copé pour la primaire française de la droite et du centre de 2016[3].
+Le 4 mars 2017, dans le cadre de l'affaire Fillon, il renonce à soutenir le candidat LR François Fillon à l'élection présidentielle[4].
+Il parraine Laurent Wauquiez pour le congrès des Républicains de 2017, scrutin lors duquel est élu le président du parti[5].
+
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement pour la République (RPR).
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (Les Républicains).
+FONCTIONNORM
+
+NOMF Président NOMF Député de la 9e circonscription des Bouches-du-Rhône.
+NOMF Député de la 9e circonscription des Bouches-du-Rhône NOMF En fonction depuis le 29 mars 1999(18 ans, 10 mois et 23 jours) SEP2 Élection REL 28 mars 1999 SEP2 Réélection REL 16 juin 2002 • 17 juin 2007 SEP2 Prédécesseur REL Jean Tardito.
+NOMF Conseiller régional de Provence-Alpes-Côte d'Azur NOMF En fonction depuis le 28 mars 1992(25 ans, 10 mois et 29 jours) SEP2 Élection REL 23 mars 1992 SEP2 Réélection REL 15 mars 199828 mars 200421 mars 201013 décembre 2015 SEP2 Date de naissance REL 16 octobre 1953 (64 ans) SEP2 Lieu de naissance REL Paris SEP2 Nationalité REL Française SEP2 Parti politique REL RPRUMPLes Républicains.

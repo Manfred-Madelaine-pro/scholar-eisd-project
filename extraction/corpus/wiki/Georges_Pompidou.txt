@@ -1,0 +1,23 @@
+PRETAG Georges.
+NOMTAG Pompidou.
+Georges Pompidou (Écouter), né le 5 juillet 1911 à Montboudif (Cantal) et mort le 2 avril 1974 à Paris (IVe), est un haut fonctionnaire et homme d'État français. Il est président de la République française du 20 juin 1969 au 2 avril 1974.
+Agrégé de lettres, maître des requêtes honoraire au Conseil d'État et ancien directeur général de la Banque Rothschild, il devient membre du Conseil constitutionnel de 1959 à 1962, puis occupe, durant la présidence de Charles de Gaulle, la fonction de Premier ministre du 14 avril 1962 au 10 juillet 1968.
+Il est élu président de la République française, lors de l'élection présidentielle de 1969, avec 58,21 % des suffrages exprimés, face à Alain Poher, le 15 juin 1969. Il exerce la fonction de président de la République du 20 juin 1969, jusqu'à sa mort, le 2 avril 1974. Il reste, à ce jour, l'unique président de la Ve République dont le mandat est interrompu par la mort.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la nouvelle République (UNR) UDR.
+PART Union des démocrates pour la République (UDR).
+FONCTIONNORM
+
+NOMF Président de la République française NOMF 20 juin 1969 – 2 avril 1974(4 ans, 9 mois et 13 jours) SEP2 Élection REL 15 juin 1969 SEP2 Premier ministre REL Jacques Chaban-DelmasPierre Messmer SEP2 Prédécesseur REL Alain Poher (intérim)Charles de Gaulle SEP2 Successeur REL Alain Poher (intérim)Valéry Giscard d'Estaing.
+NOMF Député français NOMF 11 juillet 1968 – 15 juin 1969(11 mois et 4 jours) SEP2 Circonscription REL 2e du Cantal SEP2 Législature REL IVe SEP2 Prédécesseur REL Jean Sagette SEP2 Successeur REL Pierre Raynal SEP2 Circonscription REL 2e du Cantal SEP2 Législature REL IIe et IIIe SEP2 Prédécesseur REL Jean Sagette SEP2 Successeur REL Jean Sagette.
+NOMF Président NOMF GouvernementGeorges Pompidou I, II,III et IV SEP2 Gouvernement REL Georges Pompidou I, II,III et IV SEP2 Législature REL Ire, IIe, IIIe et IVe SEP2 Prédécesseur REL Michel Debré SEP2 Successeur REL Maurice Couve de Murville.
+NOMF Président NOMF PrédécesseurFonction créée SEP2 Prédécesseur REL Fonction créée SEP2 Successeur REL Bernard Chenot SEP2 Nom de naissance REL Georges Jean RaymondPompidou SEP2 Date de naissance REL 5 juillet 1911 SEP2 Lieu de naissance REL Montboudif (Cantal, France) SEP2 Date de décès REL 2 avril 1974 (à 62 ans) SEP2 Lieu de décès REL Paris (IVe, France) SEP2 Nature du décès REL Maladie de Waldenström SEP2 Nationalité REL française SEP2 Parti politique REL UNR, UDR SEP2 Conjoint REL Claude Cahour SEP2 Enfants REL Alain Pompidou (adoptif) SEP2 Diplômé de REL École normale supérieureÉcole libre de sciences politiques SEP2 Profession REL enseignantuniversitaireHaut fonctionnaire SEP2 Religion REL catholicisme.

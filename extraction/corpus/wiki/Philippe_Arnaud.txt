@@ -1,0 +1,18 @@
+PRETAG Philippe.
+NOMTAG Arnaud.
+Philippe Arnaud, né le 1er février 1949 à Orvault[1], est un homme politique français.
+
+
+
+Chef d'exploitation agricole, il a été élu sénateur de la Charente le 29 septembre 1996, puis a été réélu le 27 septembre 1998. Il est membre de l'Office parlementaire d'évaluation des choix scientifiques et technologiques.
+Lors du renouvellement du 21 septembre 2008, Philippe Arnaud n'est pas réélu (33,36 % des suffrages exprimés au second tour)[2].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de la Charente NOMF 29 septembre 1996 – 30 septembre 2008 SEP2 Date de naissance REL 1er février 1949 (69 ans) SEP2 Nationalité REL Française SEP2 Profession REL Chef d'exploitation agricole.

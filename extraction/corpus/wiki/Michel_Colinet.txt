@@ -1,0 +1,17 @@
+PRETAG Michel.
+NOMTAG Colinet.
+Michel Colinet, né le 15 avril 1922 à Boulzicourt, est un homme politique français.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP).
+FONCTIONNORM
+
+NOMF Député NOMF 30 novembre 1958 – 9 octobre 1962 SEP2 Successeur REL Lucien Meunier SEP2 Date de naissance REL 15 avril 1922 (95 ans) SEP2 Lieu de naissance REL Boulzicourt SEP2 Nationalité REL Française SEP2 Parti politique REL CNIP SEP2 Profession REL Vétérinaire.

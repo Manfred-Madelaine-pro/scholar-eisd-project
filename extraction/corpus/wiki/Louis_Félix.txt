@@ -1,0 +1,16 @@
+PRETAG Louis.
+NOMTAG Félix.
+Louis Félix Ollivier est un homme politique français né le 3 avril 1853 à Guingamp (Côtes-d'Armor) et décédé le 1er octobre 1931 à Saint-Connan (Côtes-d'Armor).
+Petit-fils et fils d'anciens conseillers généraux et maires de Guingamp, il est docteur en droit en 1874 et entre dans la magistrature. Il en démissionne en 1880, lors de l'expulsion des congrégations religieuses. Il s'inscrit alors au barreau de Saint-Brieuc, dont il devient plusieurs fois bâtonnier. Conseiller municipal de Saint-Brieuc en 1901, il est député des Côtes-du-Nord, inscrit au groupe de l'Action libérale, de 1902 à 1910. Il intervient très fréquemment sur les questions religieuses.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

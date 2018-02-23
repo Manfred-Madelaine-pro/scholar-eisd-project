@@ -1,0 +1,24 @@
+PRETAG Albert_de.
+NOMTAG Benoist.
+Marie Victor Albert de Benoist (né le 17 mai 1843 à Waly, mort le 27 mai 1923 à Thonne-les-Prés est un député de la Meuse de 1901 à 1906.
+Albert de Benoist était le fils de Victor Louis, baron de Benoist, ancien député au Corps législatif de 1858 à 1870. Ses trois frères, * Henri Gaspard Marie (1839-1899) * Jules Charles Marie (1842-1904)* et Arthur Marie Paul (1844-1929) ,devinrent tous les trois généraux.
+Après avoir fait ses études de droit à Paris, il entra en 1865, comme auditeur au Conseil d'État, puis fut nommé sous-préfet de Pamiers en 1869 et révoqué le 4 septembre.
+Lorsque la guerre de 1870 éclate, il s'engage dans le 2e régiment de marche de chasseurs. Nommé sous-lieutenant le 25 décembre 1870 il démissionne en avril 1871 et se retire près de Montmédy où il se marie.
+Attiré par la politique, il devient conseiller municipal, puis maire de Thonne-les-Prés, conseiller général du canton de Montmédy et enfin le 20 janvier 1901, il est élu député de la Meuse pour l'arrondissement de Montmédy, à une élection partielle en remplacement de M. Sommeiller, décédé, au deuxième tour de scrutin avec 6 307 voix contre 5 749 à M. Didion son principal adversaire.
+Pendant ce court mandat (la législature devait se terminer l'année suivante), il fait partie de diverses commissions et prend part à la discussion des budgets des Ministères de l'Instruction publique, des Finances et de la Guerre de l'exercice 1902.
+Il est réélu aux élections générales du 27 avril 1902, au premier tour de scrutin, par 6.499 voix, contre 6,370 à M. Lefèbvre sur 12.953 votants. Membre de la Commission du suffrage universel, de la Commission relative à la législation des boissons, il participe à la discussion des budgets des exercices 1903, 1904 et 1905, s'intéressant tout spécialement : à la vente des tabacs, au renforcement des forts, à l'assistance aux vieillards, infirmes et incurables, aux renseignements politiques demandés aux instituteurs (1903) ; aux sociétés et aux professeurs d'agriculture (1904) ; à la séparation des Églises et de l'État (1905); et aux retraites des agents des douanes (1906). Il vota avec l'opposition libérale et s'opposa à la politique du Cabinet Rouvier.
+Il fut battu aux élections du 6 mai 1906 par M. Lefèbvre.
+Il se retira à Thonne-les-Prés, entouré de l'estime de ses concitoyens et y mourut le 27 mai 1923.
+Il était Commandeur de l'Ordre de Saint-Grégoire-le-Grand.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

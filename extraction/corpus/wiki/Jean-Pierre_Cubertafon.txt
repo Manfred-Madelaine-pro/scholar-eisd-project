@@ -1,0 +1,20 @@
+PRETAG Jean-Pierre.
+NOMTAG Cubertafon.
+Jean-Pierre Cubertafon, né le 5 février 1948, est un homme politique français. Il est le député de la 3e circonscription de la Dordogne depuis les élections législatives de 2017[1],[2].
+Ancien cadre dans l'industrie pharmaceutique, il est conseiller municipal de Lanouaille de 1977 à 1995, avant d'en devenir à cette date le maire[3]. Anciennement affilié à l'UDF, il a ensuite rejoint le MoDem[3]. Le 31 juillet 2017, il abandonne son mandat de maire pour éviter le cumul des mandats[4], tout en restant conseiller municipal[5].
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) .
+PART Mouvement démocrate (MoDem).
+FONCTIONNORM
+
+NOMF Député de la 3e circonscription de la Dordogne NOMF En fonction depuis le 21 juin 2017(7 mois et 21 jours) SEP2 Élection REL 18 juin 2017 SEP2 Législature REL XVe SEP2 Groupe politique REL MoDem SEP2 Prédécesseur REL Colette Langlade SEP2 Prédécesseur REL Jane Lataste SEP2 Successeur REL Jean-Christophe Boulanger SEP2 Date de naissance REL 5 février 1948 (70 ans) SEP2 Lieu de naissance REL Lanouaille (Dordogne) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF puisMoDem SEP2 Profession REL Retraité des professions libérales.

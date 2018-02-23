@@ -1,0 +1,31 @@
+PRETAG Loïc.
+NOMTAG Prud'homme.
+Loïc Prud'homme, né le 19 août 1969 à Bègles, est un homme politique français[1]. Membre de La France insoumise, député de la 3e circonscription de la Gironde[2] depuis les élections législatives de 2017.
+
+Né à Bègles, il habite la ville voisine de Villenave-d'Ornon. Technicien à l'Institut national de la recherche agronomique (INRA)[11], il est aussi militant associatif[12] et syndical. Marié, père d'un garçon né en 2002.
+Vie politique.
+Il est membre de la Commission du développement durable et de l'aménagement du territoire, de l'Office parlementaire d'évaluation des choix scientifiques et technologiques, et membre suppléant du Conseil national de la transition écologique.
+
+
+Engagements politiques.
+À l'élection présidentielle de 2012, il mène campagne pour le Front de Gauche de Jean-Luc Mélenchon.
+Aux élections municipales de 2014, la liste « Pour Villenave-d'Ornon : la gauche, la vraie » sur laquelle il est en cinquième position[3], obtient un élu d'opposition[4] au conseil municipal de Villenave-d'Ornon[5].
+Loïc Prud'homme est élu député le 18 juin 2017 sous les couleurs de La France insoumise dans la troisième circonscription de la Gironde, précédemment détenue par Noël Mamère. Il bat de 131 voix (0,20 %) son adversaire, Marik Fetouh, adjoint au maire de Bordeaux[6]. Il s'agit de son premier mandat électif[7],[8]. Il est le seul élu de La France insoumise en Aquitaine[9].
+Sa suppléante est Tiphaine Maurin[10].
+Loïc Prud'homme prend position pour les causes écologistes, et entend par exemple défendre la sauvegarde des zones naturelles face aux projets immobiliers[7].
+Vie privée.
+Né à Bègles, il habite la ville voisine de Villenave-d'Ornon. Technicien à l'Institut national de la recherche agronomique (INRA)[11], il est aussi militant associatif[12] et syndical. Marié, père d'un garçon né en 2002.
+Vie politique.
+Il est membre de la Commission du développement durable et de l'aménagement du territoire, de l'Office parlementaire d'évaluation des choix scientifiques et technologiques, et membre suppléant du Conseil national de la transition écologique.
+
+
+
+
+
+
+
+PARTISNORM
+PART La France insoumise (FI).
+FONCTIONNORM
+
+NOMF Député français NOMF En fonction depuis le 21 juin 2017(8 mois et 1 jour) SEP2 Élection REL 18 juin 2017 SEP2 Circonscription REL 3e circonscription de la Gironde SEP2 Législature REL XVe (Cinquième République) SEP2 Groupe politique REL FI SEP2 Prédécesseur REL Noël Mamère SEP2 Date de naissance REL 19 août 1969 (48 ans) SEP2 Lieu de naissance REL Bègles (France) SEP2 Nationalité REL Français SEP2 Parti politique REL FI SEP2 Profession REL Technicien à l'INRA.

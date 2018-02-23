@@ -1,0 +1,19 @@
+PRETAG Joseph_de.
+NOMTAG Belcastel.
+Joseph de Belcastel est un homme politique français né le 1er octobre 1860 à Toulouse (Haute-Garonne) et décédé le 12 novembre 1942 à Belcastel (Tarn).
+Officier de cavalerie, neveu de Jean-Baptiste de Belcastel, sénateur de Haute-Garonne, il est maire de Belcastel de 1896 à 1941, conseiller général du canton de Cuq-Toulza et député du Tarn de 1906 à 1910, inscrit au groupe de l'Action libérale, et de 1919 à 1924, inscrit au groupe de l'Entente républicaine démocratique.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

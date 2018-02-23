@@ -1,0 +1,37 @@
+PRETAG Francisque.
+NOMTAG Gay.
+Francisque Gay, né le 8 mai 1885 à Roanne (Loire) et mort le 23 octobre 1963 dans le 14e arrondissement de Paris (Seine), est un homme politique, éditeur et diplomate français.
+
+Il épouse le 20 mai 1911 à Paris, Blanche Fromillon (1890-1979), fille d'Alphonse Fromillon (1846-1908), cheminot, sympathisant de la Commune de Paris et d'Elisa Bacharah (1848-1934), modiste issue d'une famille juive allemande originaire de Mayence[5].
+De ce mariage naîtront six enfants :
+
+Élisabeth Gay (1912-1992), historienne[7], mariée avec Louis Terrenoire (1908-1992), homme politique.
+Alphonse Gay (1914-1976), abbé[8].
+Marie Gay (1916-2002), sœur franciscaine missionnaire de Marie.
+Geneviève Gay (1917-1995), mariée avec Henry Nosny (1907-1990).
+Odile Gay (née en 1919), professeur de latin et de grec[9], mariée avec Robert Cadiot (1909-1967), polytechnicien (X 1930)[10] et ingénieur en sidérurgie.
+Camille Gay (1924-2008), avocat[11], marié avec Marie-José Charpentier.
+
+
+
+Francisque Gay est le fils de Camille Gay (1856-1930), entrepreneur en plomberie, maire-adjoint de Roanne de 1912 à 1919, et d'Amélie Pélissier (née en 1860)[2],[3]. Ses parents sont originaires d'Annonay en Ardèche.
+Il fait ses études secondaires chez les maristes de Charlieu puis chez les lazaristes de Lyon où il obtient son baccalauréat à 18 ans. Il est ensuite séminariste de 1905 à 1906 au grand séminaire de Lyon (aujourd'hui lycée de Saint-Just)[4]. Francisque Gay termine ses études à la faculté des lettres de la Sorbonne.
+En 1903, il se rend à Paris pour retrouver Marc Sangnier qu'il avait brièvement fréquenté à Lyon. Il est influencée par les idées de christianisme social de Marc Sangnier et met en place une antenne du Sillon à Roanne. Il collabore aussi au journal Démocratie du Sillon.
+Après ses études, Francisque Gay devient professeur d'anglais dans un collège religieux de Montpellier. En 1909, il quitte l'enseignement et rentre à la librairie Bloud qui deviendra la librairie Bloud et Gay lorsque le propriétaire Edmond Bloud l'associe à sa librairie. Il entame une longue carrière d'éditeur.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti démocrate populaire (PDP).
+PART Mouvement républicain populaire (MRP).
+FONCTIONNORM
+
+NOMF Président du Conseil NOMF GouvernementGouin SEP2 Gouvernement REL Gouin.
+NOMF Ministre d'État NOMF 21 novembre 1945 – 23 janvier 1946(2 mois et 2 jours).
+NOMF Président du Conseil NOMF Gouvernementde Gaulle II SEP2 Gouvernement REL de Gaulle II.
+NOMF Président du Conseil NOMF GouvernementBidault I SEP2 Gouvernement REL Bidault I.
+NOMF Député de la SeineÉlu dans la 1re circonscription NOMF 21 octobre 1945 – 10 juin 1946(7 mois et 20 jours) SEP2 Élection REL 21 octobre 1945 SEP2 Législature REL Ire Constituante SEP2 Groupe politique REL MRP SEP2 Élection REL 2 juin 1946 SEP2 Législature REL IIe Constituante SEP2 Groupe politique REL MRP SEP2 Élection REL 10 novembre 1946 SEP2 Législature REL Ire (Quatrième République) SEP2 Groupe politique REL MRP SEP2 Prédécesseur REL Jean de Hauteclocque SEP2 Successeur REL Hubert Guérin SEP2 Nom de naissance REL Francisque Olivier Désiré Gay[1] SEP2 Date de naissance REL 8 mai 1885 SEP2 Lieu de naissance REL Roanne (Loire) SEP2 Date de décès REL 23 octobre 1963 (à 78 ans) SEP2 Lieu de décès REL Paris (14e) (Seine) SEP2 Nature du décès REL Crise cardiaque SEP2 Sépulture REL Cimetière du Montparnasse SEP2 Nationalité REL française SEP2 Parti politique REL PDPMRP SEP2 Conjoint REL Blanche Fromillon SEP2 Enfants REL Élisabeth GayAlphonse GayMarie GayGeneviève GayOdile GayCamille Gay SEP2 Profession REL ÉditeurDiplomate SEP2 Religion REL Catholicisme.

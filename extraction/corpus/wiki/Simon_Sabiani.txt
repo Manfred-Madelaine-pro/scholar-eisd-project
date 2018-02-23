@@ -1,0 +1,34 @@
+PRETAG Simon.
+NOMTAG Sabiani.
+Simon Pierre Sabiani, né le 14 mai 1888 à Casamaccioli et mort le 29 septembre 1956 à Barcelone, est un politicien et homme d'affaires français, héros de la Première Guerre mondiale, puis collaborateur avec l'Occupant pendant la Seconde Guerre mondiale. Socialiste marseillais, il rejoint brièvement le Parti communiste français (PCF) après la Révolution d'octobre avant de rejoindre le Parti d'action socialiste de Paul-Louis, qui deviendra le Parti d'unité prolétarienne (PUP), situé entre le PC et la SFIO. Exclu en 1931 de celui-ci en raison de son virage nationaliste, il finit par rejoindre le Parti populaire français (PPF) de Jacques Doriot, qui embrassera la collaboration.
+
+
+
+Grande guerre.
+Il participe à la Grande Guerre, incorporé au 15e corps d'armée au sein du 112e régiment d'infanterie de ligne, il perd un œil au bois de la Gruerie en juin 1915 après avoir dirigé contre l'ennemi six contre-attaques en six heures. Surnommé par ses compagnons d'armes « Le Lion de L'Argonne », « Le Bayard Corse », il reçoit quatre citations à l'ordre de l'Armée, est décoré sur le champ de bataille de la Légion d'honneur, reçoit la médaille militaire ainsi que la croix de guerre ornée de 4 palmes, 2 étoiles d'argent.
+Il avait quatre frères, et une sœur. Trois de ces frères furent tués sur le front lors de la Première Guerre mondiale.
+
+Jean-Luc était lieutenant d'active. Chevalier de la Légion d'honneur ; croix de guerre, tombé au champ d'honneur, dans une attaque en Champagne.
+Joseph, était sergent-major au 4e régiment de zouaves, tombé au champ d'honneur à Provins, en 1914.
+François, avocat au barreau de Marseille, était sergent, croix de guerre, est tombé au champ d'honneur le 16 août 1918, lors du torpillage du navire le Balkan. Pierre Anfriani, seul survivant de l'état major, précisera dans son rapport à l'autorité maritime que François Sabiani aurait pu se sauver s'il ne s'était occupé de porter secours à des passagers en perdition. Une plaque de marbre en son honneur était apposée sur les murs du palais de justice.
+Don-Pierre a été fait prisonnier de guerre, après blessures reçues dans un combat à Bois-le-Prêtre (cinquante-deux mois de captivité).
+
+Engagement dans les partis de gauche (1919-1936).
+Après guerre, Simon Sabiani adhère à différentes organisations marxistes. Il est d'abord membre de la SFIO ; en 1919, il commande des groupes musclés qui sèment le trouble dans les réunions électorales de la droite, empêchant ainsi Léon Daudet de prendre la parole à Marseille[1]. En 1922, le service d'ordre du Parti socialiste tue un de ses militants. Pour les protéger désormais, il décide de recruter des nervis, petits malfrats marseillais[2]. Il rejoint un moment le PCF, puis fonde en 1923 le Parti d'action socialiste[réf. nécessaire].
+Il est élu conseiller général des Bouches-du-Rhône en 1925 et député en 1928 avec l'appui du PCF, le candidat communiste se désistant au second tour à son profit, ce qui permet d'évincer le candidat sortant, membre de la SFIO [3]. Il avait adhéré en effet à toutes les clauses de la coalition électorale menée par le PCF, le Bloc ouvrier et paysan, mis à part celle préconisant « la défense de l'URSS contre toute attaque impérialiste »[3].
+Il devient premier adjoint du maire de Marseille de 1929 à 1935. En 1931 à la mort de Siméon Flaissières, si Georges Ribot est maire, Sabiani domine la ville[4].
+De plus en plus patriote voire nationaliste, Sabiani se fait exclure en janvier 1931 du Parti d'unité prolétarienne, dirigé par Paul Louis et dans lequel s'était fondu le Parti d'action socialiste. L'un des motifs de son exclusion est en effet constitué par sa participation à la manifestation du 11 novembre en compagnie de personnalités officielles ainsi qu'à une réunion militariste où il aurait tenu un discours chauvin[3]. Malgré cette exclusion, il est réélu député en 1932 avec 51,8 % des voix, obtenant le soutien d'une partie de la droite opposée au candidat de la SFIO[3]. La Fédération républicaine (droite) retire même son soutien à son candidat, Paul Morazzani, pour contrer la SFIO, lequel se présente indépendamment mais n'obtient que 9 % des voix (contre 19 % en 1928)[3]. Se rapprochant de Jacques Doriot, en dissidence avec le PCF, il lance le 31 mars 1934, lors d'un rassemblement politique à l'Alcazar de Marseille le mot d'ordre « Ni gauche, ni droite : France d'abord ! »[3].
+Il est très proche de deux parrains de la pègre de l'époque, François Spirito et Paul Carbone. Lorsque l'affaire Stavisky éclate en 1934, l'inspecteur Bonny désigne Carbone, Spirito et Gaëtan de Lussats coupables de l'assassinat d'Albert Prince, conseiller à la Cour d’appel de Paris. Les trois hommes, rapidement mis hors de cause, sont soutenus par Sabiani au moyen d'affiches apposées dans la ville. Par ses relations, il entraîne la ville vers le clientélisme et la corruption[5].
+En 1935, Henri Tasso devient maire de Marseille, moment qui marque le début de l'opposition entre les deux hommes[4].
+Il rejoignit également la LICA (Ligue internationale contre l'antisémitisme, actuelle LICRA) et participe à des rassemblements de dénonciation des persécutions hitlériennes[6].
+Engagement au PPF (1936-1945).
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1928 – 1936 SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Ind. (1928-1932)GI (1932-1936) SEP2 Date de naissance REL 14 mai 1888 SEP2 Date de décès REL 29 septembre 1956 SEP2 Résidence REL Bouches-du-Rhône.

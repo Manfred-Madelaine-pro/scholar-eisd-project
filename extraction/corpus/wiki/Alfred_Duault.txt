@@ -1,0 +1,18 @@
+PRETAG Alfred.
+NOMTAG Duault.
+Alfred Duault, né le 26 mars 1889 à Quintin (Côtes-du-Nord) et mort le 15 octobre 1955 à Quintin (Côtes-du-Nord), est un homme politique français.
+
+
+Issu de la bourgeoisie de Quintin, il devient industriel-brasseur dans sa ville natale en reprenant l'affaire familiale en 1919. Il entre en politique en 1929 en étant élu maire de sa ville.
+Il est élu député des Côtes-du-Nord en 1936, battant le sortant André Cornu, issu de la mouvance radicale indépendante. Il siège au groupe du Parti démocrate populaire, démocrate-chrétien, et devient secrétaire de la Chambre des députés en janvier 1940.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Sous l'occupation, il est désigné comme membre du Conseil national auquel il s'abstient de siéger. Il quitte toute activité politique après la Seconde Guerre mondiale.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Démocrate populaire SEP2 Date de naissance REL 26 mars 1889 SEP2 Lieu de naissance REL Quintin (Côtes-du-Nord) SEP2 Date de décès REL 15 octobre 1955 (à 66 ans) SEP2 Lieu de décès REL Quintin (Côtes-du-Nord) SEP2 Profession REL Brasseur SEP2 Résidence REL Côtes-du-Nord.

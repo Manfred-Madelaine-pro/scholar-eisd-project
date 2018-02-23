@@ -1,0 +1,21 @@
+PRETAG Maurice.
+NOMTAG Charrier.
+Maurice Charrier, né le 10 février 1949 à Avignon (Vaucluse), est un homme politique français, ancien maire de Vaulx-en-Velin. Ancien membre du Parti communiste français, il a par la suite rejoint la Convention pour une alternative progressiste puis le Parti de gauche.
+Il a annoncé en janvier 2009 sa démission du poste de maire au profit de son premier adjoint, Bernard Genin (PCF), qui a été élu maire le 24 avril 2009, à l'occasion d'un conseil municipal extraordinaire[1].
+En mai 2009, il a annoncé qu'il rejoignait le Parti de gauche[2].
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti de gauche (Parti de gauche).
+FONCTIONNORM
+
+NOMF Conseiller municipal de Vaulx-en-Velin NOMF 1977 – 1985 SEP2 Élection REL 20 mars 1977 SEP2 Réélection REL 13 mars 1983 SEP2 Réélection REL 18 mars 2001 • 16 mars 2008 SEP2 Prédécesseur REL Jean Capievic SEP2 Successeur REL Bernard Genin.
+NOMF Conseiller Général du Rhôneélu dans le Canton de Vaulx-en-Velin NOMF 29 mars 1992 – 31 mars 2004(12 ans et 2 jours) SEP2 Élection REL 29 mars 1992 SEP2 Prédécesseur REL Jean-Claude Cret SEP2 Successeur REL Hélène Geoffroy.
+NOMF Vice-Président du Grand Lyonchargé de l’Urbanisme et de la Politique d’Aménagement du Territoire NOMF janvier 2004 – 2014 SEP2 Date de naissance REL 10 février 1949 (69 ans) SEP2 Lieu de naissance REL Avignon (Vaucluse) SEP2 Nationalité REL Française SEP2 Parti politique REL Parti de gauche.

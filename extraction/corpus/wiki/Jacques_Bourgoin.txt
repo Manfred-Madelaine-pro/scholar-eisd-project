@@ -1,0 +1,17 @@
+PRETAG Jacques.
+NOMTAG Bourgoin.
+Jacques Bourgoin est un homme politique français, né le 19 décembre 1952 à Paris.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

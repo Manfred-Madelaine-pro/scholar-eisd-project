@@ -1,0 +1,22 @@
+PRETAG Victor_de.
+NOMTAG Saint-Just.
+Victor de Saint-Just d'Autingues, né le 5 janvier 1862 à Ardres (Pas-de-Calais) et mort dans la même ville le 3 août 1933, est un homme politique français.
+
+
+
+Issu d'une famille monarchiste et légitimiste, il entre à Saint-Cyr en 1881, puis fait l'école de cavalerie de Saumur. Il quitte l'armée en 1919 avec le grade de général de division et de brillants états de service pendant la Première Guerre mondiale.
+Il devient maire d'Ardres en 1919 et le reste jusqu'à sa mort. Il est député du Pas-de-Calais de 1924 à 1933, siégeant au groupe de la Fédération républicaine, à droite.
+Son fils, François de Saint-Just, lui succède comme député et maire d'Ardres, à sa mort en 1933.
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

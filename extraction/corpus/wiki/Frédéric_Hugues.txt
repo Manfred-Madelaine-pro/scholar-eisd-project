@@ -1,0 +1,19 @@
+PRETAG Frédéric.
+NOMTAG Hugues.
+Frédéric Hugues est un homme politique français né le 19 avril 1858 à Saint-Quentin (Aisne) et décédé le 14 novembre 1931 à Saint-Quentin.
+Industriel, il dirige une manufacture de cotons. Maire de Fayet, il est député de l'Aisne de 1907 à 1910, succédant à son frère François Hugues, et siège au groupe de l'Union démocratique et de 1919 à 1924, au groupe des Républicains de gauche.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance démocratique (Alliance démocratique).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

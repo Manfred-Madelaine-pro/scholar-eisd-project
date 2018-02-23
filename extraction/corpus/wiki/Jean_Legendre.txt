@@ -1,0 +1,19 @@
+PRETAG Jean.
+NOMTAG Legendre.
+Jean Constant Legendre, né le 7 mai 1906 à Paris et mort le 21 septembre 1994 à Compiègne (Oise), est un homme politique français, ancien député-maire de Compiègne.
+
+
+Journaliste politique de profession, il a commencé sa carrière politique en travaillant au Centre de propagande des républicains nationaux dans les années 1930, puis a accepté d'être candidat aux législatives de 1936 à Senlis[1]. Militant républicain-national, il se rapproche du Parti social français; le directeur du bureau politique de ce parti, Edmond Barrachin, voulait le présenter aux futures législatives de 1940 ( qui évidemment n'eurent pas lieu ) dans le Nord ou dans l'Oise, où il avait commencé à s'implanter[2].
+Prisonnier de guerre pendant plus de trois ans sous l'Occupation, il rejoint la résistance : il est membre du réseau Libération dans le département de Seine-et-Oise (groupe « Denais »). Il est élu député de l'Oise de 1945 (jusqu'en 1962), et maire de Compiègne en 1947. Il milite au Parti républicain de la liberté, dont il préside la commission de propagande[3], puis au Centre national des indépendants et paysans, jusqu'aux années 1970[4]. Il est battu aux municipales de 1954, mais est réélu maire en 1959 jusqu'à sa démission en 1987 en faveur de son adjoint Philippe Marini. Il préside le Conseil régional de Picardie à partir de décembre 1973[5], mandat au cours duquel il impose le projet de voie industrielle de la vallée de l'Oise. Âgé de 69 ans, il ne se représente pas en 1976[6].
+Lors de l'affaire des fuites, il attaque vivement François Mitterrand, ministre de l’intérieur, notamment lors des débats à l'Assemblée nationale le 3 décembre 1954[7].
+Compiègne lui doit en partie son développement économique, d'abord à travers l'implantation de l'usine Colgate Palmolive ( 1953), ensuite grâce à la création de l'Université de Technologie de Compiègne (1972), l'ensemble étant soutenu par une politique amiable de réserves foncières[8].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1945-1962 NOMF GouvernementIVe République-Ve République SEP2 Gouvernement REL IVe République-Ve République SEP2 Groupe politique REL PRL (1945-1951)RPF (1951-1953)ARS (1953-1955)IPAS (1956-1962) SEP2 Date de naissance REL 7 mai 1906 SEP2 Date de décès REL 21 septembre 1994 (à 88 ans) SEP2 Résidence REL Oise.

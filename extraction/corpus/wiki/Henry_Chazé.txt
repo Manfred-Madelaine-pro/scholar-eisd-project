@@ -1,0 +1,17 @@
+PRETAG Henry.
+NOMTAG Chazé.
+Henry Chazé (de son vrai nom Gaston Davoust) est un militant communiste français, né en 1904 et décédé en 1984.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

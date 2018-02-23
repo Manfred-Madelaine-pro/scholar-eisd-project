@@ -1,0 +1,21 @@
+PRETAG Maurice.
+NOMTAG Maunoury.
+Maurice Maunoury, né le 16 octobre 1863 à Alexandrie (Égypte), mort le 16 mai 1925 à Paris, est un homme politique français, député d'Eure-et-Loir de 1910 à 1924, ministre de l'Intérieur de 1922 à 1924.
+
+
+
+Maurice Maunoury est le fils de Paul Maunoury, lui-même député d'Eure-et-Loir de 1876 à 1889, militant républicain de longue date, qui avait quitté la France après le coup d'état de Louis-Napoléon Bonaparte pour aller travailler en Egypte. Il fit des études d'ingénieur à l'École centrale Paris (promotion 1887)[1].
+Maurice Maunoury est ministre des Colonies du 9 au 13 juin 1914 dans le gouvernement Alexandre Ribot (4).
+En mai 1921, il soit subir l'amputation de la jambe droite. L'opération est faite par le professeur Lardenois[2].
+Il devient ministre de l'Intérieur du 15 janvier 1922 au 29 mars 1924 dans le gouvernement Raymond Poincaré (2).
+Cousin du maréchal Michel Joseph Maunoury, il prononce son éloge funèbre au nom du Gouvernement, le 2 avril 1923, lors de ses obsèques nationales.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député d'Eure-et-Loir2e circonscription de Chartres NOMF 1910 – 1924 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GRD SEP2 Prédécesseur REL Ambroise de Saint-Pol SEP2 Successeur REL Henri Triballet SEP2 Date de naissance REL 16 octobre 1863 SEP2 Lieu de naissance REL Alexandrie (Égypte) SEP2 Date de décès REL 16 mai 1925 (à 61 ans) SEP2 Lieu de décès REL Paris SEP2 Père REL Paul Maunoury SEP2 Résidence REL Eure-et-Loir.

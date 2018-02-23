@@ -1,0 +1,19 @@
+PRETAG Albert.
+NOMTAG Blanchoin.
+Albert Blanchoin est un journaliste et un homme politique français né le 17 août 1902 à Châteauneuf-sur-Sarthe, dans le département de Maine-et-Loire.
+Issu d'une famille de paysans et d'artisans, il est un écolier brillant et monte à Angers puis Paris faire ses études. Il devient docteur en droit et écrit pour la Jeune République et L'Aube, deux publications de sensibilité sociale-chrétienne.
+En 1935, il se présente sous les couleurs du Parti de la Jeune République à une élection législative partielle consécutive au décès d'un député dans sa région natale. Élu, il adhère au groupe des Indépendants de gauche, situé au centre. En 1936, il se présente à nouveau, affilié cette fois à la coalition de Front populaire, à laquelle la JR participe. Réélu dès le premier tour face au nationaliste Roger de Saivre, il adhère au très progressiste groupe de la Gauche indépendante, et est élu secrétaire de la Chambre des députés. Il rejoint le Parti démocrate populaire en cours de législature.
+Fait prisonnier lors des combats de 1939, il ne prend pas part au vote des pleins pouvoirs au maréchal Pétain le 10 juillet 1940. Il est libéré en 1941 et participe activement à la Résistance. À la Libération, il est d'ailleurs nommé au Comité départemental de libération.
+Revenu dans son Maine-et-Loire natal, il reprend ses activités éditoriales mais ne brigue pas de nouveau mandat. Il dirigea, de 1944 à sa mort, Le Courrier de l'Ouest dans lequel il publia aussi une chronique, sous le pseudonyme de Pierre Langevin, qui eut beaucoup d'écho dans la région. Il meurt à Angers le 30 août 1968.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1935-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL IDG (1935-1936)GI (1936-1940) SEP2 Date de naissance REL 17 août 1902 SEP2 Date de décès REL 30 août 1968 (à 66 ans) SEP2 Résidence REL Maine-et-Loire.

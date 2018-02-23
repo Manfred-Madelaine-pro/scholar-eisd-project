@@ -1,0 +1,20 @@
+PRETAG Patrick.
+NOMTAG Abate.
+Patrick Abate est un homme politique français membre du PCF. Maire de Talange depuis 1989, il est ancien vice-président du Conseil régional de Lorraine et ancien sénateur de la Moselle à la suite de la nomination Jean-Marc Todeschini au gouvernement Valls II[1].
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Sénateur de la Moselle NOMF 22 décembre 2014 – 17 juin 2017(2 ans, 5 mois et 26 jours) SEP2 Élection REL 25 septembre 2011 SEP2 Groupe politique REL CRC SEP2 Prédécesseur REL Jean-Marc Todeschini SEP2 Successeur REL Jean-Marc Todeschini.
+NOMF Conseiller régional de Lorraine NOMF 29 mars 2004 – décembre 2014(10 ans, 8 mois et 13 jours) SEP2 Élection REL 28 mars 2004 SEP2 Réélection REL 21 mars 2010.
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 28 décembre 1956 (61 ans) SEP2 Lieu de naissance REL Métlaoui (Tunisie) SEP2 Nationalité REL Française SEP2 Parti politique REL PCF.

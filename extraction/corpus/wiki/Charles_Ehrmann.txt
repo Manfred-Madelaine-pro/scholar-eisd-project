@@ -1,0 +1,25 @@
+PRETAG Charles.
+NOMTAG Ehrmann.
+Charles Ehrmann est un homme politique français né à Paris le 7 octobre 1911 et mort à Nice le 8 août 2011 (à 99 ans).
+D'ascendance alsacienne, sa famille est venue en France en 1871. Son grand-père est mort dans un accident à la mine, son père meurt à la bataille de la Marne en 1914.
+Élève du lycée Louis-le-Grand, bachelier ès lettres, diplôme d'études supérieures d'histoire et géographie, agrégé d'histoire et géographie en 1936, il est professeur au lycée Masséna à Nice de 1937 à 1975.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre républicain (Centre républicain) UDF.
+PART Union pour la démocratie française (UDF) PR.
+PART Parti républicain (PR).
+FONCTIONNORM
+
+NOMF Député de la 1re circonscription des Alpes-Maritimes NOMF 13 juin 1988 – 18 juin 2002(14 ans et 5 jours) SEP2 Groupe politique REL UDF (1988-1998)DL (1998-2002) SEP2 Successeur REL Jérôme Rivière (UMP).
+NOMF Député des Alpes-Maritimes NOMF 2 avril 1986 – 14 mai 1988(2 ans, 1 mois et 12 jours).
+NOMF Député de la 1re circonscription des Alpes-Maritimes NOMF 13 février 1976 – 22 mai 1981(5 ans, 3 mois et 9 jours) SEP2 Groupe politique REL UDF SEP2 Prédécesseur REL Virgile Barel (PCF) SEP2 Successeur REL Max Gallo (PS).
+NOMF Conseiller général des Alpes-Maritimesélu dans le canton de Nice-4 NOMF 1973 – 2001 SEP2 Prédécesseur REL Jacques Médecin (CD) SEP2 Successeur REL Auguste Vérola (UMP) SEP2 Date de naissance REL 7 octobre 1911 SEP2 Lieu de naissance REL Paris (France) SEP2 Date de décès REL 8 août 2011 (à 99 ans) SEP2 Lieu de décès REL Nice (France) SEP2 Nationalité REL Française SEP2 Parti politique REL Centre républicain puis UDF-PR SEP2 Profession REL Professeur agrégé de l'université SEP2 Résidence REL Première circonscription des Alpes-Maritimes.

@@ -1,0 +1,28 @@
+PRETAG Marie-Christine.
+NOMTAG Blandin.
+Marie-Christine Blandin, née le 22 septembre 1952 à Roubaix (Nord), est une femme politique française, membre des Verts puis d'Europe Écologie Les Verts jusqu'en 2014.
+
+
+
+Professeur de SVT dans un collège, elle s'engage en politique au côté des Verts en 1984. À la suite des élections régionales de 1992, elle est élue présidente du conseil régional du Nord-Pas-de-Calais. Cette élection résulte de négociations difficiles entre les partis composant la majorité au conseil régional (PCF, PS, Verts, Génération écologie) : le PS a le plus de conseillers régionaux sans avoir la majorité absolue, alors que les Verts sont minoritaires, mais le choix de Marie-Christine Blandin permet finalement un consensus. Il symbolise notamment le rajeunissement et la féminisation du personnel politique français ; Marie-Christine Blandin est la première femme à être présidente d'un conseil régional en France. Elle reste à ce poste jusqu'en 1998 (date à laquelle le socialiste Michel Delebarre lui succède)[1].
+Elle est élue sénatrice du Nord le 23 septembre 2001. Membre de la commission des affaires culturelles et de l'Office parlementaire d'évaluation des choix scientifiques et technologiques, elle est rattachée au groupe socialiste.
+Dans le « Grenelle Environnement » préparé par Jean-Louis Borloo, Marie-Christine Blandin copréside un groupe de travail[2]. À la suite de la victoire de la gauche aux élections sénatoriales de 2011, Marie-Christine Blandin devient présidente de la commission de la culture, de l'éducation et de la communication. Elle est membre du nouveau groupe écologiste formé le 11 janvier 2012.
+En avril 2013, le sénat adopte définitivement la proposition de loi relative à l'indépendance de l'expertise et à la protection des lanceurs d'alerte, dont elle est l'auteure. Il s'agit de la première proposition de loi initiée par un groupe parlementaire écologiste [3].
+En mai 2013, s'adressant au Sénat lors de l'examen de la loi relative à la refondation de l'école, elle dénonce l'« appel à la xénophobie » que représenteraient, prises hors de leur contexte, certaines des paroles de la Marseillaise et souhaite que soit proposée une version alternative[4],[5].
+Le 16 juillet 2014 elle annonce sa décision de quitter Europe Écologie Les Verts, lassée de voir les « luttes personnelles » des cadres prendre le pas sur les convictions écologistes ; elle reste toutefois membre du groupe écologiste au Sénat[6],[7].
+Suite à la dissolution du groupe écologiste du Sénat (passant en dessous de l'effectif minimal des 10 membres requis) et ne se résolvant pas à voir ce groupe privé de parole, elle démissionne de son mandat de Sénatrice (la démission prend effet le 3 juillet 2017)[8],[9]. Anne-Lise Dufour-Tonini la remplace à compter du 4 juillet.
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts) .
+PART Europe Écologie Les Verts (EÉLV) .
+PART Divers gauche (DVG) depuis 2014.
+FONCTIONNORM
+
+NOMF Présidente de la Commission de la Cultureet de l'Education du Sénat NOMF 1er octobre 2011 – 30 septembre 2014(2 ans, 11 mois et 29 jours) SEP2 Élection REL 1er octobre 2011 SEP2 Prédécesseur REL Jacques Legendre SEP2 Successeur REL Catherine Morin-Desailly.
+NOMF Présidente du Conseil régional duNord-Pas-de-Calais NOMF 27 mars 1992 – 16 mars 1998(5 ans, 11 mois et 17 jours) SEP2 Prédécesseur REL Noël Josèphe SEP2 Successeur REL Michel Delebarre SEP2 Date de naissance REL 22 septembre 1952 (65 ans) SEP2 Lieu de naissance REL Roubaix, Nord SEP2 Nationalité REL Française SEP2 Parti politique REL Les Verts (1984-2010)EÉLV (2010-2014)DVG (depuis 2014) SEP2 Profession REL Professeur de biologie.

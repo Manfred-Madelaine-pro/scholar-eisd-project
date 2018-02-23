@@ -1,0 +1,20 @@
+PRETAG Jean-Pierre.
+NOMTAG Gorges.
+Jean-Pierre Gorges, né le 3 août 1953 à Gonesse (Seine-et-Oise, aujourd'hui Val-d'Oise), est un homme politique français. Il est maire de Chartres et président de Chartres Métropole depuis 2001 et député de la première circonscription d'Eure-et-Loir depuis 2002.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Démocratie libérale (parti politique) (Démocratie libérale).
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (Les Républicains).
+FONCTIONNORM
+
+NOMF Député de la 1re circonscription d'Eure-et-Loir NOMF 14 septembre 2008 – 20 juin 2017(8 ans, 9 mois et 6 jours) SEP2 Élection REL 14 septembre 2008 SEP2 Réélection REL 17 juin 2012 SEP2 Législature REL XIIIe et XIVe SEP2 Prédécesseur REL Françoise Vallet SEP2 Successeur REL Guillaume Kasbarian SEP2 Élection REL 16 juin 2002 SEP2 Législature REL XIIe et XIIIe SEP2 Prédécesseur REL Georges Lemoine SEP2 Successeur REL Françoise Vallet SEP2 Élection REL 18 mars 2001 SEP2 Réélection REL 16 mars 200823 mars 2014 SEP2 Prédécesseur REL Jean-Louis Guillain (PS) SEP2 Date de naissance REL 3 août 1953 (64 ans) SEP2 Lieu de naissance REL Gonesse (Val-d'Oise) SEP2 Nationalité REL Française SEP2 Parti politique REL Démocratie libéraleUMPLes Républicains.

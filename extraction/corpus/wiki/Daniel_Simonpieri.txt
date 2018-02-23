@@ -1,0 +1,18 @@
+PRETAG Daniel.
+NOMTAG Simonpieri.
+Daniel Simonpieri est un homme politique français.
+Il est maire de Marignane de 1995 à 2008.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (Front national).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM

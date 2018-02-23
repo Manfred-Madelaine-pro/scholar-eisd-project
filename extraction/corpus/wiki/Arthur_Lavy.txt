@@ -1,0 +1,25 @@
+PRETAG Arthur.
+NOMTAG Lavy.
+Arthur Lavy, né le 11 septembre 1905 à Pringy et mort le 19 décembre 1986 à Argonay (Haute-Savoie), est un fonctionnaire et homme politique français.
+
+
+Après des études de droits, il devient inspecteur principal des contributions directes.
+En 1935, il devient maire d'Argonay. Mandat qu'il occupera une cinquantaine d'années. La même année, il devient conseiller général du canton de Thorens-Glières. En 1958, le 1er mai, il est élu Président du Conseil général de la Haute-Savoie, succédant à Jean Clerc. Il gardera ce mandat jusqu'en 1979.
+Le 8 juin 1958, il participe aux élections sénatoriales, sur la liste du Centre national des indépendants et paysans. Il est élu avec 379 voix au second tour, aux côtés de Jean Clerc (MRP). La mise en place de la Cinquième République provoque de nouvelles élections. Le 26 avril 1959, il se représente sur une liste « d'action républicaine et du renouveau français », qu'il a mise en place dans le département. Il est élu au premier tour avec 452 voix. Jean Clerc ne sera élu qu'au second tour.
+En 1964, il est réélu Président du Conseil général, à l'unanimité, puis à nouveau en 1976.
+Se représentant en 1968 aux sénatoriales du 22 septembre, il est à nouveau sénateur aux côtés de Charles Bosson.
+Du fait de sa longévité dans l'arène politique locale, il est surnommé « le roi Arthur »[1],
+Lors de débats sur les créations régionales en 1972, le sénateur, opposant à la création des régions françaises, il se dit cependant favorable à l'établissement d'une « région Rhône-Alpes élargie » plutôt qu'à une « région Alpes-Savoie »[2]. Il devient ainsi, en 1974, vice-président du Conseil régional de Rhône-Alpes en 1974.
+Il meurt à 81 ans.
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de la Haute-Savoie NOMF Élection8 juin 1958 SEP2 Élection REL 8 juin 1958 SEP2 Réélection REL 1959, 1968 SEP2 Prédécesseur REL François Ruin.
+NOMF Président du Conseil général de la Haute-Savoie NOMF En fonction depuis 1958 SEP2 Prédécesseur REL Jean Clerc SEP2 Date de naissance REL 11 septembre 1905 SEP2 Lieu de naissance REL Pringy, Haute-Savoie SEP2 Date de décès REL 19 décembre 1986 SEP2 Lieu de décès REL Argonay, Haute-Savoie SEP2 Nationalité REL  France SEP2 Profession REL Fonctionnaire.

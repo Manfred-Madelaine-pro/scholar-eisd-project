@@ -1,0 +1,20 @@
+PRETAG Amand.
+NOMTAG Brault.
+Amand Joseph Brault (25 octobre 1888 - 6 octobre 1960) est un homme politique français, né et décédé à Hermes (Oise). Son prénom est parfois orthographié Armand[1] par erreur.
+
+
+Issu d'une famille ouvrière, Amand Brault est lui aussi ouvrier tourneur sur bois, et s'engage dès 1908 dans le socialisme en adhérant à la SFIO et dans le syndicalisme. Mobilisé en 1914, il est fait prisonnier en 1917, mais s'évade et rejoint l'armée. Il sera distingué de la Croix de Guerre.
+Ayant choisi le Parti communiste (PCF) lors de la scission de la SFIO en 1920, il est candidat aux législatives en 1928, 1932 et 1936. Mais, c'est à l'interne du parti qu'il fait ses preuves, créant le journal communiste local, Le Travailleur de Somme et Oise, et devenant, en 1937, le secrétaire de la région Somme et Oise du PCF.
+Arrêté comme militant communiste en mars 1940, interné en Algérie, il est libéré en 1942 à la suite du débarquement allié en Afrique du Nord, mais ne regagne l'Oise qu'en 1944.
+Conseiller municipal de Beauvais en 1945, il est élu député en 1946, d'abord à la deuxième Assemblée constituante, puis à l'Assemblée nationale. Il conserve son siège lors des élections de 1951. Quittant le conseil municipal de Beauvais où il avait été réélu en 1947, il se présente aux municipales de 1953 à Hermes, dont il est élu maire.
+Sa santé se dégradant, il renonce cependant à se représenter aux législatives de 1956. Il décède le 6 octobre 1960 à Hermes.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

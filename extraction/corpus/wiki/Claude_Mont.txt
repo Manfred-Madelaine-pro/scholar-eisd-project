@@ -1,0 +1,32 @@
+PRETAG Claude.
+NOMTAG Mont.
+Claude Mont, né le 30 juin 1913 à Pouilly-sous-Charlieu (Loire) et mort le 30 octobre 2001 à Saint-Étienne (Loire), est un homme politique français.
+
+
+
+Claude Mont effectue sa scolarité au lycée de Roanne. Il poursuit ses études à Lyon où il obtient une licence ès-lettres et un diplôme d'études supérieures en anglais. À la fin de ses études, Claude Mont devient professeur.
+D'abord mobilisé en 1939, il s'engage dans la Résistance après l'armistice. Le 18 juin 1940, Claude Mont est arrêté et fait prisonnier, il s'évade le 25 juin puis rejoint la zone libre. En octobre 1940, Claude Mont est affecté au lycée de Saint-Étienne puis demande à être affecté au lycée de Tanger. Il se rend à Gibraltar et milite quelque temps dans un réseau de renseignements. Claude Mont est arrêté à la frontière espagnole puis rejoint l'Afrique du Nord et devient officier de réserve. En 1944, il prépare la Libération et participe aux campagnes d'Italie et de France.
+Après la Seconde Guerre mondiale, il siège au Palais Bourbon d'octobre 1945 à juin 1951, Claude Mont est alors un des plus jeunes députés de France aux Assemblées nationales constituantes. Pendant son mandat, Il devient attaché au ministère des affaires étrangères dirigé par Georges Bidault. Claude Mont est aussi professeur au lycée de Roanne et directeur politique du journal Le Pays Roannais.
+Il s'engage dans la vie politique locale en 1950 quand il devient conseiller général du canton de Noirétable et conseiller municipal de Noirétable. Claude Mont est élu au Conseil de la République le 19 juin 1955 sur une liste d'action communale, paysanne et sociale. Son activité parlementaire se consacre notamment aux questions sociales. Claude Mont est élu maire de Noirétable en 1965, il y restera jusqu'en 1995. Il est vice-président du Conseil général de la Loire de 1982 à 1994.
+Il est élu sénateur sous la Ve République en 1959 puis est réélu en 1965 et 1974.
+De décembre 1974 à juin 1975, Jacques Chirac alors Premier ministre nomme 18 parlementaires en mission chargés « d'humaniser les rapports entre le citoyen et l'administration », dont Claude Mont qui est nommé auprès du secrétaire d'Etat à la culture Michel Guy.
+De 1977 à 1983, il est membre de la délégation française à l'ONU nommé par le président de la République Valéry Giscard d'Estaing. Claude Mont est également représentant de la France au Parlement européen de 1977 à 1981.
+Aux élections sénatoriales de 1983, il est réélu sur une liste UDF-CDS. En 1992, Claude Mont n'est pas réélu, Guy Poirieux lui succède au Sénat.
+Il meurt le 30 octobre 2001 à Saint-Étienne à l'âge de 88 ans.
+
+
+
+
+
+
+
+PARTISNORM
+PART Mouvement républicain populaire (MRP).
+PART Union pour la démocratie française (UDF).
+PART Centre des démocrates sociaux (CDS).
+FONCTIONNORM
+
+NOMF Sénateur de la Loire NOMF 19 juin 1955 – 26 avril 1959(3 ans, 10 mois et 7 jours) SEP2 Groupe politique REL MRP.
+NOMF Sénateur de la Loire NOMF 26 avril 1959 – 1er octobre 1992(33 ans, 5 mois et 5 jours) SEP2 Élection REL 26 avril 1959 SEP2 Réélection REL 26 septembre 196522 septembre 197425 septembre 1983 SEP2 Groupe politique REL UC SEP2 Successeur REL Guy Poirieux.
+NOMF Député de la Loire NOMF 21 octobre 1945 – 10 juin 1946(7 mois et 20 jours) SEP2 Élection REL 21 octobre 1945 SEP2 Législature REL Ire Constituante SEP2 Groupe politique REL MRP SEP2 Élection REL 2 juin 1946 SEP2 Législature REL IIe Constituante SEP2 Groupe politique REL MRP SEP2 Élection REL 10 novembre 1946 SEP2 Législature REL Ire (Quatrième République) SEP2 Groupe politique REL MRP SEP2 Prédécesseur REL Jean Charbonnier SEP2 Successeur REL Denis Tamain.
+NOMF Conseiller général de la LoireÉlu dans le canton de Noirétable NOMF 1950 – 1994(44 ans) SEP2 Prédécesseur REL Aucun SEP2 Successeur REL André-Guy Bernardin SEP2 Nom de naissance REL Claude Marie Mont SEP2 Date de naissance REL 30 juin 1913 SEP2 Lieu de naissance REL Pouilly-sous-Charlieu (Loire) SEP2 Date de décès REL 30 octobre 2001 (à 88 ans) SEP2 Lieu de décès REL Saint-Étienne (Loire) SEP2 Nationalité REL Française SEP2 Parti politique REL MRPUDFCDS SEP2 Profession REL Professeur.

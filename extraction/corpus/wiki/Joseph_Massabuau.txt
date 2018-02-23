@@ -1,0 +1,17 @@
+PRETAG Joseph.
+NOMTAG Massabuau.
+Joseph Massabuau, né le 27 juillet 1862 à Saint-Geniez-d'Olt (Aveyron) où il est mort le 14 octobre 1939, est un homme politique français.
+Avocat, conseiller général, il est élu député en 1898. Il s'inscrit au groupe antijuif puis à celui de l'Action libérale. Il s'investit essentiellement sur les questions financières. Il conserve son poste jusqu'en 1914, où il est battu aux législatives. Après guerre, il retrouve un mandat de sénateur de l'Aveyron, de 1921 à 1930.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .
+NOMF Sénateur de la Troisième République (d) NOMF .

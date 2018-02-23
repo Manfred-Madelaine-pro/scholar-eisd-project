@@ -1,0 +1,16 @@
+PRETAG Louis.
+NOMTAG Christiaens.
+Louis Christiaens est un homme politique français, né le 20 décembre 1890 à Boulogne-sur-Mer (Pas-de-Calais) et mort le 17 janvier 1975 à Ronchin (Nord).
+Député du Nord, Louis Christiaens a été secrétaire d'État aux forces armées et à l'air dans les gouvernements Laniel (1953-1954). Il retrouve ce portefeuille quelques années plus tard dans le gouvernement Gaillard (1957-1958).
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député1946-19581962-1968 NOMF GouvernementIVe République-Ve République SEP2 Gouvernement REL IVe République-Ve République SEP2 Groupe politique REL RI (1946-1955)IPAS (1956-1958)UNR-UDT (1962-1967)UDVe (1967-1968) SEP2 Date de naissance REL 20 décembre 1890 SEP2 Date de décès REL 17 janvier 1975 (84 ans) SEP2 Résidence REL Nord.

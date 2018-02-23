@@ -1,0 +1,21 @@
+PRETAG Jean.
+NOMTAG Dodat.
+Jean Dodat est un homme politique français né le 14 février 1862 à Pouzy-Mesangy (Allier) et décédé le 18 mars 1935 à Bessay (Allier).
+
+
+Jean Dodat est le fils d'un laboureur installé au village de La Croix, à Pouzy et fait partie d'une famille de dix enfants.
+Agriculteur à La Ferté-Hauterive puis à Bessay, il est conseiller général du canton de Neuilly-le-Réal de 1919 à 1931 et député de l'Allier de 1919 à 1924, inscrit au groupe des Républicains de gauche. Après 1931, il quitte la vie politique.
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance démocratique (Alliance démocratique).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF DéputéAllier NOMF 1919-1924.
+NOMF Conseiller général (d)Canton de Neuilly-le-Réal NOMF 1919-1931.

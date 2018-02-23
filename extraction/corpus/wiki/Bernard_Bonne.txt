@@ -1,0 +1,40 @@
+PRETAG Bernard.
+NOMTAG Bonne.
+Bernard Bonne, né le 18 septembre 1948 à Roanne (Loire), est un homme politique français.
+Il fut président du Conseil départemental de la Loire de 2008 à 2017 et est actuellement sénateur de la Loire depuis 2017.
+
+
+
+Carrière professionnelle et vie privée.
+Il exerce la profession de médecin généraliste depuis 1976.
+En tant que médecin, il a exercé au sein du corps des sapeurs-pompiers, comme capitaine puis commandant, et a mis en place des diplômes de médecine d’urgence.
+Il est marié à Michèle Bonne et est père de quatre enfants : Béatrice, Éric, Guillaume et Marie-Sophie.
+Carrière politique.
+Il fut maire de Bourg-Argental de 1989 à 2008 et conseiller général du canton de Bourg-Argental de 1992 à 2015.
+De 2007 à 2012, il fut suppléant du député Dino Cinieri[1]. Il est élu président du Conseil général de la Loire en 2008.
+En mars 2015, il est élu conseiller départemental du canton du Pilat[2] en tandem avec Valérie Peysselon. Le 2 avril suivant, il est réélu à la présidence du département[3].
+Le 24 septembre 2017, il est élu sénateur de la Loire, arrivant en tête du scrutin avec 26,76% des voix[4].
+Le 16 octobre 2017, Georges Ziegler (UDI) lui succède à la présidence du Conseil départemental de la Loire[5],[6],[7].
+Positionnement au sein de la droite.
+Il soutient Alain Juppé pour la primaire française de la droite et du centre de 2016[8].
+En mars 2017, dans le cadre de l'affaire Fillon, il renonce à soutenir le candidat Les Républicains François Fillon à l'élection présidentielle[9].
+Il parraine Laurent Wauquiez pour le congrès des Républicains de 2017, scrutin lors duquel est élu le président du parti[10].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti républicain (PR).
+PART Démocratie libérale (parti politique) (DL).
+PART Union pour la démocratie française (UDF).
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (LR).
+FONCTIONNORM
+
+NOMF Sénateur de la Loire NOMF En fonction depuis le 1er octobre 2017(4 mois et 10 jours) SEP2 Élection REL 24 septembre 2017 SEP2 Groupe politique REL LR.
+NOMF Président du Conseil général puis départemental de la Loire NOMF 20 mars 2008 – 16 octobre 2017(9 ans, 6 mois et 26 jours) SEP2 Élection REL 20 mars 2008 SEP2 Réélection REL 2 avril 2015 SEP2 Prédécesseur REL Pascal Clément SEP2 Successeur REL Georges Ziegler.
+NOMF Conseiller départemental de la LoireÉlu dans le canton du Pilat NOMF En fonction depuis le 29 mars 2015(2 ans, 10 mois et 13 jours) SEP2 Élection REL 29 mars 2015 SEP2 Prédécesseur REL Création du canton.
+NOMF Conseiller général de la LoireÉlu dans le canton de Bourg-Argental NOMF mars 1992 – 22 mars 2015(23 ans) SEP2 Prédécesseur REL Jean Moutot SEP2 Successeur REL Suppression du canton SEP2 Prédécesseur REL Danielle Gambonnet SEP2 Successeur REL Stéphane Heyraud SEP2 Date de naissance REL 18 septembre 1948 (69 ans) SEP2 Lieu de naissance REL Roanne (Loire) SEP2 Nationalité REL française SEP2 Parti politique REL PRDLUDFUMPLR SEP2 Profession REL Médecin généraliste.

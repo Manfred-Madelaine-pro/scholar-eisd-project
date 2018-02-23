@@ -1,0 +1,19 @@
+PRETAG Gaston.
+NOMTAG Feuillard.
+Gaston Feuillard, né le 14 avril 1904 à Anjouan et décédé le 13 mars 1978 à Paris, est un homme politique français.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (IPAS) RI.
+PART Républicains indépendants (parti politique) (RI) UDR.
+PART Union des démocrates pour la République (UDR).
+FONCTIONNORM
+
+NOMF Député de la 3e circonscription de la Guadeloupe NOMF 30 juin 1968 – 1er avril 1973 SEP2 Nom de naissance REL Gaston Emmanuel Victor Feuillard SEP2 Date de naissance REL 14 avril 1904 SEP2 Lieu de naissance REL Anjouan SEP2 Date de décès REL 13 mars 1978 (à 73 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL Française SEP2 Parti politique REL IPAS, RI, UDR SEP2 Profession REL Avocat.

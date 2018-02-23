@@ -1,0 +1,19 @@
+PRETAG Alice.
+NOMTAG Brisset.
+Alice Brisset, née le 15 avril 1894 à Paris (Seine) et morte le 19 novembre 1974 à Bagneux (Hauts-de-Seine), est une femme politique française. En 1926, elle est élue au Comité central du Parti communiste français (PCF) et le demeure jusqu'en 1929. Elle meurt en 1974. De 1927 à 1929, elle avait été membre de la commission exécutive de la CGTU et, de 1946 à 1951, de la commission administrative de la CGT.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Sénateur de la Quatrième République (d) NOMF .

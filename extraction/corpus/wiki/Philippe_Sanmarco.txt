@@ -1,0 +1,33 @@
+PRETAG Philippe.
+NOMTAG Sanmarco.
+Philippe Sanmarco, né le 16 février 1947 à Ebolowa (Cameroun), est un homme politique français. Il est un ancien député socialiste des Bouches-du-Rhône il est conseiller municipal de Marseille. Il est président fondateur de Convention citoyenne et membre de la Gauche moderne et républicaine.
+
+
+
+
+
+
+Ancien élève de l'École nationale d'administration (promotion Weil, 1974)[1]
+
+
+
+Expert-consultant indépendant (conseil aux entreprises et collectivités sur les programmes de l'Union européenne)
+Professeur associé à l’École normale supérieure de la rue d’Ulm
+Secrétaire général du Centre de géostratégie de l’École normale supérieure de la rue d’Ulm
+1993-2003 : responsable des séminaires de géopolitique à l’Institut des hautes études de la sécurité intérieure
+1993-2001 : responsable d'un séminaire à l'Institut d'études politiques d'Aix-en-Provence
+1986-1989 : chargé de cours de finances à la Faculté de sciences économiques d’Aix-Marseille
+1985-1986 : président de la commission de surveillance de la Caisse des dépôts et consignations
+1978-1981 : secrétaire général de la Ville de Marseille (Gaston Defferre étant maire)
+1974-1978 : corps préfectoral ; directeur de cabinet des préfets de l'Orne, de la Nièvre, du Val-de-Marne et du Pas-de-Calais.
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS).
+PART La Gauche moderne (LGM).
+FONCTIONNORM
+
+NOMF Député 1981-1993 NOMF GouvernementVe république SEP2 Gouvernement REL Ve république SEP2 Groupe politique REL socialiste SEP2 Date de naissance REL 16 février 1947 SEP2 Parti politique REL PSLGMGauche moderne et républicaine SEP2 Résidence REL troisième circonscription des Bouches-du-Rhône.

@@ -1,0 +1,19 @@
+PRETAG Ernest.
+NOMTAG Décloux.
+Ernest Décloux est un homme politique français né le 29 janvier 1875 à Commentry (Allier) et décédé le 3 août 1938 à Néris-les-Bains (Allier).
+Médecin à Néris-les-Bains, il est maire de la ville de 1907 à 1931. Il est député de l'Allier de 1919 à 1924, inscrit au groupe de l'Entente républicaine démocratique.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

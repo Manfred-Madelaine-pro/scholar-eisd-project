@@ -1,0 +1,29 @@
+PRETAG Louis.
+NOMTAG Andrieux.
+Louis Andrieux (23 juillet 1840 à Trévoux (Ain) - 27 août 1931 à Paris) est un homme politique français.
+
+
+
+Il est le fils de Louis Martin Joseph Antoine Andrieux et de Catherine Louise Perrot.
+Avocat républicain, il fonde l'éphémère hebdomadaire, Le Travail, en 1861 avec Georges Clemenceau et d'autres jeunes du Quartier latin.
+Lorsqu'éclatent les émeutes à l'annonce de la défaite de Sedan, il est incarcéré à la prison Saint-Joseph de Lyon en 1870. Il est libéré par les émeutiers et devient rapidement procureur[1].
+Désormais du côté du Pouvoir, il participe comme Procureur de la République à la répression de l'insurrection d'avril 1871 qui secoue Lyon à la suite de la Commune de Paris.
+Ce coup d'éclat et son rapport parlementaire sur l'amnistie (partielle) des Communards lui valent d'être nommé Préfet de Police de Paris en 1879, après la victoire électorale des républicains de 1877. En fonction du 4 mars 1879 au 16 juillet 1881, il fait preuve d'une rigueur sans faille. Par exemple dans l'affaire Hartmann. Hartmann, est un nihiliste russe instruit, et particulièrement habile à faire sauter les chemins de fer. Soupçonné d'avoir pris part à un attentat contre la vie du tsar, le ler décembre 1879, il se réfugie à Paris. L'ambassade russe le fait rechercher, Andrieux, eut la maladresse de l'arrêter, et aussitôt l'ambassadeur, le prince Orloff, demande qu'il lui fut livré. Mais faut-il considérer Hartmann comme un réfugié politique, hôte respecté dans tous les pays civilisés, ou comme un criminel ordinaire susceptible d'extradition ?
+Les journaux radicaux combattirent violemment cette deuxième opinion; après de nombreux pourparlers entre Charles de Freycinet et le prince Orloff, le gouvernement français déclare que l’identité de l'accusé ne parait pas suffisamment démontrée, ainsi que sa participation à l'attentat; il relâche Hartmann, qui est dirigé sur Dieppe et laissé libre de passer en Angleterre. Mais aussitôt le prince Orloff reçoit de Saint-Petersbourg l'ordre de quitter Paris et de remettre la direction de l'ambassade à un chargé d'affaires, le 20 mars 1880. Chanzy laisse passer l'indignation de la première heure; mais bientôt, faisant appel au sang-froid et à la magnanimité d'Alexandre II, il présente l'affaire sous un jour moins défavorable. Deux mois à peine se sont écoulés, le prince Orloff retourne à son poste diplomatique, le 23 mai. Ce prompt retour est unanimement attribué aux bons rapports du général avec l'Empereur[2].
+Il collabora à "La Justice" journal politique créé en janvier 1880 au 10, rue du faubourg-Montmartre à Paris par Georges Clemenceau, et dont Camille Pelletan fut le rédacteur en chef.
+Andrieux est élu député du Rhône en 1876, puis des Basses-Alpes en 1885. Battu en 1889, il se présente dans plusieurs départements, sans arriver à se faire élire. Élu sénateur des Basses-Alpes en 1903, il est invalidé. Ce n'est qu'en 1910 qu'il redevient député des Basses-Alpes et le reste jusqu'en 1924. Il est aussi le fondateur et le rédacteur en chef du Petit Parisien, journal populaire de l'époque.
+Il est ambassadeur de France en Espagne en mission temporaire d'octobre 1881 à avril 1882[3].
+Louis Andrieux, républicain opportuniste et qui se rapprocha un temps du boulangisme puis finit sa carrière au sein des groupes parlementaires de l'Alliance démocratique (centre-droit), était un tenant de l'ordre, mais il défend le Droit de vote des femmes dans la « chambre bleu horizon » de 1920.
+En 1927, à l'âge de 87 ans, il soutient à la Sorbonne deux thèses, l'une consacrée à Alphonse Rabbe, l'autre à Pierre Gassendi.
+Louis Andrieux est le père naturel[4] de l'écrivain et poète Louis Aragon (1897-1982).
+Une rue porte son nom à Forcalquier.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1876-1889puis 1910-1924Sénateur en 1903 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Ind. (1910-1914)RDG (1914-1919)GRD (1919-1924) SEP2 Date de naissance REL 23 juillet 1840 SEP2 Date de décès REL 27 août 1931 (à 91 ans) SEP2 Résidence REL Rhône puis Basses-Alpes.

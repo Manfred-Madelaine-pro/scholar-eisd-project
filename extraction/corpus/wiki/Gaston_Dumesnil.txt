@@ -1,0 +1,19 @@
+PRETAG Gaston.
+NOMTAG Dumesnil.
+Gaston Dumesnil est un homme politique français né le 24 janvier 1879 à Argenteuil (Val-d'Oise) et décédé le 8 septembre 1918 à Mont-de-Leuilly (Aisne).
+Docteur en droit, avocat à Paris, il est pendant 5 ans le secrétaire de Charles Prévet, sénateur de Seine-et-Marne. Il est également administrateur et rédacteur au Petit Journal. Il est député de Maine-et-Loire de 1914 à 1918, inscrit au groupe de la Fédération républicaine. Il est secrétaire de la Chambre en 1916. Il est tué sur le front, lors d'une inspection en compagnie d'Abel Ferry.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

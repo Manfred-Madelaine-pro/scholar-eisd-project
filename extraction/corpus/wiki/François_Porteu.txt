@@ -1,0 +1,24 @@
+PRETAG François.
+NOMTAG Porteu.
+François Porteu de La Morandière, né le 20 mai 1928 à Sèvres, est un homme politique français, membre du Front national.
+Il est député du Pas-de-Calais de 1986 à 1988.
+
+
+
+François Porteu de La Morandière est d'abord chef d'entreprise et fondateur de l'Union nationale des combattants d'Afrique du Nord. Il reste dans cette fonction pendant 27 ans.
+Carrière politique.
+En 1985, il quitte toutes ses fonctions associatives pour se présenter aux élections. En 1986, il est élu député du Pas-de-Calais sous l'étiquette FN.
+Il est aussi conseiller municipal d'Arras de 1989 à 1994. Il a été membre du bureau national du FN et président du Cercle des français de l'étranger. Après la dissolution de l'Assemblée, il est élu conseiller régional du Nord-Pas-de-Calais et assume la fonction de secrétaire de la commission des finances, aux côtés de Maurice Schumann pendant tout son mandat. Il quitte le Front national en 1998, étant en désaccord avec la position anti-européenne de ce parti.
+Depuis 2006, il est président de l’Institut européen de relations et d’études internationales. Après en avoir été le vice-président, il est également président général honoraire de l’Union nationale des combattants (UNC). 
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN) depuis 1986.
+FONCTIONNORM
+
+NOMF Député du Pas-de-Calais NOMF mars 1986 – mai 1988 SEP2 Groupe politique REL FN-RN SEP2 Date de naissance REL 20 mai 1928 (89 ans) SEP2 Lieu de naissance REL Sèvres SEP2 Parti politique REL FN (depuis 1986) SEP2 Profession REL Chef d'entreprise commerciale.

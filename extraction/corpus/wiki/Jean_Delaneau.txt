@@ -1,0 +1,27 @@
+PRETAG Jean.
+NOMTAG Delaneau.
+Jean Delaneau, né le 29 août 1933 à Saint-Marcel (Indre), est un homme politique français.
+
+
+
+Jean Delaneau exerce la profession de chirurgien à Tours puis à Château-Renault.
+Il est élu conseiller général du canton de Château-Renault en 1970 puis réélu consécutivement jusqu'en 2001 ; il est président du Conseil général d'Indre-et-Loire de 1992 à 2001. Maire de Château-Renault de 1967 à 2001, puis d'Autrèche de 2001 à 2008, il est également président du Conseil régional du Centre de 1979 à 1983.
+Le 24 septembre 1974, il entre à l'Assemblée nationale comme député de la 2e circonscription d'Indre-et-Loire suite au décès de Pierre Lepage dont il était le suppléant et y demeure jusqu'en 1981. Devenu sénateur en 1983, il est réélu en 1992 et siège jusqu'en 2001. En octobre 1998, il est élu président de la commission des affaires sociales du Sénat.
+En avril 1999, il est mis en examen par le juge d'instruction Xavier Rolland pour « faux et usage de faux » et « complicité de détournement de fonds publics », dans le cadre d'une affaire qui implique cinq hauts fonctionnaires de l'assemblée départementale d'Indre-et-Loire. Les motifs de mise en examen d'une particulière gravité s'effondrent au fur et à mesure de l'instruction. À l'audience du 30 septembre 2002, le tribunal correctionnel annule l'ordonnance de renvoi du juge d'instruction. Le tribunal de grande instance relaxe Jean Delaneau de tous les chefs d'accusation portés contre lui dans un jugement du 13 janvier 2005. Le parquet décide de ne pas faire appel.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF).
+PART Parti républicain (PR).
+PART Démocratie libérale (parti politique) (DL).
+FONCTIONNORM
+
+NOMF Sénateur d'Indre-et-Loire NOMF 3 octobre 1983 – 30 septembre 2001 SEP2 Élection REL 25 septembre 1983 SEP2 Réélection REL 27 septembre 1992.
+NOMF Député de la 2e circonscription d'Indre-et-Loire NOMF 24 septembre 1974 – 22 mai 1981.
+NOMF Président du Conseil régional du Centre NOMF 1979 – 1983 SEP2 Prédécesseur REL Pierre Sudreau SEP2 Successeur REL Daniel Bernardet.
+NOMF Président du Conseil général d'Indre-et-Loire NOMF 1992 – 2001 SEP2 Prédécesseur REL André-Georges Voisin SEP2 Successeur REL Marc Pommereau SEP2 Successeur REL Michel Cosnier SEP2 Successeur REL Francis Billault SEP2 Date de naissance REL 29 août 1933 (84 ans) SEP2 Lieu de naissance REL Saint-Marcel (Indre) SEP2 Nationalité REL  Française SEP2 Parti politique REL UDFPRDL SEP2 Profession REL Chirurgien.

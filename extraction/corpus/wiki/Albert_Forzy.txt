@@ -1,0 +1,19 @@
+PRETAG Albert.
+NOMTAG Forzy.
+Albert Forzy est un homme politique français né le 15 janvier 1856 à Launoy (Aisne) et décédé le 19 avril 1930 à Coucy-le-Château-Auffrique (Aisne).
+Propriétaire terrien, il est maire de Bassoles-Aulers en 1885, conseiller d'arrondissement en 1895 et conseiller général du canton de Coucy-le-Château-Auffrique en 1900. Il est député de l'Aisne de 1912 à 1914, puis de 1919 à 1928, siégeant à droite, au groupe de l'Entente républicaine démocratique.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

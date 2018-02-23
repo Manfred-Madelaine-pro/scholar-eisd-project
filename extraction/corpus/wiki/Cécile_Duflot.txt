@@ -1,0 +1,23 @@
+PRETAG Cécile.
+NOMTAG Duflot.
+Cécile Duflot, née le 1er avril 1975 à Villeneuve-Saint-Georges (Val-de-Marne), est une femme politique française.
+Elle est secrétaire nationale des partis écologistes Les Verts de 2006 à 2010 et Europe Écologie Les Verts (EÉLV) de 2010 à 2012.
+Aux élections législatives de 2012, elle est élue députée de la sixième circonscription de Paris. Elle laisse ce mandat à sa suppléante peu après avoir été nommé ministre du Logement et de l'Égalité des territoires dans le premier et le second gouvernement Jean-Marc Ayrault, poste qu'elle occupe ainsi du 16 mai 2012 au 31 mars 2014. Elle retrouve ensuite son mandat de députée avant d'être éliminée au premier tour des élections législatives de 2017.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts) 2001-2010.
+PART Europe Écologie Les Verts (EELV) depuis 2010.
+FONCTIONNORM
+
+NOMF Députée de ParisÉlue dans la 6e circonscription NOMF 3 mai 2014 – 20 juin 2017(3 ans, 1 mois et 17 jours) SEP2 Législature REL XIVe législature(Cinquième République) SEP2 Prédécesseur REL Danièle Hoffman-Rispal SEP2 Successeur REL Pierre Person SEP2 Élection REL 17 juin 2012 SEP2 Législature REL XIVe législature(Cinquième République) SEP2 Prédécesseur REL Danièle Hoffman-Rispal SEP2 Avec REL Barbara Pompili (2015-2016)François de Rugy (2016) SEP2 Prédécesseur REL François de Rugy SEP2 Successeur REL Dissolution du groupe.
+NOMF Ministre du Logement et del'Égalité des territoires NOMF 16 mai 2012 – 31 mars 2014(1 an, 10 mois et 15 jours).
+NOMF Président NOMF GouvernementJean-Marc Ayrault I et II SEP2 Gouvernement REL Jean-Marc Ayrault I et II SEP2 Prédécesseur REL Benoist Apparu (Logement)Bruno Le Maire (Aménagement du territoire) SEP2 Successeur REL Sylvia Pinel.
+NOMF Conseillère régionale d'Île-de-FrancePrésidente du groupe Europe Écologie Les Verts NOMF 22 mars 2010 – 23 juin 2012(2 ans, 3 mois et 1 jour) SEP2 Prédécesseur REL Jean-Vincent Placé SEP2 Successeur REL Mounir Satouri SEP2 Prédécesseur REL Création du parti SEP2 Successeur REL Pascal Durand SEP2 Prédécesseur REL Yann Wehrling SEP2 Successeur REL Disparition du parti SEP2 Date de naissance REL 1er avril 1975 (42 ans) SEP2 Lieu de naissance REL Villeneuve-Saint-Georges (Val-de-Marne) SEP2 Nationalité REL française SEP2 Parti politique REL Les Verts (2001-2010)EELV (depuis 2010) SEP2 Diplômée de REL Université Paris-DiderotESSEC SEP2 Profession REL Urbaniste[1] SEP2 Religion REL Catholique[2].

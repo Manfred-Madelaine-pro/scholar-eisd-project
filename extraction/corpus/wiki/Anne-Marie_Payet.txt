@@ -1,0 +1,22 @@
+PRETAG Anne-Marie.
+NOMTAG Payet.
+Anne-Marie Payet, née le 1er août 1949, est une femme politique française.
+
+
+
+Directrice d'école de profession, elle est élue sénatrice de La Réunion le 23 septembre 2001. Ancien membre de l'UDF puis du MoDem, elle est aujourd'hui sans étiquette et siège au groupe Union centriste. Elle est par ailleurs adjointe au maire de Cilaos.
+Anne-Marie Payet est à l'origine d'un amendement qui va conduire à l'inscription de messages de prévention contre le syndrome d'alcoolisation fœtale sur l'ensemble des bouteilles d'alcool commercialisées en France.
+Au Sénat, elle est secrétaire de la commission des affaires sociales, membre de la délégation aux droits des femmes et à l'égalité des chances entre les hommes et les femmes et secrétaire du Sénat. Elle siège comme membre dans de nombreux groupes d'études : groupe d'études Arctique, Antarctique et TAAF ; groupe d'études Forêt et filière bois ; groupe d'études sur le développement économique de la montagne ; groupe d'études musiques et chanson française ; groupe d'études du sport et groupe d'études sur le thermalisme et le climatisme.
+Elle est aussi membre de la Commission d'évaluation des dispositifs de défiscalisation et d'exonération des cotisations sociales outre-mer, secrétaire de la Section française de l'Assemblée parlementaire de la francophonie (A.P.F.), membre de la Commission nationale d'évaluation des politiques de l'État outre-mer, membre du Conseil de surveillance du Fonds de financement de la protection complémentaire de la couverture universelle du risque maladie et membre du Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale.
+Candidate aux élections sénatoriales du 25 septembre 2011 sur la liste de Jean-Paul Virapoullé, elle n'est pas réélue[1].
+Elle est faite chevalier de la Légion d'honneur début 2012.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur(2001-2011) NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL UC SEP2 Date de naissance REL 1er août 1949 SEP2 Résidence REL La Réunion.

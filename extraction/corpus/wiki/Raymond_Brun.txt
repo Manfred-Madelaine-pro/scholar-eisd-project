@@ -1,0 +1,20 @@
+PRETAG Raymond.
+NOMTAG Brun.
+Charles Raymond Brun, souvent appelé simplement Raymond Brun, né le 18 mars 1915 à Audenge (Gironde) et mort le 29 décembre 2006 à Salles (Gironde), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre national des indépendants et paysans (CNIP) RPR.
+PART Rassemblement pour la République (RPR).
+FONCTIONNORM
+
+NOMF Sénateur de la Gironde NOMF 26 avril 1959 – 1er octobre 1989 SEP2 Élection REL 26 avril 1959 SEP2 Réélection REL 23 septembre 1962 SEP2 Prédécesseur REL Marc Boireau SEP2 Successeur REL Philippe Pondaven.
+NOMF Président du Conseil général de la Gironde élu dans le Canton de Belin-Béliet NOMF 1951 – 1976 SEP2 Prédécesseur REL Jean-Fernand Audeguil SEP2 Successeur REL Philippe Madrelle SEP2 Nom de naissance REL Raymond Charles Brun SEP2 Date de naissance REL 18 mars 1915 SEP2 Lieu de naissance REL Audenge (Gironde) SEP2 Date de décès REL 29 décembre 2006 (à 91 ans) SEP2 Lieu de décès REL Salles (Gironde) SEP2 Nationalité REL  Française SEP2 Parti politique REL CNIP, RPR SEP2 Profession REL Industriel.

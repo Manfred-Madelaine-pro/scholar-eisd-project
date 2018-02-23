@@ -1,0 +1,19 @@
+PRETAG Pierre.
+NOMTAG Courant.
+Pierre Courant est un homme politique français, né le 12 septembre 1897 au Havre et décédé le 22 mars 1965 dans sa ville natale.
+
+
+Avocat, ancien bâtonnier, il est élu député de la sixième circonscription de la Seine-Inférieure (aujourd'hui Seine-Maritime) aux deux Assemblées nationales constituantes puis à l’Assemblée nationale comme républicain-indépendant (CNI) de 1946 à 1962.
+Il se prononce pour le retour du Général de Gaulle au pouvoir en 1958.
+Il est maire du Havre de 1941 à 1944 puis de 1947 à 1954. Conseiller général depuis 1945, il fut président de l’assemblée départementale. Il fut membre de l’Assemblée parlementaire du Conseil de l'Europe. Il est président de la commission de surveillance de la Caisse des dépôts et consignations de 1956 à 1963.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF DéputéSixième circonscription de la Seine-Maritime NOMF 9 décembre 1958 - 9 octobre 1962.
+NOMF Sénateur de la Communauté NOMF .

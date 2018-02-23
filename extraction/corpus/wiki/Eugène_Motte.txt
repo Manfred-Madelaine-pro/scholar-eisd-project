@@ -1,0 +1,20 @@
+PRETAG Eugène.
+NOMTAG Motte.
+Eugène Motte, né le 15 décembre 1860 à Roubaix (Nord) et mort le 23 octobre 1932 dans la même ville, est un industriel du textile et un homme politique français.
+
+
+
+Neveu de Louis Motte-Bossut, fils d’Alfred Motte-Grimonprez, il fut à son tour un puissant homme d'affaires, président de la Chambre de commerce de Roubaix-Tourcoing, président du Crédit du Nord, administrateur des Chemins de fer du Nord, de la Compagnie internationale de Suez, etc. Il développa ses entreprises à Roubaix, mais aussi en Russie et en Pologne (dans la partie alors occupée par la Russie). En 1902 le journal catholique Le Pèlerin en dresse ce portrait édifiant :
+
+
+
+
+
+
+
+PARTISNORM
+PART Républicains progressistes (Républicains progressistes).
+FONCTIONNORM
+
+NOMF Député de la 7e circonscription de Lille[2] NOMF 8 mai 1898 – 31 mai 1906 SEP2 Gouvernement REL IIIe République SEP2 Prédécesseur REL Jules Guesde (PSDF) SEP2 Successeur REL Jules Guesde (SFIO).
+NOMF Conseiller général du Nord(élu pour le Canton de Roubaix-Est) NOMF 1895 – 1910 SEP2 Prédécesseur REL Henri Carette (Socialiste) SEP2 Successeur REL Henri Watremez (POF) SEP2 Prédécesseur REL Édouard Roussel (père) SEP2 Successeur REL Jean-Baptiste Lebas (SFIO) SEP2 Nom de naissance REL Eugène Alfred Motte SEP2 Date de naissance REL 15 décembre 1860 SEP2 Lieu de naissance REL Roubaix (Nord) SEP2 Date de décès REL 23 octobre 1932 (à 71 ans) SEP2 Lieu de décès REL Roubaix (Nord) SEP2 Nationalité REL  Français SEP2 Parti politique REL Républicains progressistes SEP2 Enfants REL Eugène Motte,Bertrand Motte SEP2 Profession REL Industriel SEP2 Religion REL Catholique.

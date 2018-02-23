@@ -1,0 +1,36 @@
+PRETAG Roland.
+NOMTAG Blum.
+Roland Blum, né le 12 juillet 1945 aux Pennes-Mirabeau (Bouches-du-Rhône), est un homme politique français et avocat
+
+
+
+Diplômé de l'Institut d'études politiques d'Aix-en-Provence en 1970[1], licencié en droit, diplômé d'études supérieures de Droit Public, Roland Blum est également lauréat de cette faculté.
+Avocat au Barreau de Marseille depuis 1978 .
+Il commence sa carrière politique en étant élu Conseiller Général en mars 1979, puis réélu en 1985 dans le canton de Marseille-6. En mars 1992, il est réélu dans le canton de Marseille-10. De 1979 à 1998, il préside le groupe UDF/RPR du Conseil Général. En 2004, il est à nouveau élu dans le canton de Montolivet mais démissionne l'année suivante conformément à la loi interdisant le cumul des mandats.
+En 1984, il est élu député au Parlement Européen sur la liste UDF conduite par Madame Simone Veil. Il siège à Strasbourg d'avril 1986 à avril 1987.
+Élu une première fois député des Bouches-du-Rhône au scrutin proportionnel plurinominal le 16 juin 1986, Roland Blum est, avec le retour au scrutin majoritaire, élu dans la première circonscription des Bouches-du-Rhôneen juin 1988, puis réélu sans discontinuer jusqu'au 19 juin 2012. À partir de 2002, il fait partie du groupe UMP.
+À l'Assemblée Nationale, Roland Blum est membre de la Commission de la Production et des Échanges, puis, à partir de 1993, de la Commission des Affaires Étrangères dont il est le Secrétaire puis le Vice Président de 2002 à 2007.
+Vice Président de la Délégation Française à l'OSCE de 2002 à 2012, il devient en 2008 Président de la Commission Économique et de l'Environnement de l'Assemblée Parlementaire de l'OSCE.
+En 2007, il devient Membre de L'Assemblée Parlementaire du Conseil de l'Europe.
+Au conseil municipal de Marseille, il est élu pour la première fois en 1983 sur la liste UDF/ RPR conduite par Jean Claude Gaudin. Il est depuis constamment réélu aux élections municipales de 1989, 1995, 2001, 2008 et 2014.
+Conseiller Municipal délégué aux affaires ssociales et à la politique de la ville en 1995, il est élu maire du sixième secteur de Marseille de 2001 à 2008 et premier adjoint au maire de Marseille de 2008 à 2014.
+En 2014, il devient 3e adjoint délégué aux Finances, Budget et Port. Il est également président de la commission des Finances de la ville de Marseille.
+Conseiller communautaire depuis 2001, il devient en 2014 président de la commission de maîtrise des coûts de la CUM Marseille Provence Métropole.
+Conseiller Métropolitain depuis 2015 , il est élu en avril 2016 vice-président de la Métropole Aix Marseille Provence chargé des Finances .
+Roland Blum est, depuis 2008, membre du conseil de surveillance du Grand port maritime de Marseille .
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) UMP.
+PART Union pour un mouvement populaire (UMP) Les Républicains.
+PART Les Républicains (Les Républicains).
+FONCTIONNORM
+
+NOMF Député des Bouches-du-RhôneÉlu dans la 1re circonscription NOMF 2 avril 1986 – 19 juin 2012(26 ans, 2 mois et 17 jours) SEP2 Élection REL 12 juin 1988 SEP2 Réélection REL 28 mars 1993 • 1er juin 1997 • 16 juin 2002 • 17 juin 2007 SEP2 Prédécesseur REL aucun (scrutin proportionnel) SEP2 Successeur REL Valérie Boyer SEP2 Élection REL 16 mars 2008 SEP2 Prédécesseur REL Renaud Muselier SEP2 Successeur REL Dominique Tian SEP2 Prédécesseur REL Pierre Chevalier SEP2 Successeur REL Robert Assante.
+NOMF Député européen NOMF 20 mars 1986 – 24 juillet 1989(3 ans, 4 mois et 4 jours) SEP2 Élection REL 17 juin 1984 SEP2 Prédécesseur REL Gérard Longuet.
+NOMF Conseiller général des Bouches-du-RhôneCanton de Marseille-Les Cinq-Avenues puis Montolivet NOMF 29 mars 2004 – 31 janvier 2005(10 mois et 2 jours) SEP2 Prédécesseur REL Christophe Masse SEP2 Successeur REL Maurice Rey SEP2 Prédécesseur REL Jules Rocca-Serra SEP2 Successeur REL Christophe Masse SEP2 Élection REL {{date|30|mars|2014} SEP2 Maire REL Jean-Claude Gaudin SEP2 Date de naissance REL 12 juillet 1945 (72 ans) SEP2 Lieu de naissance REL Les Pennes-Mirabeau(Bouches-du-Rhône) SEP2 Parti politique REL UDF UMP Les Républicains SEP2 Diplômé de REL IEP Aix-en-Provence.

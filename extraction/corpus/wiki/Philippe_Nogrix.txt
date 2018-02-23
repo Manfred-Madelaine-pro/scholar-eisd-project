@@ -1,0 +1,20 @@
+PRETAG Philippe.
+NOMTAG Nogrix.
+Philippe Nogrix est un homme politique français. Il est né le 3 juin 1942 à Fougères (Ille-et-Vilaine).
+
+
+
+Diplômé d'études supérieures de chimie, cadre de direction de profession, il a été élu sénateur d'Ille-et-Vilaine le 27 septembre 1998. Il est vice-président de la Commission des affaires étrangères et de la défense nationale.
+Il est membre de la Commission nationale de l'informatique et des libertés depuis octobre 2001. Il est également président national du GIP « Enfance Maltraitée » depuis mai 2002.
+Après avoir participé à sa création, Philippe Nogrix quitte le MoDem en août 2008[1].
+La liste qu'il menait aux élections sénatoriales du 21 septembre 2008 n'obtient aucun siège avec 15,05 % des suffrages[2]. Le lendemain, il annonce sur Ouest-France qu'il abandonne la vie politique.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur NOMF 27 septembre 1998 – 21 septembre 2008 SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL Union centriste SEP2 Date de naissance REL 3 juin 1942 (75 ans) SEP2 Résidence REL Ille-et-Vilaine.

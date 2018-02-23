@@ -1,0 +1,17 @@
+PRETAG Josy.
+NOMTAG Poueyto.
+Josy Poueyto est une femme politique française née le 13 janvier 1954 à Paris[1]. Elle est l'actuelle députée de la 1re circonscription des Pyrénées-Atlantiques[2],[3],[4].
+
+
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Députée de la 1re circonscription des Pyrénées-Atlantiques NOMF En fonction depuis le 21 juin 2017 SEP2 Élection REL 18 juin 2017 SEP2 Prédécesseur REL Martine Lignières-Cassou SEP2 Élection REL 30 mars 2014 SEP2 Maire REL François Bayrou SEP2 Élection REL 29 mars 2015.
+NOMF Président NOMF Biographie SEP2 Nationalité REL Française SEP2 Parti politique REL PSMoDem.

@@ -1,0 +1,19 @@
+PRETAG Victor.
+NOMTAG Constant.
+Victor Constant est un homme politique français né le 24 mars 1869 au Puy-en-Velay et décédé le 26 août 1953 à Vals-près-le-Puy dans la Haute-Loire.
+Fils d'un négociant en vin, il s'apprête à devenir avocat mais reprend finalement l'affaire familiale après le décès de son père. Devenu conseiller municipal du Puy et conseiller d'arrondissement en 1904, il s'investit pleinement dans la vie politique et sociale, devenant vice-président du Syndicat départemental des liquides, administrateur du journal L'Avenir de la Haute-Loire, chef du Parti républicain libéral du Puy et président de l'œuvre des conférences populaires. Il devient ensuite maire de Saint-Germain-Laprade, dans le même département.
+Candidat aux élections législatives de 1919 sur la liste d'Union nationale pour la paix sociale et le relèvement du pays, il est élu député et siège au sein de l'Entente républicaine démocratique, affilié à la Fédération républicaine, le grand parti conservateur de la période. Il se montre un député très actif.
+En 1924, il se représente sur la liste d'Union républicaine et de concorde nationale, qui n'obtient aucun élu. De nouveau battu en 1928, il émigre vers Paris où il se fait élire en 1929 conseiller municipal du quartier Clignancourt. En 1930, il devient vice-président du Conseil général de la Seine, département qu'il présidera sous l'occupation allemande. En 1938, il profite d'une élection partielle en 1938 pour se faire élire au Sénat ; il y rejoint le groupe de l'Union républicaine, proche de l'Alliance démocratique.
+Le 10 juillet 1940, il vote en faveur de la Remise des pleins pouvoirs au Maréchal Pétain. Il conserve ses fonctions départementales et accepte de siéger au Conseil national de Vichy.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1924Sénateur 1938-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL ERD (1919-1924)UR (1938-1940) SEP2 Date de naissance REL 24 mars 1869 SEP2 Date de décès REL 26 août 1953 SEP2 Résidence REL Haute-Loire puis Seine.

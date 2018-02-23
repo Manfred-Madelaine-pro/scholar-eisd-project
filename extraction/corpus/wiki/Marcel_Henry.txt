@@ -1,0 +1,15 @@
+PRETAG Marcel.
+NOMTAG Henry.
+Marcel Henry, né le 30 octobre 1926 à Mtsapéré, est une personnalité politique de Mayotte, ancien sénateur français, membre du groupe de l'Union centriste (élu le 25 septembre 1977, réélu en 1986, réélu en 1995, fin de mandat le 30 septembre 2004, ne se représente pas), un des fondateurs du Mouvement populaire mahorais. Il est membre de la "Force de l'Alternance" (parti membre du MoDem), un courant du Mouvement départementaliste mahorais.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur NOMF 1977 – 2004 SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL Union centriste SEP2 Date de naissance REL 30 octobre 1926 (91 ans) SEP2 Lieu de naissance REL Mtsapéré-Mamoudzou (Mayotte).

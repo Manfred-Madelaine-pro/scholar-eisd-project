@@ -1,0 +1,20 @@
+PRETAG Jacques.
+NOMTAG Maugein.
+Jacques Maugein est un homme politique français né le 11 juillet 1934 à Soulac-sur-Mer (Gironde)
+
+
+
+Professeur de physique, il est un des animateurs de la Convention des institutions républicaines.
+Il se présente sans succès aux élections municipales dans le Blayais puis aux élections législatives en tant que suppléant de Roland Dumas à Bordeaux. Il est élu député de la 10e circonscription de la Gironde (Nord de la Gironde) le 12 mars 1967, il le restera jusqu’au 30 mai 1968. Il était inscrit à la Fédération de la gauche démocrate et socialiste.
+Il adhère ensuite au Parti Socialiste puis est élu conseiller général du canton de Saint-André-de-Cubzac en mars 1976. Aux élections de mars 1977, il devint maire de Saint-André-de-Cubzac. Il le restera jusqu'en mars 2008. Il est alors élu conseiller régional en 1979, jusqu’en 1982. Vice-président du Conseil général de la Gironde de 1982 à 1985 puis de 1988 à 2001, il occupe ensuite le poste de questeur du Conseil Général depuis 2001.
+Il fut de 1977 à 1995 président de l’Association des maires du canton. Enfin, il est président du syndicat intercommunal d’adduction d’eau et d’assainissement du Cubzadais-Fronsadais depuis 1977. Il est président délégué de la Commission Locale d'Information Nucléaire (CLIN) auprès du Centre Nucléaire de Production d'Électricité du Blayais. Il fut membre du Sysdau et président du conseil d'administration de la maison de retraite Latour du Pin.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1967-1968 NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL FGDS SEP2 Date de naissance REL 11 juillet 1934 (83 ans) SEP2 Résidence REL Gironde.

@@ -1,0 +1,16 @@
+PRETAG Léon.
+NOMTAG Guichenné.
+Léon Guichenné est un homme politique français né le 7 septembre 1845 à Bayonne (Basses-Pyrénées) et décédé le 10 mai 1926 à Bayonne.
+Avocat, bâtonnier, il est conseiller municipal de Bayonne, conseiller général et député des Basses-Pyrénées, de 1905 à 1924, inscrit au groupe des Républicains progressistes, puis à l'Action libérale.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

@@ -1,0 +1,23 @@
+PRETAG Auguste.
+NOMTAG Béchard.
+Auguste Béchard est un homme politique français, né le 16 octobre 1883 à Anduze (Gard) et décédé le 22 août 1965 à Lédignan (Gard).
+
+
+
+Militant socialiste dès son plus jeune âge, il rejoint la SFIO lors de sa création en 1905. Il obtient son premier mandat électif en 1913, lorsqu'il bat le sortant radical lors de la cantonale de Lédignan. Il conservera ce siège jusqu'en 1939.
+Mobilisé en 1915, il s'illustre au combat et obtient la croix de guerre et retrouve la vie politique dès son retour dans le Gard. Il est ainsi candidat SFIO aux législatives de 1919.
+Il l'est de nouveau, mais cette fois-ci comme candidat du Parti Communiste Français, en 1924.
+L'année suivante, il est élu à la tête de la municipalité de Lédignan.
+Élu député en 1936, il siège sur les bancs communistes. Mais, en 1939, désapprouvant le pacte germano-soviétique, il rejoint le Groupe ouvrier et paysan. Il avait d'ailleurs déjà eu maille à partir avec le PCF en 1930, et avait été blâmé pour avoir participé à un repas officiel avec le préfet du Gard. Il sera définitivement exclu du parti en 1943, sous prétexte d'une collusion avec le parti ouvrier et paysan français.
+Député membre du groupe ouvrier et paysan français, il est arrêté, le 8 octobre 1939, déchu de son mandat, le 21 janvier 1940, et condamné le 3 avril 1940 par le 3e tribunal militaire de Paris à 4 ans de prison avec sursis, 5 000 francs d'amende et 5 ans de privation de ses droits civiques, civils et de famille[1] pour être pour être resté fidèle à la ligne du Parti communiste et ne pas avoir dénoncé le pacte germano-soviétique. Le mois suivant il est révoqué de la SNCF. Il est cependant contraint à la résidence surveillée à Aincourt puis est autorisé à rentrer à Lédignan en 1942.[réf. nécessaire]
+Après la guerre, il abandonne la vie politique.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1936-1940) NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL PCF SEP2 Date de naissance REL 16 octobre 1883 SEP2 Date de décès REL 22 août 1965 SEP2 Résidence REL Gard.

@@ -1,0 +1,25 @@
+PRETAG Thomas.
+NOMTAG Rudigoz.
+Thomas Rudigoz, né le 11 janvier 1971 à Lyon, est un homme politique français.
+Il est député de la 1re circonscription du Rhône depuis 2017.
+
+
+
+À 25 ans, Thomas Rudigoz commence une carrière de journaliste d'abord au Progrès puis à RCF[1].
+Membre de l'UDF, il est le directeur de cabinet d'Anne-Marie Comparini lorsqu'elle est présidente du Conseil régional de Rhône-Alpes, de 1999 à 2004, puis députée dans la 1re circonscription du Rhône, de 2002 à 2007[2]. Il rejoint par la suite le MoDem[3].
+En mars 2008, il est élu conseiller municipal de Lyon sur la liste de Gérard Collomb (PS)[4]. La même année, il est élu conseiller général du canton de Lyon-V à l'occasion d'une élection partielle[1] provoquée par la démission de Michel Havard (UMP)[5]. Affrontant des dissidents du PS et du MoDem[5], il est élu au second tour avec 53,4 % des voix[6]. Il est réélu avec 57,26 % des suffrages en 2011, sous l'étiquette DVG[7].
+Lors des élections municipales de 2014, il est la tête de liste de Gérard Collomb dans le 5e arrondissement de Lyon, où il compte succéder à la socialiste Alexandrine Pesson[1]. Il remporte l'arrondissement au second tour avec 48,47 % des voix contre 42,62 % pour Michel Havard (UMP)[8]. Il est alors élu maire d'arrondissement.
+Entre avril 2014 et juillet 2017, il est 15e conseiller membre de la commission permanente de la Métropole de Lyon, chargé de la politique de la ville[9].
+Pour les élections législatives de 2017, il obtient l'investiture de La République en marche ! aux dépens du secrétaire d'État aux sports et député sortant Thierry Braillard (PRG)[4],[10]. Dans la 1re circonscription du Rhône, il arrive largement en tête du 1er tour avec 46,88 % des voix[11]. Il est élu député au second tour avec 64,36 % des suffrages face à Elliott Aubin (FI)[10],[11]. En raison de la loi interdisant le cumul de mandats, il démissionne de sa fonction de maire d'arrondissement.
+
+
+
+
+
+
+
+PARTISNORM
+FONCTIONNORM
+
+NOMF Député du RhôneÉlu dans la 1re circonscription NOMF En fonction depuis le 21 juin 2017(7 mois et 27 jours) SEP2 Élection REL 18 juin 2017 SEP2 Législature REL XVe (Cinquième République) SEP2 Groupe politique REL LREM (depuis 2017) SEP2 Prédécesseur REL Gilda Hobert SEP2 Élection REL 30 mars 2014 SEP2 Prédécesseur REL Alexandrine Pesson SEP2 Successeur REL Béatrice Gailliout.
+NOMF Conseiller général du RhôneÉlu dans le canton de Lyon-V NOMF 1er juin 2008 – 31 décembre 2014(6 ans, 6 mois et 30 jours) SEP2 Prédécesseur REL Michel Havard SEP2 Successeur REL Fonction supprimée SEP2 Date de naissance REL 11 janvier 1971 (47 ans) SEP2 Lieu de naissance REL Lyon (Rhône, France) SEP2 Nationalité REL française SEP2 Parti politique REL UDF (1999-2007)MoDem (2007-2017)LREM (depuis 2017).

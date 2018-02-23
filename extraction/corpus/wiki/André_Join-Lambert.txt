@@ -1,0 +1,20 @@
+PRETAG André.
+NOMTAG Join-Lambert.
+André Emile Germain Join-Lambert, né le 13 janvier 1875 à Paris 8e et décédé le 2 janvier 1967 dans le 16e arrondissement de Paris[1], est un député, puis sénateur de l'Eure.
+
+
+
+André Join-Lambert est le fils de l'historien Arthur Join-Lambert[1] et le petit-fils du régent de la Banque de France Francis Lefebvre, lui-même fils du banquier Jacques Lefebvre. Il épouse une Mlle Dailly, petite-fille d'Adolphe Dailly et tante d'Étienne Dailly. Il est le frère cadet d'Octave Join-Lambert.
+Docteur en droit, administrateur de sociétés, il est élu député de l'Eure sur la liste du Bloc national en 1919, réélu en 1924 sur la liste du Conseil républicain d'entente de l'Eure, puis, en 1928 et 1932, dans la circonscription de Bernay.
+Il ne se représente pas aux élections de 1936, mais est élu sénateur du département au renouvellement de 1937. Il vote les pleins pouvoirs au Maréchal Pétain en 1940.
+Il est président de la Société libre d'agriculture, sciences, arts et belles-lettres de l'Eure.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1932Sénateur 1937-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ERD (1919-1924)URD (1924-1932)UR (1937-1940) SEP2 Date de naissance REL 13 janvier 1875 SEP2 Date de décès REL 2 janvier 1967 (à 91 ans) SEP2 Résidence REL Eure.

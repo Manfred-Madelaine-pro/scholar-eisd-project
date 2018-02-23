@@ -1,0 +1,22 @@
+PRETAG Joseph.
+NOMTAG Ménard.
+Joseph Ménard (né à Lunel, le 12 septembre 1859 et mort le 8 septembre 1911 à Lamalou-les-Bains) est un homme politique français, député de la Seine[1].
+Il est inhumé au cimetière Saint-Gérard de Lunel.
+
+
+
+Après des études à Nîmes, Montpellier, puis à la Faculté de droit de Paris,il s'inscrit au barreau de Paris où il défend un collectif d'actionnaires lors du scandale de Panama. En 1901, il arbitre avec René Viviani la grève des mineurs de Carmaux.
+Catholique militant, Joseph Ménard collabore avec les journaux L'Univers, La Libre Parole et La Croix. Malgré ses opinions monarchistes ultramontaines, il se rallie à la République à la suite des appels de Léon XIII, et adhère au parti action libérale.
+Violemment anti-dreyfusard, il défend Louis Grégori, auteur d'une tentative d'assassinat du capitaine.
+Mis en ballotage lors des élections législatives de 1902 et 1906 dans sa région natale, il se présente aux élections de 1910 dans le XVIIe arrondissement de Paris où il est élu. Il épouse la sœur du général Charles Mangin.
+Il meurt au cours d'une cure thermale à Lamalou-les-Bains le 8 septembre 1911.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1910-1911 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Action libérale SEP2 Date de naissance REL 12 septembre 1859 SEP2 Lieu de naissance REL Lunel SEP2 Date de décès REL 8 septembre 1911 SEP2 Lieu de décès REL Lamalou-les-Bains SEP2 Sépulture REL Lunel SEP2 Fratrie REL Charles Ménard SEP2 Diplômé de REL Faculté de droit de Paris SEP2 Profession REL avocat SEP2 Résidence REL Seine.

@@ -1,0 +1,15 @@
+PRETAG Charles.
+NOMTAG Chopin.
+Charles Chopin, né le 25 février 1897 à Hesdigneul-lès-Béthune et décédé le 14 février 1967 à Ramecourt, est un homme politique français.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 30 novembre 1958 – SEP2 Nationalité REL Française.

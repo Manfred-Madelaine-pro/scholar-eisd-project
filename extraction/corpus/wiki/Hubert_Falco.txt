@@ -1,0 +1,31 @@
+PRETAG Hubert.
+NOMTAG Falco.
+Hubert Falco né le 15 mai 1947 à Pignans (Var), est un homme politique français, membre des Républicains et auparavant du Parti républicain devenu Démocratie libérale.
+Il a occupé de très nombreux postes politique dans le Var. Maire de Toulon et président de la communauté d'agglomération Toulon Provence Méditerranée depuis 2001, il a également occupé les fonctions de sénateur du Var de 1995 à 2017 - à l'exception des périodes où il fut membre du gouvernement -, de président du conseil général du Var (1994-2002) et de maire de Pignans (1983-2001).
+Au plan national, il est connu pour avoir repris la mairie de Toulon à l'extrême-droite. Il fut membre des gouvernements Raffarin II et Fillon II.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Républicains (Les Républicains).
+PART Parti républicain (PR) UDF.
+PART Union pour la démocratie française (UDF) Démocratie libérale.
+PART Démocratie libérale (parti politique) (Démocratie libérale) UMP.
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Sénateur du Var NOMF 14 décembre 2010 – 21 septembre 2017(6 ans, 9 mois et 7 jours) SEP2 Groupe politique REL UMP puis LR SEP2 Prédécesseur REL Élie Brun SEP2 Successeur REL Georges Ginesta SEP2 Prédécesseur REL André Geoffroy SEP2 Successeur REL Élie Brun SEP2 Successeur REL André Geoffroy.
+NOMF Président NOMF GouvernementFrançois Fillon II SEP2 Gouvernement REL François Fillon II SEP2 Prédécesseur REL Jean-Marie Bockel SEP2 Successeur REL Alain Juppé (ministre).
+NOMF Président NOMF GouvernementFrançois Fillon II SEP2 Gouvernement REL François Fillon II SEP2 Prédécesseur REL Christian Estrosi (indirectement) SEP2 Successeur REL Michel Mercier (ministre).
+NOMF Ministre délégué aux Personnes âgées NOMF 31 mars 2004 – 27 octobre 2004(6 mois et 26 jours).
+NOMF Président NOMF GouvernementJean-Pierre Raffarin III SEP2 Gouvernement REL Jean-Pierre Raffarin III SEP2 Prédécesseur REL lui-même (secrétaire d'État) SEP2 Successeur REL Philippe Bas (indirectement).
+NOMF Président NOMF GouvernementJean-Pierre Raffarin II SEP2 Gouvernement REL Jean-Pierre Raffarin II SEP2 Prédécesseur REL Paulette Guinchard-Kunstler (indirectement) SEP2 Successeur REL lui-même (ministre délégué).
+NOMF Président du Conseil général du Var NOMF 1er avril 1994 – 2 octobre 2002(8 ans, 6 mois et 16 jours) SEP2 Élection REL 27 mars 1994 SEP2 Prédécesseur REL Maurice Arreckx SEP2 Successeur REL Horace Lanfranchi.
+NOMF Député de la 6e circonscription du Var NOMF 12 juin 1988 – 24 septembre 1995(7 ans, 3 mois et 12 jours) SEP2 Élection REL 27 mars 1994 SEP2 Prédécesseur REL scrutin proportionnel SEP2 Successeur REL Maurice Janetti SEP2 Élection REL 06 mars 1983 SEP2 Réélection REL 12 mars 198911 juin 1995 SEP2 Successeur REL Jean-Louis Raybaud SEP2 Date de naissance REL 15 mai 1947 (70 ans) SEP2 Lieu de naissance REL Pignans (Var) SEP2 Nationalité REL Française SEP2 Parti politique REL Les Républicains(anciennement PR et UDF, puis Démocratie libérale, puis UMP) SEP2 Profession REL Chef d'entreprise.

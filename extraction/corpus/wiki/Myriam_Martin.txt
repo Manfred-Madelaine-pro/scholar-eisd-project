@@ -1,0 +1,21 @@
+PRETAG Myriam.
+NOMTAG Martin.
+Myriam Martin, née le 17 mars 1968 à Lavelanet (Ariège), est une femme politique française, membre d'Ensemble ! Mouvement pour une alternative de gauche, écologiste et solidaire, (composante du Front de gauche).
+Elle est une ancienne dirigeante du Nouveau Parti anticapitaliste, dont elle a été la porte-parole avec Christine Poupin du 4 avril 2011 au 20 mars 2012 avant d'intégrer le Front de gauche en juillet 2012, avec la Gauche anticapitaliste.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Ensemble ! (Ensemble !) FDG.
+PART Front de gauche (FDG).
+FONCTIONNORM
+
+NOMF Conseillère régionale d'Occitanie NOMF En fonction depuis le 4 janvier 2016(2 ans, 1 mois et 7 jours) SEP2 Élection REL 13 décembre 2015.
+NOMF Président NOMF Porte-parole d'Ensemble ! SEP2 Avec REL Christine Poupin SEP2 Prédécesseur REL Olivier Besancenot SEP2 Successeur REL Christine Poupin(titulaire unique) SEP2 Date de naissance REL 17 mars 1968 (49 ans) SEP2 Lieu de naissance REL Lavelanet (France) SEP2 Nationalité REL Française SEP2 Parti politique REL Ensemble ! (FDG) SEP2 Profession REL Enseignante.

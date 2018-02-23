@@ -1,0 +1,28 @@
+PRETAG Marguerite.
+NOMTAG Deprez-Audebert.
+Marguerite Deprez-Audebert, née Deprez le 17 mai 1952 à Béthune (Pas-de-Calais) est une femme politique française. Elle est adjointe au maire de Béthune et actuelle députée de la 9e circonscription du Pas-de-Calais[1].
+
+
+
+Famille et formation.
+Issue d'une famille ancrée dans le Pas-de-Calais, Marguerite Deprez-Aubebert est l’aînée des quatre enfants de Léonce Deprez et d'Éliane Basin[2].
+Scolarisée à Béthune jusqu'au Baccalauréat, elle a par suite suivi des études en sciences économiques à Lille 1, puis à l'université Paris-Sorbonne.
+Elle est mère de deux enfants.
+Activité professionnelle.
+Sa vie professionnelle s'est déroulée dans l'univers de la presse hebdomadaire régionale, en tant qu'éditrice de trois titres, et de l'imprimerie industrielle.
+Activité politique.
+Elle est élue une première fois aux élections municipales de 2014 où elle intègre la majorité municipale de la ville de Béthune comme Adjointe au Maire chargée du développement économique, du tourisme et de la coordination avec les universités et le jumelage. Elle est élue une seconde fois au conseil régional des Hauts-de-France en 2015.
+Suite à la création du mouvement En Marche, elle adhère au projet d'Emmanuel Macron. Elle est investie dans la 9è circonscription du Pas-de-Calais sous l'étiquette La République En Marche ! - MoDem pour les élections législatives en 2017, au terme desquelles elle est élue députée avec un score de 57,66% des voix.
+Elle préside également l'association Amigraf, et est membre du Mouvement européen dans le Pas-de-Calais.
+
+
+
+
+
+
+
+PARTISNORM
+PART Mouvement démocrate (MoDem).
+FONCTIONNORM
+
+NOMF Députée de la 9e circonscription du Pas-de-Calais NOMF En fonction depuis le 21 juin 2017(7 mois et 23 jours) SEP2 Prédécesseur REL Stéphane Saint-André SEP2 Date de naissance REL 17 mai 1952 (65 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL MoDem SEP2 Père REL Léonce Deprez.

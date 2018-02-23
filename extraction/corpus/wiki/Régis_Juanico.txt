@@ -1,0 +1,27 @@
+PRETAG Régis.
+NOMTAG Juanico.
+Régis Juanico, né le 5 février 1972 à Saint-Rémy en France, est un homme politique français socialiste.
+
+
+
+Régis Juanico est marié et père de deux enfants. En novembre 2011, il fut membre de l'équipe de campagne de François Hollande[1].
+Il fut également membre de l'UNEF (syndicat étudiant) et président du Mouvement des Jeunes socialistes, succédant ainsi à Benoît Hamon.
+En 2017, il est porte parole de ce dernier dans le cadre de l'élection présidentielle.
+Le 18 juin 2017, il est réélu aux législatives et il est le dernier frondeur de l'Assemblée nationale[2].
+Le 2 juillet 2017, il rejoint Génération·s, le mouvement tout en restant au Parti socialiste[3].
+Le 8 juillet 2017, il intègre la direction collégiale du PS[4].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS).
+PART Génération·s, le mouvement (Génération·s) depuis 2017.
+FONCTIONNORM
+
+NOMF Conseiller départemental de la Loireélu dans le canton de Saint-Étienne-5 NOMF En fonction depuis le 29 mars 2015(2 ans, 10 mois et 23 jours) SEP2 Élection REL 29 mars 2015 SEP2 Prédécesseur REL Création du canton.
+NOMF Député de la 1re circonscription de la Loire NOMF En fonction depuis le 20 juin 2007(10 ans, 8 mois et 1 jour) SEP2 Élection REL 17 juin 2007 SEP2 Réélection REL 17 juin 201218 juin 2017 SEP2 Législature REL XIIIe, XIVe et XVe SEP2 Groupe politique REL SRC, SER puis NG SEP2 Prédécesseur REL Gilles Artigues.
+NOMF Président du Mouvement des jeunes socialistes NOMF Décembre 1995 – Décembre 1997(2 ans) SEP2 Prédécesseur REL Benoît Hamon SEP2 Successeur REL Hugues Nancy SEP2 Date de naissance REL 5 février 1972 (46 ans) SEP2 Lieu de naissance REL Saint-Rémy (France) SEP2 Nationalité REL française SEP2 Parti politique REL PSGénération·s (depuis 2017) SEP2 Diplômé de REL IEP de LyonUniversité Panthéon-Sorbonne.

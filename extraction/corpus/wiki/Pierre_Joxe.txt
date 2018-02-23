@@ -1,0 +1,28 @@
+PRETAG Pierre.
+NOMTAG Joxe.
+Pierre Joxe, né le 28 novembre 1934 dans le 1er arrondissement de Paris, est un homme politique français. Ministre socialiste au cours des années 1980 et 1990, notamment à l'Intérieur et à la Défense, puis premier président de la Cour des comptes de 1993 à 2001, Pierre Joxe est membre du Conseil constitutionnel de 2001 à 2010. Il est avocat au barreau de Paris depuis 2010 où il défend des mineurs faisant l'objet de procédures judiciaires.
+
+
+
+Famille et vie privée.
+Pierre Joxe, frère d'Alain Joxe (né en 1931), est le fils de Louis Joxe (1901-1991), ambassadeur, puis ministre du général de Gaulle, le petit-fils, par sa mère Françoise-Hélène Halévy (1900-1993), de l'essayiste Daniel Halévy (1872-1962) et l'arrière-petit-fils de l'académicien Ludovic Halévy (1834-1908).
+La famille Joxe est originaire du Morbihan, où Louis Joxe (1831-1901), son arrière-grand-père, était chef ouvrier menuisier à Pontivy[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti socialiste (PS).
+FONCTIONNORM
+
+NOMF Ministre de la Défense13e ministre de la Défense de la Ve République NOMF 29 janvier 1991 – 9 mars 1993(2 ans, 1 mois et 8 jours).
+NOMF Président NOMF GouvernementMichel Rocard II, Édith CressonPierre Bérégovoy SEP2 Gouvernement REL Michel Rocard II, Édith CressonPierre Bérégovoy SEP2 Prédécesseur REL Jean-Pierre Chevènement SEP2 Successeur REL Pierre Bérégovoy.
+NOMF Ministre de l'Intérieur10e ministre de l'Intérieur de la Ve République NOMF 12 mai 1988 – 29 janvier 1991(2 ans, 8 mois et 17 jours).
+NOMF Président NOMF GouvernementMichel Rocard I, II SEP2 Gouvernement REL Michel Rocard I, II SEP2 Prédécesseur REL Charles Pasqua SEP2 Successeur REL Philippe Marchand.
+NOMF Président NOMF GouvernementLaurent Fabius SEP2 Gouvernement REL Laurent Fabius SEP2 Prédécesseur REL Gaston Defferre SEP2 Successeur REL Charles Pasqua.
+NOMF Président du groupe socialisteà l'Assemblée nationale NOMF 27 mars 1986 – 14 mai 1988(2 ans, 1 mois et 17 jours) SEP2 Prédécesseur REL André Billardon SEP2 Successeur REL Louis Mermaz SEP2 Prédécesseur REL Gaston Defferre SEP2 Successeur REL André Billardon.
+NOMF Ministre de l'Industrie NOMF 22 mai 1981 – 22 juin 1981(1 mois) SEP2 Gouvernement REL Pierre Mauroy I SEP2 Prédécesseur REL André Giraud SEP2 Successeur REL Pierre Dreyfus.
+NOMF Député de Saône-et-LoireÉlu dans la 5e puis la 4e circonscription NOMF 16 mars 1986 – 28 juin 1988(2 ans, 3 mois et 12 jours) SEP2 Prédécesseur REL Bernard Tremeau SEP2 Successeur REL Didier Mathus SEP2 Prédécesseur REL Bernard Tremeau SEP2 Successeur REL Maurice Mathus SEP2 Date de naissance REL 28 novembre 1934 (83 ans) SEP2 Lieu de naissance REL Paris (Île-de-France) SEP2 Nationalité REL Française SEP2 Parti politique REL PS SEP2 Diplômé de REL ENA.

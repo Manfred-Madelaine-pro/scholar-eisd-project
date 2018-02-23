@@ -1,0 +1,25 @@
+PRETAG Patricia.
+NOMTAG Lalonde.
+Patricia Lalonde, née le 28 août 1952, est une femme politique française, membre de l'Union des démocrates et indépendants (UDI).
+
+Catholique, elle est l'épouse depuis les années 1980 de Brice Lalonde[1].
+
+
+Formation.
+Elle a suivi des études de droit, qu'elle a arrêtées dès ses 20 ans[1].
+Carrière.
+
+
+Elle a suivi des études de droit, qu'elle a arrêtées dès ses 20 ans[1].
+Carrière.
+
+
+
+
+
+PARTISNORM
+PART Génération écologie (GE) UDI.
+PART Union des démocrates et indépendants (UDI).
+FONCTIONNORM
+
+NOMF Députée européenne NOMF En fonction depuis le 18 mai 2017(9 mois et 3 jours) SEP2 Législature REL 8e SEP2 Groupe politique REL ADLE SEP2 Prédécesseur REL Marielle de Sarnez SEP2 Date de naissance REL 28 août 1952 (65 ans) SEP2 Nationalité REL française SEP2 Parti politique REL GE puis UDI SEP2 Conjoint REL Brice Lalonde (depuis les années 1980) SEP2 Religion REL catholique.

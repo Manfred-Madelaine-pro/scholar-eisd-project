@@ -1,0 +1,22 @@
+PRETAG Auguste.
+NOMTAG Chrétienne.
+Auguste Chrétienne, né le 21 février 1913 à Avranches (Manche) et mort le 9 juillet 1990 à Maisons-Laffitte (Yvelines), était un homme politique français. Membre du Parti communiste français, il a été maire de Sartrouville, conseiller général du canton de Sartrouville et sénateur de Seine-et-Oise.
+
+
+Pupille de la Nation, élevé par sa mère, Auguste Chrétienne est contraint de travailler dès l'âge de treize ans. Il est employé comme métallurgiste aux usines Peugeot, puis à la SNACA, à Sartrouville.
+Il défend les intérêts des ouvriers de la SNACA en devenant délégué en 1936. Il adhère au Parti communiste en 1946.
+Il est élu sénateur de Seine-et-Oise le 18 mai 1952. Il est nommé membre de la commission du travail et de la sécurité sociale, de la commission des boissons et de celle de la production industrielle. Son élection est invalidée le 3 juillet 1952. Il est réélu le 8 juin 1958, en même temps que Louis Namy, et nommé membre de la commission des affaires culturelles. Aux élections du 26 avril 1959, il perd son siège de sénateur.
+Auguste Chrétienne est élu au conseil municipal de Sartrouville en 1953, puis devient maire de la ville de 1959 à 1989. Il est également conseiller général du canton de Sartrouville de 1964 à 1973[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+FONCTIONNORM
+
+NOMF Sénateur de Seine-et-Oise NOMF 18 mai 1952 – 3 juillet 1952 SEP2 Groupe politique REL communiste.
+NOMF Conseiller général du canton de Sartrouville NOMF 1964 – 1973 SEP2 Date de naissance REL 21 février 1913 SEP2 Lieu de naissance REL Avranches (Manche) SEP2 Date de décès REL 9 juillet 1990 (à 77 ans) SEP2 Lieu de décès REL Maisons-Laffitte (Yvelines) SEP2 Nationalité REL Française SEP2 Parti politique REL Parti communiste français SEP2 Profession REL métallurgiste.

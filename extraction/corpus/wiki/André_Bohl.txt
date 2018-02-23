@@ -1,0 +1,19 @@
+PRETAG André.
+NOMTAG Bohl.
+André Bohl, né le 26 janvier 1936, est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) CDS.
+PART Centre des démocrates sociaux (CDS).
+FONCTIONNORM
+
+NOMF Sénateur de la Moselle NOMF 22 septembre 1974 – 30 septembre 2001 SEP2 Élection REL 22 septembre 1974 SEP2 Réélection REL 25 septembre 1983 SEP2 Prédécesseur REL Roger Hesse SEP2 Successeur REL Jean-Luc Wozniak SEP2 Date de naissance REL 26 janvier 1936 (82 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF, CDS SEP2 Profession REL Ingénieur commercial.

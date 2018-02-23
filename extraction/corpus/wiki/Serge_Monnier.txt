@@ -1,0 +1,18 @@
+PRETAG Serge.
+NOMTAG Monnier.
+Serge Monnier, né le 14 septembre 1942 à Juvisy-sur-Orge (Seine-et-Oise), est un homme politique français.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) CDS.
+PART Centre des démocrates sociaux (CDS).
+FONCTIONNORM
+
+NOMF Député de la 1re circonscriptionde la Haute-Loire NOMF 19 juin 1995 – 21 avril 1997(1 an, 10 mois et 2 jours) SEP2 Prédécesseur REL Jacques Barrot SEP2 Successeur REL Jacques Barrot SEP2 Prédécesseur REL Pierre Philibert SEP2 Successeur REL Arlette Arnaud-Landau SEP2 Date de naissance REL 14 septembre 1942 (75 ans) SEP2 Lieu de naissance REL Juvisy-sur-Orge (Seine-et-Oise) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF, CDS SEP2 Profession REL Professeur de philosophie.

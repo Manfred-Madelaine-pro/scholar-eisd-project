@@ -1,0 +1,22 @@
+PRETAG Daniel.
+NOMTAG Colliard.
+Daniel Colliard, né le 14 août 1930 à Dieppe, est un homme politique français, membre du Parti communiste français.
+
+
+Il est député de la huitième circonscription de la Seine-Maritime du 28 mars 1993 au 21 avril 1997. Il fut vice-président de l'Assemblée nationale.
+Il est maire du Havre du 10 octobre 1994 au 25 juin 1995 en remplacement d'André Duromea démissionnaire, dont il était le premier adjoint depuis 23 ans. Au second tour des élections municipales de juin 1995, c'est la liste conduite par Antoine Rufenacht (RPR) qui l'emportera.
+Il fut conseiller général de Seine-Maritime de 1976 à 1982.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF DéputéHuitième circonscription de la Seine-Maritime NOMF 2 avril 1993 - 21 avril 1997.
+NOMF Conseiller général (d)Seine-Maritime NOMF 1976-1982.

@@ -1,0 +1,35 @@
+PRETAG Jean.
+NOMTAG Cordillot.
+Jean Cordillot, né le 17 mars 1927 à Cervon dans la Nièvre et mort le 14 avril 2016[1], est un homme politique français.
+
+
+
+Il est le père de cinq enfants, dont Michel Cordillot, historien du mouvement ouvrier et Claudine Cordillot, maire de Villejuif de 1999 à 2014.
+Il a été répétiteur puis professeur.
+
+
+2 janvier 1956 - 8 décembre 1958 : Député de l'Yonne
+
+
+1973 - 1998 : conseiller général du canton de Sens-Sud-Est
+
+
+1998-2004 : conseiller régional de Bourgogne
+
+
+juin 1995 - mai 2001 : maire de Sens
+
+
+1951-1972 : président de la fédération communiste de l'Yonne
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+FONCTIONNORM
+
+NOMF Député de l'Yonne NOMF 2 janvier 1956 – 8 décembre 1958 SEP2 Date de naissance REL 17 mars 1927 SEP2 Date de décès REL 14 avril 2016 (à 89 ans) SEP2 Nationalité REL Française SEP2 Parti politique REL Parti communiste français.

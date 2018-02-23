@@ -1,0 +1,18 @@
+PRETAG Louise.
+NOMTAG Moreau.
+Louise Moreau, née le 29 janvier 1921 à Grenoble (Isère) et morte le 5 février 2001, est une femme politique française.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Députée de la 8e circonscriptiondes Alpes-Maritimes NOMF 23 juin 1988 – 5 février 2001(12 ans, 7 mois et 13 jours) SEP2 Élection REL 12 juin 1988 SEP2 Réélection REL 28 mars 19931er juin 1997 SEP2 Législature REL IXe, Xe et XIe SEP2 Groupe politique REL UDF (1988-1993; 1997-2001)UDFC (1993-1997) SEP2 Successeur REL Bernard Brochand.
+NOMF Députée des Alpes-Maritimesscrutin proportionnel à un tour NOMF 2 avril 1986 – 14 mai 1988(2 ans, 1 mois et 12 jours) SEP2 Élection REL 16 mars 1986 SEP2 Législature REL VIIIe législature SEP2 Groupe politique REL UDF.
+NOMF Députée de la 5e circonscriptiondes Alpes-Maritimes NOMF 3 avril 1978 – 1er avril 1986(7 ans, 11 mois et 29 jours) SEP2 Élection REL 19 mars 1978 SEP2 Réélection REL 21 juin 1981 SEP2 Législature REL VIe législatureVIIe législature SEP2 Groupe politique REL UDF SEP2 Prédécesseur REL Bernard Cornut-Gentille SEP2 Successeur REL Christian Estrosi (indirectement) SEP2 Date de naissance REL 29 janvier 1921 SEP2 Lieu de naissance REL Grenoble SEP2 Date de décès REL 5 février 2001 (à 80 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL Française SEP2 Profession REL Administrateur de sociétés.

@@ -1,0 +1,24 @@
+PRETAG Paul.
+NOMTAG Simon.
+Paul Simon est un homme politique français, député du Finistère, puis conseiller de la République du Finistère et avocat. Il est né le 14 juin 1886 à Brest et est décédé le 6 mai 1956 à Paris. Il a été le directeur politique du quotidien rennais L'Ouest-Éclair et pris une part importante à la création de la démocratie chrétienne en Bretagne. Il a été fait chevalier de la Légion d'honneur.
+Paul Simon, un avocat qui affiche ses convictions catholiques, d'abord élu au conseil municipal de Brest, puis conquiert, le 23 avril 1913, le siège de député dans la circonscription de Brest 2 qui était détenu jusqu'ici par la droite conservatrice en la personne d'Émile Villiers. Paul Simon est alors le plus jeune député de France.
+Il est réélu député en 1914, 1919, 1924, 1928, 1932 et 1936.
+Il fonde l'hebdomadaire politique "Le Démocrate" qui rassemble les premiers démocrates chrétiens du Finistère.
+Il est aussi l'un des fondateurs du Parti démocrate populaire et participe à l'essor du quotidien, L'Ouest-Éclair, organe principal de la démocratie chrétienne en Bretagne et dans l'Ouest, dont il est directeur politique jusqu'en 1940.
+Il vote contre les pleins pouvoirs au maréchal Pétain en 1940.
+Il s'engage ensuite dans la Résistance et fait partie du Comité départemental de la Résistance de son département et est nommé à l'Assemblée consultative provisoire.
+En 1946, il est élu conseiller de la République par l'Assemblée nationale, mais décide de ne pas se représenter aux élections au Conseil de la République en 1948.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 13 avril 1913[1] – 31 mai 1942[1] SEP2 Élection REL 13 avril 1913[1] SEP2 Réélection REL 26 avril 191416 novembre 191911 mai 192422 avril 19281er mai 19323 mai 1936[1] SEP2 Groupe politique REL Non-inscrits (1913-1919)RDG (1919-1924)Dém. (1924-1928)DP (1928-1942)[1] SEP2 Prédécesseur REL Émile Villiers.
+NOMF Conseiller de la République NOMF 1946 – 1948 SEP2 Groupe politique REL MRP SEP2 Date de naissance REL 14 juin 1886 SEP2 Lieu de naissance REL Brest SEP2 Date de décès REL 6 mai 1956 SEP2 Lieu de décès REL Paris.

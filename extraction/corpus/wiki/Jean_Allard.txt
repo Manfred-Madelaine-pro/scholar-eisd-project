@@ -1,0 +1,46 @@
+PRETAG Jean.
+NOMTAG Allard.
+Jean Henri Marie Allard de Grandmaison, né le 1er janvier 1905 à Nantes (France), décédé le 12 avril 1970 à Machecoul (France), est un homme politique français, du parti CNIP.
+
+
+
+Famille.
+Descendant de Jean-François Allard, il est le neveu d’Augustin Dutertre de La Coudre et l’oncle de Henri de Grandmaison.
+Il épouse Bernadette Guillet de La Brosse et a quatre enfants : Elisabeth, mariée à Guy Clarion de Beauval, puis, veuve, à Loïc Bodard de la Jacopière ; Jean-Luc, marié à Françoise Rolland de Rengervé ; Dominique ; Bernard, marié à Béatrice Giraud-Morel.
+Carrière.
+Il suit sa scolarité chez les Jésuites, à Jersey et à Tours, puis au collège Saint-Stanislas à Nantes.
+Pendant l’entre-deux-guerres, il dirige le comité local d'Action catholique, et devient le principal collaborateur en politique de son oncle, Augustin Dutertre de La Coudre.
+En 1939, engagé volontaire, Grandmaison entre comme élève-officier à l’École d'artillerie.
+Démobilisé après l’Armistice, il rentre à Machecoul gérer ses propriétés (500 hectares) et se charger de plusieurs œuvres et associations, fondant notamment un comité local d'aide aux prisonniers de guerre retenus en Allemagne (1940).
+À la Libération, il est élu conseiller municipal de Machecoul (sur la liste menée par son oncle) et conseiller général du canton de Machecoul (succédant à son oncle), avant de devenir maire (CNIP) de Machecoul en 1953.
+Cette même année, il succède à son oncle comme président de la Société des courses de Machecoul. Il est également vice-président des Courses de Bretagne et président du cercle sportif (« Cercle Gilles de Rais »).
+Impliqué dans le syndicalisme agricole, il est président du syndicat local des exploitants agricoles, du syndicat des Marais de Machecoul, de la la Caisse locale, de l'Union des syndicats de Marais de la Baie de Bourgneuf-en-Retz (qu’il fonde en 1956), membre de la Chambre d’agriculture de Loire-Atlantique et administrateur de la la Caisse régionale de Crédit agricole.
+Membre fondateur et directeur politique du Courrier de Paimbœuf, il devient le dirigeant incontesté de l’Union nationale républicaine (UNR), parti de la droite catholique, dans le sud de la Loire-Inférieure.
+Candidat du CNIP dans la huitième circonscription de la Loire-Atlantique en 1958, il est élu dès le premier tour avec 51,35% des suffrages exprimés.
+En 1962, il est l’un des dirigeants indépendants de Loire-Atlantique qui font campagne pour le rejet de Accords d'Évian.
+Un boulevard Jean de Grandmaison à Machecoul porte aujourd'hui son nom. Il y est décédé pendant son mandat de maire le 12 avril 1970.
+
+
+
+
+Descendant de Jean-François Allard, il est le neveu d’Augustin Dutertre de La Coudre et l’oncle de Henri de Grandmaison.
+Il épouse Bernadette Guillet de La Brosse et a quatre enfants : Elisabeth, mariée à Guy Clarion de Beauval, puis, veuve, à Loïc Bodard de la Jacopière ; Jean-Luc, marié à Françoise Rolland de Rengervé ; Dominique ; Bernard, marié à Béatrice Giraud-Morel.
+Carrière.
+Il suit sa scolarité chez les Jésuites, à Jersey et à Tours, puis au collège Saint-Stanislas à Nantes.
+Pendant l’entre-deux-guerres, il dirige le comité local d'Action catholique, et devient le principal collaborateur en politique de son oncle, Augustin Dutertre de La Coudre.
+En 1939, engagé volontaire, Grandmaison entre comme élève-officier à l’École d'artillerie.
+Démobilisé après l’Armistice, il rentre à Machecoul gérer ses propriétés (500 hectares) et se charger de plusieurs œuvres et associations, fondant notamment un comité local d'aide aux prisonniers de guerre retenus en Allemagne (1940).
+À la Libération, il est élu conseiller municipal de Machecoul (sur la liste menée par son oncle) et conseiller général du canton de Machecoul (succédant à son oncle), avant de devenir maire (CNIP) de Machecoul en 1953.
+Cette même année, il succède à son oncle comme président de la Société des courses de Machecoul. Il est également vice-président des Courses de Bretagne et président du cercle sportif (« Cercle Gilles de Rais »).
+Impliqué dans le syndicalisme agricole, il est président du syndicat local des exploitants agricoles, du syndicat des Marais de Machecoul, de la la Caisse locale, de l'Union des syndicats de Marais de la Baie de Bourgneuf-en-Retz (qu’il fonde en 1956), membre de la Chambre d’agriculture de Loire-Atlantique et administrateur de la la Caisse régionale de Crédit agricole.
+Membre fondateur et directeur politique du Courrier de Paimbœuf, il devient le dirigeant incontesté de l’Union nationale républicaine (UNR), parti de la droite catholique, dans le sud de la Loire-Inférieure.
+Candidat du CNIP dans la huitième circonscription de la Loire-Atlantique en 1958, il est élu dès le premier tour avec 51,35% des suffrages exprimés.
+En 1962, il est l’un des dirigeants indépendants de Loire-Atlantique qui font campagne pour le rejet de Accords d'Évian.
+Un boulevard Jean de Grandmaison à Machecoul porte aujourd'hui son nom. Il y est décédé pendant son mandat de maire le 12 avril 1970.
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 30 novembre 1958 – 9 octobre 1962 SEP2 Gouvernement REL Quatrième République SEP2 Groupe politique REL IPAS SEP2 Successeur REL Lucien Richard.
+NOMF Conseiller général de la Loire-Atlantique (canton de Machecoul) NOMF 1945 – 1970 SEP2 Prédécesseur REL Augustin Dutertre de La Coudre SEP2 Successeur REL Robert Girard SEP2 Date de naissance REL 1er janvier 1905 à Nantes SEP2 Lieu de naissance REL Nantes (France) SEP2 Date de décès REL 12 avril 1970 à (à 65 ans) SEP2 Lieu de décès REL Machecoul (France) SEP2 Résidence REL Loire-Inférieure.

@@ -1,0 +1,21 @@
+PRETAG Edwige.
+NOMTAG Antier.
+Edwige Antier, née le 15 mai 1942 à Toulon (Var), est une pédiatre et une femme politique française.
+Elle est l'auteur de nombreux livres et guides sur les enfants, l'éducation et la famille[1]. Elle a été chroniqueuse de radio à France Inter, et à France Info.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Groupe Union pour un mouvement populaire (Assemblée nationale) (Groupe : UMP).
+PART Parti radical (Parti radical (rad.)).
+PART Union des démocrates et indépendants (UDI).
+FONCTIONNORM
+
+NOMF Députée de la 4e circonscription de Paris NOMF 23 juillet 2009 – 16 juin 2012 SEP2 Élection REL 17 juin 2007 SEP2 Prédécesseur REL Pierre Lellouche (UMP) SEP2 Date de naissance REL 15 mai 1942 (75 ans) SEP2 Lieu de naissance REL Toulon (Var) SEP2 Parti politique REL Groupe : UMPParti : Parti radical (rad.) puis UDI SEP2 Profession REL pédiatre.

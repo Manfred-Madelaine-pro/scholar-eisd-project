@@ -1,0 +1,16 @@
+PRETAG Auguste.
+NOMTAG Puis.
+Auguste Puis, né le 5 avril 1873 à Paris ( 8e arrondissement) et mort le 14 novembre 1950 à Paris (16e arrondissement), est un homme politique français[1]. Il est aussi l'auteur d'un ouvrage sur les lettres de cachet.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1927Sénateur 1927-1934 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL ERD (1919-1924)GR (1924-1927)GD (1927-1934) SEP2 Date de naissance REL 5 avril 1873 SEP2 Date de décès REL 14 novembre 1950 (à 77 ans) SEP2 Résidence REL Tarn-et-Garonne.

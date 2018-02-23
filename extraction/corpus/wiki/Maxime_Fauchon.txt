@@ -1,0 +1,20 @@
+PRETAG Maxime.
+NOMTAG Fauchon.
+Maxime Fauchon est un avocat et homme politique français, né le 4 mars 1894 à Brécey et mort le 1er janvier 1981 à Avranches, dans la Manche.
+Tout d'abord avocat stagiaire à la Cour d'appel de Paris, il rejoint ensuite le barreau d'Avranches, dont il sera plusieurs fois bâtonnier. Il s'investit dans la vie locale en présidant la Société d’archéologie d'Avranches, Mortain et Granville ainsi que la société d'horticulture, et en publiant de nombreux ouvrages d'histoire régionale, puis en entrant au conseil municipal d'Avranches en 1928. Il prononce également de nombreuses conférences pour la Fédération nationale catholique.
+En 1932, il profite de la retraite parlementaire de Lucien Dior pour se présenter aux élections législatives sous les couleurs conservatrices de la Fédération républicaine. Il est élu au second tour et rejoint le groupe parlementaire des proches d'André Tardieu, le Centre républicain. Réélu au premier tour en 1936, il rejoint cette fois le groupe des Républicains indépendants et d'action sociale.
+Député actif, il est l'auteur d'une trentaine de propositions de loi, la plupart relatives à l'agriculture. Il vote, le 10 juillet, en faveur de la remise des pleins pouvoirs au maréchal Pétain[1]. Sous l'occupation, il signifie à plusieurs reprises son opposition à la collaboration et au nouveau régime.
+En raison de ce dernier vote, il est déclaré inéligible à la Libération, et doit attendre 1955 pour briguer à nouveau un mandat parlementaire. Candidat aux élections législatives de 1956 au titre du Rassemblement des groupes républicains et indépendants français, issu de l'aile droite du Rassemblement des gauches républicaines, il retrouve le Parlement et rejoint le groupe des Indépendants et paysans d'action sociale, apparenté au Centre national des indépendants et paysans. Il appelle ensuite le général de Gaulle à reprendre le pouvoir.
+Jacques Isorni le décrit comme « un normand matois, raminagrobis, plein de finesse et d'astuce avec des airs de curé de campagne, connaissant admirant la loi ». Il est le père du sénateur Pierre Fauchon.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1932-1940puis 1956-1958 NOMF GouvernementIIIème République-IVe République SEP2 Gouvernement REL IIIème République-IVe République SEP2 Groupe politique REL CR (1932-1936)RIAS (1936-1940)IPAS (1956-1958) SEP2 Date de naissance REL 4 mars 1894 SEP2 Date de décès REL 1er janvier 1981 (à 86 ans) SEP2 Résidence REL Manche.

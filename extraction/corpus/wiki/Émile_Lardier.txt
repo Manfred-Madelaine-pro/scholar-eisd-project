@@ -1,0 +1,17 @@
+PRETAG Émile.
+NOMTAG Lardier.
+Émile Lardier est un avocat et un homme politique français né le 8 mai 1885 et décédé le 10 juillet 1954 à Giromagny dans le Territoire de Belfort.
+Avocat, mutilé de guerre, il entre en politique en 1912 en devenant conseiller municipal de sa ville natale en 1912, maire en 1919, puis conseiller général. Devenu président du conseil général du Territoire-de-Belfort en 1931, il se présente aux élections législatives de 1936 au siège jusque-là détenu par André Tardieu, qui ne se représente pas. Il rejoint le groupe conservateur de la Fédération républicaine après son élection.
+Le 10 juillet 1940, il ne prend pas part au vote sur la remise des pleins pouvoirs au Maréchal Pétain et décède en 1954 dans sa ville natale sans avoir retrouvé de mandat parlementaire.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Fédération républicaine SEP2 Date de naissance REL 8 mai 1885 SEP2 Date de décès REL 10 juillet 1954 (à 69 ans) SEP2 Résidence REL Territoire de Belfort.

@@ -1,0 +1,32 @@
+PRETAG Claude.
+NOMTAG Gatignol.
+Claude Gatignol est un homme politique français, né le 20 novembre 1938 à Saint-Julien-près-Bort (Corrèze), membre de l'UMP.
+
+
+
+Il naît dans une famille de commerçants itinérants en draps, qui se sédentarisent à La Ferté-Macé (Orne) et suit une éducation catholique, puis des études à l'École nationale vétérinaire de Toulouse en 1957. Sa thèse vétérinaire en poche, il s'engage comme élève officier au Service biologique et vétérinaire de l’armée, puis en 1961 passe vingt mois en Algérie, comme lieutenant dans une compagnie de méharistes.
+Il devient assistant vétérinaire à Lisieux puis à Falaise où il soigne des chevaux de grandes écuries de courses. Il s'installe enfin à Valognes où il se marie en 1966 et se met à son compte.
+Il s'inscrit aux Républicains indépendants, et entre en 1977 au conseil municipal de Valognes à l'invitation du député gaulliste Pierre Godefroy dont il devient le premier adjoint. Suppléant à l'Assemblée nationale à partir de 1978, il lui succède au conseil général de la Manche en 1979, puis comme député en 1988 quand celui-ci décide de se retirer.
+Comme adjoint municipal, conseiller général puis député, il accompagne la constitution du pôle nucléaire dans sa circonscription, avec l'usine de retraitement de la Hague et la centrale nucléaire de Flamanville. Fervent défenseur de cette énergie, il a été également l'un des plus vigoureux acteurs du choix définitif d'EDF quant au choix du site de Flamanville pour le futur réacteur EPR.
+Membre du Parti populaire pour la démocratie française, il participe auprès d'Alain Madelin à la création du Club Idées Action et de Démocratie Libérale en 1997. Il intègre l'UMP en 2002.
+Fin 2005, une plainte auprès du procureur de la République accuse Claude Gatignol d'avoir utilisé à son compte personnel 10 000 € du Fonds de développement économique de l'après-chantier de la Hague (FDEACH), qu'il a présidé jusqu'en 2004. Malgré le remboursement de la somme, les militants UMP de la Manche choisissent d'investir Jean-Louis Valentin pour la quatrième circonscription de la Manche, mais la direction nationale du parti lui préfère le député sortant. Furieux pour ce qui selon lui montre un mépris pour les militants, Jean-François Le Grand, sénateur et président du conseil général de la Manche, choisit de se mettre en congé de l'UMP. L'instruction de la plainte s'est soldée par un non-lieu en juillet 2007.
+Il est élu député le 17 juin 2007, pour la XIIIe législature (2007-2012), dans la 4e circonscription de la Manche.
+Le Canard enchaîné (daté 23 avril 2008) considère qu'il a été influencé, à tout le moins inspiré dans son discours, lors du débat sur les OGM à l'Assemblée par un lobby pro OGM (Monsanto est cité dans l'article). En l'occurrence, de formation scientifique, reconnu pour ses compétences par ses pairs de l'office parlementaire des choix scientifiques et technologiques dont il est le vice-président, il estime que les OGM sont une source de progrès scientifique.
+Il fait partie des parlementaires auxquels la banque Groupama a offert des séjours cynégétiques en forêt de Fontainebleau[1].
+En 2011 il se distingue en défendant le gaz de schiste à l'Assemblée Nationale
+Après la disparition de sa circonscription lors du redécoupage électoral de 2010, auquel il s'est opposé, il menace de se présenter en dissident dans la nouvelle circonscription de Coutances-Valognes avant d'y renoncer pour soutenir l'ancien cadre UMP Éric de la Forcade, également dissident, tout en souhaitant « une majorité parlementaire pour François Hollande »[2]. Dans un entretien publié par "La Manche libre" du 4 octobre 2008, M. Gatignol déclarait : "Ce qu'il y a de trop sur le plan électoral, ça n'est pas la 4e ou la 5e circonscription de la Manche, c'est le Conseil général qui coûte bien trop cher à la collectivité.", critique que M. Gatignol n'avait jamais formulée pendant les vingt-cinq années( mars 1979-mars 2004) où il y siégea.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) Convention démocrate.
+PART Convention démocrate (parti politique) (Convention démocrate) UMP.
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Député de la IVe circonscription de la Manche NOMF 13 juin 1988 – 25 juin 2012 SEP2 Législature REL Xe ,XIe ,XIIe et XIIIe législatures SEP2 Groupe politique REL UMP SEP2 Prédécesseur REL Pierre Godefroy SEP2 Successeur REL circonscription supprimée.
+NOMF Conseiller général de Valognes NOMF 26 mars 1979 – 28 mars 2004 SEP2 Prédécesseur REL Pierre Godefroy SEP2 Successeur REL Yves Néel SEP2 Date de naissance REL 20 novembre 1938 (79 ans) SEP2 Lieu de naissance REL Saint-Julien-près-Bort SEP2 Parti politique REL UDF puis Convention démocrate puis UMP SEP2 Profession REL Vétérinaire.

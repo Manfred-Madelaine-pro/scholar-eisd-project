@@ -1,0 +1,23 @@
+PRETAG Jean.
+NOMTAG Codognès.
+Jean Codognès, né le 6 septembre 1953 à Perpignan (Pyrénées-Orientales), est un homme politique français.
+
+
+
+Avocat réputé proche de Martine Aubry et d'Arnaud Montebourg[1], Jean Codognès est élu député socialiste de la 2e circonscription des Pyrénées-Orientales à la faveur d'une triangulaire le 1er juin 1997[2]. Député, il participe à la commission d'enquête sur le fonctionnement des tribunaux de commerce.
+En 1998, il est élu conseiller général du canton de Perpignan-1, canton populaire de la ville de Perpignan (le Haut-Vernet), succédant au maire de Perpignan Jean-Paul Alduy, alors UDF, qui ne se représentait pas[3].
+En 2002, candidat à sa propre succession aux législatives, il est battu de justesse au second tour par Arlette Franco, maire UMP de Canet-en-Roussillon[4].
+En 2004, il est réélu conseiller général[5].
+En 2008, il mène une liste divers gauche aux élections municipales de Perpignan, avec entre autres Les Verts. Dissident du PS, il est exclu de ce parti[6], mais maintient sa candidature. Devancé au premier tour par les listes UMP et PS/PC/LO, il devient au second tour no 2 de la liste regroupant la gauche et le MoDem. Battu par le maire sortant Jean-Paul Alduy (UMP), il est élu conseiller municipal d'opposition[7].
+Le deuxième tour de scrutin ayant été marqué par une fraude électorale, dite « affaire des chaussettes », dans laquelle sont mis en cause des partisans du maire, le Conseil d'État annule l'élection par un arrêt du 23 avril 2009. Une nouvelle campagne électorale débute : Jean Codognès se présente comme tête de liste divers gauche, aux côtés de la responsable locale des Verts Katia Mingo qui participait avec lui au groupe d'opposition durant la première année du mandat. La liste qu'il conduit recueille 13,14 % des suffrages au second tour[8].
+Il rejoint Europe Écologie Les Verts dès sa constitution en novembre 2010. Il est actuellement membre du Conseil fédéral d'EELV.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1er juin 1997 – 18 juin 2002 SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL PS SEP2 Date de naissance REL 6 septembre 1953 SEP2 Lieu de naissance REL Perpignan (Pyrénées-Orientales) SEP2 Résidence REL Pyrénées-Orientales (2e).

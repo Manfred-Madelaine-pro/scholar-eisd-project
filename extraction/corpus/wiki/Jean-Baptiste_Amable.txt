@@ -1,0 +1,21 @@
+PRETAG Jean-Baptiste.
+NOMTAG Amable.
+Jean-Baptiste Amable Chanot né à Alger le 12 septembre 1855 et mort à Marseille le 13 janvier 1920 a été avocat, maire de Marseille et député des Bouches-du-Rhône.
+
+
+
+Jean-Baptiste Amable Chanot rentre en métropole à Aix-en-Provence pour faire des études de droit. Inscrit au barreau de Marseille en 1876 il s’intéresse très vite à la politique. Membre du Parti radical, il est un des fondateurs du journal Jeune République qui deviendra Le Petit Provençal.
+Le 4 août 1889 il est élu conseiller général du 3e canton (La Major) de Marseille et sera réélu en 1895. La loi du 19 juin 1901 ayant créé de nouveaux cantons, il est élu dans le 1er canton (Hôtel de Ville) le 28 juillet 1907 poste qu’il conservera jusqu’en 1919. Il présidera deux fois le Conseil Général en 1898-1899 et en 1901-1902.
+Après la démission le 19 juin 1902 du maire Siméon Flaissières et de son conseil municipal, Amable Chanot, appuyé par les milieux d’affaires, fut élu maire le 5 août 1902, poste qu’il occupa jusqu’en 1908. En cette année les élections municipales furent extrêmement équilibrées puisqu’il y eut 18 socialistes et alliés, et 18 élus de droite diverse partisans de Chanot. Le doyen d’âge Emmanuel Allard, favorable au sortant, est élu Maire, mais mourra deux ans plus tard ce qui permettra à Bernard Cadenat d’être le premier socialiste à occuper la mairie de 1908 à 1912. Chanot, s’affichant de plus en plus nationaliste et regroupant des radicaux inquiets du collectivisme, fut réélu en 1912. Dans cette élection Chanot fut indirectement favorisé par la grève des marins qui eut lieu en pleine campagne électorale. La gestion municipale du maire étant violemment critiquée, celui-ci démissionne en 1914 pour être remplacé par son second Eugène Pierre.
+Le préfet inquiet de la popularité du socialisme incite Chanot à se présenter aux élections législatives. Il est d’abord battu par Maximilien Carnaud qui est membre du Parti ouvrier français proche de Jules Guesde et qui sera élu 4 fois jusqu’au 31 mai 1910. Amable Chanot prendra sa revanche et sera élu député du 8 mai 1910 au 31 mai 1914 sous les couleurs de la Fédération républicaine.
+C’est durant son premier mandat de maire qu’eut lieu, après plusieurs années d’efforts de Jules Charles-Roux et du docteur Heckel, la première exposition coloniale qui dura du 14 avril au 18 novembre 1906. Cette exposition qui eut un très grand succès et mettait en valeur le négoce marseillais, fut réalisée sur 24 hectares de terrains occupés par l’armée comme champ de manœuvre et situés au rond-point du Prado. Cet espace deviendra le « Parc Chanot » où auront lieu de nombreuses manifestations dont la foire de Marseille.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1910-1914 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL Républicains progressistes SEP2 Date de naissance REL 12 septembre 1855 SEP2 Date de décès REL 13 janvier 1920 (à 64 ans) SEP2 Résidence REL Bouches-du-Rhône.

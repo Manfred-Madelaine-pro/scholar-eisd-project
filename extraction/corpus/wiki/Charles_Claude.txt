@@ -1,0 +1,27 @@
+PRETAG Charles.
+NOMTAG Claude.
+Charles Claude Benoist est un homme politique français né le 28 janvier 1901 à Paris et décédé le 15 février 1988 à Crosnes (Essonne).
+
+
+Orphelin de père à l'âge de deux ans, il perd son beau-père, tué lors des combats, en 1917 et doit travailler pour subvenir aux besoins de la famille. Après son service militaire, il entre comme chaudronnier à la SNCF en 1923 et travaille dans les ateliers de Villeneuve-Saint-Georges.
+Membre du parti communiste à partir de 1925, il est aussi engagé dans le syndicalisme et devient secrétaire du syndicat des cheminots, et conseiller prud'homal à partir de 1929. Il est aussi membre de la commission exécutive de la fédération CGTU des Cheminots.
+Candidat malheureux aux municipales de Melun en 1929, il est élu premier adjoint au maire de Villeneuve-Saint-Georges (Henri Janin) en 1935.
+L'année suivante, il est élu député, sous les couleurs du front populaire, dans la circonscription de Corbeil.
+Ayant refusé de désavouer le pacte germano-soviétique, il est arrêté, le 8 octobre 1939, déchu de son mandat, le 21 janvier 1940, et condamné le 3 avril 1940 par le 3e tribunal militaire de Paris à 5 ans de prison, 4 000 francs d'amende et 5 ans de privation de ses droits civiques, civils et de famille[1]. Emprisonné à Alger à partir de 1941, il est libéré après le débarquement allié en Afrique du Nord en 1943.
+Il reprend alors des responsabilités au sein du PCF et, à la libération, retrouve son mandat de premier adjoint de Villeneuve-Saint-Georges. A la mort d'Henri Janin, il est élu maire, malgré les réticences exprimées par certains responsables communistes comme André Marty. En 1947, il n'est pas réélu.
+Elu député en octobre 1945, il est ensuite constamment réélu jusqu'à la fin de la Quatrième république.
+A l'Assemblée, il intervient principalement sur les questions de transports, et plus particulièrement sur les problèmes des cheminots et de la SNCF, mais aussi, notamment après 1951, sur les questions de l'outre-mer.
+Battu lors des élections législatives de 1958, il n'a plus ensuite d'activité politique notable.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (Parti communiste français).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

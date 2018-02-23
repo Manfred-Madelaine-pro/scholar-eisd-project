@@ -1,0 +1,21 @@
+PRETAG Jean-Marie.
+NOMTAG Daillet.
+Jean-Marie Daillet est une personnalité politique française, né le 29 novembre 1929 à Rennes (Ille-et-Vilaine).
+
+
+Il a été député de la Manche de 1973 à 1993[1], élu successivement du Centre démocrate, de l'UDF (Centre des démocrates sociaux) et du groupe Union du centre.
+Lors des débats sur la loi Veil de 1975, Jean-Marie Daillet attaque la ministre de la Santé Simone Veil, qui porte ce projet, en accusant la ministre Simone Veil d'accepter de voir des embryons humains « jetés au four crématoire ou remplir des poubelles », alors qu'elle est elle-même rescapée de la Shoah[2],[3]. Il déclare plus tard ignorer à ce moment là le passé de déportée de la ministre[4].
+Il a ensuite été nommé ambassadeur de France en Bulgarie. Il est en 2007 le président de l'Amicale des anciens du MRP.
+Jean-Marie Daillet est membre du comité directeur du mouvement fédéraliste français « La Fédération », depuis le début des années 1990[5].
+Il a été le président de l'amicale du MRP à partir de 2005[6].
+Jean-Marie Daillet est également le père de Rémy Daillet-Wiedemann, conseiller national et président de la fédération du MoDem de Haute-Garonne[7], connu pour avoir combattu en Croatie avec son frère lors de la guerre de Yougoslavie en 1991 comme combattant volontaire et fait une grève du froid durant un mois sur le parking de l'usine Molex (à Villemur-sur-Tarn, dont les ouvriers étaient menacés par une délocalisation), puis pour avoir marqué son opposition à François Bayrou après les élections régionales en mars 2010[8], et enfin en faisant annuler par le tribunal de Paris ses décisions prises à son encontre.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de 1973 à 1993 NOMF GouvernementVe République SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL UDF puis UDC SEP2 Date de naissance REL 29 novembre 1929 (88 ans) SEP2 Résidence REL première circonscription de la Manche.

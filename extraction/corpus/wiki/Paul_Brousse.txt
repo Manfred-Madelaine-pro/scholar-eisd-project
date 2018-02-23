@@ -1,0 +1,18 @@
+PRETAG Paul.
+NOMTAG Brousse.
+Paul Louis Marie Brousse, né le 23 janvier 1844 à Montpellier (Hérault) et mort le 1er avril 1912 à Neuilly-sur-Marne (Seine-Saint-Denis), est un médecin et un homme politique français, militant anarchiste puis chef de file du courant « possibiliste » au sein du socialisme français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la Seine(3e circonscription du 18e arrondissement) NOMF 6 mai 1906 – 31 mai 1910(4 ans et 25 jours) SEP2 Élection REL 6 mai 1906 SEP2 Législature REL IXe législature de la IIIe République SEP2 Groupe politique REL Socialistes unifiésParti socialiste (1907-1910) SEP2 Prédécesseur REL Ernest Roche SEP2 Successeur REL Ernest Roche.
+NOMF Président du conseil municipal de Paris NOMF 20 mars 1905 – 12 mars 1906(11 mois et 20 jours).
+NOMF Conseiller municipal de Paris NOMF 15 mai 1887 – 18 avril 1907(20 ans et 3 jours) SEP2 Nom de naissance REL Paul Louis Marie Brousse SEP2 Date de naissance REL 23 janvier 1844 SEP2 Lieu de naissance REL Montpellier (Hérault) SEP2 Date de décès REL 1er avril 1912 (à 68 ans) SEP2 Lieu de décès REL Neuilly-sur-Marne (Seine-et-Oise) SEP2 Nationalité REL  Française SEP2 Profession REL Médecin.

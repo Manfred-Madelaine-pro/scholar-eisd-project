@@ -1,0 +1,15 @@
+PRETAG Augustin.
+NOMTAG Michel.
+Augustin Michel, né le 26 avril 1882 à Yssingeaux dans la Haute-Loire où il est mort le 18 septembre 1970, est un avocat et homme politique français.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL FRF SEP2 Date de naissance REL 26 avril 1882 SEP2 Date de décès REL 18 septembre 1970 (à 88 ans) SEP2 Profession REL avocat SEP2 Résidence REL Haute-Loire.

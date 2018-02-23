@@ -1,0 +1,27 @@
+PRETAG Paul.
+NOMTAG Billat.
+Paul Billat, né le 24 avril 1904 à Paris et mort le 30 avril 1996 à Grenoble (Isère), est un homme politique français.
+
+
+
+Lorsque son père, un ferblantier originaire de la Savoie monté à Paris pour travailler meurt, Paul Billat n'a que 8 ans et il est envoyé à Feissons-sur-Isère pour y vivre avec ses grands-parents, des artisans ruraux.
+Une fois ses études primaires terminées, grâce à l’obtention du certificat d'études en 1916, il va travailler entre 1917 et 1922 dans les bureaux des usines de carbure de calcium de Notre-Dame-de-Briançon.
+Il part pour Grenoble afin d'y effectuer un apprentissage comme confiseur, et commence à s'intéresser à la vie politique. Il participe à la campagne contre la Guerre du Rif avant d'adhérer à la Jeunesse communiste (JC) en octobre 1925, et de devenir secrétaire de cellule, puis au syndicat communiste CGTU. Il devient alors secrétaire régional de la JC l'année suivante, adhère au PCF, et complète sa formation à l'école des cadres de la JC. Il se présente lors d'élections municipales en 1927 à Grenoble.
+Paul Billat devenu permanent en 1928, est aussi responsable du journal communiste Le Travailleur alpin en étant à la fois le directeur, le gérant, l'administrateur et le principal rédacteur ; ce qui lui vaudra plusieurs condamnations pour délits de presse. Ayant obtenu une peine de 7 mois de prison en 1931, il décide d'entrer dans la clandestinité en se cachant à Saint-Martin-d'Hères et de continuer à diriger le journal sous un pseudonyme. Il part effectuer un séjour à Paris puis à Moscou pour aller rejoindre l'École léniniste internationale. Il revient comme secrétaire régional du PCF en 1933 à Grenoble grâce à l'élection de Paul Doumer qui lui permet d'être amnistié.
+Il est candidat lors des élections cantonales en 1934 et en 1935 ; de même qu'aux législatives de 1936, ne recueillant que 750 voix, il doit se désister pour laisser la place au candidat socialiste. Il détient en parallèle d'importantes responsabilités syndicales : il est secrétaire du syndicat CGTU de l'alimentation de Grenoble puis du syndicat CGT réunifié puis délégué aux congrès du parti à Villeurbanne (janvier 1936) et à Arles (décembre 1937). Il n'est plus que secrétaire régional adjoint du PCF à partir de décembre 1938, à la suite d'une conférence régionale présidée par Maurice Thorez.
+Résistant dans le Vercors jusqu'en septembre 1943, il fait ensuite partie de l'état-major FTP de la région Méditerranée où il est démobilisé en 1945 avec l'équivalent du grade de Lieutenant-colonel.
+Paul Billat est élu conseiller municipal de Grenoble aux municipales de 1945, il est en dernière position sur la liste communiste lors des élections de 1945 pour la 1re Assemblée constituante dont seuls les deux premiers candidats sont élus. Un scénario quasi-identique se répète lors des législatives pour la Seconde constituante, il figure sur la liste mais en avant-dernier sur 6 candidats, soit une place en position non-éligible.
+Il est en 3e place aux élections législatives de 1946 derrière les 2 sortants, mais il réussit à entrer au Palais Bourbon grâce à Joanny Berlioz qui est élu au Conseil de la République. Son élection validée le 20 février 1947, il est membre de la commission des moyens de communication et de celles de la défense nationale (1948), de la presse (juin 1949) et des finances (janvier 1950). Il est réélu aux législatives de 1951 et de 1956 mais le passage de la IVe à la Ve République met un point final à sa carrière de parlementaire. Il continuera cependant à concourir après 1958 à d'autres élections.
+En hommage à son action, une rue porte son nom à Grenoble. Paul Billat est inhumé au cimetière Saint-Roch de Grenoble.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député de l'IsèreScrutin proportionnel par département NOMF 24 décembre 1946 – 8 décembre 1958 SEP2 Législature REL Ire, IIe, IIIe (Quatrième République) SEP2 Date de naissance REL 24 avril 1904 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 30 avril 1996 (à 92 ans) SEP2 Lieu de décès REL Grenoble (Isère) SEP2 Nationalité REL Française SEP2 Parti politique REL PCF SEP2 Fratrie REL Véronique Billat (petite-fille).

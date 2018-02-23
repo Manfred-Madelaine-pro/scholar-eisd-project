@@ -1,0 +1,59 @@
+PRETAG Jacques.
+NOMTAG Barrot.
+Jacques Barrot, né le 3 février 1937 à Yssingeaux (Haute-Loire) et mort le 3 décembre 2014 à Neuilly-sur-Seine, est un homme politique français.
+Ancien secrétaire général du Centre des démocrates sociaux (CDS), composante de l'UDF, il a longtemps été une des principales figures de la démocratie chrétienne en France.
+Il occupe plusieurs fonctions ministérielles, dont celles de ministre du Commerce, de la Santé, du Travail. Jacques Barrot est aussi vice-président de la Commission européenne de 2004 à 2009, initialement chargé des Transports, puis de la Justice et des Affaires intérieures.
+Du 12 mars 2010 à sa mort, il est membre du Conseil constitutionnel.
+
+
+
+Fils du résistant démocrate-chrétien Noël Barrot[1], député MRP de Haute-Loire, Jacques Barrot effectue ses études secondaires à Yssingeaux, avant de les poursuivre à Aix-en-Provence par une licence de droit et un certificat de sociologie. Diplômé par la suite de l'Institut d'études politiques de Paris (IEP), il est aussi titulaire du Certificat d'aptitude à la profession d'avocat (CAPA), mais ne plaidera jamais[2]. Il fut membre de la Conférence Olivaint durant sa jeunesse.
+Il épouse le 6 avril 1982 en première noce Florence Cattani, avec laquelle il aura trois enfants : Jean-Noël, Hélène et Marie.[3]
+Le 17 mars 2011, il épouse Béatrice Barrot.
+Il est le père de Jean-Noël Barrot, élu député des Yvelines en 2017.
+Carrière politique.
+Peu après la mort de son père à l'Assemblée nationale, alors qu'il n'est encore que conseiller municipal d'Yssingeaux, il est élu député de la Haute-Loire en mars 1967 : porté par le souvenir de Noël Barrot (CD), il défait le candidat de la fidélité au général de Gaulle, le Républicain indépendant Jean Proriol, et conservera ce siège jusqu'en 2004. Démocrate chrétien comme son père, il refuse cependant de soutenir la candidature Poher en 1969 et rejoint le Centre Démocratie et Progrès (CDP) de Jacques Duhamel qui, dira-t-il, « a éclairé toute ma vie politique[4]. »
+Partisan du président Georges Pompidou comme le ministre des Finances Valéry Giscard d'Estaing, il se rapproche de ce dernier, qui le nomme secrétaire d'État au Logement lorsqu'il accède à la présidence de la République en 1974[5]. À ce poste durant près de quatre ans, il lance le premier programme de rénovation de grands ensembles en France (« Habitat et vie sociale »[6]). Raymond Barre l'appelle alors au ministère du Commerce puis au ministère de la Santé et de la Sécurité sociale. À ce titre, il soutient le développement d'une information indépendante au service des médecins, en accordant une subvention à La revue Prescrire[7].
+Après l'échec de 1981, il se consacre essentiellement à ses fonctions locales et devient maire de sa commune natale en 1989, mairie que son père avait eu de grandes difficultés à conquérir. Président du conseil général de la Haute-Loire après le décès de son ami le docteur Simon (1976), il se montre un ardent défenseur du désenclavement, et notamment de l'aménagement de la RN 88 ; il inaugure ainsi en 1994 le viaduc du Lignon qui rapproche la Haute-Loire de Rhône-Alpes. Par la suite, il lance le projet de restauration de l'hôpital général du Puy-en-Velay, où s'installe l'hôtel du département en 2001.
+À l'Assemblée nationale, il s'impose comme une des figures principales du centre-droit, même s'il ne parvient pas à obtenir la présidence du Centre des démocrates sociaux (CDS) face à Pierre Méhaignerie. Soutien de Raymond Barre lors de l'élection présidentielle de 1988, il préside par la suite le groupe parlementaire de l'Union du centre, élément de l'ouverture voulue par Michel Rocard, entre 1988 et 1993. C'est au titre de ses fonctions de secrétaire général du CDS qu'il sera condamné, aux côtés de Pierre Méhaignerie et de Bernard Bosson, pour « recel d'abus de confiance », en raison du financement irrégulier du CDS (s'agissant de faits antérieurs à la loi de 1990 sur le financement des partis politiques, sa peine sera aussitôt annulée du fait de l'amnistie du 3 août 1995)[8].
+Soutien de Jacques Chirac, il est ministre du Travail et des Affaires sociales entre 1995 et 1997 (et doit défendre le très contesté plan Juppé pour les retraites) puis président du nouveau groupe UMP à l'Assemblée nationale, de 2002 à 2004.
+Jacques Barrot est l'un des membres fondateurs, avec Jean-Pierre Raffarin, Michel Barnier et Dominique Perben, du club Dialogue & Initiative, créé en 1999. Il a aussi été vice-président du Cercle de l'industrie, de sa création en 1993 à 2004.
+Carrière européenne.
+En 2004, il est nommé vice-président de la Commission européenne, présidée par José Manuel Barroso, et abandonne son siège de député à son jeune suppléant, Laurent Wauquiez. Chargé des transports à Bruxelles (DG TREN), il signe avec les États-Unis un accord d'ouverture des relations aériennes transatlantiques, et doit trouver des financements pour le projet Galileo.
+En avril 2008, il remplace Franco Frattini au poste de commissaire à la Justice, à la Liberté et à la Sécurité, mais ne poursuit pas ses fonctions au sein de la Commission Barroso II, qui prend ses fonctions en février 2010.
+Conseil constitutionnel.
+Il est nommé, le 23 février 2010, au Conseil constitutionnel par le président de l'Assemblée nationale Bernard Accoyer[9], succédant à Pierre Joxe.
+Décès.
+Il meurt le 3 décembre 2014, après un malaise dans le métro, à la station Les Sablons, à Neuilly-sur-Seine[10].
+
+
+
+
+
+
+
+PARTISNORM
+PART Centre démocrate (CD).
+PART Centre démocratie et progrès (CDP).
+PART Union pour la démocratie française (UDF) CDS.
+PART Centre des démocrates sociaux (CDS).
+PART Union pour la démocratie française (UDF) FD.
+PART Force démocrate (FD).
+PART Union pour un mouvement populaire (UMP).
+FONCTIONNORM
+
+NOMF Président NOMF PrédécesseurPierre Joxe SEP2 Prédécesseur REL Pierre Joxe SEP2 Successeur REL Lionel Jospin.
+NOMF Président NOMF GouvernementCommission Barroso I SEP2 Gouvernement REL Commission Barroso I SEP2 Successeur REL Viviane Reding.
+NOMF Président du groupe UMP del'Assemblée nationale NOMF 19 juin 2002 – 4 mai 2004(1 an, 10 mois et 15 jours) SEP2 Législature REL XIIe SEP2 Prédécesseur REL Création du groupe SEP2 Successeur REL Bernard Accoyer.
+NOMF Ministre du Travail et des Affaires socialesPortefeuille de la Participation jusqu'au 7 novembre 1995 NOMF 18 mai 1995 – 2 juin 1997(2 ans et 15 jours).
+NOMF Président NOMF GouvernementAlain Juppé I et II SEP2 Gouvernement REL Alain Juppé I et II SEP2 Prédécesseur REL Michel Giraud (Travail)Simone Veil (Affaires sociales) SEP2 Successeur REL Martine Aubry.
+NOMF Président de la Commission des Financesde l'Assemblée nationale NOMF 8 avril 1993 – 18 juin 1995(2 ans, 2 mois et 10 jours) SEP2 Législature REL Xe SEP2 Prédécesseur REL Jean Le Garrec SEP2 Successeur REL Pierre Méhaignerie.
+NOMF Président de la Commission des Affaires culturelles, familiales et socialesde l'Assemblée nationale NOMF 8 avril 1986 – 14 mai 1988(2 ans, 2 mois et 6 jours) SEP2 Législature REL VIIIe SEP2 Prédécesseur REL Claude Evin SEP2 Successeur REL Jean-Michel Belorgey.
+NOMF Ministre de la Santé et de la Sécurité sociale NOMF 4 juillet 1979 – 13 mai 1981(2 ans, 10 mois et 9 jours).
+NOMF Président NOMF GouvernementRaymond Barre III SEP2 Gouvernement REL Raymond Barre III SEP2 Prédécesseur REL Simone Veil SEP2 Successeur REL Edmond Hervé.
+NOMF Ministre du Commerce et de l'Artisanat NOMF 31 mars 1978 – 4 juillet 1979(1 an, 3 mois et 3 jours).
+NOMF Président NOMF GouvernementRaymond Barre III SEP2 Gouvernement REL Raymond Barre III SEP2 Prédécesseur REL René Monory SEP2 Successeur REL Maurice Charretier.
+NOMF Président NOMF GouvernementJacques Chirac IRaymond Barre I et II SEP2 Gouvernement REL Jacques Chirac IRaymond Barre I et II SEP2 Prédécesseur REL Christian Bonnet SEP2 Successeur REL Marcel Cavaillé.
+NOMF Député de la 1re circonscriptionde la Haute-Loire NOMF 1er janvier 1997 – 4 juillet 2004(7 ans, 6 mois et 3 jours) SEP2 Prédécesseur REL Serge Monnier (UDF) SEP2 Successeur REL Laurent Wauquiez (UMP) SEP2 Prédécesseur REL Roger Fourneyron SEP2 Successeur REL Serge Monnier SEP2 Prédécesseur REL Roger Fourneyron SEP2 Successeur REL Roger Fourneyron SEP2 Prédécesseur REL Jean Prunayre SEP2 Successeur REL Roger Fourneyron.
+NOMF Président du Conseil généralde la Haute-Loire NOMF 8 mars 1976 – 30 avril 2004(28 ans, 1 mois et 22 jours) SEP2 Prédécesseur REL Jean-Claude Simon (RI) SEP2 Successeur REL Gérard Roche (DVD).
+NOMF Conseiller général d'Yssingeaux NOMF 18 septembre 1966 – 30 avril 2004(37 ans, 7 mois et 12 jours) SEP2 Prédécesseur REL Noël Barrot (CD) SEP2 Successeur REL Madeleine Dubois (UMP) SEP2 Date de naissance REL 3 février 1937 SEP2 Lieu de naissance REL Yssingeaux (France) SEP2 Date de décès REL 3 décembre 2014 (à 77 ans) SEP2 Lieu de décès REL Neuilly-sur-Seine (France) SEP2 Nationalité REL Française SEP2 Parti politique REL CDCDPUDF-CDSUDF-FDUMP SEP2 Père REL Noël Barrot SEP2 Enfants REL Jean-Noël Barrot SEP2 Diplômé de REL IEP de Paris.

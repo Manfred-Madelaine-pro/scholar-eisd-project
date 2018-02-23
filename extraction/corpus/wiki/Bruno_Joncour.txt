@@ -1,0 +1,34 @@
+PRETAG Bruno.
+NOMTAG Joncour.
+Bruno Joncour est un homme politique français, né le 25 novembre 1953 à Bizerte, membre du MoDem dont il est membre du bureau exécutif, maire de Saint-Brieuc (Côtes-d'Armor) depuis 2001. Élu député des Côtes-d'Armor dans la 1re circonscription de la majorité présidentielle (Modem & La République en marche !)
+
+
+
+Bruno Joncour est secrétaire administratif des Affaires sanitaires et sociales.
+Élu municipal depuis 1983, sans discontinuer, il réalise son premier coup d'éclat en battant aux élections cantonales Yves Dollo, député, premier adjoint de Saint-Brieuc et conseiller général sortant en 1985. Son ancrage local lui permet d'être réélu au conseil général en 1992.
+Présent dans les listes divers droite pendant 20 ans, il se présente en tant que tête de liste en 2001, avec comme slogan « La volonté, le cœur ». Le 18 mars il remporte les élections municipales de Saint-Brieuc, face à Michel Brémond, en obtenant presque 52 % des voix. Il fait basculer la ville à droite, après 39 ans de gestion socialiste.
+Certains adversaires qualifient alors son élection d’accident[2]. Sept ans plus tard lors d'un débat au Campus Mazier, alors qu’il est candidat à sa réélection, faisant valoir un bilan qualifié de positif, il répond à un journaliste qu’il « considère cela comme insultant par rapport à l’expression démocratique de la majorité de la population et au suffrage universel ».
+Le 9 mars 2008, il recueille au premier tour 44,71 % des voix contre 40,12 % pour la socialiste Danielle Bousquet. Pendant l’entre-deux-tours, lors du débat du 12 mars au Campus Mazier, il rappelle que son adversaire est déjà députée et qu’elle a un an auparavant signé le pacte de non-cumul des mandats. La liste de Bruno Joncour l’emporte avec 54,28 % des voix le 16 mars, dans une ambiance surchauffée à la mairie de Saint-Brieuc. La plus grande ville dirigée par un élu du Modem est donc Saint-Brieuc.
+Candidat du MoDem aux élections sénatoriales de septembre 2008, il obtient 23,61 % des suffrages.
+Fidèle à ses valeurs humanistes, il refuse la proposition de l'UMP pour les élections européennes de 2009 dans la région Ouest - qui lui proposait une place éligible - et accepte de se présenter en deuxième position sur la liste du Mouvement Démocrate[3]. Le score de 8,48 % des suffrages est en deçà des espérances malgré un très bon score à Saint-Brieuc et dans les Côtes d'Armor. Seule Sylvie Goulard est élue.
+Le 29 juillet 2009, il devient membre du Bureau exécutif national du MoDem.
+En 2010, il est tête de liste MoDem en vue des élections régionales en Bretagne. Sa liste ne recueille que 5,36 % des suffrages malgré encore une fois, d'excellents scores à Saint-Brieuc et sur l'ensemble des Côtes d'Armor. La liste Bretagne au Centre ne peut donc participer au second tour sans fusionner ; il se retire de l’élection sans donner de consigne de vote[4].
+À nouveau candidat aux élections municipales en 2014, il frôle l'élection au premier tour avec 49,40 % des voix. Il remporte le second tour avec 54,97 % des voix alors qu'il est confronté à une triangulaire avec la gauche (26,61 % au 1er tour; 32,99 % au 2d tour) et le FN[5] (11,28 % au 1er tour; 12,02 % au 2d tour). Cette victoire, consolidée par les résultats dans les autres communes de l'agglomération briochine, lui permet de prendre également la tête de Saint-Brieuc Agglomération [6].
+Le 21 juillet 2014, il annonce sa candidature pour les élections sénatoriales du 28 septembre suivant[7]. Ainsi, il mène la Liste de Rassemblement au service des Territoires composée d'élus « reconnus et engagés dans leurs territoires respectifs et à l'image des grands électeurs ». Il s'affranchit ainsi des partis politiques même si l'UDI et le MoDem ont manifesté leur soutien à sa candidature. Ses colistiers répondent également à un souci d'équilibre des territoires. Sont à ses côtés : Monique Garel, 1re adjointe de Penvénan, Arnaud Carré, maire de Le Quiou et vice-président de Dinan communauté, Fabienne Perrot, 1re adjointe de Glomel et vice-présidente de la communauté de communes du Kreiz-Breizh et Pierre Salliou, maire de Pabu.
+En mai 2017, Bruno Joncour se porte candidat aux législatives de 2017, pour la majorité présidentielle (Modem & La République en marche !). Le 18 juin 2017 au deuxième tour, il l'emporte avec 60,06 % des voix et est élu député des Côtes-d'Armor face à Michel Lesage, ancien député PS.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union des démocrates pour la république (UDR) 1969-1976.
+PART Rassemblement pour la République (RPR) 1976-1986.
+PART Union pour la démocratie française (UDF) 1986-2007.
+PART Mouvement démocrate (MoDem) depuis 2007.
+FONCTIONNORM
+
+NOMF Député de la 1re circonscriptiondes Côtes-d'Armor NOMF En fonction depuis le 21 juin 2017(7 mois et 17 jours) SEP2 Élection REL 17 juin 2017 SEP2 Législature REL XVe SEP2 Prédécesseur REL Michel Lesage SEP2 Réélection REL 16 mars 200830 mars 2014 SEP2 Prédécesseur REL Claude Saunier SEP2 Successeur REL Marie-Claire Diouron.
+NOMF Président de Saint-Brieuc Agglomération NOMF En fonction depuis le 24 avril 2014(3 ans, 9 mois et 14 jours) SEP2 Prédécesseur REL Armelle Bothorel SEP2 Date de naissance REL 25 novembre 1953 (64 ans) SEP2 Lieu de naissance REL Bizerte SEP2 Nationalité REL Française SEP2 Parti politique REL UDR (1969-1976)RPR (1976-1986)UDF (1986-2007)MoDem (depuis 2007)[1] SEP2 Profession REL Secrétaire administratif des Affaires sanitaires et sociales.

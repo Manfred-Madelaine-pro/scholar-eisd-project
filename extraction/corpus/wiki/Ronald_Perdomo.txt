@@ -1,0 +1,24 @@
+PRETAG Ronald.
+NOMTAG Perdomo.
+Ronald Perdomo, né le 31 mai 1941 à Marseille (Bouches-du-Rhône), est un homme politique et avocat français.
+
+
+
+Ronald Perdomo fut élu député des Bouches-du-Rhône en 1986, sur une liste FN qui vit aussi l'élection de trois de ses colistiers (Pascal Arrighi, Jean Roussel et Gabriel Domenech).
+Il fut également conseiller régional de Provence-Alpes-Côte d'Azur et président du groupe Front national.
+En 2008, il est l'un des cofondateurs, avec Guy Macary, Philippe de Beauregard et Michèle Carayon, du Front régional, qui est une dissidence du FN. Il en devient alors le président.
+En mars 2010, à l'occasion des élections régionales, il est la tête de liste départementale de la liste de la Ligue du Sud (parti dirigé par Jacques Bompard, maire ex-FN et ex-MPF d'Orange, qui dirige d'ailleurs la liste au niveau régional).
+Il est actuellement chef de file de la Ligue du Sud dans les Bouches-du-Rhône, tout en étant toujours membre du Front régional.
+Il a déposé[Quand ?] un recours devant le Conseil d'État, visant à stopper la construction de la Grande Mosquée de Marseille[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN).
+FONCTIONNORM
+
+NOMF Député des Bouches-du-Rhône(scrutin proportionnel par département) NOMF 16 mars 1986 – 14 mai 1988 SEP2 Groupe politique REL FN-RN SEP2 Date de naissance REL 31 mai 1941 (76 ans) SEP2 Lieu de naissance REL Marseille (Bouches-du-Rhône) SEP2 Nationalité REL  Française SEP2 Parti politique REL FN SEP2 Profession REL Avocat.

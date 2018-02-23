@@ -1,0 +1,38 @@
+PRETAG Patrice.
+NOMTAG Bessac.
+Patrice Bessac, né le 17 juin 1978 à Agen, est un homme politique français.
+Il est maire de Montreuil depuis 2014, porte-parole du Parti communiste français (PCF) depuis 2006 et président de l’Association nationale des élus communistes et républicains (ANECR) depuis 2016.
+
+Patrice Bessac est ouvertement homosexuel[8],[9].
+
+
+Patrice Bessac adhère en 1997 au PCF, alors qu'il est étudiant en philosophie à Toulouse.
+Carrière politique.
+Après ses études, il devient collaborateur au Parlement européen en 1999, puis attaché de presse de Marie-George Buffet après le XXXIe congrès, où elle est élue secrétaire nationale.
+Parallèlement, il anime le Collectif de lutte contre les discriminations liées à l'orientation sexuelle du comité national, avant d'entrer au conseil national en 2000, lors du congrès de Martigues, puis au comité exécutif national en 2005.
+En 2004, il est élu sur la liste Gauche populaire et citoyenne, menée par Marie-George Buffet, lors des élections régionales en Île-de-France.
+Lors du XXXIIIe congrès, Patrice Bessac est élu secrétaire de la fédération de Paris ainsi que porte-parole chargé des questions relatives à l’Europe, au monde, à la politique économique et à l'environnement, ainsi qu'à la direction collégiale au congrès suivant, chargé de la formation, des expérimentations et des transformations du PCF.
+Pendant la campagne de Marie-George Buffet pour l'élection présidentielle de 2007, il coanime le pôle Communication.
+Lors des élections régionales de 2010, il est candidat sur la liste parisienne du Front de gauche, au premier tour. Puis, à la suite de la fusion des listes de gauche, il se retrouve sur la liste menée par Jean-Paul Huchon dans le département de la Seine-Saint-Denis, où il est réélu conseiller régional.
+Patrice Bessac dirige depuis 2011 la revue du Parti communiste français, Revue du projet.
+Au XXXVIe congrès du PCF, en 2013, il est réélu au comité exécutif national du parti ainsi qu'à sa coordination.
+Candidat du Front de gauche à Montreuil, sa liste obtient 18,8 % au premier tour des élections municipales de 2014, deuxième derrière celle de Jean-Pierre Brard, ancien maire communiste de la commune. Il fusionne sa liste avec celle du candidat écologiste Ibrahim Dufriche (15,25 %) et du socialiste Razzy Hammadi (9,8 %). Il est élu au second tour le 30 mars avec 37,06 % des voix en quadrangulaire contre Jean-Pierre Brard (dissident PCF) 35,39 %, Manon Laporte (UMP) 18,14 % et Mouna Viprey (DVG) 9,39[1]. Le 5 avril, il est élu maire de la ville par le nouveau conseil municipal.
+Lors de la campagne des municipales 2014, Patrice Bessac signe la charte d'Anticor, et s'engage donc à ne pas cumuler de mandats[2]. Le 7 novembre 2014, Anticor lui adresse un courrier lui demandant de respecter sa signature et de démissionner de son mandat de conseiller régional[3]. Pour les élections régionales de 2015, il figure en position non éligible (avant-dernière position) sur la liste menée par Clémentine Autain[4].
+En octobre 2015, il opère un remaniement de son équipe municipale en redistribuant les délégations de ses adjoints écologistes[5].
+Patrice Bessac est président de l’Office Public de l’Habitat Montreuillois (OPHM), du Conseil de Surveillance du Centre Hospitalier Intercommunal (CHI) André Grégoire, membre du Bureau de l’Etablissement public territorial Est-Ensemble et Conseiller Métropolitain, membre de la commission finances de la Métropole du Grand Paris.
+Patrice Bessac est également Vice-Président de France Urbaine, Vice-Président de l’association Ville et Banlieue de France, et membre titulaire du conseil d’administration de l’AMIF.
+Le 20 novembre 2016, Patrice Bessac est élu président de l’Association nationale des élus communistes et républicains [6],[7].
+Vie privée.
+Patrice Bessac est ouvertement homosexuel[8],[9].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Conseiller régional d'Île-de-France NOMF 28 mars 2004 – 13 décembre 2015(11 ans, 8 mois et 15 jours) SEP2 Élection REL 28 mars 2004 SEP2 Réélection REL 21 mars 2010 SEP2 Date de naissance REL 17 juin 1978 (39 ans) SEP2 Lieu de naissance REL Agen (Lot-et-Garonne) SEP2 Nationalité REL Française SEP2 Parti politique REL PCF.

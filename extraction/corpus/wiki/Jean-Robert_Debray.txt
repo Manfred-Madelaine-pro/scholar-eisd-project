@@ -1,0 +1,17 @@
+PRETAG Jean-Robert.
+NOMTAG Debray.
+Jean-Robert Debray, né à Calais le 7 novembre 1906 et mort à Paris le 28 août 1980, est un médecin et homme politique français.
+
+
+Il est docteur en médecine, spécialiste en urologie. Il est député de la Seine de 1958 à 1962 par une élection qui l'oppose à la candidate UNR Nicole de Hauteclocque. Il est élu membre de l'Académie des sciences morales et politiques en 1965.
+Il fonde le Centre IPC (Investigations préventives et cliniques) en 1972, situé avenue Raymond-Poincaré à Paris (16e), avec une équipe pluridisciplinaire de médecins universitaires[1]. Le centre IPC existe toujours au 6/14 rue La Pérouse et participe à l'action de prévention nationale et à la recherche en santé publique.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la 18e circonscription de Paris NOMF 30 novembre 1958 – 9 octobre 1962 SEP2 Législature REL 1re (Ve République) SEP2 Groupe politique REL IPAS SEP2 Prédécesseur REL circonscription créée SEP2 Successeur REL Nicole de Hauteclocque SEP2 Date de naissance REL 7 novembre 1906 SEP2 Lieu de naissance REL Calais (Pas-de-Calais) SEP2 Date de décès REL 28 août 1980 (à 73 ans) SEP2 Lieu de décès REL Paris SEP2 Profession REL Médecin.

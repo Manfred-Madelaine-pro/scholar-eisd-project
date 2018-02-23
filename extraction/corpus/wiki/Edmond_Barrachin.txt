@@ -1,0 +1,44 @@
+PRETAG Edmond.
+NOMTAG Barrachin.
+Edmond Barrachin, né le 12 janvier 1900 à Orgerus (Seine-et-Oise, aujourd’hui les Yvelines), et mort le 8 novembre 1975 à Paris est un homme politique français.
+
+
+
+Famille et débuts.
+Edmond Barrachin est né dans une famille de notables et d'industriels champenois. Son père et son arrière-grand-père ont été conseillers généraux des Ardennes. Un autre de ses arrière-grands-pères est le maréchal Bernard Pierre Magnan. Par le remariage de sa mère en 1925, il devient le beau-fils de l'homme politique modéré François Piétri. Le jeune Barrachin commence sa carrière en tant qu'attaché ministériel de ce dernier, d'abord aux Colonies en 1929-1930 puis au Budget en 1931. Devenu membre du comité directeur de l'Alliance démocratique, il se forge de nombreuses relations dans les milieux radicaux indépendants et devient proche d'Étienne Riché et de Franklin-Bouillon. Fort du contact du premier et de ses origines ardennaises, Barrachin tente de se faire élire lors des élections de 1932 dans la circonscription de Rethel-Rocroi mais échoue.
+Carrière politique.
+En juillet 1934 Étienne Riché, député de Sedan, décède. Barrachin parvient à se faire élire dans cette circonscription à l'occasion de l'élection partielle du 4 novembre 1934. Il siège à la Chambre des députés jusqu’en 1936, dans le groupe de la Gauche radicale. En prévision des élections générales de 1936, il fonde en octobre 1935 un hebdomadaire, le Sedan régional et s'attache pour l'occasion les services d'un jeune journaliste, Pierre de Léotard. En avril 1936, Barrachin arrive en tête au premier tour mais est battu au second par un ancien adversaire rencontré en 1934, le radical-socialiste Gabriel Delattre, qui profite des reports des voix de gauche. Après cet échec, Barrachin se tourne alors vers une nouvelle aventure politique. Le colonel de La Rocque en quête de cadres pour sa nouvelle formation - le Parti social français - créée à la suite de la dissolution des Croix-de-feu en juin, recrute en effet Barrachin. À partir d'octobre 1936 jusqu'en 1939, il dirige le bureau politique du PSF, chargé de préparer les échéances électorales.
+Engagé volontaire en 1939, fait prisonnier, il s’évade et revient en France en janvier 1941. Prenant ses distances avec La Rocque, inquiet du devenir politique du PSF, il choisit d'entrer en Résistance. En 1942, Barrachin rejoint Madrid, où son beau-père Piétri est ambassadeur, puis Lisbonne, et de là, gagne Londres.
+Il est un des fondateurs du Parti républicain de la liberté, qui se veut un rassemblement des droites, et dont les statuts sont déposés le 4 décembre 1945. En 1946, il est élu à la Deuxième Assemblée nationale constituante dans le département de la Seine comme PRL, puis est réélu à l’Assemblée nationale sous la même étiquette en 1946. Démissionnaire du bureau politique en 1947, il se rallie au RPF dès la création de ce parti, dont il intègre le conseil de direction en juin 1949. Il est élu député RPF en 1951 puis quitte ce groupe pour fonder celui de l’Action républicaine et sociale (gaullistes dissidents). Il est réélu en tant que CNI en 1956.
+Candidat dans la circonscription de Courbevoie-La Garenne Colombes (Seine), en novembre 1958, il est distancé par le candidat UNR. Le 26 avril 1959, il est élu au Sénat où il siège jusqu’à sa mort d’abord comme Républicain indépendant puis comme membre de l’Union centriste.
+Edmond Barrachin a été ministre d’État chargé de la réforme constitutionnelle dans le cabinet Joseph Laniel du 28 juin 1953 au 19 juin 1954.
+
+
+
+
+
+
+
+PARTISNORM
+PART Radicaux indépendants (RI) 1932.
+PART 1932 (1932) 1936.
+PART 1936 (1936) .
+PART Parti social français (PSF) 1936.
+PART 1936 (1936) 1946.
+PART 1946 (1946) .
+PART Parti républicain de la liberté (PRL) 1946.
+PART 1946 (1946) 1951.
+PART 1951 (1951) .
+PART Rassemblement du peuple français (RPF) 1951.
+PART 1951 (1951) 1952.
+PART 1952 (1952) .
+PART Centre national des indépendants et paysans (CNIP) 1952.
+PART 1952 (1952) 1958.
+PART 1958 (1958) .
+PART Républicains indépendants (parti politique) (RI) 1959.
+PART 1959 (1959) 1975.
+PART 1975 (1975).
+FONCTIONNORM
+
+NOMF Député 1934-1936puis 1946-1958Sénateur (1959-1975) NOMF GouvernementIIIe République-IVe République-Ve République SEP2 Gouvernement REL IIIe République-IVe République-Ve République SEP2 Groupe politique REL GR (1934-1936)PRL (1946-1951)RPF (1951-1952)ARS (1952-1955)IPAS (1956-1958)RI (1959-1975).
+NOMF Ministre d'État NOMF 28 juin 1953 – 12 juin 1954 SEP2 Gouvernement REL Laniel (1 et 2) SEP2 Date de naissance REL 12 janvier 1900 SEP2 Date de décès REL 8 novembre 1975 (à 75 ans) SEP2 Parti politique REL RI (1932-1936)PSF (1936-1946)PRL (1946-1951)RPF (1951-1952)CNIP (1952-1958)RI (1959-1975) SEP2 Résidence REL Ardennespuis Seine.

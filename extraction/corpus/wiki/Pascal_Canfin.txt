@@ -1,0 +1,29 @@
+PRETAG Pascal.
+NOMTAG Canfin.
+Pascal Canfin, né le 22 août 1974 à Arras en France, est directeur général du WWF France, ancien homme politique et journaliste français. Député européen de juin 2009 à mai 2012 et de mai 2014 à juillet 2014, il fut nommé le 16 mai 2012 ministre délégué au Développement auprès du ministre des Affaires étrangères en France, dans le gouvernement Jean-Marc Ayrault jusqu'à la démission du gouvernement le 31 mars 2014.
+Depuis le 1er juillet 2014, il est Conseiller principal pour le climat du World Resources Institute (WRI), think tank américain spécialisé dans les questions environnementales.
+Le 20 novembre 2015, il est nommé directeur général du WWF France, dont il prend la tête le 6 janvier 2016[1].
+
+Précédemment en couple avec Éva Sas avec laquelle il a deux enfants, il est désormais le compagnon de Claire Alet[38].
+
+
+Formation et activité professionnelle.
+Pascal Canfin naît à Arras[2]. Il est diplômé de l’Institut d'études politiques de Bordeaux et de l’université de Newcastle[3] (Royaume-Uni).
+Chargé de mission à la CFDT du Nord-Pas-de-Calais de 1997 à 1999, il est ensuite consultant en ressources humaines de 1999 à 2003[4]. D'abord intéressé par la semaine de 4 jours, il milite au sein de l'association Nouvelle Donne, créée par Pierre Larrouturou. De 2004 à 2009, il est journaliste au mensuel Alternatives économiques[5], spécialiste des questions liées à l’environnement, à l’économie sociale et solidaire, à la responsabilité sociale des entreprises[6].
+Carrière politique.
+Parallèlement à son activité de journaliste, il s'engage en politique au sein des Verts en 2001[2]. Il est responsable de la commission « Économie, social et services publics » des Verts entre 2005 et 2008[5].
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts) 2001-2010.
+PART Europe Écologie Les Verts (EELV) depuis 2010.
+FONCTIONNORM
+
+NOMF Ministre délégué au Développement NOMF 16 mai 2012 – 31 mars 2014(1 an, 10 mois et 15 jours).
+NOMF Président NOMF GouvernementJean-Marc Ayrault I et II SEP2 Gouvernement REL Jean-Marc Ayrault I et II SEP2 Prédécesseur REL Henri de Raincourt SEP2 Successeur REL Annick Girardin.
+NOMF Député européen NOMF 3 mai – 30 juin 2014(1 mois et 27 jours) SEP2 Circonscription REL Île-de-France SEP2 Législature REL 7e SEP2 Groupe politique REL Verts/ALE SEP2 Prédécesseur REL Jean-Jacob Bicep SEP2 Élection REL 7 juin 2009 SEP2 Circonscription REL Île-de-France SEP2 Législature REL 7e SEP2 Groupe politique REL Verts/ALE SEP2 Successeur REL Jean-Jacob Bicep SEP2 Date de naissance REL 22 août 1974 (43 ans) SEP2 Lieu de naissance REL Arras, Pas-de-Calais (France) SEP2 Nationalité REL Française SEP2 Parti politique REL Les Verts (2001-2010)EELV (depuis 2010) SEP2 Diplômé de REL IEP de BordeauxUniversité de Newcastle SEP2 Profession REL Journaliste.

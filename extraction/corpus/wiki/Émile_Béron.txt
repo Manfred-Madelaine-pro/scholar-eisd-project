@@ -1,0 +1,33 @@
+PRETAG Émile.
+NOMTAG Béron.
+Émile Béron est un homme politique français né le 1er janvier 1896 à Lalaye (Bas-Rhin) et décédé le 28 février 1966 à Strasbourg.
+
+
+Ouvrier métallurgiste à Hagondange, il adhère à la SFIO, devient secrétaire de la section socialiste d'Hagondange, avant d'opter lors du congrès de Tours auquel il participe, pour le parti communiste.
+Membre du secrétariat de la fédération communiste mosellane, il participe en 1922 au congrès de l'internationale communiste de Moscou, et est élu au bureau de l'IC.
+Exclu du parti début 1924 pour indiscipline, il y est réintégré deux ans plus tard.
+Au printemps 1926, il est désigné comme secrétaire de l'union départementale CGTU de Moselle, mais doit rapidement renoncer à ce poste du fait de l'opposition de certains responsables, parmi lesquels Victor Doeblé.
+Il est alors promu au poste de secrétaire politique pour l'Alsace-Moselle et s'installe à Strasbourg, devenant ainsi permanent du parti.
+Créant la surprise compte tenu de la faible implantation du PCF dans la région de Thionville, il est élu député de la Moselle en 1928. L'année suivante, il est élu conseiller municipal d'Hayange.
+En 1932, il est de nouveau exclu du parti. Officiellement, on lui reproche d'avoir manoeuvré pour se faire désigner comme candidat aux législatives. En fait, il s'agit surtout de désaccords politiques autour des questions régionales.
+Malgré la présence d'un candidat communiste, il est assez facilement réélu député en 1932, avec l'étiquette "indépendant de gauche". Il tente alors de revenir au PCF, mais sa réintégration est refusée.
+Candidat malheureux à la mairie d'Hayange en 1935, il est cependant réélu comme conseiller municipal.
+En 1936, candidat du Front populaire sous l'étiquette "socialiste indépendant", il parvient à distancer le candidat du PCF au premier tour, et, grâce au désistement de ce dernier en sa faveur, à obtenir le renouvellement de son mandat de député. Il est alors le seul député favorable au gouvernement Blum dans son département.
+En janvier 1937, il est élu conseiller général du Canton de Hayange à l'occasion d'une partielle provoquée par la démission de Guy de Wendel. Il est réélu lors des élections générales de l'automne.
+Réfugié dans la Loire en juin 1940, il vote en juillet les pleins pouvoirs au maréchal Pétain, puis s'associe à Gaston Bergery dans une déclaration réclamant l'instauration d'un "ordre nouveau".
+Réfugié en Saône-et-Loire, où il prend la tête d'une petite exploitation agricole, il est rapidement suspecté de faire de la propagande germanophobe. Il finit par entrer en clandestinité au début de 1944, après avoir échappé à des tentatives d'arrestation par les militaires allemands.
+Déclaré inéligible pour son vote en faveur de Pétain en 1940 et sa passivité pendant l'occupation, il tente cependant un retour en politique en se présentant aux cantonales de septembre 1945, dans le canton d'Hayange, où il n'obtient que 7,5 % des voix.
+En 1951, il rejoint le parti radical, mais en est exclu en 1954 suite à des prises de positions défavorables à Mendès-France.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1928-1942) NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL PCF (1928-1932)NI (1932-1936)GI (1936-1942) SEP2 Date de naissance REL 1er janvier 1896 SEP2 Lieu de naissance REL Lalaye (Bas-Rhin) SEP2 Date de décès REL 28 février 1966 (à 70 ans) SEP2 Lieu de décès REL Strasbourg (Bas-Rhin) SEP2 Nationalité REL française SEP2 Résidence REL Moselle.

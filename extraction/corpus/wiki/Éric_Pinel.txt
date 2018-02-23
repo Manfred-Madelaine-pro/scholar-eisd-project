@@ -1,0 +1,24 @@
+PRETAG Éric.
+NOMTAG Pinel.
+Éric Pinel, né le 10 décembre 1959 à Paris (Seine), est un homme politique français.
+
+
+
+Il a deux enfants et exerce la profession d'instituteur.
+Il s'engage d'abord chez Les Verts, puis rejoint, de 1994 à 1998, le MPF pour « défendre les idées écologistes chez les nationaux », parti sous la bannière duquel il est candidat aux élections européennes de 1994. Il adhère ensuite au Front national. Il devient directeur de cabinet de Bruno Gollnisch, secrétaire départemental de la fédération du Calvados et conseiller régional de Basse-Normandie, et fonde l'association France écologie environnement (FEE).
+Il intègre enfin les rangs du Parti de la France (PDF) en 2009, qui, à ses yeux, « reprend le flambeau » de la « cause nationale »[1], et qu'il représente lors de l'élection régionale de 2010 en Basse-Normandie et des élections législatives de 2012 dans la 3e circonscription de l'Oise[2]. Il est également présent sur la liste d'Henri Massol lors des élections municipales de mars[3] et des élections partielles de juin 2014[4] à Asnières-sur-Seine.
+
+
+
+
+
+
+
+PARTISNORM
+PART Les Verts (Les Verts).
+PART Mouvement pour la France (MPF).
+PART Front national (FN).
+PART Parti de la France (PDF).
+FONCTIONNORM
+
+NOMF Député européen NOMF 17 juin 1997 – 19 juillet 1999(2 ans, 1 mois et 2 jours) SEP2 Date de naissance REL 10 décembre 1959 (58 ans) SEP2 Lieu de naissance REL Paris (Seine) SEP2 Nationalité REL Française SEP2 Parti politique REL Les VertsMPFFNPDF SEP2 Profession REL Instituteur.

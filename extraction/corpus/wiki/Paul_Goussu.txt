@@ -1,0 +1,18 @@
+PRETAG Paul.
+NOMTAG Goussu.
+Paul Goussu est un industriel et un homme politique français né le 11 février 1889 à Bonnétable et décédé le 17 octobre 1958 au Mans, dans la Sarthe.
+Avant d'accomplir sa carrière professionnelle dans la confection et le négoce du tissu, Paul Goussu est un ami d'enfance de Robert Cornilleau, qui sera plus tard l'une des grandes figures de la démocratie chrétienne en France et du Parti démocrate populaire.
+Lui aussi membre du PDP, Paul Goussu est élu conseiller d'arrondissement et député de la Sarthe contre un candidat radical-socialiste en 1936, puis conseiller général de Loué en 1937. Ayant voté, le 10 juillet 1940, en faveur de la remise des pleins pouvoirs au Maréchal Pétain, il est déclaré inéligible à la Libération. Il fait appel de cette décision devant le Jury d'honneur, mais celui-ci maintient cette décision, considérant que « les actes qu'il fait valoir ne sont pas d'une importance telle qu'ils puissent être considérés comme impliquant une participation à la lutte contre l'ennemi ou l'usurpateur ».
+Redevenu éligible en 1951, il retrouve son mandat de conseil général et devient vice-président de l'assemblée départementale. La même année en revanche, il échoue dans sa tentative de conquête d'un mandat de sénateur. En 1956, il conduit la liste d'Union des indépendants et paysans aux élections législatives, qui arrive en quatrième position derrière les listes communiste, socialiste et poujadiste. Élu, il approuve le retour au pouvoir du général de Gaulle et décède quelques semaines avant le terme de son mandat.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940puis 1956-1958 NOMF GouvernementTroisième République-Quatrième République SEP2 Gouvernement REL Troisième République-Quatrième République SEP2 Groupe politique REL DP (1936-1940)IPAS (1956-1958) SEP2 Date de naissance REL 11 février 1889 SEP2 Date de décès REL 17 octobre 1958 (à 69 ans) SEP2 Résidence REL Sarthe.

@@ -1,0 +1,16 @@
+PRETAG Albert.
+NOMTAG Trébosc.
+Albert Trébosc, né le 13 février 1909 et mort le 3 août 1990, est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de l'Aveyron NOMF 30 novembre 1958 – 9 octobre 1962 SEP2 Date de naissance REL 13 février 1909 SEP2 Date de décès REL 3 août 1990 (à 81 ans) SEP2 Nationalité REL Française.

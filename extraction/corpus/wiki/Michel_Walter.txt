@@ -1,0 +1,20 @@
+PRETAG Michel.
+NOMTAG Walter.
+Michel Walter est un homme politique alsacien né le 5 février 1884, à Haguenau, et décédé le 29 janvier 1947 à Saverne, dans le Bas-Rhin.
+Docteur ès sciences, il est enseignant et collaborateur du journal l'Elsaesser. Il entre en politique en 1911, en participant à la campagne électorale du Landtag d'Alsace-Lorraine, soutenant un candidat alsacien.
+Après la Première Guerre mondiale, il rejoint l'Union populaire républicaine, le grand parti conservateur et autonomiste social-chrétien alsacien. Candidat en 1919 aux élections législatives sur les listes du Bloc national, il est élu et s'inscrit au groupe de l'Entente républicaine démocratique, qui regroupe les députés affiliés à la Fédération républicaine, le parti conservateur de l'époque. Réélu en 1924, il rejoint cette fois-ci le groupe des Démocrates, qui préfigure le parti démocrate-chrétien PDP. En 1928 en revanche, il préfère rejoindre le plus conservateur groupe des Députés indépendants.
+À la suite des élections cantonales de 1931, qui voient le  succès des autonomistes, Michel Walter sera élu à Strasbourg  président du conseil général du Bas-Rhin. L'homme politique  avait déjà organisé, avec le Comité de la défense religieuse,  une manifestation monstre sur la place Kléber en 1924.(DNA 29/11/2015)
+En 1932, il participe à la création du groupe des Républicains du centre, première organisation parlementaire autonome des députés chrétiens des régions libérées. Ce groupe est prolongé en 1936 par la création du groupe des Indépendants d'action populaire, au sein duquel siègent tous les élus de l'UPR et de l'Union républicaine lorraine, pendant mosellan de l'Union populaire républicaine.
+Michel Walter est un militant alsacien modéré, très soucieux de la défense de l'identité alsacienne, et plus particulièrement de ses racines chrétiennes. Mais il est également très attaché à l'appartenance de sa région à la France. Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au maréchal Pétain mais récuse l'occupation nazie. Il se retire dans la région de Périgueux pendant la Seconde Guerre mondiale. Il rejoint le Mouvement républicain populaire à sa création.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ERD (1919-1924)Dém. (1924-1928)Ind. (1928-1932)RDC (1932-1936)IAP (1936-1940) SEP2 Date de naissance REL 5 février 1884 SEP2 Date de décès REL 29 janvier 1947 SEP2 Résidence REL Bas-Rhin.

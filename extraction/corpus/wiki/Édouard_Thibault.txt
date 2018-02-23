@@ -1,0 +1,16 @@
+PRETAG Édouard.
+NOMTAG Thibault.
+Édouard Thibault est un homme politique français, né le 27 septembre 1912 à Sablé-sur-Sarthe et décédé le 16 novembre 1977 à Paris.
+Époux d'Yvonne Borel, il a été professeur d'histoire au lycée Alphonse-Daudet.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député du Gard NOMF 1945 – 1962 SEP2 Groupe politique REL MRPJeune République SEP2 Date de naissance REL 27 septembre 1912 SEP2 Date de décès REL 16 novembre 1977 (à 65 ans) SEP2 Profession REL Professeur d'histoire-géographie.

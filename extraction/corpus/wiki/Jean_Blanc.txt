@@ -1,0 +1,22 @@
+PRETAG Jean.
+NOMTAG Blanc.
+Jean Blanc[1], né le 11 septembre 1920 à Saint-Jean-de-Maurienne (Savoie) et mort le 29 septembre 2004 à La Ravoire (Savoie), est un homme politique français.
+Issu d'une famille de maraîchers et lui-même maraîcher, il quitte Saint-Jean-de-Maurienne avec sa famille pour La Ravoire, à proximité de Chambéry, en 1937. Comédien amateur de 1932 à 1953, il milite à la Jeunesse agricole chrétienne (JAC), et se forge une sensibilité chrétienne-démocrate. Pendant l'Occupation, il est incorporé dans les chantiers de jeunesse. Catholique pratiquant, son implication dans les activités de la paroisse contribuent à le faire connaître.
+Trop jeune pour être élu en 1945, il devient premier adjoint au maire en 1947, puis est élu maire en 1953 : il le restera jusqu'en 2001. Il va accompagner la transformation de ce village rural de 700 habitants en la troisième commune urbaine de l'agglomération chambérienne. Au cours de ses six mandats municipaux, la commune va se doter de nombreux lotissements et logements HLM, de nouveaux quartiers (Féjaz, Val Fleuri) et commencer la construction d'un centre-ville qui se poursuit, autour de l'hôtel de ville inauguré en 1985. Des zones industrielles sont implantées, et permettent de financer les réalisations sociales de la mairie grâce à la taxe professionnelle.
+Principal acteur de la création de l'intercommunalité chambérienne, qu'il préside de 1957 à 1977, Jean Blanc est élu conseiller général du canton de la Ravoire en 1961, puis sénateur en 1968, à 48 ans, lors de sa troisième tentative. Il sera un relais efficace des problèmes de la Savoie au Parlement. Après 27 ans de mandat, Jean Blanc est battu par Roger Rinchet, PS, lors des sénatoriales de 1995.
+Jean Blanc est l'un des membres fondateurs du MRP en Savoie avec Joseph Fontanet, dont il sera l'un des grands amis. Président départemental du MRP, Jean Blanc présidera ensuite le CDS puis l'UDF. Au sein de l'Union pour la Savoie, créée en 1982, il participe à la coalition majoritaire du département avec le RPR de Michel Barnier. Il est le premier vice-président du département de 1982 à 1998.
+Au Conseil général comme au Sénat, il sera toujours très attentif au monde agricole.
+Par la durée de son engagement et sa recherche systématique du consensus, Jean Blanc est, avec Pierre Dumas, un des personnages qui a marqué la vie politique savoyarde dans la deuxième moitié du XXe siècle. D'une extrême bonté et gentillesse, Jean Blanc était aussi l'un des hommes les plus populaires du département.
+Jean Blanc était marié et père de huit enfants. Son épouse, Armande, est décédée en novembre 2003. Aujourd'hui, la salle polyvalente de La Ravoire porte son nom[2].
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1968-1995 NOMF GouvernementQuatrième RépubliqueCinquième République SEP2 Gouvernement REL Quatrième RépubliqueCinquième République SEP2 Groupe politique REL CDS SEP2 Nom de naissance REL Jean-Pierre Blanc SEP2 Date de naissance REL 11 septembre 1920 SEP2 Lieu de naissance REL Saint-Jean-de-Maurienne SEP2 Date de décès REL 29 septembre 2004 (à 84 ans) SEP2 Lieu de décès REL La Ravoire SEP2 Nationalité REL Française SEP2 Profession REL homme politique SEP2 Résidence REL Savoie.

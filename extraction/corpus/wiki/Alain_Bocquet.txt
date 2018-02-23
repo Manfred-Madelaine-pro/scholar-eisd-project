@@ -1,0 +1,29 @@
+PRETAG Alain.
+NOMTAG Bocquet.
+Alain Bocquet, né le 6 mai 1946 à Marquillies (Nord), est un homme politique français. Il est député de 1978 à 2017.
+
+
+
+Alain Bocquet commence sa vie professionnelle comme éducateur spécialisé. Il adhère au Parti communiste français en 1964[1].
+Il est élu député pour la première fois en 1978, et constamment réélu depuis. Il a été président du groupe communiste de 1993 à 2007. Il fait partie du groupe de la Gauche démocrate et républicaine depuis 2007. Le 17 juin 2012, il est réélu pour un neuvième mandat de député sous l'étiquette Front de gauche.
+Il rédige en 2012 un rapport d’enquête avec Nicolas Dupont-Aignan (député de l’Essonne et président de Debout la France) sur les paradis fiscaux et comment lutter activement contre[2].
+En 2016, il publie Sans domicile fisc, un livre coécrit avec son frère, le sénateur Éric Bocquet, dans lequel sont dénoncés des mécanismes d'évasion et de fraude fiscales et préconisées des mesures pour lutter contre cette pratique[3].
+Le 14 février 2017, après 39 ans de vie parlementaire et neuf législatures, il décide de ne pas se représenter[4].
+Après la victoire de Fabien Roussel, un ancien journaliste cameraman de 48 ans, aux élections législatives de juin 2017, Alain Bocquet, qui est toutefois son suppléant[5], déclare : « Je quitte l’Assemblée avec une grande sérénité et un brin de fierté. Et je passe le relais à un jeune dirigeant politique proche du terrain »[6].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti communiste français (PCF).
+FONCTIONNORM
+
+NOMF Député de la 20e circonscription du Nord NOMF 12 juin 1988 – 20 juin 2017(29 ans et 8 jours) SEP2 Élection REL 12 juin 1988 SEP2 Réélection REL 28 mars 19931er juin 199716 juin 200217 juin 200717 juin 2012 SEP2 Législature REL IXe, Xe, XIe, XIIe, XIIIe et XIVe SEP2 Prédécesseur REL Gustave Ansart (PCF) SEP2 Successeur REL Fabien Roussel (PCF).
+NOMF Député du Nord(Scrutin proportionnel) NOMF 2 avril 1986 – 14 mai 1988(2 ans, 1 mois et 12 jours) SEP2 Élection REL 16 mars 1986 SEP2 Législature REL VIIIe SEP2 Prédécesseur REL - SEP2 Successeur REL Lui-même.
+NOMF Député de la 19e circonscription du Nord NOMF 3 avril 1978 – 1er avril 1986(7 ans, 11 mois et 29 jours) SEP2 Élection REL 19 mars 1978 SEP2 Réélection REL 21 juin 1981 SEP2 Législature REL VIe, VIIe, SEP2 Prédécesseur REL Georges Donnez (MDSF) SEP2 Successeur REL Gustave Ansart (PCF) SEP2 Élection REL 18 juin 1995 SEP2 Réélection REL 11 mars 20019 mars 200823 mars 2014 SEP2 Prédécesseur REL Georges Donnez (MDSF).
+NOMF Conseiller régional du Nord-Pas-de-Calais NOMF 23 mars 1992 – 15 mars 1998(5 ans, 11 mois et 20 jours) SEP2 Élection REL 22 mars 1992.
+NOMF Président NOMF Président du Groupe communiste de l'Assemblée nationale.
+NOMF Président du Groupe communiste de l'Assemblée nationale NOMF 2 avril 1993 – 19 juin 2007(14 ans, 2 mois et 17 jours) SEP2 Élection REL 2 avril 1993 SEP2 Prédécesseur REL André Lajoinie SEP2 Successeur REL Roland Muzeau SEP2 Nom de naissance REL Alain Bocquet SEP2 Date de naissance REL 6 mai 1946 (71 ans) SEP2 Lieu de naissance REL Marquillies (Nord) SEP2 Nationalité REL  Français SEP2 Parti politique REL PCF SEP2 Fratrie REL Éric Bocquet SEP2 Profession REL Éducateur spécialisé.

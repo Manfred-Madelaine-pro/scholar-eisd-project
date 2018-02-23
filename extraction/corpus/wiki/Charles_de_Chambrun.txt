@@ -1,0 +1,19 @@
+PRETAG Charles_de.
+NOMTAG Chambrun.
+Charles de Pineton de Chambrun, né le 16 juin 1930 à Paris 7e et mort le 21 octobre 2010 à Carthage-Salammbô (Tunisie)[1], est un homme politique français, administrateur de sociétés[2]. Il a été successivement membre du MRP, apparenté UDR, membre du RPR avant de rejoindre le FN.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Front national (FN).
+FONCTIONNORM
+
+NOMF Député du Gard NOMF 16 mars 1986 – 14 mai 1988 SEP2 Législature REL VIIIe (Cinquième République) SEP2 Groupe politique REL FN-RN SEP2 Prédécesseur REL aucun SEP2 Successeur REL aucun.
+NOMF Député de la 2e circonscription de la Lozère NOMF 5 mars 1967 – 1er avril 1973 SEP2 Législature REL IIIe, IVe (Cinquième République) SEP2 Prédécesseur REL Victor Gouton SEP2 Successeur REL aucun (proportionnelle) SEP2 Législature REL IIe (Cinquième République) SEP2 Prédécesseur REL Henri Trémolet de Villers SEP2 Successeur REL Victor Gouton (suppléant) SEP2 Date de naissance REL 16 juin 1930 SEP2 Lieu de naissance REL Paris 7e SEP2 Date de décès REL 21 octobre 2010 (à 80 ans) SEP2 Lieu de décès REL Carthage-Salammbô (Tunisie) SEP2 Nationalité REL Française SEP2 Parti politique REL FN.

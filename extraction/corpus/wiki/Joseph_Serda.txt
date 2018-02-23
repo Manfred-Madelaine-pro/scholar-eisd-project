@@ -1,0 +1,15 @@
+PRETAG Joseph.
+NOMTAG Serda.
+Joseph Serda est un homme politique français, né le 7 mai 1889 à Boufarik (Algérie) et mort le 1er février 1965 à Biarritz (Pyrénées-Atlantiques, France).
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1932-1940) NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL Gauche radicale (1932-1936)Gauche indépendante (1936-1942) SEP2 Date de naissance REL 7 mai 1889 SEP2 Date de décès REL 1er février 1965 SEP2 Résidence REL Algérie.
