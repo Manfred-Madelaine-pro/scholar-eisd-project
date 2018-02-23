@@ -127,7 +127,7 @@ return {
 	["auffray"] = {
 		name = "Auffray",
 		firstname = "Charles",
-		particule = nil,
+		particule = "Il",
 	
 		birth = "20 décembre 1887",
 		death = "11 septembre 1957",

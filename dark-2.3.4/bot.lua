@@ -73,24 +73,19 @@ function test_fonctionnel()
 
 		-- un element
 		"Lieu de naissance ?","sep",
-		"Laguiller ?",
+		"Parlons de Laguiller.",
 		
 		-- substitution du sujet
-		"date de naissance ?","sep",
+		"quelle est sa date de naissance ?","sep",
 
 		
 		-- Elements multiples 
 		"Laguiller et toi ?", "sep",
 		"Lieu de naissance de Macron et Auffray ?",
-		-- rename
+
 		"Lieu de naissance et date de naissance de Auffray", "sep",
-		
-
-		-- répônse double fusionnée
-		-- TODO trouver autre ex 
-		"qui sont les créateurs de Macron et Mélenchon ?",
-
 		"quelle est la date de naissance de Melenchon ? et sa formation ?", "sep",
+
 
 		-- montrer l'aleatoire
 		--GESTION DE LA CASSE, MINI CORRECTION
@@ -98,15 +93,17 @@ function test_fonctionnel()
 
 
 			--- Spécial --- 
-		-- parler au S de D 
+		-- s'adresser au S de D de différentes façon 
 		"qui sont les createurs d'ugoBot ?",
 		"qui sont tes createurs ?",
 		-- TODO
 		"et les miens ?", "sep",
-		"qui sont les createurs de Mélenchon", "sep",
+
+		-- répônse double fusionnée
+		"qui sont les créateurs de Macron et Mélenchon ?",
 
 		-- Small talk
-		"Quel est la réponse à la grande question sur la vie, l'univers et le reste","sep",
+		"Quelle est la réponse à la grande question sur la vie, l'univers et le reste","sep",
 		"affiche moi l'historique", "sep",
 		
 		
@@ -117,7 +114,7 @@ function test_fonctionnel()
 			--- Complexe --- 
 		"Lieu de naissance de Mélenchon et qui sont tes créateurs ?","sep",
 
-		"quel est le bord politique de melenchon ?", "sep",
+		"quel est le bord politique de macron et melenchon ?", "sep",
 
 		-- liste longue : info sur la taille + écriture inclusive
 		"quelle est la profession de Mélenchon et macron ?"," sep",

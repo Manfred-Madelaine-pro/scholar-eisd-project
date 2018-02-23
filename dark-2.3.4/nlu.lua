@@ -142,7 +142,7 @@ main:pattern([[
 	]
 ]])
 
-main:pattern('"quel" .{,3}? "reponse" .{,3}? ['..tool.tag(life)..' #42 ]')
+main:pattern('"quelle" .{,3}? "reponse" .{,3}? ['..tool.tag(life)..' #42 ]')
 
 main:pattern('['..tool.tag(tool.qtag(help))..' "$" "help" ]')
 
