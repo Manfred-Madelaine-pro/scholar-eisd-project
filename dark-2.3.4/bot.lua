@@ -117,9 +117,7 @@ function test_fonctionnel()
 		"quel est le bord politique de macron et melenchon ?", "sep",
 
 		-- liste longue : info sur la taille + écriture inclusive
-		"quelle est la profession de Mélenchon et macron ?"," sep",
-		"Mélenchon f","sep",
-		
+		"quelle est la profession de Mélenchon et macron ?"," sep",		
 		
 		-- limites  du systèle de dialogue 
 		"de quel bord politique est laguiller ?",
@@ -130,10 +128,7 @@ function test_fonctionnel()
 		
 		-- TODO attribut incorrect
 
-		"quels sont les partis auquels Melenchon a été membre ?",
 		"quels sont les partis auquels Melenchon et Macron ont été membre ?",
-		"melu f",
-		"melu profession",
 
 		"quelles sont les professions de macron et quelle est la formation de melenchon ?",
 		"de quel bord politique sont melenchon et macron ?",
@@ -180,7 +175,7 @@ function bot_processing(line)
 
 	-- traitement de la ligne de texte
 	seq = lp.process(line)
-	print(seq:tostring(tags))
+	--print(seq:tostring(tags))
 
 	return contextual_analysis(seq)
 end
@@ -333,7 +328,7 @@ end
 function get_pattern(key, typ, is_key)
 	-- analyse des types
 	--TODO delet
-	print(key, typ)
+	--print(key, typ)
 	if is_key and key and typ then analyse_elm(key, typ, not is_key)
 
 	-- choix du paterne
@@ -520,7 +515,7 @@ end
 function get_pos(tab, att_secondaire, word)
 	-- boucle sur le nom des formation à la recherche du mot clé
 	for i,v in ipairs(tab) do
-		print(i,v.name)
+		--print(i,v.name)
 		for w in v.name:gmatch("%w+") do 
 			if(w == word) then return i end
 		end
