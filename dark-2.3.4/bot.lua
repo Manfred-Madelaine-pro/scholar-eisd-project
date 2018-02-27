@@ -514,7 +514,7 @@ end
 function get_pos(tab, att_secondaire, word)
 	-- boucle sur le nom des formation à la recherche du mot clé
 	for i,v in ipairs(tab) do
-		print(i,v.name)
+		--print(i,v.name)
 		for w in v.name:gmatch("%w+") do 
 			if(w == word) then return i end
 		end
