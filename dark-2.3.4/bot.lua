@@ -72,8 +72,8 @@ function test_fonctionnel()
 			--- Simple & Normal --- 
 
 		-- un element
-		"Lieu de naissance ?","sep",
-		"Parlons de Laguiller.",
+		"LIEU DE NAISSANCE ?","sep",
+		"Parlons de Laguiller s'il te plait.",
 		
 		-- substitution du sujet
 		"quelle est sa date de naissance ?","sep",
@@ -83,12 +83,12 @@ function test_fonctionnel()
 		"Laguiller et toi ?", "sep",
 		"Lieu de naissance de Macron et Auffray ?",
 
+		"de quel bord politique sont melenchon et macron ?",
 		"Lieu de naissance et date de naissance de Auffray", "sep",
 		"quelle est la date de naissance de Melenchon ? et sa formation ?", "sep",
 
+		"quel est le bord politique de macron et celui de melenchon ?", "sep",
 
-		-- montrer l'aleatoire
-		--GESTION DE LA CASSE, MINI CORRECTION
 		-- les particules
 
 
@@ -103,48 +103,42 @@ function test_fonctionnel()
 		"qui sont les créateurs de Macron et Mélenchon ?",
 
 		-- Small talk
-		"Quelle est la réponse à la grande question sur la vie, l'univers et le reste","sep",
+		"Quelle est la réponse à la grande question sur la vie, l'univers et tout le reste ?","sep",
+		--historique
 		"affiche moi l'historique", "sep",
 		
-		
-		-- reformuler
-		"date de naissance et lieu de naissance de Melenchon ainsi que lieu de naissance de Macron ?",
-		
+
 		
 			--- Complexe --- 
+
 		"Lieu de naissance de Mélenchon et qui sont tes créateurs ?","sep",
 
-		"quel est le bord politique de macron et melenchon ?", "sep",
+		"la date de naissance et le lieu de naissance de Melenchon ainsi que lieu de naissance de Macron ?",
+		
 
 		-- liste longue : info sur la taille + écriture inclusive
 		"quelle est la profession de Mélenchon et macron ?"," sep",
-		"Mélenchon f","sep",
 		
+		"quels sont les partis auquels Melenchon et Macron ont été membre ?",
 		
+		-- boucler sur les attibuts
+		"quand Macron a-t-il eu son Baccalauréat ?",
+		"quand Macron et melenchon ont-il eu leur Baccalauréat ?",
+
+
 		-- limites  du systèle de dialogue 
+		-- clef icorrecte
+		"quelle est la date de naissance de Dominique ?",
+		-- attribut incorrect
 		"de quel bord politique est laguiller ?",
 		"quand glotin a-t-il eu sa Licence ?",
 
-		-- clef icorrecte
-		"quelle est la date de naissance de Dominique ?",
 		
-		-- TODO attribut incorrect
-
-		"quels sont les partis auquels Melenchon a été membre ?",
-		"quels sont les partis auquels Melenchon et Macron ont été membre ?",
-		"melu f",
-		"melu profession",
-
-		"quelles sont les professions de macron et quelle est la formation de melenchon ?",
-		"de quel bord politique sont melenchon et macron ?",
+		--"quelles sont les professions de macron et quelle est la formation de melenchon ?",
 
 		-- exit
 		"au revoir et merci de votre attention ! :) ",
 		-- chercher une information secondaire
-		"quand Macron a-t-il eu son Baccalauréat ?",
-		"quand Macron et melenchon ont-il eu leur Baccalauréat ?",
-		"qui sont les createurs de Mélenchon", "sep",
-		"quelle est la date de naissance de Melenchon ? et sa formation ?", "sep",
 	}
 	
 	-- auffray laguiller glotin bocueil
@@ -167,7 +161,7 @@ function test_fonctionnel()
 		bot_processing(line)
 
 		--pause
-		io.write("\n--- Appuyez sur une touche pour continuer ---\n ")
+		--io.write("\n--- Appuyez sur une touche pour continuer ---\n ")
 		io.read()		
 	end
 end
@@ -180,7 +174,7 @@ function bot_processing(line)
 
 	-- traitement de la ligne de texte
 	seq = lp.process(line)
-	print(seq:tostring(tags))
+	--print(seq:tostring(tags))
 
 	return contextual_analysis(seq)
 end
@@ -333,7 +327,7 @@ end
 function get_pattern(key, typ, is_key)
 	-- analyse des types
 	--TODO delet
-	print(key, typ)
+	--print(key, typ)
 	if is_key and key and typ then analyse_elm(key, typ, not is_key)
 
 	-- choix du paterne

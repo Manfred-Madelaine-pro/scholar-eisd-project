@@ -80,7 +80,7 @@ l_fin  = {"bye", "au revoir", "quit", "ciao", "adieu","bye-bye"}
 l_dev  = {"Manfred MadlnT", "Cedrick RibeT", "Hugo BommarT", "Laos GalmnT"}
 
 l_tutoiement = {
-	"tu", "te", "t'", "tes", "ton", "toi", 
+	"tu", "t'", "tes", "ton", "toi", 
 	"chatbot", "systeme de dialogue", string.lower(BOT_NAME)
 }
 

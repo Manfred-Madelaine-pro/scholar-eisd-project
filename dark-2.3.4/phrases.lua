@@ -123,7 +123,7 @@ mdl_bac = {tool.bls(sjt).." a eu son "..tool.bls(res).."."}
 
 mdl_birth = {
 	tool.bls(sjt).." est né le "..tool.bls(res)..".", 
-	"La date de naissance de "..tool.bls(sjt).." est le "..tool.bls(res)..".", 
+	--"La date de naissance de "..tool.bls(sjt).." est le "..tool.bls(res)..".", 
 
 }
 
