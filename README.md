@@ -4,10 +4,10 @@
 ## Auteurs
 Projet d'EISD realisé par les etudiants:
 
-- @Manfred Madelaine
-- @Cédrick Ribet
-- @Hugo Bommart
-- @Léo Galmant
+- Manfred Madelaine
+- Cédrick Ribet
+- Hugo Bommart
+- Léo Galmant
 
 ## Description
 Projet d'une durée de 3 mois visant au développement d'un système de dialogue axé sur les Personnalités Politiques Françaises. 
@@ -20,13 +20,16 @@ Le système de dialogue doit tendre vers des dialogues les plus naturels que pos
 ...
 
 ### Lancement du Système de Dialogue
-1. Se placer dans le Répertoire 'systeme_de_dialogue'
+1. Se placer dans le Répertoire '<systeme_de_dialogue>'
+
 
 2. Entrer la commande 
-'./dark main.lua'
+'''
+./dark main.lua
+'''
 
 3. Choisisser un mode :
-![mode_selection](screenshot/mode_selection.png)
+![screenshot/mode_selection.png](screenshot/mode_selection.png)
 
 
 
