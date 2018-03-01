@@ -11,33 +11,31 @@ Projet d'EISD realisé par les etudiants:
 
 ## Description
 Projet d'une durée de 3 mois visant au développement d'un système de dialogue axé sur les Personnalités Politiques Françaises. 
-Ce système de dialogue doit permettre à l'utilisateur de poser des questions sur un politicien tel que sa date ou lieu de naissance, les partis auquels ce dernier à adhérer ou encore sa formation (cf détail des questions possibles) tout en gardant une certaine cohérence dans l'échange.
+Ce système de dialogue doit permettre à l'utilisateur de poser des questions sur un politicien tel que sa date ou lieu de naissance, les partis auquels ce dernier à adhérer ou encore sa formation (cf détail des questions possibles dans le rapport) tout en gardant une certaine cohérence dans l'échange.
 Le système de dialogue doit tendre vers des dialogues les plus naturels que possible.
 
 ## Mise en Place et Utilisation Rapide
 
 ### Extraction des données du Corpus
-...
+cf léo
 
 ### Lancement du Système de Dialogue
-1. Se placer dans le Répertoire 
-    *systeme_de_dialogue*
-    __systeme_de_dialogue__
+1. Se placer dans le Répertoire __systeme_de_dialogue__
 
-
-2. Entrer la commande 
-'''markdown
-./dark main.lua
-'''
+2. Entrer la commande __./dark main.lua__
 
 3. Choisisser un mode :
+	1. Mode Interactif
+	2. Mode Test Fonctionnel 
+
+4. Le programme est lancé !
 
 
 ## Langages utilisés
 
-* Extraction des donnée en **Python**
+* _Extraction des donnée_ en **Python**
 
-* Système de dialogue en **Lua**
+* _Système de dialogue_ en **Lua**
 
 
 ## Remerciements 
