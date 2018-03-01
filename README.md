@@ -2,6 +2,7 @@
 
 
 ## Auteurs
+Projet d'EISD realisé par les etudiants:
 
 @Manfred Madelaine
 @Cédrick Ribet
@@ -15,29 +16,26 @@ Le système de dialogue doit tendre vers des dialogues les plus naturels que pos
 
 ## Mise en Place et Utilisation Rapide
 
+### Extraction des données du Corpus
+...
 
-Nom du projet
-Auteur et copyright
-État du projet
-Rapide description
-Mise ne place, utilisation rapide
-Licence(s)
-Documentation courte et/ou page pointant vers documentation longue (ou page d’exemple)
-Méthode de rapport de bug, contribution
+### Lancement du Système de Dialogue
+1. Se placer dans le Répertoire 'systeme_de_dialogue'
+
+2. Entrer la commande 
+'./dark main.lua'
+
+3. Choisisser un mode :
+![mode_selection](/screenshot/mode_selection.png)
 
 
 
-##Sujet Politiciens Français
+## Langages utilisés
 
-# Extraction des données du Corpus
+* Extraction des donnée en Python
 
-# Lancement du Système de Dialogue
-'''
-./dark main.lua
-'''
+* Système de dialogue en Lua
 
-# Langages utilisés
 
-Extraction des donnée en Python
-
-Système de dialogue en Lua
+## Remerciements 
+Un grand merci aux personnes ayant rempli le questionnaire visant à enrichir les réponses du système et les rendre plus naturelles.
