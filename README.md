@@ -16,10 +16,10 @@ Le système de dialogue doit tendre vers des dialogues les plus naturels que pos
 
 ## Mise en Place et Utilisation Rapide
 
-### Extraction des données du Corpus
+### A- Extraction des données du Corpus
 cf léo
 
-### Lancement du Système de Dialogue
+### B- Lancement du Système de Dialogue
 1. Se placer dans le Répertoire __systeme_de_dialogue__
 
 2. Entrer la commande __./dark main.lua__
