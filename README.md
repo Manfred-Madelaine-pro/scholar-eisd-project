@@ -20,24 +20,24 @@ Le système de dialogue doit tendre vers des dialogues les plus naturels que pos
 ...
 
 ### Lancement du Système de Dialogue
-1. Se placer dans le Répertoire '<systeme_de_dialogue>'
+1. Se placer dans le Répertoire 
+    *systeme_de_dialogue*
+    __systeme_de_dialogue__
 
 
 2. Entrer la commande 
-'''
+'''markdown
 ./dark main.lua
 '''
 
 3. Choisisser un mode :
-![screenshot/mode_selection.png](screenshot/mode_selection.png)
-![Alt text](/screenshot/mode_selection.png?raw=true "Optional Title")
 
 
 ## Langages utilisés
 
-* Extraction des donnée en Python
+* Extraction des donnée en **Python**
 
-* Système de dialogue en Lua
+* Système de dialogue en **Lua**
 
 
 ## Remerciements 
