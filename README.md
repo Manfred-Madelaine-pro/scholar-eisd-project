@@ -11,7 +11,7 @@ Projet d'EISD realisé par les etudiants:
 
 ## Description
 Projet d'une durée de 3 mois visant au développement d'un système de dialogue axé sur les Personnalités Politiques Françaises. 
-Ce système de dialogue doit permettre à l'utilisateur de poser des questions sur un politicien tel que sa date ou lieu de naissance, les partis auquels ce dernier à adhérer ou encore sa formation (cf détail des questions possibles dans le rapport) tout en gardant une certaine cohérence dans l'échange.
+Ce système de dialogue doit permettre à l'utilisateur de poser des questions sur un politicien tel que sa date ou lieu de naissance, les partis auquels il a adhéré ou encore sa formation (c.f. détail des questions possibles dans le rapport) tout en gardant une certaine cohérence dans l'échange.
 Le système de dialogue doit tendre vers des dialogues les plus naturels que possible.
 
 ## Mise en Place et Utilisation Rapide
