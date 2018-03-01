@@ -4,10 +4,10 @@
 ## Auteurs
 Projet d'EISD realisé par les etudiants:
 
-- Manfred Madelaine
-- Cédrick Ribet
-- Hugo Bommart
-- Léo Galmant
+- Manfred Madelaine :+1:
+- Cédrick Ribet :100:
+- Hugo Bommart :fire:
+- Léo Galmant  :nose:
 
 ## Description
 Projet d'une durée de 3 mois visant au développement d'un système de dialogue axé sur les Personnalités Politiques Françaises. 
@@ -30,7 +30,7 @@ Le système de dialogue doit tendre vers des dialogues les plus naturels que pos
 
 3. Choisisser un mode :
 ![screenshot/mode_selection.png](screenshot/mode_selection.png)
-
+![Alt text](/screenshot/mode_selection.png?raw=true "Optional Title")
 
 
 ## Langages utilisés
