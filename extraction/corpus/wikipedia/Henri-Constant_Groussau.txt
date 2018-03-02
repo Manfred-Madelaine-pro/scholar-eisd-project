@@ -16,20 +16,10 @@ Il était Grand-croix de l'Ordre de Saint-Grégoire-le-Grand. Il est inhumé au 
 
 PARTISNORM
 PART Action libérale PART  (AL) 1902.
-PART 1902 PART  (1902) 1919.
-PART 1919 PART  (1919) .
 PART Indépendants républicains PART  (Ind.) 1919.
-PART 1919 PART  (1919) 1924.
-PART 1924 PART  (1924) .
 PART Non-inscrits à l'Assemblée nationale PART  (NI) 1924.
-PART 1924 PART  (1924) 1928.
-PART 1928 PART  (1928) .
 PART Union républicaine démocratique PART  (URD) 1928.
-PART 1928 PART  (1928) 1932.
-PART 1932 PART  (1932) .
 PART Fédération républicaine PART  (FR) 1932.
-PART 1932 PART  (1932) 1936.
-PART 1936 PART  (1936).
 FONCTIONNORM
 
 NOMF Député de la 10e circonscription de Lille NOMF 29 avril 1928 – 31 mai 1936 SEP2 Prédécesseur REL Lui-même SEP3  SEP2 Successeur REL Gilbert Declercq (PCF) SEP3 .
