@@ -106,7 +106,7 @@ main:pattern('("compagne"|"femme") [#femme #prenom #nom?]')
 --main:pattern('[#parti'..tool.get_tag(parti)..']')
 main:pattern('[#intervalDate (#annee "-"|"depuis") #annee]')
 main:pattern('[#raccourcis "(" [#acc .{,4}] ")"]')
-main:pattern('[#parti [#nom .*?] #raccourcis #intervalDate]')
+main:pattern('"PART" [#parti [#nom .+?] #raccourcis? #intervalDate?]')
 
 
 main:pattern('"NOMF" [#nomFonc .*?] "NOMF"')
@@ -139,11 +139,17 @@ tags = {
 	["#lieuF"] = "blue",
 	["#anneeObtention"] = "blue",
 	["#femme"] = "red",
+	["#parti"] = "red",
+	["#nom"] = "red",
+	["#raccourcis"] = "red",	
+	["#intervalDate"] = "red",
 	
 }
 
 db = {
+	["JLM"] = {
 
+	}
 }
 
 function traitement(seq, nom, prenomm)
@@ -249,7 +255,8 @@ function traitement(seq, nom, prenomm)
 end
 
 
-local f_test = "../extraction/corpus/wiki"
+--local f_test = "../extraction/corpus/wikipedia"
+local f_test = "../test"
 lp.read_corpus(f_test)
 
 local outfile = io.open("databaseTemp.lua", "w")
@@ -258,7 +265,7 @@ outfile:write(serialize(db))
 outfile.close()
 
 
-print(serialize(db))
+--print(serialize(db))
 return tst
 
 

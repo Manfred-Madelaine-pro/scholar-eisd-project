@@ -32,7 +32,7 @@ function lp.split_sentence(line)
 	-- Decoupage de la phrase en plusieurs segments selon la ponctuation
 	for sen in line:gmatch("(.-[.?!])") do
 		seq = lp.process(sen)
-		--print(main(seq):tostring(tags))
+		print(main(seq):tostring(tags))
 		traitement(seq, fichierCourant, prenom)
 	end
 end
@@ -45,7 +45,7 @@ function lp.read_corpus(corpus_path)
 		fic = lp.split(f, ".")[1]
 		prenom = lp.split(fic, "_")[1]
 		fichierCourant = lp.split(fic, "_")[2]
-		print(fichierCourant)
+		print(f)
 		for line in io.lines(corpus_path.."/"..f) do
 			if line ~= "" then
 				lp.split_sentence(line)
