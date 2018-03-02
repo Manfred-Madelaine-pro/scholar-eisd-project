@@ -78,7 +78,6 @@ function test_fonctionnel()
 		-- substitution du sujet
 		"quelle est sa date de naissance ?","sep",
 
-		
 		-- Elements multiples 
 		"Laguiller et toi ?", "sep", -- plusieurs cle
 		

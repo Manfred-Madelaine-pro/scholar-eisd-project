@@ -16,10 +16,24 @@ Le système de dialogue doit tendre vers des dialogues les plus naturels que pos
 
 ## Mise en Place et Utilisation Rapide
 
-### A- Extraction des données du Corpus
-cf léo
+### A- Création du Corpus
+La création des données à partir du Wikipédia des politiciens se fait de la façon suivante : 
+1. Se placer dans le Répertoire __extraction__
 
-### B- Lancement du Système de Dialogue
+2. Entrer la commande __python extractionWiki.py__
+
+3. Les fichiers composant le corpus sont crées
+
+
+### B- Extraction des données du Corpus
+1. Se placer dans le Répertoire __systeme_de_dialogue__
+
+2. Entrer la commande __./dark bdd.lua__
+
+3. La base de données utilisée par le Système de dialogue et générée 
+
+
+### C- Lancement du Système de Dialogue
 1. Se placer dans le Répertoire __systeme_de_dialogue__
 
 2. Entrer la commande __./dark main.lua__
