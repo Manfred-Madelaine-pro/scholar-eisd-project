@@ -106,7 +106,7 @@ main:pattern('("compagne"|"femme") [#femme #prenom #nom?]')
 --main:pattern('[#parti'..tool.get_tag(parti)..']')
 main:pattern('[#intervalDate (#annee "-"|"depuis") #annee]')
 main:pattern('[#raccourcis "(" [#acc .{,4}] ")"]')
-main:pattern('"PART" [#parti [#nom .+?] #raccourcis? #intervalDate?]')
+main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
 
 
 main:pattern('"NOMF" [#nomFonc .*?] "NOMF"')
@@ -255,8 +255,8 @@ function traitement(seq, nom, prenomm)
 end
 
 
---local f_test = "../extraction/corpus/wikipedia"
-local f_test = "../test"
+local f_test = "../extraction/corpus/wikipedia"
+--local f_test = "../test"
 lp.read_corpus(f_test)
 
 local outfile = io.open("databaseTemp.lua", "w")
