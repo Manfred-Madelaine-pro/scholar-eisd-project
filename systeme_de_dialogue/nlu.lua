@@ -6,7 +6,7 @@
 
 
 -- importation des modules
-local tool = require 'tool'
+local t = require 'tool'
 
 
 main = dark.pipeline()
@@ -49,19 +49,21 @@ hdb_createurs = "createurs"
 
 -- grammaire
 gram_sous_quest = "Xquestion"
-gram_Qdouble = "question_double"
+gram_Qdouble    = "question_double"
+gram_Qmult  	= "question_multiple"
 
 
 -- Liste d'elements
 l_sujets = {
 	ppn, user, tutoiement, fin, 
-	tool.qtag(help), life, hist, 
+	t.qtag(help), life, hist, 
 }
 
 l_attributs = {
 	db_birth, db_birthp, db_forma, 
 	hdb_createurs, db_parti, 
-	db_bord, db_prof, date_sec
+	db_bord, db_prof, date_sec, 
+	db_death
 }
 
 att_secondaires = {
@@ -70,13 +72,19 @@ att_secondaires = {
 
 
 l_hist = { "historique"}
+l_forma= {"formations?"}
+l_prof = {"professions?"}
+-- TODO add les ponctuations
 l_et   = {"et", "ainsi que"}
+l_birth= {"date de naissance"}
 l_bord = {"bord politique", "bord"}
-l_prof = {"profession", "professions"}
+l_place= {"lieu de naissance", "ou"}
 l_user = {"je", "m'", "mes", "mon", "miens"}
-l_life = {"univers","vie", "la grande question sur"}
+l_life = {"univers", "vie", "la grande question sur"}
 l_bac  = { "bac", "baccalaureat", "diplome", "licence"}
+l_neg  = {"non","no","ne","n'","pas","sauf","excepte","sans"}
 l_fin  = {"bye", "au revoir", "quit", "ciao", "adieu","bye-bye"}
+l_death= {"morte?", "decedee?", "vivante?", "meurt", "date de deces"}
 l_dev  = {"Manfred MadlnT", "Cedrick RibeT", "Hugo BommarT", "Laos GalmnT"}
 
 l_tutoiement = {
@@ -94,29 +102,30 @@ end
 
 
 -- Création d'un lexique ou chargement d'un lexique existant
-tool.create_lex(f_data)
+t.create_lex(f_data)
 
 main:lexicon("#AND", l_et)
-main:lexicon("#42", l_life)
-main:lexicon(tool.tag(fin), l_fin)
-main:lexicon(tool.tag(hist), l_hist)
-main:lexicon(tool.tag(user), l_user)
-main:lexicon(tool.tag(nd_forma), l_bac)
-main:lexicon(tool.tag(tutoiement), l_tutoiement)
-main:lexicon(tool.tag(tool.qtag(db_bord)), l_bord)
-main:lexicon(tool.tag(tool.qtag(db_prof)), l_prof)
+main:lexicon("#neg", l_neg)
+main:lexicon("#42",  l_life)
+main:lexicon("#dateN", l_birth)
+main:lexicon("#lieuN",  l_place)
+main:lexicon("#formation", l_forma)
 
-main:lexicon("#dateN", {"date de naissance"})
-main:lexicon("#lieuN", {"lieu de naissance", "ou"})
-main:lexicon("#formation", {"formation", "formations"})
-main:lexicon("#neg", {"non","no","ne","n'","pas","sauf","excepte","sans"})
+main:lexicon(t.tag(fin), l_fin)
+main:lexicon(t.tag(hist), l_hist)
+main:lexicon(t.tag(user), l_user)
+main:lexicon(t.tag(nd_forma), l_bac)
+main:lexicon(t.tag(t.qtag(db_bord)), l_bord)
+main:lexicon(t.tag(t.qtag(db_prof)), l_prof)
+main:lexicon(t.tag(tutoiement), l_tutoiement)
+main:lexicon(t.tag(t.qtag(db_death)), l_death)
 
 
 	----- Analyse d'une question -----
 
 -- Qestion sur la Date de naissance
 main:pattern([[
-	[#Qbirth 
+	[]]..t.tag(t.qtag(db_birth))..[[ 
 		"quand" #pnominal #POS=VRB .*? "ne" |
 		"quand" #POS=VRB "ne" #pnominal .*? |
 		#dateN
@@ -125,7 +134,7 @@ main:pattern([[
 
 -- Qestion sur le lieu de naissance
 main:pattern([[
-	[#Qbirthplace 
+	[]]..t.tag(t.qtag(db_birthp))..[[ 
 		"ou" #pnominal #POS=VRB .*? "ne" |
 		"ou" #POS=VRB "ne" #pnominal .*? |
 		#lieuN
@@ -134,47 +143,50 @@ main:pattern([[
 
 -- Qestion sur la formation
 main:pattern([[
-	[#Qformation 
+	[]]..t.tag(t.qtag(db_forma))..[[ 
 		/quelles?/ /formations?/ #pnominal #POS=VRB .*? |
 		/quelles?/ /formations?/ #POS=VRB .*? #pnominal |
 		#formation |
 	]
 ]])
 
-main:pattern('[#Qparti /quels?/ .{,3}? /partis?/ ]')
+main:pattern('['..t.tag(t.qtag(help))..' "$" "help" ]')
 
-main:pattern('"qui" .{,3}? [#Qcreateurs /createurs?/ ]')
+main:pattern('[#negation '..t.tag(neg)..' .{,3}? "pas"]')
 
-main:pattern('[#negation '..tool.tag(neg)..' .{,3}? "pas"]')
+main:pattern('"quelle" .{,3}? "reponse" .{,3}? ['..t.tag(life)..' #42 ]')
 
-main:pattern('['..tool.tag(tool.qtag(help))..' "$" "help" ]')
+main:pattern('['..t.tag(t.qtag(db_parti))..' /quels?/ .{,3}? /partis?/ ]')
 
-main:pattern('"quelle" .{,3}? "reponse" .{,3}? ['..tool.tag(life)..' #42 ]')
+main:pattern('"qui" .{,3}? ['..t.tag(t.qtag(hdb_createurs))..' /createurs?/ ]')
 
-main:pattern(' "quand" .{,8}? '..'['..tool.tag(tool.qtag(date_sec))..tool.tag(nd_forma)..' ]')
+main:pattern(' "quand" .{,8}? '..'['..t.tag(t.qtag(date_sec))..t.tag(nd_forma)..' ]')
 
 
 	---- Reconnaissance de la grammaire dans une question ----
 
-main:pattern('[#gram_sujet '..tool.list_tags(l_sujets)..']')
+main:pattern('[#gram_sujet '..t.list_tags(l_sujets)..']')
 
-main:pattern('[#gram_info '..tool.list_tags(l_attributs, true)..']')
+main:pattern('[#gram_info '..t.list_tags(l_attributs, true)..']')
 
 main:pattern('[#gram_elm #neg | #gram_sujet | #gram_info ]')
 
 
 -- Qestions multiples
 main:pattern([[
-	[]]..tool.tag(gram_Qdouble)..[[ 
-		[]]..tool.tag(gram_sous_quest)..[[  
+	[]]..t.tag(gram_Qdouble)..[[ 
+		[]]..t.tag(gram_sous_quest)..[[  
 			((.{,4}? #gram_elm .{,4}? )+ ){2,4} 
 		] 
 		#AND 
-		[]]..tool.tag(gram_sous_quest)..[[  
+		[]]..t.tag(gram_sous_quest)..[[  
 			((.{,4}? #gram_elm .{,4}? )+ ){2,4} 
-		]
+		] 
 	]
 ]])
+
+--TODO
+main:pattern('['..t.tag(gram_Qmult)..' ('..t.tag(gram_Qdouble)..'){2,4} ]')
 
 
 
@@ -182,20 +194,23 @@ tags = {
 	["#Qparti"] = "red",
 	["#Qhelp"] = "green",
 	["#Qbirth"] = "green",
+	["#Qdeath"] = "green",
 	["#Qstatut"] = "green",
 	["#Qformation"]="green",
 	["#Qcreateurs"]= "green",
 	["#Qbirthplace"]= "green",
 
 	["#AND"] = "yellow",
-	["#negation"] = "red",
-	[tool.tag(life)]= "red",
-	[tool.tag(user)]= "red",
-	[tool.tag(hist)]="magenta",
-	--[tool.tag(nd_forma)] = "red",
-	[tool.tag(gram_Qdouble)] = "red",
-	[tool.tag(gram_sous_quest)]="magenta",
-	[tool.tag(tool.qtag(db_bord))] = "red",
-	[tool.tag(tool.qtag(db_prof))] = "red",
-	[tool.tag(tool.qtag(date_sec))]="magenta",
+	["#negation"]= "red",
+	[t.tag(life)]= "red",
+	[t.tag(user)]= "red",
+	[t.tag(hist)]="magenta",
+	--[t.tag(nd_forma)] = "red",
+	[t.tag(gram_Qdouble)] = "red",
+	--TODO
+	[t.tag(gram_Qmult)] = "yellow",
+	[t.tag(t.qtag(db_bord))] = "red",
+	[t.tag(t.qtag(db_prof))] = "red",
+	[t.tag(gram_sous_quest)]="magenta",
+	[t.tag(t.qtag(date_sec))]="magenta",
 }

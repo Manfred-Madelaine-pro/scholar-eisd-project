@@ -237,4 +237,47 @@ return {
 		birthplace = "Paris",
 	
 	},
+
+	["fillon"] = {
+		name = "Fillon",
+		firstname = "François",
+		gender = nil,
+	
+		birth = "4 mars 1954",
+		death = nil,
+		birthplace = "Mans (Sarthe)",
+	
+		profession = {
+			[1] = {
+				intitule = "Créateur d'emplois fictifs",
+				date_deb = "2012",
+				date_fin = "2013",
+			},
+			[2] = {
+				intitule = "Vice-Président de Arnaqueur & Co",
+				date_deb = "juin 2012",
+			},
+			[3] = {
+				intitule = "Député de Paris",
+				date_deb = "juin 2012",
+			},
+		},
+		formation = {
+			[1] = {
+				name = "Baccalaureat, section Scroquerie",
+				date = "1995",
+				lieu = "Paris au lycée Henri-IV",
+			},
+			[2] = {
+				name = "Master en DFP (Détournement de Fonds Publics)",
+				date = "1998",
+				lieu = " Paris au lycée Henri-IV",
+			},
+			[3] = {
+				name = "Diplôme de l'ENA (Ecole Nationale d'Arnaques)",
+				date = "2001",
+				lieu = "l'Institut d'études politiques de Paris",
+			},
+		}
+	},
 }

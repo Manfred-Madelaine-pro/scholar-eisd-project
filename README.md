@@ -22,7 +22,7 @@ La création des données à partir du Wikipédia des politiciens se fait de la 
 
 2. Entrer la commande __python extractionWiki.py__
 
-3. Les fichiers composant le corpus sont crées
+3. Les fichiers composant le corpus sont créés !
 
 
 ### B- Extraction des données du Corpus
@@ -30,7 +30,7 @@ La création des données à partir du Wikipédia des politiciens se fait de la 
 
 2. Entrer la commande __./dark bdd.lua__
 
-3. La base de données utilisée par le Système de dialogue et générée 
+3. La base de données utilisée par le Système de Dialogue est générée !
 
 
 ### C- Lancement du Système de Dialogue
@@ -47,7 +47,7 @@ La création des données à partir du Wikipédia des politiciens se fait de la 
 
 ## Langages utilisés
 
-* _Extraction des donnée_ en **Python**
+* _Extraction des donnée de Wikipedia_ en **Python**
 
 * _Système de dialogue_ en **Lua**
 

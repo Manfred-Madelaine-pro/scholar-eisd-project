@@ -1,63 +1,63 @@
-local tool = {}
+local t = {}
 
 
 -- Renvoie un tag
-function tool.tag(tag)
+function t.tag(tag)
 	return "#"..tag
 end
 
 -- Renvoie le tag d'une question
-function tool.qtag(tag)
+function t.qtag(tag)
 	return "Q"..tag
 end
 
 
 -- Renvoie la balise d'un
-function tool.bls(tag)
+function t.bls(tag)
 	return "<"..tag..">"
 end
 
 -- Lancer le systeme de dialogue
-function tool.init(txt)
+function t.init(txt)
 	local s = " ---- "
 	print("\n\t"..s..bvn..s.."\n")
-	tool.bot_answer(txt.." (Entrez '$help' pour de l'aide)")
+	t.bot_answer(txt.." (Entrez '$help' pour de l'aide)")
 end
 
 
 -- Reponse du systeme de dialogue
-function tool.bot_answer(answer)
+function t.bot_answer(answer)
 	print(BOT_NAME.." : "..answer.."\n")
 end
 
 
 
 -- Cree l'ensemble des lexiques
-function tool.create_lex(f_data)
-	tool.new_lex(place, f_data)
-	tool.new_lex(ppn, f_data)
+function t.create_lex(f_data)
+	t.new_lex(place, f_data)
+	t.new_lex(ppn, f_data)
 end
 
 
-function tool.new_lex(tag, f_data)
-	main:lexicon(tool.tag(tag), f_data..tag..".txt")
+function t.new_lex(tag, f_data)
+	main:lexicon(t.tag(tag), f_data..tag..".txt")
 end
 
 
-function tool.list_tags(l_tags, is_quest)
+function t.list_tags(l_tags, is_quest)
 	res = ""
 	for i, tag in pairs(l_tags) do
 		if is_quest then
-			tag = tool.qtag(tag)
+			tag = t.qtag(tag)
 		end
-		res = res..tool.tag(tag)
+		res = res..t.tag(tag)
 		if i < #l_tags then res = res.." | " end
 	end
 	return res
 end
 
 
-function tool.save_db(db, filename)
+function t.save_db(db, filename)
 	local out_file = io.open(filename..".lua", "w")
 	out_file:write("return ")
 	out_file:write(serialize(db))
@@ -65,7 +65,7 @@ function tool.save_db(db, filename)
 end
 
 
-function tool.in_list(elm, list)
+function t.in_list(elm, list)
 	for i, e in pairs(list) do	
 		if e == elm then return true end
 	end
@@ -73,7 +73,7 @@ function tool.in_list(elm, list)
 end
 
 
-function tool.key_is_used(tab, key)
+function t.key_is_used(tab, key)
 	if(type(tab) == "table") then
 		for i, att in pairs(tab or {}) do	
 			if (key == att) then return true end
@@ -84,7 +84,7 @@ end
 
 
 -- deprecated
-function tool.rm_doublon(tab)
+function t.rm_doublon(tab)
 	if #tab < 2 then return false end
 
 	for i = #tab, 1, -1 do
@@ -101,7 +101,7 @@ function tool.rm_doublon(tab)
 end
 
 
-function tool.print_table(res)
+function t.print_table(res)
 	if type(res) == "table" then
 		for index,value in pairs(res) do
 			if type(value) == "table" then
@@ -123,7 +123,7 @@ function havetag(seq, tag)
 end
 
 
-function tool.tagstr(seq, tag, lim_debut, lim_fin)
+function t.tagstr(seq, tag, lim_debut, lim_fin)
 	lim_debut = lim_debut or 1
 	lim_fin   = lim_fin   or #seq
 	if not havetag(seq, tag) then
@@ -180,4 +180,4 @@ function dark.lexicon(tag, list)
 end
 
 
-return tool
+return t
