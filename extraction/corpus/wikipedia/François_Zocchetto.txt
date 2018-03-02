@@ -1,0 +1,27 @@
+PRETAG François.
+NOMTAG Zocchetto.
+François Zocchetto, né le 14 décembre 1958 à Laval, est un homme politique français, ancien membre de l'Alliance centriste. Sénateur entre 2001 et 2017, il est maire de Laval depuis 2014.
+
+
+
+Études.
+Ancien élève des lycées Ambroise Paré à Laval puis Stanislas à Paris, François Zocchetto est diplômé de l'ESCP Europe et de l'Institut d'études politiques de Paris.
+Carrière professionnelle.
+Rapporteur près la Cour suprême du Sénégal à Dakar de 1983 à 1984, puis expert-comptable mémorisation au cabinet Jean Arthuis & associés à Paris en 1985, il devient avocat associé gérant de la société d'avocats Zocchetto, Richefou & associés à partir de 1987. Il est membre du conseil de l'ordre des avocats de 1990 à 1996 et membre associé de la Chambre de commerce et d'industrie de la Mayenne depuis 1987.
+Carrière politique.
+
+
+
+Rapporteur près la Cour suprême du Sénégal à Dakar de 1983 à 1984, puis expert-comptable mémorisation au cabinet Jean Arthuis & associés à Paris en 1985, il devient avocat associé gérant de la société d'avocats Zocchetto, Richefou & associés à partir de 1987. Il est membre du conseil de l'ordre des avocats de 1990 à 1996 et membre associé de la Chambre de commerce et d'industrie de la Mayenne depuis 1987.
+Carrière politique.
+
+
+
+
+PARTISNORM
+PART Union des démocrates et indépendants (UDI).
+FONCTIONNORM
+
+NOMF Président du groupe Union centriste du Sénat NOMF 9 février 2011 – 25 septembre 2017(6 ans, 7 mois et 16 jours) SEP2 Élection REL 9 février 2011 SEP3  SEP2 Prédécesseur REL Nicolas About SEP3  SEP2 Successeur REL Hervé Marseille SEP3 .
+NOMF Sénateur français NOMF 1er octobre 2001 – 1er octobre 2017(16 ans) SEP2 Élection REL 23 septembre 2001 SEP3  SEP2 Réélection REL 25 septembre 2011 SEP3  SEP2 Circonscription REL Mayenne SEP3  SEP2 Groupe politique REL UC SEP3  SEP2 Élection REL 15 mars 1995 SEP3 .
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 14 décembre 1958 (59 ans) SEP3  SEP2 Lieu de naissance REL Laval (Mayenne) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL UDI SEP3  SEP2 Diplômé de REL ESCP EuropeIEP de Paris SEP3  SEP2 Profession REL Avocat SEP3 .

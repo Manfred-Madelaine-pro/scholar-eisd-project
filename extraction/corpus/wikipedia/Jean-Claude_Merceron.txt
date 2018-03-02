@@ -1,0 +1,18 @@
+PRETAG Jean-Claude.
+NOMTAG Merceron.
+Jean-Claude Merceron, né le 12 janvier 1942 à Givrand (Vendée), est une personnalité politique française, ancien membre de l'UDF et membre de l'Alliance centriste.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance centriste (AC).
+FONCTIONNORM
+
+NOMF Sénateur de la Vendée NOMF 1er octobre 2004 – 30 septembre 2014 SEP2 Élection REL 26 septembre 2004 SEP3  SEP2 Groupe politique REL Union centriste et républicaine SEP3  SEP2 Successeur REL Philippe Bernard SEP3 .
+NOMF Conseiller général du Canton de Saint-Gilles-Croix-de-Vie NOMF 1987 – 16 mars 2008 SEP2 Prédécesseur REL Louis Caiveau (UDF) SEP3  SEP2 Successeur REL Marietta Trichet (DVD) SEP3  SEP2 Date de naissance REL 12 janvier 1942 (76 ans) SEP3  SEP2 Lieu de naissance REL Givrand (Vendée) SEP3  SEP2 Parti politique REL AC SEP3 .

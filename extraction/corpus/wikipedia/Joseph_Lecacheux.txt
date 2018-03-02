@@ -1,0 +1,22 @@
+PRETAG Joseph.
+NOMTAG Lecacheux.
+Joseph Lecacheux est un homme politique français, médecin de profession, né le 15 mars 1880 à Montebourg et mort le 4 novembre 1952 dans le 15e arrondissement de Paris[1].
+
+
+
+Fils d'un industriel du textile, Joseph Lecacheux fait ses études secondaires à Caen, puis ses études supérieures de sciences et de médecine à Paris. Docteur en 1910, il retourne dans sa commune natale pour exercer. Il est élu conseiller municipal de Montebourg en 1912, conseiller général en 1913, puis maire.
+Mobilisé pendant la Première Guerre mondiale, Joseph Lecacheux appartient à une unité d'infanterie jusqu'en 1918. Il est plusieurs fois décoré (voir ci-dessous) et finit la guerre avec le grade de capitaine.
+Il est élu député dès le premier tour en 1928, et démissionne de son poste de maire. Pendant la campagne électorale, il affirme son soutien à la politique de Raymond Poincaré, notamment à l'Union nationale (centre droit et Parti radical) et à l'équilibre du budget de l'État. Il appartient au groupe de l'Alliance démocratique. Il est membre de la commission de l'Hygiène, de la Marine, et de la commission du Commerce et de l'industrie.
+Le docteur Lecacheux est réélu, également dès le premier tour, en 1932 et 1936, sur un programme clairement opposé au Cartel des gauches puis au Front populaire. Pendant la législature 1936/1940, il siège avec les Radicaux indépendants.
+Le 10 juillet 1940, Joseph Lecacheux fait partie des quatre-vingts parlementaires qui votent contre les pleins pouvoirs à Philippe Pétain. C'est l'un des très rares parlementaires conservateurs qui choisissent un tel vote.
+Joseph Lecacheux retrouve son siège de député en 1945 et rejoint le Parti républicain de la liberté. Réélu en 1946, il se fait élire en 1948 au Conseil de la République (Sénat), où il siège jusqu'à sa mort.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député (1928-1941)puis (1945-1948)Sénateur (1948-1951) NOMF GouvernementIIIe République - IVe République SEP2 Gouvernement REL IIIe République - IVe République SEP3  SEP2 Groupe politique REL ADS (1928-1932)RDG (1932-1936)ARGRI (1936-1940)PRL (1945-1948)RI (1948-1952) SEP3  SEP2 Nom de naissance REL Joseph Marie Zacharie Le cacheux SEP3  SEP2 Date de naissance REL 15 mars 1880 SEP3  SEP2 Lieu de naissance REL Montebourg SEP3  SEP2 Date de décès REL 4 novembre 1952 (à 72 ans) SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Résidence REL Manche SEP3 .

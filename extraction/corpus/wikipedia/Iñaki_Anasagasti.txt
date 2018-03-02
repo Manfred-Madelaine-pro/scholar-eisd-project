@@ -1,0 +1,37 @@
+PRETAG Iñaki.
+NOMTAG Anasagasti.
+Iñaki Mirena Anasagasti Olabeaga, né le 16 novembre 1947 à Cumaná au Venezuela, est un homme politique espagnol.
+Il est député au Congrès des députés de 1986 à 2004, porte-parole du groupe parlementaire basque sur la même période puis sénateur de 2004 à 2015.
+
+
+
+Naissance au Venezuela.
+Il nait le 16 novembre 1947 à Cumaná au Venezuela où sa famille a émigré suite à la guerre civile espagnole. Son père était militant du PNV.
+Scolarité en Espagne.
+Après avoir atteint l'âge de sept ans, ses parents décident de l'envoyer avec ses trois frères en Espagne au Pays basque pour suivre leur scolarité. Durant cette période, les quatre frères résident avec leur grand-parents à San Sebastián. Iñaki étudie au Marianistes de la ville de 1955 à 1961 puis au collège Santiago Apóstol de Bilbao.
+Dix ans passés au Venezuela.
+À la mort de son père en 1965, Iñaki Anasagasti revient au Venezuela où il réside durant dix ans. Il prend alors contact avec le nationalisme basque principalement situé dans le quartier basque de Caracas.
+Il étudie la journalisme et la sociologie à l'université catholique Andrés Bello de Caracas, gérée par des jésuites. Là-bas, il fait la connaissance de María Esther Solabarrieta avec laquelle il se marie en 1976.
+Durant cette étape, il est nommé président de l'organisation des jeunesses du PNV du centre basque de Caracas : l'Euzko Gaztedi Indarra (EGI). Il collabore avec la revue Gudari et participe à des actions de résistance.
+Retour en Espagne.
+Il retourne à Saint-Sébastien en août 1975 et dirige le journal de publications du PNV. Il est arrêté le 1er avril 1976 avec Joseba Goikoetxea et Bingen Zubiri sur ordre du ministre franquiste Manuel Fraga et passe trois jours en détention.
+Lorsque le PNV est de nouveau rendu légal en 1977, il est élu membre du conseil régional du parti pour la province de Biscaye. Il occupe ses fonctions sous la présidence de Carlos Garaikoetxea et jusqu'en 1980[1].
+Parlementaire régional puis national.
+Lors des élections basques de 1980, il est élu député au Parlement basque.
+Il se présente dans la circonscription de Biscaye lors des élections générales de 1986 et est élu député au Congrès des députés. Il est désigné par ses collègues porte-parole du groupe parlementaire basque et siège notamment à la députation permanente. Successivement réélu jusqu'en 2000, il abandonne la chambre basse des Cortes Generales pour postuler à un siège de sénateur dans la circonscription de Biscaye en vue des élections générales du 14 mars 2004. Il remporte 253 769 voix et le meilleur score de la circonscription ; il est donc logiquement élu sénateur. Pour la VIIIe législature, il est élu premier secrétaire du bureau du Sénat. Il remporte deux autres mandats de sénateur en 2008 et 2011.
+Il ne se représente pas à l'occasion des élections générales de 2015 et met ainsi un terme à sa carrière politique.
+Il a écrit un livre avec Josu Erkoreka intitulé Deux familles basque : Areilza et Aznar dans lequel il raconte l'histoire de Manuel Aznar Zubigaray, le grand-père de José María Aznar.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (EAJ-PNV).
+FONCTIONNORM
+
+NOMF Sénateur aux Cortes Generales NOMF 14 mars 2004 – 27 octobre 2015(11 ans, 7 mois et 13 jours) SEP2 Élection REL 14 mars 2004 SEP3  SEP2 Réélection REL 9 mars 200820 novembre 2011 SEP3  SEP2 Circonscription REL Biscaye SEP3  SEP2 Législature REL VIIIe, IXe, et Xe SEP3  SEP2 Groupe politique REL Basque (EAJ-PNV) SEP3 .
+NOMF Président NOMF LégislatureVIIIe SEP2 Législature REL VIIIe SEP3  SEP2 Prédécesseur REL María Eugenia Martín Mendizábal SEP3  SEP2 Successeur REL Carmen Alborch SEP3  SEP2 Législature REL IIIe, IVe, Ve, VIe et VIIe SEP3  SEP2 Prédécesseur REL Marcos Vizcaya Retana SEP3  SEP2 Successeur REL Josu Erkoreka SEP3 .
+NOMF Député aux Cortes Generales NOMF 22 juin 1986 – 14 mars 2004(17 ans, 8 mois et 21 jours) SEP2 Élection REL 22 juin 1986 SEP3  SEP2 Réélection REL 29 octobre 19896 juin 19933 mars 199612 mars 200014 mars 2004 SEP3  SEP2 Circonscription REL Biscaye SEP3  SEP2 Législature REL VIIIe, IVe, Ve, VIe et VIIe SEP3  SEP2 Groupe politique REL Basque (EAJ-PNV) SEP3  SEP2 Nom de naissance REL Iñaki Mirena AnasagastiOlabeaga SEP3  SEP2 Date de naissance REL 16 novembre 1947 (70 ans) SEP3  SEP2 Lieu de naissance REL Cumaná, Venezuela SEP3  SEP2 Nationalité REL EspagnoleVénézuélienne SEP3  SEP2 Parti politique REL EAJ-PNV SEP3  SEP2 Diplômé de REL université catholiqueAndrés Bello de Caracas SEP3 .

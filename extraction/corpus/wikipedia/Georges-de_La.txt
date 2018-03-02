@@ -1,0 +1,18 @@
+PRETAG Georges-de.
+NOMTAG La.
+Georges Thibaut de La Rochethulon, né le 8 janvier 1868 à Versailles et mort le 14 août 1941 à Talmont-Saint-Hilaire, est un homme politique français.
+
+
+
+Fils d'un général, il fut élève au collège Stanislas, puis à l'École militaire de Saint-Cyr et l'École de cavalerie de Saumur. Lieutenant au 31e régiment de dragons en 1893, il donne sa démission en 1897 pour se consacrer à l'exploitation agricole de ses domaines.
+Secrétaire-adjoint de la Société des agriculteurs de France et maire de Talmont-Saint-Hilaire 1900 à 1902, puis de, il est élu député au premier tour de scrutin dans la 1re circonscription des Sables-d'Olonne en 1902. Il s'inscrivit au groupe de l'action libérale.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

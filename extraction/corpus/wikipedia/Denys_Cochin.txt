@@ -1,0 +1,25 @@
+PRETAG Denys.
+NOMTAG Cochin.
+Le baron Denys Cochin est un homme politique et écrivain français né à Paris le 1er septembre 1851 et mort à Paris le 24 mars 1922.
+
+
+
+Fils d'Augustin Cochin (1823-1872), Denys Marie Pierre Augustin Cochin fit ses études au Collège Stanislas et au lycée Louis-le-Grand puis s’engagea, à l’âge de 19 ans, en 1870, comme maréchal des logis au 8e cuirassier, avant de devenir porte-fanion du général Charles Denis Bourbaki.
+Après la guerre, il fut pendant un an comme attaché d’ambassade à Londres auprès du duc de Broglie. De retour en France, en 1872, il entreprit des études de chimie, dans le laboratoire de Pasteur notamment. Chimiste éminent, il participera, pendant la Première Guerre mondiale, au développement de nouveaux explosifs et d'armes chimiques.
+Élu conseiller municipal du 7e arrondissement en 1881, il fut député de Paris de 1893 à 1919. Il fut l'un des principaux porte-paroles du parti catholique à la Chambre : après avoir amené - par une interpellation - le ministre Spuller à se déclarer favorable à un « esprit nouveau » à l'égard des catholiques, il défendit les libertés scolaires et les congrégations religieuses contre les attaques des gouvernements Waldeck-Rousseau et Combes.
+
+
+
+
+Denys Cochin est le fils d'Augustin Cochin. Il hérite son titre de baron de son oncle Denys-Guillaume Cochin, décédé en 1886 à Nogent-sur-Marne sans postérité.
+Le 20 mars 1876 à Paris, il épouse Hélène Péan de Saint-Gilles (1857-1946), fille de Léon Péan de Saint-Gilles, avec qui il aura six enfants :
+
+
+
+PARTISNORM
+PART Monarchisme (Monarchiste).
+PART Action libérale populaire (Action libérale).
+FONCTIONNORM
+
+NOMF Député de la Seine(Première circonscription du VIIIe arrondissement) NOMF 1893 – 1919 SEP2 Groupe politique REL Action libérale SEP3  SEP2 Prédécesseur REL Marius Martin SEP3 .
+NOMF Conseiller municipal de Paris(Quartier des Invalides) NOMF 1881 – 1894 SEP2 Prédécesseur REL Auguste Delpech SEP3  SEP2 Successeur REL Roger Lambelin SEP3  SEP2 Nom de naissance REL Denis-Marie-Pierre-Augustin Cochin SEP3  SEP2 Date de naissance REL 1er septembre 1851 SEP3  SEP2 Lieu de naissance REL Paris SEP3  SEP2 Date de décès REL 24 mars 1922 (à 70 ans) SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL MonarchisteAction libérale SEP3  SEP2 Père REL Augustin Cochin SEP3  SEP2 Fratrie REL Henry Cochin SEP3  SEP2 Enfants REL Augustin Cochin SEP3  SEP2 Profession REL Chimiste, écrivain SEP3  SEP2 Religion REL Catholique SEP3 .

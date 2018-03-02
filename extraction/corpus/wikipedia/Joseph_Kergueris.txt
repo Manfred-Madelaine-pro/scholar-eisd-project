@@ -1,0 +1,27 @@
+PRETAG Joseph.
+NOMTAG Kergueris.
+Joseph Kergueris, né le 2 octobre 1938, est une personnalité politique française. Membre de l'UDF, puis de l'UDI, il a notamment présidé le conseil général du Morbihan de 2004 à 2011 et a été sénateur du Morbihan de 2001 à 2011.
+
+
+
+Diplômé de l'IGR-IAE de Rennes, il a été maître de conférences en gestion, avant d'être élu sénateur du Morbihan le 23 septembre 2001.
+Joseph Kergueris a été élu Président du Conseil général du Morbihan en 2004, succédant à Jean-Charles Cavaillé président du conseil général du Morbihan depuis 1998. Il décide de ne pas se représenter aux élections départementales de 2011.
+Sénateur du Morbihan de 2001 à 2011, il a été vice-président de la Commission des affaires étrangères, de la défense et des forces armées du Sénat.
+Auparavant membre de l'UDF, il souligne n'avoir jamais adhéré au MoDem[1]. Il appartenait au "comité de pilotage" de "Rassembler les Centristes", le club de son collègue sénateur Jean Arthuis, devenu en 2009 le parti Alliance centriste.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF) AC.
+PART Alliance centriste (AC).
+FONCTIONNORM
+
+NOMF Président du conseil général du Morbihan NOMF 2004 – 2011 SEP2 Prédécesseur REL Jean-Charles Cavaillé SEP3  SEP2 Successeur REL François Goulard SEP3 .
+NOMF Président de la communauté de communes du pays d'Auray NOMF 2002 – 2008 SEP2 Prédécesseur REL création SEP3  SEP2 Successeur REL Michel Jalu SEP3 .
+NOMF Sénateur du Morbihan NOMF 23 septembre 2001 – 30 septembre 2011 SEP2 Élection REL 23 septembre 2001 SEP3  SEP2 Groupe politique REL Union centriste SEP3 .
+NOMF Conseiller régional de Bretagne NOMF 1984 – 2001.
+NOMF Conseiller général du canton de Pluvigner NOMF 1979 – 2011 SEP2 Prédécesseur REL Eugène Le Couviour SEP3  SEP2 Successeur REL Bernadette Desjardins SEP3  SEP2 Successeur REL Jean-François Le Neillon SEP3  SEP2 Date de naissance REL 2 octobre 1938 SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL UDF, puis AC SEP3  SEP2 Diplômé de REL Saint-Cyr SEP3  SEP2 Profession REL Maître de conférence SEP3 .

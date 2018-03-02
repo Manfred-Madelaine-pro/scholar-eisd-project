@@ -1,0 +1,15 @@
+PRETAG Armand.
+NOMTAG Calmel.
+Armand Calmel est un homme politique né le 7 avril 1871 au Bouscat et décédé le 20 septembre 1959 à Bordeaux (Gironde).
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1924-1940 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL UDR SEP3  SEP2 Date de naissance REL 7 avril 1871 SEP3  SEP2 Date de décès REL 20 septembre 1959 (à 88 ans) SEP3  SEP2 Résidence REL Gironde SEP3 .

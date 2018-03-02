@@ -1,0 +1,19 @@
+PRETAG Robert-de.
+NOMTAG La.
+Le comte Robert de La Myre-Mory est un homme politique français né le 4 mars 1898 à Port-au-Prince (Haïti) et mort pour la France le 10 juin 1940 à Voncq, dans les Ardennes.
+Issu d'une famille de la noblesse picarde établie en Lot-et-Garonne, il fait ses études à l'École supérieure d'agriculture d'Angers et s'engage dans l'armée en 1917. Grièvement blessé, il regagne le Lot-et-Garonne et assiste son père à la tête de l'exploitation familiale.
+Membre de l'Alliance démocratique, il entre au conseil général et, en 1933, il profite de l'élection législative partielle organisée à la suite du décès de Georges Leygues pour être élu député, réélu en 1936.
+À la Chambre des députés, il siège chez les Républicains de gauche, puis à l'Alliance des républicains de gauche et des radicaux indépendants, les principaux groupes parlementaires de l'AD.
+Lorsque la Seconde Guerre mondiale éclate, et bien qu'il soit alors dégagé de ses obligations militaires, il s'engage comme caporal puis est promu sergent et chef de char. C'est à ce poste qu'il trouve la mort le 10 juin 1940.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1933-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1933-1936)ARGRI (1936-1940) SEP3  SEP2 Date de naissance REL 4 mars 1898 SEP3  SEP2 Date de décès REL 10 juin 1940 (à 42 ans) SEP3  SEP2 Résidence REL Lot-et-Garonne SEP3 .

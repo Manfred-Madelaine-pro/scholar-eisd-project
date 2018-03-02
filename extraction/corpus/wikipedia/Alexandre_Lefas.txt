@@ -1,0 +1,27 @@
+PRETAG Alexandre.
+NOMTAG Lefas.
+Alexandre Lefas est un homme politique français, né le 20 septembre 1871 à Vannes (Morbihan) et mort le 30 juillet 1950 à Mézières-sur-Couesnon (Ille-et-Vilaine).
+Élève au collège Stanislas, puis à l'École du Louvre, il est docteur en droit. Avocat, il est élu député d'Ille-et-Vilaine en 1902. Battu en 1919, il retrouve son siège en 1924. En 1932, il est élu au Sénat où il siège jusqu'en 1940.
+Conseiller général du canton de Saint-Aubin-du-Cormier de 1919 à 1931, il est président du Conseil général d'Ille-et-Vilaine de 1924 à 1928.
+Une rue lui a été dédiée dans la commune de Fougères en Ille-et-Vilaine (Rue Alexandre Lefas).
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur de la Troisième République (d)Ille-et-Vilaine NOMF 10 janvier 1933 - 31 décembre 1941.
+NOMF DéputéIlle-et-Vilaine NOMF 1er juin 1932 - 3 février 1933.
+NOMF Président de conseil général (d)Conseil général d'Ille-et-Vilaine (d) NOMF 1924-1928.
+NOMF Conseiller général (d)Ille-et-Vilaine et canton de Saint-Aubin-du-Cormier NOMF 1919-1931.
+NOMF DéputéIlle-et-Vilaine NOMF 1er juin 1914 - 7 décembre 1919.
+NOMF DéputéIlle-et-Vilaine NOMF 1er juin 1910 - 31 mai 1914.
+NOMF DéputéIlle-et-Vilaine NOMF 1er juin 1906 - 31 mai 1910.
+NOMF DéputéIlle-et-Vilaine NOMF 1er juin 1902 - 31 mai 1906.
+NOMF Député NOMF .
+NOMF Député NOMF .

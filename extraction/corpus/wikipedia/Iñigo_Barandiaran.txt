@@ -1,0 +1,23 @@
+PRETAG Iñigo.
+NOMTAG Barandiaran.
+Íñigo Barandiaran Benito né le 19 février 1959 est un homme politique espagnol membre du Parti nationaliste basque. Il est député de Guipuscoa depuis le 20 décembre 2015 pour les XIe et XIIe législatures.
+
+
+
+Il est marié et père de deux filles.
+Profession.
+Il possède une licence en droit et un master en administration publique. Il est assesseur juridique du Gouvernement basque et de la mairie de Saint-Sébastien. Il a été directeur de l'administration locale du Gouvernement basque.
+Carrière politique.
+Le 20 décembre 2015, il est élu député pour Guipuscoa au Congrès des députés et réélu en 2016[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (EAJ-PNV).
+FONCTIONNORM
+
+NOMF Député aux Cortes Generalespour Guipuscoa NOMF En fonction depuis le 20 décembre 2015(2 ans, 1 mois et 27 jours) SEP2 Élection REL 20 décembre 2015 SEP3  SEP2 Réélection REL 26 juin 2016 SEP3  SEP2 Législature REL XIe et XIIe SEP3  SEP2 Groupe politique REL Basque (EAJ-PNV) SEP3  SEP2 Nom de naissance REL Íñigo Barandiaran Benito SEP3  SEP2 Date de naissance REL 19 février 1959 (58 ans) SEP3  SEP2 Lieu de naissance REL Saint-Sébastien, Espagne SEP3  SEP2 Nationalité REL Espagnole SEP3  SEP2 Parti politique REL EAJ-PNV SEP3  SEP2 Enfants REL 2 SEP3  SEP2 Profession REL Assesseur juridique SEP3 .

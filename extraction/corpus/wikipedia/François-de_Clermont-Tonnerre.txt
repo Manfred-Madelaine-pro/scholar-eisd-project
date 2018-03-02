@@ -1,0 +1,33 @@
+PRETAG François-de.
+NOMTAG Clermont-Tonnerre.
+François Marie Amédée Joseph de Clermont-Tonnerre est un homme politique français, né le 19 septembre 1906 et décédé le 2 décembre 1979 à Paris.
+
+
+
+Origines et jeunesse.
+Issu de la maison de Clermont-Tonnerre, l’une des plus grandes familles nobles du royaume de France remontant au XIe siècle, François de Clermont-Tonnerre est le fils de Louis de Clermont-Tonnerre et de Jeanne de Kergorlay. Il fait ses études à l’École Gerson, puis au lycée Janson-de-Sailly et au lycée Henri-IV, et enfin à la Sorbonne, avant d'entrer à l’École nationale des chartes, où il obtient le diplôme d'archiviste paléographe en 1932 grâce à une thèse intitulée Histoire technique de l'agriculture anglo-normande au XIIIe siècle[1]
+Le 31 juillet 1929, il épouse Charlotte de Rohan-Chabot (1907-1997), avec qui il aura quatre enfants.
+Il mène à cette époque une vie aventureuse de jeune homme riche : aviation, golf, archéologie en Syrie en 1932, et même une traversée du Sahara en avion de tourisme en 1933.
+Carrière politique.
+Il se passionne ensuite pour l'agriculture. Exploitant agricole dans la Somme, il devient vice-président de l'Union des syndicats agricoles de la Somme, et secrétaire général de l' Association syndicale betteravière de la Somme. Il publie également en 1936 un Manifeste paysan.
+Cette même année, il se porte candidat aux élections législatives sous les couleurs du Parti agraire et paysan français. Déjà maire de Bertangles[2] depuis 1935, il est élu député[3] et s'inscrit au groupe agraire indépendant. Il n'a alors que 29 ans.
+Rôle pendant la Seconde Guerre mondiale.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Peu après, il s'engage activement dans la Résistance sous le pseudonyme de François Tallard, nom d'emprunt qu'il conserve après la guerre pour signer articles et tribunes dans diverses publications.
+Au début de l'Occupation, François de Clermont-Tonnerre a connaissance de l'intention des Allemands d'annexer le Nord de la France et la Picardie. Il en informe le gouvernement de Vichy mais la politique de ce dernier le conduit à rallier l'Afrique du Nord. Déchu de son mandat parlementaire puis révoqué de ses fonctions de maire, il est condamné à mort par contumace.
+Adjoint au commandant du débarquement allié en Afrique du Nord, il devient chef d'état-major du général Giraud, prend part à la campagne de Tunisie et effectue trois missions aériennes sur Berlin.
+Après-guerre.
+Après la Libération, son comportement lui vaut le grade de chevalier de la Légion d'honneur et d'être relevé, par la décision du Jury d'honneur en date du 23 juin 1945, de l'inéligibilité qui le frappait en raison de son vote du 10 juillet 1940 accordant les pleins-pouvoirs à Pétain.
+Réélu maire de Bertangles en 1945, 1947 et 1953, François de Clermont-Tonnerre gère ses terres et administre différentes sociétés. Il se consacre aussi à l'édition et au journalisme. Enfin il participe à la fondation de l'Institut international de la vie, organisme scientifique regroupant des prix Nobel sous le patronage du professeur Marois.
+Il tente, à plusieurs reprises, de retrouver un mandat parlementaire, sans succès. Il se présente au Conseil de la République dans la Somme aux élections de 1948 et de 1952, aux élections législatives du 17 juin 1951 à Constantine (Algérie) et enfin à celles du 2 janvier 1956 où, dans la Somme il obtient 9 420 voix à titre personnel alors qu'en moyenne sa liste en recueille 6 900 soit 2,8 % des suffrages exprimés.
+En 1975 est publié à Genève aux éditions Farnot un recueil de textes dont la première partie, son texte "Les grandes heures de l'archéologie africaine", comprend diverses dénominations à caractère raciste. François de Clermont-Tonnerre y utilise notamment à plusieurs reprises le terme de "négroïde" suite à ses entrevues avec diverses populations sahariennes attenantes aux populations ethniquement et culturellement conservatrices du Sahara.
+Il décède le 2 décembre 1979 à Paris, à l'âge de 73 ans.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1936 – 1940 SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL Agraire indépendant SEP3  SEP2 Date de naissance REL 19 septembre 1906 SEP3  SEP2 Date de décès REL 2 décembre 1979 (à 73 ans) SEP3  SEP2 Résidence REL Somme SEP3 .

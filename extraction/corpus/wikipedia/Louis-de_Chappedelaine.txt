@@ -1,0 +1,32 @@
+PRETAG Louis-de.
+NOMTAG Chappedelaine.
+Louis-Marc-Michel, comte de Chappedelaine, est un homme politique français, né le 21 juin 1876 à Saint-Just (Ille-et-Vilaine) et mort le 9 décembre 1939 (à 63 ans) à Ville-d'Avray (Seine-et-Oise).
+Le collège public de Plénée-Jugon porte aujourd'hui son nom.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Action libérale (AL) 1910.
+PART 1910 (1910) 1914.
+PART 1914 (1914) .
+PART 1914 (1914) 1924.
+PART 1924 (1924) .
+PART Gauche radicale (groupe parlementaire) (GR) 1924.
+PART 1924 (1924) 1936.
+PART 1936 (1936) .
+PART Gauche démocratique et radicale indépendante (GDRI) 1936.
+PART 1936 (1936) 1940.
+PART 1940 (1940).
+FONCTIONNORM
+
+NOMF Ministre des Colonies NOMF 20 février 1932 – 10 mai 1932.
+NOMF Ministre de la Marine militaire NOMF 30 janvier 1934 – 7 février 1934.
+NOMF Ministre de la Marine marchande NOMF 27 janvier 1931 – 16 février 1932.
+NOMF Député des Côtes-du-Nord NOMF 8 mai 1910 – 9 décembre 1939 SEP2 Date de naissance REL 21 juin 1876 SEP3  SEP2 Lieu de naissance REL Saint-Just (Ille-et-Vilaine) SEP3  SEP2 Date de décès REL 9 décembre 1939 SEP3  SEP2 Lieu de décès REL Ville-d'Avray SEP3  SEP2 Parti politique REL AL (1910-1914)NI (1914-1924)GR (1924-1936)GDRI (1936-1940) SEP3 .

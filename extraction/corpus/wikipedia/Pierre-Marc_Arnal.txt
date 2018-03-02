@@ -1,0 +1,16 @@
+PRETAG Pierre-Marc.
+NOMTAG Arnal.
+Pierre-Marc Arnal est un homme politique français né le 18 mars 1873 à Moissac (Tarn-et-Garonne) et décédé le 30 août 1914, dans les Vosges, tombé au champ d'honneur.
+Reçu à l'école militaire de Saint-Cyr en 1894, il démissionne de l'armée en 1899. Il est maire de Montesquieu et député de Tarn-et-Garonne de 1903 à 1906, inscrit au groupe de l'Action libérale. Battu en 1906, il s'occupe d'abord de la gestion de ses domaines, tout en suivant des études de droit, puis devient premier clerc d'un Avocat au Conseil d’État et à la Cour de cassation en 1910. Il est tué dans les premières semaines de la guerre.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

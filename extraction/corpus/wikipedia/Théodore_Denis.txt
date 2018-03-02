@@ -1,0 +1,16 @@
+PRETAG Théodore.
+NOMTAG Denis.
+Théodore Denis est un homme politique français né le 14 mai 1858 à Saint-Paul-lès-Dax (Landes) et mort le 27 juin 1908 à Paris.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1893-1908 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL Groupe antijuifAction libérale SEP3  SEP2 Date de naissance REL 14 mai 1858 SEP3  SEP2 Lieu de naissance REL Saint-Paul-lès-Dax (Landes) SEP3  SEP2 Date de décès REL 27 juin 1908 (à 50 ans) SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Résidence REL Landes SEP3 .

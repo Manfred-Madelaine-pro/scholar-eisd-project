@@ -1,0 +1,16 @@
+PRETAG Edgard-de.
+NOMTAG Montjou.
+Édouard de Montjou est un homme politique français, né le 17 décembre 1856 à Bioussac (Charente-Inférieure) et décédé le 9 février 1942 à Marçay (Vienne).
+Il fut député de la Vienne sous la IIIe République de 1902 à 1906 et de 1910 à 1932, d'abord proche de la Fédération républicaine puis de l'Alliance démocratique. Il est l'oncle de Gérard de Montjou, député de la Vienne (RGR) de 1951 à 1956 et de Guy de Montjou, député de la Mayenne (ARS puis URD) de 1919 à 1928.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1902-1932 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL NI (1902-1906)RP (1910-1914)FR (1914-1919)ERD (1919-1924)RDG (1924-1932) SEP3  SEP2 Date de naissance REL 17 décembre 1856 SEP3  SEP2 Date de décès REL 9 février 1942 (à 85 ans) SEP3  SEP2 Résidence REL Vienne SEP3 .

@@ -1,0 +1,24 @@
+PRETAG Laurent.
+NOMTAG Amodru.
+Marie Joseph Laurent Amodru est un médecin et un homme politique français, né le 9 octobre 1849 à Saint-Vallier dans la Drôme et mort le 27 avril 1930 à Chamarande, en Seine-et-Oise.
+
+
+
+Monté à Paris pour ses études de médecine, le jeune Laurent Amodru est un étudiant brillant. Reçu parmi les premiers, sa thèse de doctorat remporte une médaille d'argent et, après avoir publié en 1879 un ouvrage consacré à La Transsudation des liquides à travers les membranes séreuses, il se spécialise dans l'étude de la législation médicale.
+L'élu local.
+Ayant épousé la veuve du fils du créateur du Bon Marché, il s'établit avec elle dans son Château de Chamarande et y entreprend une longue carrière politique, devenant maire de Chamarande, mandat qu'il conservera jusqu'à sa mort, en 1880, puis conseiller général de Seine-et-Oise à partir de 1886. Comme maire, il modernise sa ville et notamment sa voirie, au besoin grâce à sa propre fortune ; il fait également don à la commune du terrain sur lequel il fera élever, à ses frais le monument aux morts. Comme conseiller général, il est porté deux fois à la présidence du conseil général, entre 1901 et 1908 puis entre 1920 et 1922.
+Le parlementaire.
+Il effectue également une longue carrière parlementaire, devenant député de la circonscription d'Étampes en 1893, constamment réélu jusqu'en 1910, année où il décide de ne pas se représenter. Il siège alors au sein des groupes parlementaires Républicains progressistes, affiliés à la jeune Fédération républicaine, un regroupement de modérés.
+En 1914, il retrouve son siège de député et se rapproche du centre-gauche, en rejoignant les deux principaux groupes de l'Alliance démocratique à la Chambre des députés, celui de la Gauche démocratique entre 1914 et 1919 et celui des Républicains de gauche entre 1919 et 1928.
+Systématiquement élu au premier tour de scrutin, il est un parlementaire actif, défendant les intérêts de sa circonscription — notamment en équipement ferroviaire — mais aussi en intervenant sur les questions d'hygiène, prenant part aux débats sur les mesures de lutte contre la tuberculose ou l'interdiction de l'absinthe.
+Âgé de 79 ans, il ne se représente pas lors du scrutin de 1928 et décède deux ans plus tard dans son château de Chamarande.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député1893-19101914-1928 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL RP (1902-1910)GD (1914-1919)RDG (1919-1928) SEP3  SEP2 Date de naissance REL 9 octobre 1849 SEP3  SEP2 Date de décès REL 27 avril 1930 (à 80 ans) SEP3  SEP2 Résidence REL Seine-et-Oise SEP3 .

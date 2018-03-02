@@ -1,0 +1,19 @@
+PRETAG Roger.
+NOMTAG Farjon.
+Roger Farjon est un homme politique français né le 27 mars 1876 et décédé le 15 janvier 1945 à Boulogne-sur-Mer, dans le département du Pas-de-Calais.
+
+
+Il est issu d'une puissante famille d'industriels, propriétaire de l'entreprise de compas, plumes et crayons Baignol et Farjon. Son père, Pierre Farjon, fut lui-même conseiller municipal de Boulogne, conseiller général et député républicain progressiste du Pas-de-Calais.
+De 1908 à 1912, Roger Farjon lui succède au conseil municipal. Retrouvant cette assemblée en 1919, il devient maire de la ville, mandat qu'il conserve jusqu'en 1929. En 1920, il est élu sénateur du Pas-de-Calais, et s'inscrit au groupe de l'Alliance démocratique, l'Union républicaine. Sénateur actif, il est vice-président de la Chambre haute entre 1936 et 1939.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au maréchal Pétain. Malgré ce vote, il rejoint Londres en 1943 et siège à l'Assemblée consultative provisoire à Alger en novembre 1943. Malade il cesse de siéger en juillet 1944.
+Son fils Roland, militant du Parti social français, fut l'un des fondateurs du réseau de résistance OCM. Arrêté par les nazis et accusé d'avoir dénoncé des camarades, il meurt noyé en juillet 1945, quelques mois après Roger Farjon, sans que l'on sache s'il s'agit d'un suicide ou d'une exécution.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1920-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Union républicaine SEP3  SEP2 Date de naissance REL 27 mars 1876 SEP3  SEP2 Date de décès REL 15 janvier 1945 (à 68 ans) SEP3  SEP2 Résidence REL Pas-de-Calais SEP3 .

@@ -1,0 +1,19 @@
+PRETAG Marcel.
+NOMTAG Lebœuf.
+Marcel Lebœuf, né le 5 décembre 1872 à La Charité-sur-Loire (Nièvre) et mort le 11 mars 1943, est un médecin et homme politique français.
+Docteur en médecine, Marcel Lebœuf entre en politique en devenant, en 1904, maire de Chasnay, puis, en 1912, maire de sa commune natale. En 1931, il est élu conseiller d'arrondissement, puis, en 1934, conseiller général. Élu conseiller d'arrondissement en 1907, il devient conseiller général de la Nièvre et sera plus tard président du Conseil général.
+En 1926, il se présente à une élection législative partielle consécutive au décès d'un député. Candidat Républicain indépendant, il l'emporte sur le candidat communiste du Bloc ouvrier et paysan et rejoint le grand groupe de l'Alliance démocratique, les Républicains de gauche. En 1928, il est battu par un autre député sortant, le républicain-socialiste Arsène-Célestin Fié - le scrutin uninominal ayant été rétabli dans l'intervalle.
+Marcel Lebœuf choisit alors de se tourner vers le Sénat. Il s'y fait élire en 1933 et rejoint le groupe centriste de l'Union démocratique et radicale, expression sénatoriale de la nébuleuse des Radicaux indépendants.
+Le 10 juillet 1940, il approuve la remise des pleins pouvoirs au maréchal Pétain et décède avant la libération du territoire.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1926-1928Sénateur 1933-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1926-1928)UDR (1933-1940) SEP3  SEP2 Date de naissance REL 5 décembre 1872 SEP3  SEP2 Date de décès REL 11 mars 1943 (à 70 ans) SEP3  SEP2 Résidence REL Nièvre SEP3 .

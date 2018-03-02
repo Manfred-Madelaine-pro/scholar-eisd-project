@@ -1,0 +1,19 @@
+PRETAG Joseph.
+NOMTAG Coucoureux.
+Joseph Coucoureux est un homme politique français né le 18 octobre 1879 à Villefranche-de-Rouergue dans l'Aveyron et décédé le 13 septembre 1964 dans sa ville natale.
+
+
+Issu d'une vieille famille aveyronnaise établie à Villefranche-de-Rouergue depuis la fondation de la ville, il devient avocat au barreau de cette ville après des études de droit. Il entre en politique en 1907 en devenant conseiller général du canton de Rieupeyroux, succédant à son père. Il conserve ce mandat jusqu'à la chute de la Troisième République et deviendra vice-président du conseil général de l'Aveyron en 1928.
+En 1919, il conduit aux élections législatives la Liste républicaine de défense nationale et de progrès social, qui remporte les élections dans le département. Proche de la Fédération républicaine, le grand parti conservateur de la période, il s'inscrit à son groupe parlementaire, l'Entente républicaine démocratique. Réélu en 1924 sur la Liste républicaine de paix nationale et de progrès sociale, il maintient son apparentement à la Fédération et rejoint le nouveau groupe de l'Union républicaine démocratique, qui prend la succession de l'Entente.
+Nettement battu par le socialiste Paul Ramadier lors des élections législatives de 1928, qui ont cette fois lieu au scrutin uninominal à deux tours, il emporte un siège au Sénat lors du renouvellement de 1930. Il s'éloigne alors de la Fédération républicaine, qui entame alors une vive dérive à droite, et rejoint le grand groupe parlementaire modéré de la Chambre haute, l'Union républicaine, affiliée à l'Alliance démocratique.
+Le 10 juillet 1940, il vote en faveur de la Remise des pleins pouvoirs au Maréchal Pétain. Il abandonne ensuite toutes ses fonctions politiques et se retire à Villefranche.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1928Sénateur 1930-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL ERD (1919-1924)URD (1924-1928)UR (1930-1940) SEP3  SEP2 Date de naissance REL 18 octobre 1879 SEP3  SEP2 Date de décès REL 13 septembre 1964 (à 84 ans) SEP3  SEP2 Résidence REL Aveyron SEP3 .

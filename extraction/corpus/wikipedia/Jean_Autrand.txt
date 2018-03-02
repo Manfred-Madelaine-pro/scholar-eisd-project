@@ -1,0 +1,17 @@
+PRETAG Jean.
+NOMTAG Autrand.
+Jean Autrand, né le 30 novembre 1878 à Avignon et décédé le 16 novembre 1941 à Rochefort-sur-Mer, est un pasteur et un homme politique français.
+
+
+Il est élu député en 1928 sous l'étiquette de l'Alliance démocratique. En 1929, il se présente aux élections municipales de Bourges à la tête d'une liste de Concorde républicaine et sociale mais est nettement battu par le maire républicain-socialiste sortant, Henri Laudier, qu'il avait pourtant battu aux élections législatives.
+Après avoir perdu son mandat de député en 1932, il reste actif en politique en militant au sein de l'AD.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1928-1932 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL ADS SEP3  SEP2 Date de naissance REL 30 novembre 1878 SEP3  SEP2 Lieu de naissance REL Avignon SEP3  SEP2 Date de décès REL 16 novembre 1941 (à 62 ans) SEP3  SEP2 Lieu de décès REL Rochefort (Charente-Maritime) SEP3  SEP2 Résidence REL Cher SEP3 .

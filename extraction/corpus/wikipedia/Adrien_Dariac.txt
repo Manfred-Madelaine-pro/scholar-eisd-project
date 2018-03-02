@@ -1,0 +1,19 @@
+PRETAG Adrien.
+NOMTAG Dariac.
+Adrien Louis Dariac, né à Périgueux (Dordogne) le 14 juin 1868 et mort à Contres (Loir-et-Cher) le 13 juin 1949, est un homme politique français.
+
+
+
+Il est tout d'abord inspecteur général de l'agriculture, puis député de l'Orne de 1910 à 1942, rapporteur du budget de l'Agriculture en 1911, membre de l'Alliance républicaine démocratique et des Radicaux indépendants.
+Éphémère ministre de l'Agriculture dans le gouvernement Alexandre Ribot (4), du 9 au 12 juin 1914 il est « renvoyé sous une avalanche d'injures » (selon le Journal d'agriculture pratique du 25 juin 1914).
+Il vote les pleins pouvoirs à Philippe Pétain le 10 juillet 1940.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1910-1940 NOMF 1910 – SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1919-1928)GR (1924-1936)GDRI (1936-1940) SEP3  SEP2 Date de naissance REL 14 juin 1868 SEP3  SEP2 Date de décès REL 13 juin 1949 (à 80 ans) SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Résidence REL Orne SEP3 .

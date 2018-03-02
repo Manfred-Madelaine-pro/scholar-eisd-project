@@ -1,0 +1,20 @@
+PRETAG Paul.
+NOMTAG Bacquet.
+Paul Bacquet est un avocat et un homme politique français né le 29 décembre 1881 à Desvres et décédé le 4 janvier 1949 à Boulogne-sur-Mer.
+
+
+Devenu bâtonnier du barreau de Boulogne-sur-Mer, Paul Bacquet est élu conseiller municipal de la ville et nommé adjoint au maire en 1925. Dans ses fonctions, il se consacre à l'amélioration de la condition ouvrière et plus particulièrement à l'accès des ménages modestes à la propriété immobilière.
+En 1932, il se présente aux élections législatives sous les couleurs de l'Alliance démocratique, le grand parti libéral et modéré de la Troisième République. Élu, il rejoint le groupe parlementaire des Républicains de gauche. Réélu en 1936, il s'inscrit au nouveau groupe unifié de l'AD, l'Alliance des républicains de gauche et des radicaux indépendants. Il complète ses mandats par une élection au conseil général du Pas-de-Calais en 1939.
+À la Chambre des députés, ses interventions portent essentiellement sur des questions économiques. En 1940, il ne prend pas part au vote des pleins pouvoirs au maréchal Pétain.
+Sous l'Occupation, il est membre du Conseil national instauré par Vichy.
+Il abandonne ensuite définitivement la vie politique.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1932-1936)ARGRI (1936-1940) SEP3  SEP2 Date de naissance REL 29 décembre 1881 SEP3  SEP2 Date de décès REL 4 janvier 1949 (à 67 ans) SEP3  SEP2 Résidence REL Pas-de-Calais SEP3 .

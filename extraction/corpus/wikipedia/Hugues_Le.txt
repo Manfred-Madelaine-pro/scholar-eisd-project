@@ -1,0 +1,17 @@
+PRETAG Hugues.
+NOMTAG Le.
+Robert Charles Henri Le Roux, mieux connu par son pseudonyme Hugues Le Roux, né le 23 novembre 1860 au Havre et mort le 14 novembre 1925 à Paris 6e, est un journaliste, écrivain et homme politique français, sénateur sous la IIIe République. Il se spécialise dans la littérature de voyage et dans les ouvrages concernant les colonies françaises en Afrique[1].
+Membre du Conseil supérieur des colonies, il est chargé de missions officielles en Abyssinie et en Côte-d'Ivoire[2].
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Sénateur 1920-1925 NOMF 11 janvier 1920 – 14 novembre 1925 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Date de naissance REL 23 novembre 1860 SEP3  SEP2 Date de décès REL 14 novembre 1925 (à 64 ans) SEP3  SEP2 Résidence REL Seine SEP3 .

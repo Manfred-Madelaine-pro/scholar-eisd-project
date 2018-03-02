@@ -1,0 +1,18 @@
+PRETAG Hippolyte.
+NOMTAG Gayraud.
+L'abbé Hippolyte Gayraud, né le 13 août 1856 à Lavit (Tarn-et-Garonne) et mort le 16 décembre 1911 à Bourg-la-Reine (Seine) est un prêtre, théologien et homme politique français catholique-républicain, député du Finistère entre 1897 et 1911, connu pour ses prises de position contre la loi de séparation des Églises et de l'État de 1905.
+Ancien élève des séminaires de Moissac et de Montauban, docteur en théologie, il devient ensuite professeur à l'Institut catholique et au collège dominicain de Toulouse. Grâce à ses qualités d'orateur, il est désigné par la hiérarchie catholique pour se présenter à l’élection législative de 1897 afin de succéder à monseigneur Maurice Le Sage d'Hauteroche d'Hulst, député du Finistère décédé. Il y sera constamment réélu et siégera à la Chambre des députés jusqu'à son décès.
+Comme théologien il s'opposa à Maurice Blondel et sa série d'articles Histoire et dogme, les lacunes philosophiques de l'exégèse moderne parus dans La Quinzaine de George Fonsegrive en 1904. Blondes mettait en cause dans la Crise moderniste les théologiens classiques accusés d' extrincécisme. Gayraud lui répondit dans La Revue du clergé français[1].
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

@@ -1,0 +1,17 @@
+PRETAG Charles.
+NOMTAG Bouissoud.
+Charles Bouissoud , né le 30 juillet 1880 à Charolles (Saône-et-Loire) où il est mort le 16 décembre 1942, est un avocat et homme politique français.
+Membre de l'Alliance démocratique, il est élu maire et conseiller général de Charolles, puis député de la Saône-et-Loire lors du scrutin général de 1928. Siégeant au groupe des Républicains de gauche, il est réélu en 1932 puis en 1936. Il rejoint alors le groupe de l'Alliance des républicains de gauche et des radicaux indépendants.
+Il vote, le 10 juillet, en faveur de la remise des pleins pouvoirs au maréchal Pétain. Sous l'occupation, il est nommé membre du Conseil départemental de Saône-et-Loire, puis membre du Conseil national de Vichy.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1928-1940 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL RDG (1928-1936)ARGRI (1936-1940) SEP3  SEP2 Date de naissance REL 30 juillet 1880 SEP3  SEP2 Date de décès REL 16 décembre 1942 (à 62 ans) SEP3  SEP2 Résidence REL Saône-et-Loire SEP3 .

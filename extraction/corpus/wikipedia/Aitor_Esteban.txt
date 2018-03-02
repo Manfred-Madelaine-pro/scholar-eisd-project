@@ -1,0 +1,24 @@
+PRETAG Aitor.
+NOMTAG Esteban.
+Aitor Esteban Bravo, né le 21 juin 1962 à Bilbao (Biscaye), est un homme politique et professeur espagnol membre du Parti nationaliste basque (PNV).
+Élu député de la circonscription de Biscaye en mars 2004, il est actuellement porte-parole du groupe nationaliste basque au Congrès des députés depuis la 18 décembre 2012.
+
+
+
+Profession.
+Aitor Esteban a été professeur à l'Université de Deusto, où il a enseigné le droit constitutionnel et administratif, ainsi que des cours d'histoire et culture indigène de Nord et Mesoamérique à la Faculté de Philosophie et Sciences de l'Éducation[1].
+Carrière politique.
+Il s'affilie au Parti nationaliste basque en 1978 et est élu en 1983 secrétaire du Conseil National de Euzko Gaztedi Indarra (EGI). Deux ans plus tard il est nommé mandataire de l'Assemblée nationale et accède en 1991 à la charge de porte-parole et secrétaire de la Présidence de la Députation de Biscaye[1]. Entre 1995 et 2003 il est président des Juntes générales de Biscaye. Il est remplacé par Ana Madariaga[1].
+Pour les élections générales de 2004, il est élu député au Congrès des députés pour Biscaye. Il est réélu lors des élections de 2008 et 2011. Le 18 décembre 2012, il remplace Josu Erkoreka comme porte-parole du groupe nationaliste basque au Congrès des députés[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (EAJ-PNV).
+FONCTIONNORM
+
+NOMF Député aux Cortes Generales NOMF En fonction depuis le 30 mars 2004(13 ans, 10 mois et 26 jours) SEP2 Élection REL 14 mars 2004 SEP3  SEP2 Réélection REL 9 mars 200820 novembre 201120 décembre 201526 juin 2016 SEP3  SEP2 Circonscription REL Biscaye SEP3  SEP2 Législature REL VIIIe, IXe, Xe, XIe et XIIe SEP3  SEP2 Groupe politique REL Basque (EAJ-PNV) SEP3  SEP2 Nom de naissance REL Aitor Esteban Bravo SEP3  SEP2 Date de naissance REL 21 juin 1962 (55 ans) SEP3  SEP2 Lieu de naissance REL Bilbao, Espagne SEP3  SEP2 Nationalité REL Espagnol SEP3  SEP2 Parti politique REL EAJ-PNV SEP3  SEP2 Diplômé de REL Université de Deusto SEP3  SEP2 Profession REL Professeur de droit SEP3 .

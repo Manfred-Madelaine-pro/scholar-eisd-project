@@ -1,0 +1,20 @@
+PRETAG André.
+NOMTAG Lefèvre.
+André Lefèvre, né le 17 juin 1869 à Paris 10e[1] et mort dans cette ville le 5 novembre 1929, est un homme politique français.
+Tout d'abord parisien et socialiste, proche de René Viviani, il devient conseiller municipal de Paris, président du conseil municipal en 1907-1908, puis conseiller général de la Seine, élu dans le 5e arrondissement de Paris.
+Fort de cette position, il se présente sous l'étiquette du nouveau Parti républicain-socialiste aux élections législatives de 1910, à Aix-en-Provence. En 1913, il entre au conseil général des Bouches-du-Rhône. Réélu député en 1914 après avoir rejoint la centriste Fédération des gauches, il rejoint le groupe de l'Union républicaine radicale et radicale-socialiste, puis, en 1919, la tout aussi modérée Gauche républicaine démocratique, affiliée à l'Alliance démocratique. Battu en 1924, il se retire à Paris.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1910 – 1924 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL PRS (1910-1914)URRRS (1914-1919)GRD (1919-1924) SEP3 .
+NOMF Ministre de la Guerre NOMF 20 janvier 1920 – 16 décembre 1920.
+NOMF Président NOMF Président du ConseilAlexandre MillerandGeorges Leygues.
+NOMF Président du Conseil NOMF GouvernementGouvernement Millerand (1)Gouvernement Millerand (2)Gouvernement Leygues SEP2 Gouvernement REL Gouvernement Millerand (1)Gouvernement Millerand (2)Gouvernement Leygues SEP3  SEP2 Prédécesseur REL Georges Clemenceau SEP3  SEP2 Successeur REL Aristide Briand SEP3  SEP2 Date de naissance REL 17 juin 1869 SEP3  SEP2 Date de décès REL 5 novembre 1929 SEP3  SEP2 Résidence REL Bouches-du-Rhône SEP3 .

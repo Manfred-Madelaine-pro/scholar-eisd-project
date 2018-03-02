@@ -1,0 +1,18 @@
+PRETAG Armand.
+NOMTAG Viellard-Migeon.
+Armand Gaston Viellard-Migeon est un homme politique français, député du Territoire de Belfort de 1885 à 1889 puis de 1893 à 1902, né le 24 septembre 1842 à Méziré (Haut-Rhin)[1] et décédé le 19 juillet 1905 à Paris.
+
+
+Fils de François Viellard-Migeon, il hérite de la fortune familiale et devient maître de forges à Morvillars.
+Maire de Morvillars de 1871 à son décès, il est élu député sur la liste conservatrice en 1885. Il siège et vote avec la droite. Réélu en 1893 et 1898 sous l'étiquette libérale.
+Sa fiche sur le site de l'Assemblée nationale
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1885-1889 1893-1902 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL droite 1885-1889 action libérale 1893-1898 SEP3  SEP2 Date de naissance REL 24 septembre 1842 SEP3  SEP2 Date de décès REL 19 juillet 1905 (à 62 ans) SEP3  SEP2 Résidence REL Territoire de Belfort SEP3 .

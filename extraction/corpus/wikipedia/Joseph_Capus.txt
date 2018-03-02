@@ -1,0 +1,16 @@
+PRETAG Joseph.
+NOMTAG Capus.
+Joseph Capus est un homme politique français né le 18 août 1867 à Marseille (Bouches-du-Rhône) et décédé le 1er mai 1947 à Paris.
+
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1928Sénateur 1930-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL ARS (1919-1924)GRD (1924-1928)UDR (1930-1940) SEP3  SEP2 Date de naissance REL 18 août 1867 SEP3  SEP2 Date de décès REL 1er mai 1947 SEP3  SEP2 Résidence REL Gironde SEP3 .

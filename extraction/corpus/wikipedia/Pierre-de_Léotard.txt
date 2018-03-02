@@ -1,0 +1,21 @@
+PRETAG Pierre-de.
+NOMTAG Léotard.
+Pierre de Léotard est un homme politique français né le 6 juillet 1909 à Bordeaux (Gironde) et décédé le 12 août 1992 à Morbier (Jura).
+
+
+Pierre de Léotard était un homme politique de la droite patriote. À 15 ans, il adhère à la ligue nationaliste des Jeunesses patriotes. Puis il entre à la plus modérée Jeunesse française républicaine de l'Alliance démocratique, grand parti du centre-droit de la IIIe République.
+En 1936, il participe activement à la constitution du Parti social français (PSF) de François de La Rocque.
+Pendant la guerre, ce parti aux accents parfois pétainistes, mais opposé au fascisme et à la collaboration, couvre le réseau de résistance réseau Klan. Les Allemands arrêtent en mars 1943, 152 de leurs dirigeants, dont Pierre de Léotard.
+En 1945, il participe à la création du Parti républicain social de la réconciliation française (PRSRF), successeur officiel du PSF, parti qui adhère rapidement au Rassemblement des gauches républicaines (RGR).
+Pierre de Léotard est élu député de la Seine en 1951 sur une liste du RGR, puis réélu en 1956. Il est nommé secrétaire de l’Assemblée nationale. Il sera aussi vice-président de la Commission de réforme des théâtres nationaux (1957-1958), de l'association parlementaire pour la liberté de l'enseignement, secrétaire de la commission de l'Éducation nationale, du groupe parlementaire de l'amitié France-Allemagne fédérale et du groupe France-Espagne.
+Partisan de l'Algérie française, il soutient le retour au pouvoir du général de Gaulle en 1958. Mais, battu aux élections cette même année, sous l'étiquette du Centre républicain, il se consacre à la vie intellectuelle (rédaction de Études et Réformes) et associative (Mouvement d'entraide et de solidarité pour les Français d'Outre-mer) (MESFOM).
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1951-1958 NOMF 1951 – SEP2 Gouvernement REL IVe République SEP3  SEP2 Groupe politique REL RRRS (1951-1956)RGRCR (1956-1958) SEP3  SEP2 Date de naissance REL 6 juillet 1909 SEP3  SEP2 Date de décès REL 12 août 1992 (à 83 ans) SEP3  SEP2 Résidence REL Seine SEP3 .

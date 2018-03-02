@@ -1,0 +1,19 @@
+PRETAG Henri.
+NOMTAG Lorin.
+Henri Lorin, né le 2 juillet 1866 à Bayonne et mort le 1er mai 1932 à Bordeaux, est un géographe, sociologue et député français.
+
+
+
+Licencié es lettres, diplômé de l'École polytechnique, membre de la Société mathématique de France, professeur d’histoire et de géographie à Pau, puis, à l’École Normale Supérieure et au lycée Carnot de Tunis. Professeur de géographie coloniale à la faculté des lettres de l'université de Bordeaux, correspondant de l’Institut de France, secrétaire général de la Société de géographie commerciale comme spécialiste des questions coloniales. Il participa à la préparation des traités de paix et aux commissions interalliées de Paris, mettant fin à la première guerre mondiale.
+Il est élu à deux reprises, de 1919 à 1924 sous l'étiquette de l'Action républicaine et sociale, et de 1928 à 1932 sous l'étiquette de l'Action démocratique et sociale.
+Il meurt à Bordeaux d'une hémorragie cérébrale survenue au cours du dépouillement d'une élection législative dont il aurait pourtant été vainqueur.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1924puis 1928-1932 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARS (1919-1924)ADS (1928-1932) SEP3  SEP2 Date de naissance REL 2 juillet 1866 SEP3  SEP2 Date de décès REL 1er mai 1932 SEP3  SEP2 Résidence REL Gironde SEP3 .

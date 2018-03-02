@@ -1,0 +1,18 @@
+PRETAG Léon.
+NOMTAG Lauvray.
+Léon Lauvray est un agriculteur et un homme politique français né le 24 septembre 1877 et décédé le 4 juin 1965 à Évreux, dans l'Eure.
+
+
+Exploitant agricole et ingénieur agronome, membre de la chambre départementale d'agriculture et de l'Académie d'agriculture de France, il entre en politique en 1928 en devenant député de l'Eure sous les couleurs de l'Alliance démocratique. Il rejoint le groupe parlementaire de l'Action démocratique et sociale à la Chambre des députés. Battu en 1932 par l'ancien député radical-socialiste Georges Chauvin, qu'il avait battu en 1928, Léon Lauvray ne retrouve pas son siège en 1936.
+En 1936, il est président de la Société libre d'agriculture, sciences, arts et belles-lettres de l'Eure.
+En 1939, il se présente aux élections sénatoriales et retrouve un siège de parlementaire. Il rejoint le groupe centriste de l'Union républicaine après son élection. Le 10 juillet 1940, il ne prend pas part au vote sur la remise des pleins pouvoirs au Maréchal Pétain et décède en 1965 sans avoir retrouvé de mandat parlementaire.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1928-1932Sénateur 1939-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ADS (1928-1932)UR (1938-1940) SEP3  SEP2 Date de naissance REL 24 septembre 1877 SEP3  SEP2 Date de décès REL 4 juin 1965 (à 87 ans) SEP3  SEP2 Résidence REL Eure SEP3 .

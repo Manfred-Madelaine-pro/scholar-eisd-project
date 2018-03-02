@@ -1,0 +1,23 @@
+PRETAG Gilbert.
+NOMTAG Barbier.
+Gilbert Barbier, né le 3 mars 1940, à Amancey (Doubs), est un chirurgien et homme politique français.
+
+
+
+
+
+Il étudie au lycée à Besançon (lycée Victor Hugo), où il fréquente la même classe que Jean-Pierre Chevènement, en 1950, puis à Rouen, où il suit son père, nommé inspecteur de la jeunesse et des sports en 1955. Il y passe son baccalauréat en 1957. Il étudie ensuite la médecine à l'Université de Caen, qu'il quitte en 1960 pour rejoindre celle de Besançon, au sein de laquelle il devient président de corporation, en 1963. Il en sort chirurgien.
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF).
+PART Union pour un mouvement populaire (UMP).
+PART Les Républicains (LR).
+FONCTIONNORM
+
+NOMF Sénateur français NOMF 1er octobre 2001 – 1er octobre 2017(16 ans) SEP2 Élection REL 23 septembre 2001 SEP3  SEP2 Réélection REL 25 septembre 2011 SEP3  SEP2 Circonscription REL Jura SEP3  SEP2 Groupe politique REL RDSE SEP3 .
+NOMF Président du groupe RDSE au Sénat NOMF 24 mai 2017 – 26 septembre 2017(4 mois et 2 jours) SEP2 Prédécesseur REL Jacques Mézard SEP3  SEP2 Successeur REL Jean-Claude Requier SEP3 .
+NOMF Député français NOMF 28 mars 1993 – 1er juin 1997(4 ans, 2 mois et 4 jours) SEP2 Réélection REL 28 mars 1993 SEP3  SEP2 Circonscription REL 2e du Jura SEP3  SEP2 Législature REL VIe SEP3  SEP2 Groupe politique REL UDF SEP3  SEP2 Prédécesseur REL Jean-Pierre Santa Cruz SEP3  SEP2 Successeur REL Dominique Voynet SEP3  SEP2 Réélection REL 16 mars 1986 SEP3  SEP2 Circonscription REL 2e du Jura SEP3  SEP2 Législature REL VIIIe SEP3  SEP2 Groupe politique REL UDF SEP3  SEP2 Prédécesseur REL Jean-Pierre Santa Cruz SEP3  SEP2 Successeur REL Jean-Pierre Santa Cruz SEP3  SEP2 Élection REL 19 mars 1978 SEP3  SEP2 Circonscription REL 2e du Jura SEP3  SEP2 Législature REL VIe SEP3  SEP2 Groupe politique REL UDF SEP3  SEP2 Prédécesseur REL Henri Jouffroy SEP3  SEP2 Successeur REL Jean-Pierre Santa Cruz SEP3  SEP2 Prédécesseur REL Jean-Pierre Santa Cruz SEP3  SEP2 Successeur REL Jean-Claude Wambst SEP3  SEP2 Date de naissance REL 3 mars 1940 (77 ans) SEP3  SEP2 Lieu de naissance REL Amancey (Doubs) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL UDFUMPLR SEP3  SEP2 Diplômé de REL Faculté de médecine de Besançon SEP3  SEP2 Profession REL Chirurgien SEP3 .

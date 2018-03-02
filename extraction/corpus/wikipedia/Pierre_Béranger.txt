@@ -1,0 +1,17 @@
+PRETAG Pierre.
+NOMTAG Béranger.
+Pierre Béranger est un homme politique français né le 26 juin 1888 à Paris et décédé le 20 mars 1967 à Paris.
+Membre de l'Alliance démocratique, il est élu député de l'Eure sous cette étiquette lors des élections législatives de 1936. De 1928 à 1940, il fut le vice-président et le trésorier de l'Alliance démocratique. À la Chambre, il s'inscrit au groupe unifié de l'AD, l'Alliance des républicains de gauche et des radicaux indépendants.
+Il vote, le 10 juillet, en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Il ne retrouve pas de mandat de parlementaire après la Libération.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL ARGRI SEP3  SEP2 Date de naissance REL 26 juin 1888 SEP3  SEP2 Date de décès REL 20 mars 1967 (à 78 ans) SEP3  SEP2 Résidence REL Eure SEP3 .

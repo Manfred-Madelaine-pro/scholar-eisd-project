@@ -1,0 +1,19 @@
+PRETAG Henri.
+NOMTAG Avril.
+Henri Avril, de son nom complet Henri Pierre Marie Avril, né le 4 décembre 1888 à Cavan et mort le 17 janvier 1949 à Saint-Brieuc[1], est un homme politique français et un résistant.
+Professeur et ancien combattant, il est élu député en 1919 sur les listes du Bloc national sans avoir jamais effectué le moindre mandat local. Il siège au sein d'un des groupes de la tendance conservatrice de l'Alliance démocratique.
+Battu lors des élections de 1924, il reprend ses activités de professeur, puis de directeur de l'école primaire supérieure, et ne participe plus à la vie politique. Résistant pendant la Seconde Guerre mondiale, il est nommé président du Comité départemental de libération puis préfet délégué des Côtes-d'Armor[2]. Ses convictions le poussent ensuite à adhérer à la SFIO[3]. C'est un proche d'une des personnalités symbolisant la relève politique dans l'immédiat après-guerre, René Pleven, qu'il conseille[2].
+Il est inhumé au cimetière communal Saint-Michel à Saint-Brieuc.
+Le lycée public de Lamballe porte aujourd'hui son nom.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1924 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARS SEP3  SEP2 Date de naissance REL 4 décembre 1888 SEP3  SEP2 Date de décès REL 17 janvier 1949 (à 60 ans) SEP3  SEP2 Résidence REL Côtes-du-Nord SEP3 .

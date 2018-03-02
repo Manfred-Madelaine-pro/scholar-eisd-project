@@ -1,0 +1,15 @@
+PRETAG Jean-Marie.
+NOMTAG Commenay.
+Jean-Marie Commenay, né le 18 juin 1924 à Saint-Sever (Landes) et mort le 30 septembre 1998 à Pessac (Gironde) est un avocat, député des Landes de 1958 à 1978, maire de Saint-Sever de 1965 à 1989.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1958-1978 NOMF GouvernementVe république SEP2 Gouvernement REL Ve république SEP3  SEP2 Groupe politique REL RPCD (1958-1962)RD (1962-1967)PDM (1967-1973)UC (1973-1974)RCDS (1974-1977) SEP3  SEP2 Date de naissance REL 18 juin 1924 SEP3  SEP2 Date de décès REL 30 septembre 1998 (à 74 ans) SEP3  SEP2 Résidence REL Landes SEP3 .

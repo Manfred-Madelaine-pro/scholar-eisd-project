@@ -1,0 +1,33 @@
+PRETAG Lucien.
+NOMTAG Dior.
+Lucien François Louis Dior est un industriel et homme politique français, né le 4 juillet 1867 à Granville et mort le 20 mai 1932 à Neuilly-sur-Seine.
+
+
+
+Issu d'une vieille famille industrielle normande du Sud-Manche, il est le fils de Lucien Léon Dior dit Lucien Dior (1841-1909), Directeur de l'usine familiale d'engrais chimiques, président de la Chambre de commerce de Granville et maire de Granville de 1890 à 1892, et de Animaïde Marie Ange.
+Après des études au collège de Granville, puis au collège Stanislas de Paris, il entre à l'École polytechnique. À sa sortie, il complète ses études agricoles en entrant comme préparateur de chimie à l'Institut national agronomique puis comme chargé de mission en Angleterre pour le ministère de l'Agriculture pour l'étude de la fabrication des engrais chimiques.
+Il épouse, le 10 décembre 1889, à Paris, Charlotte Marie Jeanne Lhomer, fille de Jean Louis Lhomer, maire de Rosny-sur-Seine, et de Marie Hélène Jean, avec laquelle il eut notamment Pierre Charles Lucien (1901-1964), docteur en Droit, conseiller référendaire à la cour des comptes et chevalier de la Légion d'Honneur.
+Il prend la direction de l'usine familiale d'engrais chimiques avec son cousin, Maurice, futur père du couturier Christian Dior, et est élu en 1897 membre du tribunal de commerce de Granville, qu'il préside peu après.
+Entré au conseil municipal de Granville en 1902, il se porte candidat à la succession d'Émile Riotteau comme député d'Avranches et est élu sous l'étiquette « Action démocratique et sociale » le 6 mai 1906, puis réélu le 24 avril 1910, le 26 avril 1914, le 16 novembre 1919. Il a été l'un des vice-présidents de l'Union du commerce et de l'industrie pour la défense sociale vers 1910[1].
+
+
+
+
+
+
+
+PARTISNORM
+PART Entente républicaine démocratique (ERD) 1919.
+PART 1919 (1919) 1924.
+PART 1924 (1924) .
+PART Républicains de gauche (RDG) 1924.
+PART 1924 (1924) 1928.
+PART 1928 (1928) .
+PART Action démocratique et sociale (ADS) 1928.
+PART 1928 (1928) 1932.
+PART 1932 (1932).
+FONCTIONNORM
+
+NOMF Ministre du Commerce et de l'Industrie NOMF 16 janvier 1921 – 29 mars 1924 SEP2 Gouvernement REL Briand VII, Poincaré II, Poincaré III SEP3  SEP2 Prédécesseur REL Auguste Isaac SEP3  SEP2 Successeur REL Louis Loucheur SEP3 .
+NOMF Président du Conseil général de la Manche NOMF Député de la Manche.
+NOMF Député de la Manche NOMF 6 mai 1906 – 31 mai 1932 SEP2 Date de naissance REL 4 juillet 1867 SEP3  SEP2 Lieu de naissance REL Granville (Manche) SEP3  SEP2 Date de décès REL 20 mai 1932 (à 64 ans) SEP3  SEP2 Lieu de décès REL Neuilly-sur-Seine (Hauts-de-Seine) SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL ERD (1919-1924)RDG (1924-1928)ADS (1928-1932) SEP3 .

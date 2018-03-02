@@ -1,0 +1,21 @@
+PRETAG Geoffroy-de.
+NOMTAG Montalembert.
+Geoffroy, comte de Montalembert, né le 16 décembre 1850 à Versailles (Seine-et-Oise) et décédé le 16 octobre 1926 au Château de Brigode à Annappes (Nord), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Action libérale populaire (Action libérale).
+FONCTIONNORM
+
+NOMF Député de la 6e circonscription de Lille NOMF 27 avril 1902 – 31 mai 1906 SEP2 Prédécesseur REL Lui-même SEP3  SEP2 Successeur REL Henri Delecroix (Radical-socialiste) SEP3 .
+NOMF Député de la 6e circonscription de Lille NOMF 20 août 1893 – 31 mai 1902 SEP2 Prédécesseur REL Gustave Dron (Radical ) SEP3  SEP2 Successeur REL Lui-même SEP3 .
+NOMF Député de la 7e circonscription de Lille NOMF 22 septembre 1889 – 31 mai 1893 SEP2 Prédécesseur REL - SEP3  SEP2 Successeur REL Jules Guesde (POF) SEP3 .
+NOMF Conseiller général du Nord(élu pour le Canton de Lannoy) NOMF 1889 – 1907 SEP2 Prédécesseur REL Charles Bouchery SEP3  SEP2 Successeur REL M. Lamotte (Radical-socialiste) SEP3  SEP2 Successeur REL Geoffroy de Montalembert fils SEP3  SEP2 Nom de naissance REL Geoffroy de Montalembert SEP3  SEP2 Date de naissance REL 16 décembre 1850 SEP3  SEP2 Lieu de naissance REL Versailles (Seine-et-Oise) SEP3  SEP2 Date de décès REL 16 octobre 1926 (à 75 ans) SEP3  SEP2 Lieu de décès REL Annappes (Nord) SEP3  SEP2 Nationalité REL  Français SEP3  SEP2 Parti politique REL Action libérale SEP3  SEP2 Conjoint REL Alix de Maurès de Malartic de Brigode[1] SEP3  SEP2 Enfants REL Geoffroy de Montalembert SEP3  SEP2 Religion REL Catholique SEP3 .

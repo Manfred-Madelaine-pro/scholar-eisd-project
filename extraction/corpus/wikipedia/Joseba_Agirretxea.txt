@@ -1,0 +1,24 @@
+PRETAG Joseba.
+NOMTAG Agirretxea.
+Joseba Andoni Agirretxea Urresti né le 6 août 1966 est un homme politique espagnol membre du Parti nationaliste basque. Il est député de Guipuscoa depuis le 9 mars 2008 pour les IXe, Xe, XIe et XIIe législatures.
+
+
+
+Il est père de deux filles.
+Profession.
+Il a mené des études de philologie basque à l'Université de Deusto. Il est assesseur en communication, professionnel de la radio et de la télévision.
+Carrière politique.
+Il a été conseiller municipal de Ondarroa de 1987 à 1990 et est membre de l'Assemblée nationale du PNV[1].
+Le 9 mars 2008, il est élu député pour Guipuscoa au Congrès des députés et réélu en 2011, 2015 et 2016.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (EAJ-PNV).
+FONCTIONNORM
+
+NOMF Député aux Cortes Generalespour Guipuscoa NOMF En fonction depuis le 9 mars 2008(9 ans, 11 mois et 4 jours) SEP2 Élection REL 9 mars 2008 SEP3  SEP2 Réélection REL 20 novembre 201120 décembre 201526 juin 2016 SEP3  SEP2 Législature REL IXe, XIe, XIe et XIIe SEP3  SEP2 Groupe politique REL Basque (EAJ-PNV) SEP3  SEP2 Nom de naissance REL Joseba Andoni Agirretxea Urresti SEP3  SEP2 Date de naissance REL 6 août 1966 (51 ans) SEP3  SEP2 Lieu de naissance REL Ondarroa, Espagne SEP3  SEP2 Nationalité REL Espagnol SEP3  SEP2 Parti politique REL EAJ-PNV SEP3  SEP2 Enfants REL 2 SEP3  SEP2 Diplômé de REL Université de Deusto SEP3  SEP2 Résidence REL Saint-Sébastien, Espagne SEP3 .

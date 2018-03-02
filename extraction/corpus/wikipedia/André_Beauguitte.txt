@@ -1,0 +1,30 @@
+PRETAG André.
+NOMTAG Beauguitte.
+André Emmanuel Beauguitte[1], né le 6 juillet 1901 à Paris et mort le 20 juin 1986 dans la même ville, est un homme politique français.
+
+
+
+Après des études de droit à Mayence et des débuts dans l'administration préfectorale [2] où il suit les pas de son père, préfet, André Beauguitte appartient à plusieurs cabinets ministériels, de 1924 à 1931.
+Il débute au même moment sa carrière politique. Elu conseiller général de la Meuse, dans le canton de Montfaucon-d'Argonne, il poursuit sa carrière dans l'administration jusqu'en 1932, année où il est élu de la Meuse, sous l'étiquette des républicains de gauche, c'est à dire de droite.
+Sous-secrétaire d'État à l'intérieur sous le gouvernement Albert Sarraut II (de janvier à juin 1936), il est réélu aux législatives et siège au sein du groupe de l'Alliance des républicains de gauche et des radicaux indépendants.
+Le 10 juillet 1940, il vote en faveur du projet de loi constitutionnel accordant les pleins pouvoirs au maréchal Philippe Pétain. Bien que résistant et membre de la France libre, il ne bénéficie pas des premières lois d'amnistie et est déclaré inéligible.
+Il faudra qu'il attende 1953 pour être réhabilité, notamment parce que certains des faits qui lui avaient été reprochés se révèlent inexact. Il est alors réélu conseiller général du canton de Montfaucon-d'Argonne, et conserve ce mandat jusqu'à sa mort.
+En 1956, il est élu député de la Meuse, à la tête d'une liste "de défense agricole, économique et sociale" et siège au groupe du Parti paysan, qu'il quitte en novembre 1957, en désaccord sur le rapprochement entre Paul Antier et Pierre Poujade. Il adhère alors au groupe du RGR.
+A l'assemblée, il se fait essentiellement défenseur des intérêts agricoles.
+Réélu député en novembre 1958, il siège d'abord chez les non-inscrits avant de rejoindre l'Entente démocratique en octobre 1959.
+Parallèlement à ses activités politiques, il mène une activité journalistique en dirigeant trois hebdomadaires : La Dépêche de Paris, La Dépêche meusienne, et La Dépêche industrielle, commerciale et agricole. Il contribue également à la presse économique parisienne.
+Il mène aussi des travaux littéraires et historiques, dont, en 1960, Le Chemin de Cocherel, préfacé par Maurice Genevoix et récompensé par le Prix Broquette-Gouin de l'Académie Française.
+En 1962, il rejoint la majorité gaulliste et siège parmi les républicains indépendants, constamment réélu jusqu'en 1978.
+En 1965, il est élu maire de Verdun, et réélu en 1971. A partir de la fin des années 1970, il prend des distances avec la vie politique, ne conservant plus que son mandat de conseiller général.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la 2e circonscription de la Meuse NOMF 9 décembre 1958 – 2 avril 1978 SEP2 Élection REL 30 novembre 1958 SEP3  SEP2 Réélection REL 25 novembre 1962 • 12 mars 1967 • 30 juin 1968 • 11 mars 1973 SEP3  SEP2 Législature REL Ire, IIe, IIIe, IVe, Ve législature de la Ve République française SEP3  SEP2 Groupe politique REL NI (1958-1962)RI (1962-1978) SEP3  SEP2 Successeur REL Claude Biwer (UDF) SEP3 .
+NOMF Député de la Meuse NOMF 19 janvier 1956 – 5 décembre 1958 SEP2 Élection REL 2 janvier 1956 SEP3  SEP2 Législature REL IIIe législature de la IVe République française SEP3  SEP2 Groupe politique REL NI (1956-1958) SEP3  SEP2 Élection REL 8 mai 1932 SEP3  SEP2 Réélection REL 3 mai 1936 SEP3  SEP2 Législature REL XVe, XVIe de la IIIe République française SEP3  SEP2 Groupe politique REL RDG (1932-1936)ARGRI (1936-1942) SEP3 .
+NOMF Conseiller général du canton de Montfaucon-d'Argonne NOMF 24 avril 1955 – 1986 SEP2 Prédécesseur REL Jean Vuillaume (MRP) SEP3  SEP2 Successeur REL Denis Cordonnier (RPR) SEP3  SEP2 Prédécesseur REL Androphile Mauvais SEP3  SEP2 Successeur REL Jean Vuillaume (MRP) SEP3  SEP2 Date de naissance REL 6 juillet 1901 SEP3  SEP2 Lieu de naissance REL Paris (France) SEP3  SEP2 Date de décès REL 20 juin 1986 (à 84 ans) SEP3  SEP2 Lieu de décès REL Paris (France) SEP3  SEP2 Résidence REL Meuse SEP3 .

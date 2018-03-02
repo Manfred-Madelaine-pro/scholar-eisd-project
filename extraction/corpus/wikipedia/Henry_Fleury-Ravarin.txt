@@ -1,0 +1,20 @@
+PRETAG Henry.
+NOMTAG Fleury-Ravarin.
+Henry Fleury-Ravarin est un homme politique français né le 21 avril 1861 à Lyon (Rhône) et décédé le 25 février 1924 à Paris
+Docteur en droit, diplômé de l’École libre des sciences politiques, il entre au Conseil d'État en 1885. De 1892 à 1893, il est chef adjoint de cabinet de Jules Siegfried, ministre du commerce et de l'industrie. Il est élu député du Rhône en 1893. Réélu en 1898 et 1902, il est battu en 1906. Mais dès le mois de novembre 1906, il est élu sénateur du Rhône, mais est battu en 1909. Il retrouve un siège de député du Rhône en 1910, dans une autre circonscription que celle où il avait été élu entre 1893 et 1906. Il siège alors au groupe de l'Union républicaine. À nouveau battu en 1914, il retrouve une dernière fois un poste de député, grâce au scrutin de liste.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance démocratique (Alliance démocratique).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .
+NOMF Sénateur de la Troisième République (d) NOMF .

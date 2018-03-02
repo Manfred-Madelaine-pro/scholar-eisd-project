@@ -1,0 +1,27 @@
+PRETAG Jean.
+NOMTAG Morel.
+Jean Morel de son vrai nom Jean-Baptiste Morel, né le 10 octobre 1854 à Nandax (Loire) et mort le 7 février 1927 à Montrouge (Hauts-de-Seine), est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance démocratique (Alliance démocratique).
+PART Radicaux indépendants (Radicaux indépendants).
+FONCTIONNORM
+
+NOMF Ministre des Colonies NOMF 3 novembre 1910 – 2 mars 1911(3 mois et 27 jours).
+NOMF Président NOMF Président du ConseilAristide Briand.
+NOMF Président du Conseil NOMF GouvernementAristide Briand II SEP2 Gouvernement REL Aristide Briand II SEP3  SEP2 Prédécesseur REL Georges Trouillot SEP3  SEP2 Successeur REL Adolphe Messimy SEP3 .
+NOMF Président NOMF Président du ConseilAristide BriandLouis Barthou.
+NOMF Président du Conseil NOMF GouvernementAristide Briand III et IVLouis Barthou SEP2 Gouvernement REL Aristide Briand III et IVLouis Barthou SEP3  SEP2 Prédécesseur REL René Besnard SEP3  SEP2 Successeur REL Albert Lebrun SEP3 .
+NOMF Sénateur de la Loire NOMF 7 janvier 1912 – 7 février 1927(15 ans et 1 mois) SEP2 Élection REL 7 janvier 1912 SEP3  SEP2 Réélection REL 11 janvier 19206 janvier 1924 SEP3 .
+NOMF Député de la Loire NOMF 8 mai 1898 – 16 janvier 1912(13 ans, 8 mois et 8 jours) SEP2 Élection REL 8 mai 1898 SEP3  SEP2 Réélection REL 27 avril 190220 mai 190624 avril 1910 SEP3  SEP2 Législature REL VIIe, VIIIe, IXe, Xe (Troisième République) SEP3  SEP2 Groupe politique REL Union démocratique (1902-1906)Gauche démocratique (1906-1910)Gauche radicale (1910-1912) SEP3  SEP2 Prédécesseur REL Édouard Daigne SEP3  SEP2 Successeur REL Léon Rizard SEP3 .
+NOMF Président du Conseil général de la Loire NOMF 1917 – 1919(2 ans) SEP2 Prédécesseur REL Gabriel Réal SEP3  SEP2 Successeur REL Albert Boel SEP3 .
+NOMF Conseiller général du canton de Charlieu NOMF 9 décembre 1894 – 9 décembre 1919(25 ans) SEP2 Prédécesseur REL Étienne Brossard SEP3  SEP2 Successeur REL Léon Rizard SEP3  SEP2 Nom de naissance REL Jean-Baptiste Morel SEP3  SEP2 Date de naissance REL 10 octobre 1854 SEP3  SEP2 Lieu de naissance REL Nandax (Loire) SEP3  SEP2 Date de décès REL 7 février 1927 (à 72 ans) SEP3  SEP2 Lieu de décès REL Montrouge (Hauts-de-Seine) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL Alliance démocratiqueRadicaux indépendants SEP3  SEP2 Diplômé de REL École supérieure de pharmacie SEP3  SEP2 Profession REL Pharmacien SEP3 .

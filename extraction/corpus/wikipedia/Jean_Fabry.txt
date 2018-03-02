@@ -1,0 +1,47 @@
+PRETAG Jean.
+NOMTAG Fabry.
+Jean Fabry, né à Villefranche-de-Rouergue (Aveyron) le 6 juin 1876 et mort à Montreuil (actuelle Seine-Saint-Denis) le 1er juin 1968, est un militaire de carrière et homme politique français.
+
+
+
+Engagé volontaire à 19 ans, il entre à l'École militaire de Saint-Cyr en 1895, puis à l'École de guerre en 1904. Il sert comme capitaine au Conseil supérieur de la guerre, puis comme commandant du 23e bataillon de chasseurs alpins durant la première Guerre mondiale. Grièvement blessé au combat en mars 1915, il est amputé de la jambe gauche et garde la jambe droite complètement ankylosée. Il refuse sa mise en retraite l'année suivante, prend le commandement du 3e bureau du Gouvernement militaire de Paris, puis est chargé d'établir l'École d'officiers d'État-major à Senlis. Promu lieutenant-colonel en 1917, il est choisi par le général Joffre comme chef de son cabinet.
+À la fin de la guerre, avec 95% d'invalidité, il est forcé d'accepter sa mise à la réforme. Il mène ensuite une double carrière de journaliste et d'homme politique. Il devient journaliste en 1918, collaborant à Oui ( sous le pseudonyme de Bouchavesnes puis sous son nom à partir de juin 1918, date où il devient le co-directeur de cet éphémère quotidien[1] ) et à L'Avenir début 1919. Il est nommé par Léon Bailby rédacteur en chef du quotidien de droite L'Intransigeant en février 1919[2]. Il occupe longtemps cette fonction avant d'en devenir le directeur de décembre 1936 à 1938. Il collabore ensuite à d'autres périodiques de droite, au quotidien Le Matin en 1939 et 1940, puis à l'hebdomadaire Gringoire sous l'Occupation.
+En partie grâce à son statut d'ancien officier invalide de guerre, ancien du cabinet du maréchal Joffre, et du fait aussi de l'appui de Bailby, il se porte candidat sur une liste du Bloc national aux élections de 1919 dans le 10e arrondissement de Paris. Il est élu député de la Seine, sur un programme anticommuniste[3]. Il accède à la présidence du groupement des officiers mutilés en décembre 1919[4].
+À la Chambre, il devient président de la commission de l'armée et vice-président de la commission d'études du Conseil supérieur de la défense nationale. Réélu député de la Seine en 1924 sur une liste qu'il mène, il est réélu en 1928 et 1932 ( contre le radical Oscar Dufrenne, qu'il bat difficilement) au scrutin d'arrondissement.
+Fabry est le représentant de la France à la Commission des armements de la Société des Nations de 1922 à 1924 et prend part aux travaux aboutissant au projet de « traité d'assistance mutuelle ». Il devient ministre des Colonies dans le gouvernement de Poincaré le 29 mars 1924. Il est membre de la délégation française à la conférence pour la réduction et la limitation des armements à Genève en 1932.
+Ami, conseiller et collaborateur d'André Maginot, il a en partie inspiré la politique défensive portée par ce-dernier, c'est-à-dire la fortification des frontières de l'Est ( Ligne Maginot ). Le 30 janvier 1934, Jean Fabry devient ministre de la Défense nationale et de la Guerre dans le cabinet formé par Daladier, mais il donne sa démission dès le 4 février 1934, estimant que la mesure du ministre de l'Intérieur Eugène Frot de décider le déplacement du préfet de police de Paris Jean Chiappe a été prise sans motifs sérieux. Il retrouve son portefeuille de la Guerre le 7 juin 1935 dans le cabinet de Pierre Laval. Il établit alors un plan de construction de chars. C'est qu'il a été progressivement convaincu de la nécessité de se doter de cette arme, sans pour autant préconiser une stratégie offensive. Il demeure cependant pacifiste. Un pacifisme d'ancien combattant doublé dans le seconde moitié des années 1930 d'un néo-pacifisme de droite, hostile au parti communiste qu'il abhorre[5]. Un parti communiste qui le combat alors violemment[6].
+L'Alliance républicaine démocratique soutient sa candidature en 1919 et le compte comme un de ses élus. Il intègre ensuite le comité directeur de ce parti de centre-droit.
+Il est battu aux élections de 1936 par un radical-socialiste, dans le contexte de la formation du Front populaire. Mais quelques mois plus tard, le 22 novembre 1936, il est élu sénateur du Doubs aux élections partielles.
+Il insiste sur la nécessité de renforcer l'armée face à la menace allemande, et, comme rapporteur de la commission de l'armée, fait voter à l'unanimité par le Sénat, en juin 1938, le projet de loi d'organisation générale de la Nation en temps de guerre puis, en mars 1939, le projet de loi maintenant à deux ans la durée du service militaire.
+Il vote le 10 juillet 1940 les pleins pouvoirs au maréchal Pétain et se met à chanter les louanges du maréchal dans les colonnes de Gringoire[7]. Il se vante d'exercer une certaine influence sur le maréchal[8], qui le convie parfois à sa table à Vichy[9]. Il est nommé en janvier 1941 membre du Conseil national institué par le régime de Vichy. Il préside une sous-commission de sa commission de l'information générale[10]. Encore hostile au communisme, il écrit en mai 1943 à Laval une note désignant l'URSS comme l'ennemi n° 1 et estimant que l'Allemagne est seule capable de préserver la France du danger communiste. Il faut donc l'aider « à abattre Moscou »[8].
+Il est déclaré inéligible à la Libération en raison de son vote du 10 juillet. Il est membre d'un comité d'honneur pour la libération de Pétain, constitué en 1948[11] et il collabore aux Écrits de Paris[12].
+
+
+
+
+
+
+
+PARTISNORM
+PART Action républicaine et sociale (Troisième République) (ARS) 1919.
+PART 1919 (1919) 1924.
+PART 1924 (1924) .
+PART Gauche républicaine démocratique (GRD) 1924.
+PART 1924 (1924) 1928.
+PART 1928 (1928) .
+PART Action démocratique et sociale (ADS) 1928.
+PART 1928 (1928) 1932.
+PART 1932 (1932) .
+PART Centre républicain (groupe parlementaire) (CR) 1932.
+PART 1932 (1932) 1936.
+PART 1936 (1936) .
+PART Union républicaine (UR) 1936.
+PART 1936 (1936) 1940.
+PART 1940 (1940).
+FONCTIONNORM
+
+NOMF Sénateur du Doubs NOMF 22 novembre 1936 – 21 octobre 1945.
+NOMF Ministre de la Guerre NOMF 7 juin 1935 – 24 janvier 1936 SEP2 Gouvernement REL Laval IV SEP3  SEP2 Prédécesseur REL Louis Maurin SEP3  SEP2 Successeur REL Louis Maurin SEP3 .
+NOMF Ministre de la Défense nationale et de la Guerre NOMF 30 janvier 1934 – 4 février 1934 SEP2 Gouvernement REL Daladier II SEP3  SEP2 Prédécesseur REL Édouard Daladier SEP3  SEP2 Successeur REL Joseph Paul-Boncour SEP3 .
+NOMF Ministre des Colonies NOMF 29 mars 1924 – 14 juin 1924 SEP2 Gouvernement REL Poincaré III, François-Marsal SEP3  SEP2 Prédécesseur REL Albert Sarraut SEP3  SEP2 Successeur REL Édouard Daladier SEP3 .
+NOMF Député de la Seine NOMF 16 novembre 1919 – 31 mai SEP2 Date de naissance REL 6 juin 1876 SEP3  SEP2 Lieu de naissance REL Villefranche-de-Rouergue SEP3  SEP2 Date de décès REL 1er juin 1968 SEP3  SEP2 Lieu de décès REL Montreuil SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL ARS (1919-1924)GRD (1924-1928)ADS (1928-1932)CR (1932-1936)UR (1936-1940) SEP3  SEP2 Profession REL Militaire SEP3 .

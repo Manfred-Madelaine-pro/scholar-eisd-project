@@ -1,0 +1,16 @@
+PRETAG Henri.
+NOMTAG Derrien.
+Henri Derrien est un homme politique français né le 23 juillet 1857 à Sizun (Finistère) et décédé le 7 octobre 1903 à Lannion (Côtes-d'Armor).
+Docteur en droit, il est avocat à Lannion. Conseiller municipal en 1884, adjoint au maire en 1888, il est maire de Lannion en 1892. Il est conseiller général en 1896. Il est député, conservateur, des Côtes-du-Nord de 1897 à 1903.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF 1897 - 7 octobre 1903.

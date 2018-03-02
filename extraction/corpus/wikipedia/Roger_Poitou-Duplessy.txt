@@ -1,0 +1,16 @@
+PRETAG Roger.
+NOMTAG Poitou-Duplessy.
+Roger Poitou-Duplessy est un homme politique français né le 8 avril 1883 à Lorient (Morbihan) et décédé le 29 juillet 1911 à Neuilly-sur-Seine (Hauts-de-Seine).
+Député de la Charente de 1910 à 1911, il siège à droite avec les indépendants et le groupe de l'Action libérale. Il est le frère de Jacques Poitou-Duplessy, député de la Charente.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

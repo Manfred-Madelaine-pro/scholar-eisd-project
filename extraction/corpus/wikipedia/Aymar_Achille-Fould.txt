@@ -1,0 +1,73 @@
+PRETAG Aymar.
+NOMTAG Achille-Fould.
+Aymar Achille-Fould est un homme politique français, né le 17 juillet 1925 à Tarbes (Hautes-Pyrénées) et mort le 11 avril 1986 à Paris.
+
+
+
+Issu d'une famille de banquiers et hommes politiques, il est l'arrière-arrière-petit-fils d'Achille Fould. Il est le fils du ministre Armand Achille-Fould et de sa première épouse Marcelle Dor de Lastours. Il fut, en indivision avec sa sœur Marie-Geneviève et son frère Étienne, l'un des grands propriétaires du château Beychevelle dans le Médoc. Il a épousé Martine Achille-Fould, née Forissier.
+Formation.
+Aymar Achille-Fould fut élève au lycée Janson-de-Sailly à Paris, puis aux lycées de Tarbes et de Toulon et à l'École navale à Casablanca (1943). Il devint capitaine de vaisseau.
+Fonctions gouvernementales.
+
+Secrétaire d'État auprès du ministre des Armées du gouvernement Pierre Messmer (2) (du 5 avril 1973 au 1er mars 1974)
+Secrétaire d'État auprès du ministre de l'Aménagement du Territoire chargé des Transports du gouvernement Pierre Messmer (3) (du 1er mars au 27 mai 1974)
+Secrétaire d'État aux P.T.T. du gouvernement Jacques Chirac (1) (du 31 janvier 1975 au 12 janvier 1976)
+
+Mandats électifs.
+
+Député CD (1962-1969), CDP (1969-1978) puis UDF (1986) de la 5e circonscription de la Gironde (Médoc).
+
+Vice-président de la commission des Affaires étrangères de l'Assemblée nationale (1972-?)
+
+
+Conseiller général du canton de Saint-Laurent-Médoc (1961-1986)
+Maire de Saint-Laurent-Médoc (1965-1986)
+
+Autres fonctions.
+
+Président de la Mission Interministérielle de la Mer (1978-1981)
+Vice-président du Centre démocratie et progrès
+
+
+
+Aymar Achille-Fould fut élève au lycée Janson-de-Sailly à Paris, puis aux lycées de Tarbes et de Toulon et à l'École navale à Casablanca (1943). Il devint capitaine de vaisseau.
+Fonctions gouvernementales.
+
+Secrétaire d'État auprès du ministre des Armées du gouvernement Pierre Messmer (2) (du 5 avril 1973 au 1er mars 1974)
+Secrétaire d'État auprès du ministre de l'Aménagement du Territoire chargé des Transports du gouvernement Pierre Messmer (3) (du 1er mars au 27 mai 1974)
+Secrétaire d'État aux P.T.T. du gouvernement Jacques Chirac (1) (du 31 janvier 1975 au 12 janvier 1976)
+
+Mandats électifs.
+
+Député CD (1962-1969), CDP (1969-1978) puis UDF (1986) de la 5e circonscription de la Gironde (Médoc).
+
+Vice-président de la commission des Affaires étrangères de l'Assemblée nationale (1972-?)
+
+
+Conseiller général du canton de Saint-Laurent-Médoc (1961-1986)
+Maire de Saint-Laurent-Médoc (1965-1986)
+
+Autres fonctions.
+
+Président de la Mission Interministérielle de la Mer (1978-1981)
+Vice-président du Centre démocratie et progrès
+
+
+
+
+
+
+PARTISNORM
+PART Rassemblement démocratique (RD) 1962.
+PART 1962 (1962) 1967.
+PART 1967 (1967) PDM.
+PART Progrès et démocratie moderne (PDM) 1967.
+PART 1967 (1967) 1973.
+PART 1973 (1973) UC.
+PART Centre démocratie et progrès (UC) 1973.
+PART 1973 (1973) UDF.
+PART Union pour la démocratie française (UDF) 1986.
+PART 1986 (1986).
+FONCTIONNORM
+
+NOMF Député de la Gironde NOMF 25 novembre 1962 – 11 avril 1986 SEP2 Date de naissance REL 17 juillet 1925 SEP3  SEP2 Lieu de naissance REL Tarbes SEP3  SEP2 Date de décès REL 11 avril 1986 (à 60 ans) SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL RD (1962-1967), PDM (1967-1973), UC (1973), UDF (1986) SEP3 .

@@ -1,0 +1,27 @@
+PRETAG Jean-Jacques.
+NOMTAG Beucler.
+Jean-Jacques Beucler est un officier et homme politique français, né le 3 juillet 1923 à Trèves (Allemagne) et mort le 16 juillet 1999 à Nice.
+
+
+
+Jean-Jacques Beucler, fils de général, fait l'école militaire d'officiers de Cherchell et en sort aspirant, major de la promotion 1941-42. Il fait la campagne d'Italie comme aspirant au 5e régiment de tirailleurs marocains puis celles de France et d'Allemagne. Il embarque en 1949 pour l'Indochine comme lieutenant au 5e goum du 3e tabor marocain.
+Ayant été aéro-transportée à Cao Bằng en octobre 1950, son unité est engloutie dans le désastre de la bataille de la RC 4. Jean-Jacques Beucler est grièvement blessé et fait prisonnier. Détenu durant quatre ans au sinistre camp no 1, il soutient ses camarades par un moral à toute épreuve et est reconnu par eux comme leur chef.il est un des 4 officiers faisant partie du comité de paix et de rapatriement
+Jean Lartéguy l'a dépeint dans Les Centurions sous les traits du lieutenant Marindelle, et le commandant Pouget dans Le Manifeste du Camp no 1 sous ceux de "Leyrieux".
+Le capitaine Jean-Jacques Beucler quitte ensuite l'armée. Il est industriel pendant 23 ans, milite au Centre des jeunes dirigeants d'entreprises[1], puis fait une carrière politique :
+
+maire de Corbenay #1966-1983#
+conseiller général de Faucogney-et-la-Mer et conseiller régional de Franche-Comté
+député de Haute-Saône de 1968 à 1981 sous les étiquettes non inscrit, centriste, réformateur puis UDF
+secrétaire d'État à la Défense puis aux Anciens Combattants #1977-1978#.
+
+Il est à l'origine de l'affaire Boudarel en 1991.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1968-1981 NOMF 1968 – SEP2 Gouvernement REL Ve République SEP3  SEP2 Groupe politique REL Non InscritCentristeRéformateurUnion pour la démocratie française SEP3  SEP2 Date de naissance REL 3 juillet 1923 SEP3  SEP2 Date de décès REL 16 juillet 1999 (à 76 ans) SEP3  SEP2 Résidence REL Deuxième circonscription de la Haute-Saône SEP3 .

@@ -1,0 +1,18 @@
+PRETAG Alfred.
+NOMTAG Didry.
+Alfred Didry est un agriculteur et un homme politique français né le 15 avril 1862 à Éton (Meuse), et décédé le 14 juin 1937, dans sa ville natale.
+
+
+Agriculteur, Alfred Didry est attiré très tôt par les affaires publiques et devient juge de paix suppléant. En 1892, il est élu conseiller municipal de son village natal, puis premier adjoint au maire en 1894 et enfin maire en 1900, mandat qu'il exercera jusqu'en 1935. En 1904, il est élu conseiller d'arrondissement, mandat qu'il détient jusqu'en 1925, année de son élection comme conseiller général du canton de Spincourt.
+En 1924, il se présente, sous les couleurs modérées de l'Alliance démocratique, aux élections législatives sur une liste d'Union républicaine et nationale conduite par André Maginot. Élu, il rejoint le groupe de la Gauche républicaine démocratique. Il appartient à la Commission des régions libérées. Réélu au scrutin uninominal en 1928, il rejoint le groupe de l'Action démocratique et sociale, qui regroupe les éléments les plus conservateurs de l'Alliance.
+Battu par un autre membre de l'Alliance démocratique, André Beauguitte, lors du renouvellement de 1932, en dépit du soutien posthume d'André Maginot dont les affiches de propagande annoncent curieusement : « Si la voix d'un mort compte encore pour quelque chose, je demande aux électeurs de l'arrondissement de Montmédy de voter en masse pour l'excellent républicain et mon ancien ami Alfred Didry », ce dernier se replie sur ses mandats locaux jusqu'en 1935, lorsque son âge le contraint à la retraite politique. Il décède dans sa ville natale deux ans plus tard.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1924-1932 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP3  SEP2 Groupe politique REL GRD (1924-1928)ADS (1928-1932) SEP3  SEP2 Date de naissance REL 15 avril 1862 SEP3  SEP2 Date de décès REL 14 juin 1937 (à 75 ans) SEP3  SEP2 Résidence REL Meuse SEP3 .

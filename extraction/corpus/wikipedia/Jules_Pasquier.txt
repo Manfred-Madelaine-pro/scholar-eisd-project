@@ -1,0 +1,16 @@
+PRETAG Jules.
+NOMTAG Pasquier.
+Jules Pasquier est un homme politique français né le 1er avril 1839 à Goudelancourt-les-Pierrepont (Aisne) et décédé le 10 mars 1928 à Laon (Aisne).
+Notaire à Laon de 1866 à 1880, il est conseiller municipal de Laon en 1888 et député de l'Aisne de 1889 à 1893 et de 1905 à 1910, siégeant au groupe de l'Action libérale. Il a été maire d'Autremencourt.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

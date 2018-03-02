@@ -1,0 +1,17 @@
+PRETAG Frédéric-de.
+NOMTAG Kerouartz.
+Frédéric de Kerouartz, né le 6 mai 1858 à Guingamp (Côtes-du-Nord) et mort le 26 juin 1930 à Paris, est un homme politique français.
+Propriétaire terrien, il est conseiller général du canton de Callac. Député des Côtes-du-Nord de 1898 à 1902, il siège au groupe de l'Action libérale. Battu en 1902, il retrouve un poste de parlementaire comme sénateur des Côtes-du-Nord de 1912 à 1921. Son activité parlementaire est très limitée et il se retire de la vie politique après sa défaite en 1921. Son fils, Oswen de Kerouartz est député des côtes d'Armor de 1930 à 1936.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .
+NOMF Sénateur de la Troisième République (d) NOMF .

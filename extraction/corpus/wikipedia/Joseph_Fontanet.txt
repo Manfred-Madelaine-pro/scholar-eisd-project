@@ -1,0 +1,34 @@
+PRETAG Joseph.
+NOMTAG Fontanet.
+Joseph Fontanet, né le 9 février 1921 à Frontenex (Savoie) et mort assassiné le 2 février 1980 à Paris 7e, est un homme politique français. Figure démocrate-chrétienne, il fut plusieurs fois ministre dont ministre du travail puis ministre de l'Éducation nationale sous la présidence de Georges Pompidou.
+Il est le père du dirigeant d'entreprise Xavier Fontanet et d'Arnaud Fontanet épidémiologiste.
+
+
+
+
+
+
+
+Marié à Hélène Pouliquen, il est le père de cinq enfants dont Xavier Fontanet (né en 1948).
+
+
+
+PARTISNORM
+PART Mouvement républicain populaire (MRP) 1956.
+PART 1956 (1956) 1958.
+PART 1958 (1958) .
+PART Républicains populaires et centre démocratique (RPCD) 1958.
+PART 1958 (1958) 1962.
+PART 1962 (1962) .
+PART Centre démocratique (CD) 1962.
+PART 1962 (1962) 1967.
+PART 1967 (1967) .
+PART Progrès et démocratie moderne (PDM) 1967.
+PART 1967 (1967) 1973.
+PART 1973 (1973).
+FONCTIONNORM
+
+NOMF Député de la 2e circonscription de la Savoie NOMF 2 avril 1973 – 6 mai 1973 SEP2 Législature REL Ve (Cinquième République) SEP3  SEP2 Prédécesseur REL Georges Peizerat SEP3  SEP2 Successeur REL Georges Peizerat (suppléant) SEP3  SEP2 Législature REL IIe, IIIe, IVe (Cinquième République) SEP3  SEP2 Prédécesseur REL Léon Delemontex SEP3  SEP2 Successeur REL Georges Peizerat (suppléant) SEP3  SEP2 Législature REL Ire (Cinquième République) SEP3  SEP2 Successeur REL Léon Delemontex (suppléant) SEP3 .
+NOMF Ministre de l'Éducation nationale NOMF 6 juillet 1972 – 27 mai 1974.
+NOMF Président NOMF GouvernementPierre Messmer I, II et III SEP2 Gouvernement REL Pierre Messmer I, II et III SEP3  SEP2 Prédécesseur REL Olivier Guichard SEP3  SEP2 Successeur REL René Haby SEP3  SEP2 Prédécesseur REL Nicolas Jay SEP3  SEP2 Successeur REL Georges Cumin SEP3  SEP2 Prédécesseur REL André Colin SEP3 .
+NOMF Député de la Savoie NOMF 2 janvier 1956 – 8 décembre 1958 SEP2 Législature REL IIIe (Quatrième République) SEP3  SEP2 Date de naissance REL 9 février 1921 SEP3  SEP2 Lieu de naissance REL Frontenex SEP3  SEP2 Date de décès REL 2 février 1980 (à 58 ans) SEP3  SEP2 Lieu de décès REL Paris 7e SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL MRP (1956-1958)RPCD (1958-1962)CD (1962-1967)PDM (1967-1973) SEP3 .

@@ -1,0 +1,21 @@
+PRETAG Henri.
+NOMTAG Blanc.
+Henry Blanc est un homme politique et magistrat français, né le 7 janvier 1858 au Puy-en-Velay (Haute-Loire) et décédé le 24 avril 1936 à Jandriac (Haute-Loire).
+Avocat au Puy-en-Velay de 1880 à 1885, il entre en 1885 dans la magistrature où il exerce comme substitut à Mende, Laval et Grenoble, puis comme procureur à Saint-Marcelin en 1891.
+Député de la Haute-Loire de 1893 à 1902, il est l'un des fondateurs de l'Alliance démocratique.
+En 1902, il ne se représente pas et réintègre la magistrature. Avocat général à Rouen en 1902, puis à Paris en 1907, il termine sa carrière comme conseiller à la Cour d'Appel de Paris. Il prend sa retraite en 1928 et se retire en Haute-Loire.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance démocratique (Alliance démocratique).
+PART Voir et modifier les données sur Wikidata ().
+FONCTIONNORM
+
+NOMF Député NOMF .

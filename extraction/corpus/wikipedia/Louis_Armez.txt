@@ -1,0 +1,20 @@
+PRETAG Louis.
+NOMTAG Armez.
+Louis Armez, né le 19 août 1838 à Paris, décédé le 18 septembre 1917 à Plourivo est un homme politique français.
+Il est maire de Plourivo en 1871, conseiller général de Paimpol et député des Côtes-du-Nord de 1876 à 1885 et de 1889 à 1917.
+
+
+
+Louis Armez est membre de la commission des douanes et de la commission de la marine durant de nombreuses années et il défend les intérêts des gens de mer et du personnel de la marine marchande[1].
+
+
+
+
+Louis Armez est le fils de Charles Louis Marie Armez (1799 - 1882), maire de Plourivo. Il est le petit-fils de Nicolas Armez (1754 - 1825) qui occupa les mêmes fonctions. Son arrière grand-père était Jean Armez (1704 - 1803), riche négociant et armateur de Paimpol. Il était le père de Robert Armez (1875-1927), diplomate et de André Armez (1886-1963).
+Son grand oncle fut Nicolas Armez, révolutionnaire célèbre qui fut le premier préfet des Côtes-du-Nord dont il définit les frontières et qui aurait acquis la tête momifiée de Richelieu. Louis Armez rapportait parfois cette tête à Paris pour la montrer à ses collègues de l'Assemblée Nationale[2].
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

@@ -1,0 +1,17 @@
+PRETAG Jean.
+NOMTAG Ossola.
+Jean Ossola était un homme politique français, né le 24 janvier 1881 à Grasse (Alpes-Maritimes) et décédé le 30 avril 1932 à Saint-Vallier-de-Thiey (Alpes-Maritimes). Il était député des Alpes-Maritimes sous la Troisième République.
+
+
+
+Fils du député César Ossola, élevé dans un milieu familial républicain, il fait ses études à Paris et devient docteur en droit[1]. Avocat à Grasse, il est élu conseiller général de Grasse en juillet 1910 puis maire et député en 1914. Pendant la Première Guerre mondiale, il s'engage alors qu'il est député, est plusieurs fois blessé et reçoit la croix de guerre 1914-1918. Il développe une activité très soutenue à l'Assemblée nationale. Président de la commission de l'armée, il est sous-secrétaire d'État en 1925 et 1926. Il meurt en campagne électorale dans un accident d'automobile.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député des Alpes-Maritimes (1914-1932) NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Date de naissance REL 24 avril 1881 SEP3  SEP2 Date de décès REL 30 avril 1932 (à 51 ans) SEP3 .

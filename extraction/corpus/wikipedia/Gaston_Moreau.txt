@@ -1,0 +1,21 @@
+PRETAG Gaston.
+NOMTAG Moreau.
+Gaston Moreau est un homme politique français né le 3 octobre 1878 à Angers (Maine-et-Loire) et mort le 3 septembre 1958 à Joué-lès-Tours (Indre-et-Loire).
+
+
+Petit-fils d'agriculteur et fils d'huissier, Gaston Moreau devient lui-même docteur en droit et avoué.
+Il reçoit la Croix de Guerre, pour sa participation durant la Première Guerre mondiale (Citation à l'ordre du Régiment le 1er août 1917 : « sous-officier très dévoué comme sergent a fait plusieurs reconnaissances périlleuses en avant des premières lignes et en a rapporté des renseignements utiles. Comme adjudant, a été un auxiliaire précieux pour son chef de Bataillon »).
+Il entre en politique en 1935, en se présentant aux élections municipales de Baugé sur la liste de l'Union républicaine. Le 6 mai 1935, il est élu conseiller municipal (avec 380 voix sur 747 inscrits, 668 votants), avec MM. Lebeau (395 voix) et M. Hulin son opposant (348 voix). Il est élu maire de Baugé le 19 mai 1935.
+En 1936, il se porte candidat aux élections législatives en tant que Républicain Indépendant. Le 3 mai 1936, il bat au second tour le député sortant radical, Francis Caillard (8349 voix contre 7789 voix). Il siège à l'Alliance des républicains de gauche et des radicaux indépendants, le nouveau groupe parlementaire unifié de l'AD. À la Chambre des députés, il intervient essentiellement sur les questions de logement et de propriété.
+Il vote, le 10 juillet 1940, en faveur de la remise des pleins pouvoirs au Maréchal Pétain et se retire définitivement de la vie parlementaire. Il est ré-élu maire de Baugé jusqu'en 1945.
+Il quittera dès lors la carrière politique pour continuer essentiellement son métier d'avocat, et accessoirement à celui d'écrivain.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARGRI SEP3  SEP2 Nom de naissance REL Gaston Maurice Moreau SEP3  SEP2 Date de naissance REL 3 octobre 1878 SEP3  SEP2 Lieu de naissance REL Angers (Maine-et-Loire) SEP3  SEP2 Date de décès REL 3 septembre 1958 SEP3  SEP2 Lieu de décès REL Joué-lès-Tours (Indre-et-Loire) SEP3  SEP2 Nationalité REL française SEP3  SEP2 Résidence REL Maine-et-Loire SEP3 .

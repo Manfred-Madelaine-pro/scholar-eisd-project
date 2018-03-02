@@ -1,0 +1,42 @@
+PRETAG René.
+NOMTAG Coty.
+René Coty, né le 20 mars 1882 au Havre et mort le 22 novembre 1962 dans la même ville, est un homme d'État français, président de la République française de 1954 à 1959.
+Député de la Seine-Inférieure de 1923 à 1935 puis de 1945 à 1948, sénateur de la Seine-Inférieure de 1936 à 1944 puis de 1948 à 1953, il occupa les fonctions de ministre de la Reconstruction et de l'Urbanisme, de 1947 à 1948 dans le cabinet de Robert Schuman puis d'André Marie, il devient ensuite vice-président du Conseil de la République jusqu'en décembre 1953, date à laquelle il est élu à la présidence de la République, au 13e tour de scrutin.
+Son mandat est marqué par le gouvernement de Pierre Mendès France, la fin de la guerre d'Indochine, le début de la guerre d'Algérie et le retour du général de Gaulle au pouvoir, qui entraîna la fondation de la Ve République et son départ volontaire, en janvier 1959 de la présidence de la République pour laisser place à de Gaulle, « le plus illustre des Français », comme l'appelait le président Coty.
+René Coty est le second et dernier président de la IVe République.
+
+
+
+Une jeunesse littéraire.
+(Voir plus bas le paragraphe Généalogie).
+Jules Gustave René Coty est le fils de Jean Coty, républicain modéré, directeur d'un collège, et mari de Blanche Sence. René Coty a deux sœurs, Nelly et Marthe, et deux frères, Marcel et Henri. Tous les membres de la famille Coty sont normands et ont exercé des métiers divers tels que cultivateurs, instituteurs ou encore artisans[1].
+En 1899, le jeune René Coty obtient un double baccalauréat en sciences et en lettres, avec la mention bien, et part faire ses études à l'université de Caen. En 1900, cependant, il est exempté du service militaire, pour cause de maigreur. Cette même année, il représente l'association générale des étudiants de Caen au Congrès international de Paris[2]. Deux ans plus tard, en 1902, il obtient une licence en droit et une licence en lettres et philosophie. Il prête serment d'avocat la même année et s'inscrit au barreau du Havre. Spécialiste en droit maritime et commercial, il plaide au civil et au pénal. Mû par un souci de justice sociale, il prend la défense en 1910 de Jules Durand, un syndicaliste injustement accusé d'avoir incité au meurtre d'un ouvrier non gréviste[3].
+Par deux fois, l'avocat Coty fut bâtonnier de l'ordre des avocats. C'est au printemps que le jeune René Coty s'engage en politique, lorsqu'il soutient la campagne du député-maire du Havre Jules Siegfried lors des élections législatives.
+Passionné de littérature et de philosophie, il fonde en 1905 le Cercle Vallonges, un cercle littéraire, avec quelques amis, également intéressés par les livres.
+Son épouse, Germaine Corblet.
+Le 21 mai 1907, René Coty épouse, à l'église Saint-Michel du Havre, Germaine Corblet, fille d'un armateur havrais. Le couple a deux filles, Geneviève, née en 1908, épouse de Louis-Félix Egloff à partir de 1929, avec lequel elle a six filles, et Anne-Marie, née en 1910, épouse du docteur Maurice Georges à partir de 1932, avec lequel elle a trois filles et un fils. Geneviève et Anne-Marie décèdent toutes deux en 1987.
+Benoît Duteurtre, né en 1960, un arrière-petit-fils de René et Germaine Coty, est un romancier, essayiste et critique musical.
+Une carrière politique importante.
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance démocratique (AD).
+PART Centre national des indépendants et paysans (CNIP).
+FONCTIONNORM
+
+NOMF Président NOMF Président de la République française.
+NOMF Président de la République française NOMF 16 janvier 1954 – 8 janvier 1959(4 ans, 11 mois et 23 jours) SEP2 Élection REL 23 décembre 1953 SEP3 .
+NOMF Président du Conseil NOMF PrédécesseurVincent Auriol SEP2 Prédécesseur REL Vincent Auriol SEP3  SEP2 Successeur REL Charles de Gaulle(Ve République) SEP3  SEP2 Élection REL 19 novembre 1948 SEP3 .
+NOMF Président NOMF Sénateur de la Seine-Inférieure.
+NOMF Sénateur de la Seine-Inférieure NOMF 7 novembre 1948 – 23 décembre 1953(5 ans, 1 mois et 16 jours) SEP2 Élection REL 7 novembre 1948 SEP3  SEP2 Réélection REL 18 mai 1952 SEP3 .
+NOMF Ministre de la Reconstruction et del'Urbanisme NOMF 24 novembre 1947 – 7 septembre 1948(9 mois et 14 jours).
+NOMF Président NOMF Président du ConseilRobert SchumanAndré Marie.
+NOMF Président du Conseil NOMF GouvernementSchuman IMarieSchuman II SEP2 Gouvernement REL Schuman IMarieSchuman II SEP3  SEP2 Prédécesseur REL Jean Letourneau SEP3  SEP2 Successeur REL Eugène Claudius-Petit SEP3 .
+NOMF Député de la Seine-Inférieure NOMF 21 octobre 1945 – 19 novembre 1948(3 ans et 29 jours) SEP2 Élection REL 21 octobre 1945 SEP3  SEP2 Réélection REL 2 juin 194610 novembre 1946 SEP3  SEP2 Législature REL Constituantes 1945-1946Ire (IVe République) SEP3 .
+NOMF Sénateur de la Seine-Inférieure NOMF 14 janvier 1936 – 1er janvier 1944(7 ans, 11 mois et 18 jours) SEP2 Élection REL 14 janvier 1936 SEP3 .
+NOMF Député de la Seine-Inférieure NOMF 10 juin 1923 – 31 mai 1935(11 ans, 11 mois et 21 jours) SEP2 Élection REL 10 juin 1923 SEP3  SEP2 Réélection REL 11-25 mai 192422-29 avril 19281er-8 mai 1932 SEP3  SEP2 Législature REL XIIe-XIIIe-XIVe-XVe SEP3  SEP2 Nom de naissance REL Jules Gustave René Coty SEP3  SEP2 Date de naissance REL 20 mars 1882 SEP3  SEP2 Lieu de naissance REL Le Havre (France) SEP3  SEP2 Date de décès REL 22 novembre 1962(à 80 ans) SEP3  SEP2 Lieu de décès REL Le Havre (France) SEP3  SEP2 Nature du décès REL Infarctus du myocarde SEP3  SEP2 Nationalité REL française SEP3  SEP2 Parti politique REL ADCNIP SEP3  SEP2 Conjoint REL Germaine Corblet SEP3  SEP2 Diplômé de REL Université de Caen SEP3  SEP2 Profession REL Avocat SEP3  SEP2 Religion REL Catholicisme SEP3 .

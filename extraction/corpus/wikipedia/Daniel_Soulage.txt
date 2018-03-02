@@ -1,0 +1,22 @@
+PRETAG Daniel.
+NOMTAG Soulage.
+Daniel Soulage, né le 14 février 1942 à Monflanquin (Lot-et-Garonne), est un homme politique français, membre de l'Alliance centriste[1].
+
+
+
+Agriculteur de profession, il est député UDF de la 3e circonscription de Lot-et-Garonne entre 1993 et 1997.
+Élu sénateur de Lot-et-Garonne le 23 septembre 2001 au second tour, avec 60,75 % des suffrages[2], il siège au sein du groupe du RDSE jusqu'en 2002, puis de l'Union centriste dont il est vice-président jusqu'à la fin de son mandat, en 2011.
+
+
+
+
+
+
+
+PARTISNORM
+PART Alliance centriste (AC).
+FONCTIONNORM
+
+NOMF Sénateur de Lot-et-Garonne NOMF 23 septembre 2001 – 30 septembre 2011(10 ans et 7 jours) SEP2 Groupe politique REL RDSE (2001-2002)UC (2002-2011) SEP3  SEP2 Successeur REL Pierre Camani SEP3 .
+NOMF Député de la 3e circonscriptionde Lot-et-Garonne NOMF 28 mars 1993 – 21 avril 1997(4 ans et 24 jours) SEP2 Élection REL 28 mars 1993 SEP3  SEP2 Groupe politique REL UDF SEP3  SEP2 Prédécesseur REL Marcel Garrouste SEP3  SEP2 Successeur REL Jérôme Cahuzac SEP3 .
+NOMF Conseiller général de Lot-et-GaronneÉlu dans le canton de Monflanquin NOMF 23 mars 1985 – 1er avril 2004(19 ans et 9 jours) SEP2 Élection REL 18 mars 1985 SEP3  SEP2 Prédécesseur REL Marcel Calmette SEP3  SEP2 Successeur REL Yves Balségur SEP3  SEP2 Élection REL 13 mars 1983 SEP3  SEP2 Successeur REL Francis Bordes SEP3  SEP2 Date de naissance REL 14 février 1942 (76 ans) SEP3  SEP2 Parti politique REL AC SEP3  SEP2 Résidence REL Lot-et-Garonne SEP3 .

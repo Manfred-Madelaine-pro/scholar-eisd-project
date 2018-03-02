@@ -1,0 +1,19 @@
+PRETAG Pierre.
+NOMTAG Mathé.
+Pierre Mathé est un agriculteur et un homme politique français né le 1er août 1882 à Giry, dans la Nièvre, et décédé le 3 juin 1956 à Paris.
+C'est un gros exploitant agricole dans le canton de Nuits-Saint-Georges: il dirige un ensemble de métairies de 576 hectares. Responsable de plusieurs organisations professionnelles agricoles, membre de la Chambre départementale de l'Agriculture dès sa fondation, et conseiller général de la Côte-d'Or à partir de 1933, Pierre Mathé est l'un des dirigeants du petit Parti agraire et paysan français, de tendance conservatrice, dont il est délégué à la propagande puis vice-président.
+Candidat aux élections législatives de 1932, il est défait au second tour par le candidat radical-socialiste mais obtient néanmoins un bon score. De nouveau candidat en 1936 avec le soutien de la Fédération républicaine, il est cette fois élu et créé, à la Chambre des députés, le nouveau groupe Agraire indépendant dont il prend la présidence. Il rejoint également la commission de l'Agriculture. De ces tribunes, il ferraille contre les mesures prises par le Front populaire.
+Il publie en 1937 l'ouvrage "Le manifeste paysan: essai d'une doctrine humaniste appliquée à l'agriculture française", avec François de Clermont-Tonnerre et Louis Mouilleseaux, l'ancien théoricien du corporatisme de la Solidarité française.
+Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréchal Pétain. Il devient commissaire général à l'agriculture et au ravitaillement. Du 1er avril 1944 à son départ pour Sigmaringen le 17 août 1944, il est commissaire général à l'agriculture. Il est jugé en Haute-Cour, avec 20 autres élus de 1940 et condamné à 5 ans d'indignité nationale. Il ne retrouve pas de mandat parlementaire sous la Quatrième République.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Agraire indépendant SEP3  SEP2 Date de naissance REL 1er août 1882 SEP3  SEP2 Date de décès REL 3 juin 1956 (à 73 ans) SEP3  SEP2 Résidence REL Côte-d'Or SEP3 .

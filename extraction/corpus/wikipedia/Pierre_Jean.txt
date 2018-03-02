@@ -1,0 +1,18 @@
+PRETAG Pierre.
+NOMTAG Jean.
+Pierre Jean François Arago était un homme politique français, né à Fauguerolles (Lot-et-Garonne) le 10 janvier 1862 et mort à Paris le 8 mars 1937, député des Alpes-Maritimes sous la Troisième République.
+
+
+
+François Arago était le fils d'Emmanuel Arago, ministre de France à Berlin, et donc petit-fils de François Arago. Son épouse, Marie Dupuy, était la fille de Jean Dupuy, sénateur des Hautes-Pyrénées et directeur du Petit Parisien.
+Diplomate de profession, il est élu député de Grasse en janvier 1903 et siège au sein de l'Union républicaine. Réélu en 1906, il est battu par Joseph Gillette-Arimondy en 1910, mais parvient à reconquérir son siège en avril 1914.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1903-1910puis 1914-1924 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL UR (1903-1910)GD (1914-1919)ERD (1919-1924) SEP3  SEP2 Date de naissance REL 10 janvier 1862 SEP3  SEP2 Date de décès REL 8 mars 1937 (à 75 ans) SEP3  SEP2 Résidence REL Alpes-Maritimes SEP3 .

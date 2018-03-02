@@ -1,0 +1,26 @@
+PRETAG Pedro.
+NOMTAG Azpiazu.
+Pedro María Azpiazu Uriarte né le 28 avril 1957 est un homme politique espagnol membre du Parti nationaliste basque.
+Il est député de Biscaye du 12 mars 2000 au 28 novembre 2016 pour les VIIe, VIIIe, IXe, Xe, XIe et XIIe législatures.
+
+
+
+Il est marié.
+Profession.
+Il est titulaire d'une licence en sciences économiques.
+Carrière politique.
+Le 12 mars 2000, il est élu député pour Biscaye au Congrès des députés et réélu en 2004, 2008, 2011, 2015 et 2016[1]. Il démissionne en décembre 2016 pour devenir conseiller aux Finances du Gouvernement basque.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (EAJ-PNV).
+FONCTIONNORM
+
+NOMF Conseiller à l'Économie et aux Financesdu Gouvernement basque NOMF En fonction depuis le 28 novembre 2016(1 an, 2 mois et 17 jours).
+NOMF Président NOMF GouvernementUrkullu II SEP2 Gouvernement REL Urkullu II SEP3  SEP2 Législature REL XIe SEP3  SEP2 Prédécesseur REL Ricardo Gatzagaetxebarria SEP3 .
+NOMF Député aux Cortes Generales NOMF 12 mars 2000 – 28 novembre 2016(16 ans, 8 mois et 16 jours) SEP2 Élection REL 12 mars 2000 SEP3  SEP2 Réélection REL 14 mars 20049 mars 200820 novembre 201120 décembre 201526 juin 2016 SEP3  SEP2 Circonscription REL Biscaye SEP3  SEP2 Législature REL VIIe, VIIe, IXe, XIe, XIe et XIIe SEP3  SEP2 Groupe politique REL Basque (EAJ-PNV) SEP3  SEP2 Successeur REL Idoia Sagastizabal SEP3  SEP2 Nom de naissance REL Pedro María Azpiazu Uriarte SEP3  SEP2 Date de naissance REL 28 avril 1957 (60 ans) SEP3  SEP2 Lieu de naissance REL Espagne SEP3  SEP2 Nationalité REL Espagnole SEP3  SEP2 Parti politique REL EAJ-PNV SEP3 .

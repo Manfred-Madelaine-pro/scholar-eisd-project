@@ -1,0 +1,18 @@
+PRETAG Iñaki.
+NOMTAG Azkuna.
+Iñaki Azkuna Urreta (14 février 1943 – 20 mars 2014[1]) est une personnalité politique espagnole. Il faisait partie du Parti nationaliste basque. Il a été maire de la ville de Bilbao, de 1999 jusqu'à sa mort.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (PNB).
+FONCTIONNORM
+
+NOMF Ministre de la Santé du gouvernement basque NOMF 4 octobre 1991 – 2 janvier 1999(7 ans, 2 mois et 29 jours).
+NOMF Président NOMF PrédécesseurJosé Manuel Campos Freire SEP2 Prédécesseur REL José Manuel Campos Freire SEP3  SEP2 Successeur REL Gabriel Inclan Iribar SEP3  SEP2 Nom de naissance REL Iñaki Azkuna Urreta SEP3  SEP2 Date de naissance REL 14 février 1943 SEP3  SEP2 Lieu de naissance REL Bilbao,  Espagne SEP3  SEP2 Date de décès REL 20 mars 2014 (à 71 ans) SEP3  SEP2 Lieu de décès REL Bilbao,  Espagne SEP3  SEP2 Nature du décès REL Cancer de la prostate SEP3  SEP2 Nationalité REL  Espagnole SEP3  SEP2 Parti politique REL PNB SEP3  SEP2 Conjoint REL Anabella Domínguez SEP3  SEP2 Profession REL Médecin SEP3  SEP2 Religion REL Catholique SEP3 .

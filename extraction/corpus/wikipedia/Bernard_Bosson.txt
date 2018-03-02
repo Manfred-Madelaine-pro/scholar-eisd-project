@@ -1,0 +1,44 @@
+PRETAG Bernard.
+NOMTAG Bosson.
+Bernard Bosson, né le 25 février 1948 à Annecy et mort le 13 mai 2017 à Lyon[1], est un homme politique français.
+Membre de l'Union pour la démocratie française, il est maire d'Annecy de 1983 à 2007 et plusieurs fois député de Haute-Savoie et ministre.
+
+
+
+Origines et formation.
+Fils de Charles Bosson, maire d'Annecy, député et sénateur centriste, il est diplômé d'études supérieures en droit du travail et en droit public[2].
+Carrière.
+Il exerce à partir de 1972 comme avocat[3].
+Il entre en politique en 1977 comme conseiller municipal au côté d'André Fumex, alors maire d'Annecy qui a succédé à Charles Bosson en 1975 après la démission de celui-ci. Bernard Bosson devient maire d'Annecy en 1983, en obtenant 58 % des suffrages dès le premier tour.
+Affilié à l'UDF-CDS, c'est sous ces couleurs qu'il participe aux élections législatives de 1986[3]. Il est élu à l'Assemblée nationale et entre au gouvernement Jacques Chirac (2) comme secrétaire d'État auprès ministre de l'Intérieur, chargé des collectivités locales. En 1986, après le remaniement du gouvernement, il devient ministre délégué auprès du ministre des Affaires étrangères, chargé des Affaires européennes.
+En 1989, il participe au courant des Rénovateurs[4].
+En octobre 1991, il devient le secrétaire général du CDS, lors du congrès d'Angoulême, succédant à Jacques Barrot avec 780 voix (soit 85,2 %)[5]. En décembre 1994, alors ministre de l'Équipement dans le gouvernement Balladur, il autorise la fin de la tarification kilométrique et de la logique de péréquation tarifaire de la SNCF[6].
+Il postule la même année à la présidence du mouvement mais perd face à François Bayrou, ministre de l'Éducation nationale et secrétaire général de l'UDF[7].
+Bernard Bosson, au titre de secrétaire général du CDS, est mis en examen en 1997 pour « recel d'abus de biens sociaux et recels d'abus de confiance », puis en 1998, avec Pierre Méhaignerie (ancien président du mouvement) et Jacques Barrot, au sujet d'un financement occulte du parti[8]. Les trois anciens dirigeants font l'objet, en février 2000, d'une condamnation par le tribunal correctionnel de Paris[9] amnistiée par la loi no 95-884 du 3 août 1995 portant amnistie[10].
+En 2001, il est réélu maire d'Annecy au deuxième tour avec moins de 50 % des voix.
+À l'occasion de la présidentielle de 2002, il fait partie des 109 parlementaires UDF et DL appelant à voter Jacques Chirac[11].
+En 2002, en tant que maire d'Annecy, il s'oppose à la tenue de l'université d'été du FN à l'Impérial Palace[12].
+Le 23 février 2005, un amendement à la loi sur le développement des territoires ruraux[13] permet de « mettre fin aux contraintes qu'engendre la superposition des deux lois, manifestement excessives, sources de complications juridiques et frein au développement pour les communes concernées ». Le maire d'Annecy s'oppose alors dans les médias locaux à ce projet, lance un site internet[14] et une pétition, et s'oppose ainsi frontalement à 8 maires riverains du lac d'Annecy, menés par Bernard Accoyer, maire (UMP) d'Annecy-le-Vieux, et président du groupe UMP de l'Assemblée nationale[15]. Cet acte isole désormais politiquement le maire d'Annecy (UDF) des autres acteurs politiques du bassin annécien appartenant à l'UMP.
+Bernard Bosson défend, en juillet 2005, auprès du ministre des Sports Jean-François Lamour et du Comité national olympique et sportif français, la candidature d'Annecy comme ville organisatrice pour les Jeux olympiques d'hiver de 2014 (l'idée avait émergé en 2003), mais le projet est refusé, arguant une candidature prématurée[16].
+Il soutient la candidature de François Bayrou à l'élection présidentielle de 2007, puis apporte son soutien à Nicolas Sarkozy au second tour. En désaccord avec la ligne de François Bayrou, il rejoint les rangs du Nouveau Centre[17] et c'est sous cette étiquette qu'il se présente aux législatives de 2007. Il est battu par Lionel Tardy[18], candidat divers droite soutenu par Pierre Hérisson, le sénateur-maire UMP de Sévrier[19]. Il annonce alors son retrait de la vie publique et politique[20], démissionnant de ses mandats de maire d'Annecy, de président du Conseil de la Communauté de l'agglomération d'Annecy et du centre hospitalier[21]. Le 21 juin 2011, il annonce se mettre au service de François Bayrou dans la perspective de l'élection présidentielle de 2012[22].
+Le 13 mai 2017, il meurt à l'âge de 69 ans des suites d'une longue maladie[23].
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française (UDF).
+FONCTIONNORM
+
+NOMF Député de la 2e circonscription de la Haute-Savoie NOMF 24 septembre 1995 – 19 juin 2007(11 ans, 8 mois et 26 jours) SEP2 Élection REL 24 septembre 1995 SEP3  SEP2 Réélection REL 1er juin 199716 juin 2002 SEP3  SEP2 Législature REL Xe, XIe, XIIe (Cinquième République) SEP3  SEP2 Prédécesseur REL Pierre Hérisson SEP3  SEP2 Successeur REL Lionel Tardy SEP3  SEP2 Élection REL 5 juin 1988 SEP3  SEP2 Réélection REL 28 mars 1993 SEP3  SEP2 Législature REL IXe (Cinquième République) SEP3  SEP2 Prédécesseur REL scrutin proportionnel SEP3  SEP2 Successeur REL Pierre Hérisson SEP3 .
+NOMF Ministre de l'Équipement, des Transports et du Tourisme NOMF 30 mars 1993 – 11 mai 1995(2 ans, 1 mois et 11 jours).
+NOMF Président NOMF GouvernementÉdouard Balladur SEP2 Gouvernement REL Édouard Balladur SEP3  SEP2 Prédécesseur REL Jean-Louis Bianco (Équipement et Transports)Jean-Michel Baylet (Tourisme, ministre délégué) SEP3  SEP2 Successeur REL Bernard Pons SEP3 .
+NOMF Ministre délégué aux Affaires européennes NOMF 19 août 1986 – 10 mai 1988(1 an, 8 mois et 21 jours).
+NOMF Président NOMF GouvernementJacques Chirac II SEP2 Gouvernement REL Jacques Chirac II SEP3  SEP2 Prédécesseur REL Catherine Lalumière (indirectement, secrétaire d'État) SEP3  SEP2 Successeur REL Édith Cresson (ministre) SEP3 .
+NOMF Député de la Haute Savoie(scrutin proportionnel) NOMF 2 avril 1986 – 2 avril 1986(moins d’un jour) SEP2 Élection REL 16 mars 1986 SEP3  SEP2 Législature REL VIIIe (Cinquième République) SEP3  SEP2 Successeur REL Claude Birraux SEP3 .
+NOMF Président NOMF GouvernementJacques Chirac II SEP2 Gouvernement REL Jacques Chirac II SEP3  SEP2 Prédécesseur REL Marc Bécam (indirectement) SEP3  SEP2 Successeur REL Yves Galland (ministre délégué) SEP3 .
+NOMF Conseiller régional de Rhône-Alpes NOMF 17 mars 1986 – 6 avril 1992(6 ans et 20 jours) SEP2 Réélection REL 18 mars 198925 juin 199519 mars 2001 SEP3  SEP2 Prédécesseur REL André Fumex SEP3  SEP2 Successeur REL Jean-Luc Rigaut SEP3 .
+NOMF Conseiller général de la Haute-Savoie(Canton d'Annecy-Centre) NOMF 18 mars 1979 – 7 octobre 1988(9 ans, 6 mois et 19 jours) SEP2 Prédécesseur REL Charles Bosson SEP3  SEP2 Successeur REL Jean-Louis Corajoud SEP3  SEP2 Date de naissance REL 25 février 1948 SEP3  SEP2 Lieu de naissance REL Annecy, Haute-Savoie (France) SEP3  SEP2 Date de décès REL 13 mai 2017 (à 69 ans) SEP3  SEP2 Lieu de décès REL Centre Léon-Berrard, Lyon (France) SEP3  SEP2 Nationalité REL Français SEP3  SEP2 Parti politique REL UDF SEP3  SEP2 Profession REL Avocat SEP3 .

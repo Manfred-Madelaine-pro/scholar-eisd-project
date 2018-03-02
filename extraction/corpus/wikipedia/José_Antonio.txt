@@ -1,0 +1,19 @@
+PRETAG José.
+NOMTAG Antonio.
+José Antonio Aguirre y Lecube (Bilbao, 6 mars 1904 - Paris, 22 mars 1960) était une figure politique au Pays basque.
+Il assura la fonction de lehendakari ou président du gouvernement autonome d’Euzkadi (provinces basques espagnoles de l'Alava, Biscaye et Guipuscoa) pendant la guerre d'Espagne. Sa prestation de serment eut lieu à Guernica, le 7 octobre 1936, devant un parterre d'élus du peuple Basque. Il était déterminé à créer une Armée basque afin de combattre au côté des Républicains. Natif de Bilbao, ancien joueur de football du club de l’Athletic Bilbao, ancien étudiant à l’université de Deusto, avocat de formation, Aguirre était l'un des responsables du Parti nationaliste basque EAJ-PNV. Avant de devenir Lehendakari, il fut maire de Getxo en Biscaye, président national de l'Action Catholique espagnole et plusieurs fois député aux Cortès (chambre des députés de Madrid).
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (Parti nationaliste basque).
+FONCTIONNORM
+
+NOMF Président du gouvernement basque NOMF 7 octobre 1936 – 22 mars 1960(23 ans, 5 mois et 15 jours) SEP2 Successeur REL Jesús María Leizaola SEP3  SEP2 Date de naissance REL 6 mars 1904 SEP3  SEP2 Lieu de naissance REL Bilbao (Espagne) SEP3  SEP2 Date de décès REL 22 mars 1960 (à 56 ans) SEP3  SEP2 Lieu de décès REL Paris (France) SEP3  SEP2 Nationalité REL Espagnole SEP3  SEP2 Parti politique REL Parti nationaliste basque SEP3  SEP2 Diplômé de REL Université de Deusto SEP3  SEP2 Profession REL Avocat SEP3 .

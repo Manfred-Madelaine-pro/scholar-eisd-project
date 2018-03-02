@@ -1,0 +1,16 @@
+PRETAG André.
+NOMTAG Cassadou.
+André Cassadou est un homme politique français né le 4 juin 1854 à Carbon-Blanc (Gironde) et décédé le 17 octobre 1938 à Saint-Loubes (Gironde).
+Négociant en vins, il est député de la Gironde de 1910 à 1914, inscrit au groupe de l'Action libérale. Sévèrement battu en 1914, il quitte la vie politique.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

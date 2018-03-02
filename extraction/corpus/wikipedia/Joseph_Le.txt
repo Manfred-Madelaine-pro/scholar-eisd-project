@@ -1,0 +1,26 @@
+PRETAG Joseph.
+NOMTAG Le.
+Joseph Le Pevedic est un homme politique français, né le 3 décembre 1879 à Ploemel (Morbihan) et décédé le 9 octobre 1964 à Vannes.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Indépendants républicains (Ind.) 1928.
+PART 1928 (1928) 1932.
+PART 1932 (1932) .
+PART Centre républicain (groupe parlementaire) (CR) 1932.
+PART 1932 (1932) 1936.
+PART 1936 (1936) .
+PART Alliance des républicains de gauche et des radicaux indépendants (ARGRI) 1936.
+PART 1936 (1936) 1940.
+PART 1940 (1940).
+FONCTIONNORM
+
+NOMF Député du Morbihan NOMF 1er juin 1928 – 10 juillet 1940 SEP2 Élection REL 29 avril 1928 SEP3  SEP2 Réélection REL 8 mai 19323 mai 1936 SEP3  SEP2 Législature REL XIVe, XVe et XVIe SEP3  SEP2 Prédécesseur REL Pierre Le Moyne SEP3  SEP2 Prédécesseur REL Armel Le Falher SEP3  SEP2 Successeur REL Théophile Quer SEP3  SEP2 Prédécesseur REL Vincent Le Pendu SEP3  SEP2 Successeur REL Pierre Le Bourdiec SEP3 .
+NOMF Conseiller général du Morbihan NOMF Biographie SEP2 Date de naissance REL 3 décembre 1879 SEP3  SEP2 Lieu de naissance REL Ploemel (Morbihan, France) SEP3  SEP2 Date de décès REL 9 octobre 1964 (à 84 ans) SEP3  SEP2 Lieu de décès REL Vannes (Morbihan, France) SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL Ind. (1928-1932)CR (1932-1936)ARGRI (1936-1940) SEP3 .

@@ -1,0 +1,15 @@
+PRETAG Pierre.
+NOMTAG Dignac.
+Pierre Dignac est un homme politique français né le 13 janvier 1876 à Gujan-Mestras (Gironde) et décédé le 21 octobre 1973 à La Teste (Gironde).
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1919-1940 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL RDG (1919-1932)CR (1932-1936)ARGRI (1936-1940) SEP3  SEP2 Date de naissance REL 13 janvier 1876 SEP3  SEP2 Date de décès REL 21 octobre 1973 (à 97 ans) SEP3  SEP2 Résidence REL Gironde SEP3 .

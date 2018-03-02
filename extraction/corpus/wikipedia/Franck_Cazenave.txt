@@ -1,0 +1,19 @@
+PRETAG Franck.
+NOMTAG Cazenave.
+Franck Cazenave, né le 28 juin 1917 à Belin et mort le 10 août 1974 (à 57 ans) à Paris, est un homme politique français.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Républicains indépendants (parti politique) (RI) CDP.
+PART Centre démocratie et progrès (CDP).
+FONCTIONNORM
+
+NOMF Député de la 7e circonscription de la Gironde NOMF 25 novembre 1962 – 10 août 1974 SEP2 Successeur REL Émile Durand SEP3  SEP2 Date de naissance REL 28 juin 1917 SEP3  SEP2 Lieu de naissance REL Belin SEP3  SEP2 Date de décès REL 10 août 1974 (à 57 ans) SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Nationalité REL  Français SEP3  SEP2 Parti politique REL RI, CDP SEP3  SEP2 Profession REL Industriel SEP3 .

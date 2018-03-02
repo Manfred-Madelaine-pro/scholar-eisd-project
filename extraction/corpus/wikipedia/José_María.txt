@@ -1,0 +1,23 @@
+PRETAG José.
+NOMTAG María.
+José María Cazalis Eiguren né le 23 juillet 1961 est un homme politique espagnol membre du Parti nationaliste basque. Il est sénateur de Biscaye depuis le 20 novembre 2011 pour les Xe, XIe et XIIe législatures.
+
+
+
+Profession.
+Carrière politique.
+Il est maire de Lekeitio de 2003 à 2011 et conseiller municipal d'opposition à partir de 2011.
+Le 20 novembre 2011, il est élu sénateur pour Biscaye au Sénat et réélu en 2015 et 2016.
+Au Sénat, il est membre suppléant de la députation permanente.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti nationaliste basque (Parti nationaliste basque).
+FONCTIONNORM
+
+NOMF Sénateur aux Cortes Generalesélu pour Biscaye NOMF En fonction depuis le 20 novembre 2011(6 ans, 2 mois et 26 jours) SEP2 Élection REL 20 novembre 2011 SEP3  SEP2 Réélection REL 20 décembre 201526 juin 2016 SEP3  SEP2 Législature REL Xe, XIe et XIIe SEP3  SEP2 Groupe politique REL Basque SEP3  SEP2 Nom de naissance REL José María Cazalis Eiguren SEP3  SEP2 Date de naissance REL 23 juillet 1961 (56 ans) SEP3  SEP2 Lieu de naissance REL Lekeitio, (Espagne) SEP3  SEP2 Nationalité REL Espagnole SEP3  SEP2 Parti politique REL Parti nationaliste basque SEP3  SEP2 Résidence REL Lekeitio, (Espagne) SEP3 .

@@ -1,0 +1,19 @@
+PRETAG Fernand.
+NOMTAG Girault.
+Fernand Girault est un homme politique français né le 8 février 1891 à Saint-Privé, dans le département de l'Yonne et décédé le 9 septembre 1965 à Auxerre.
+Tout d'abord contremaître, il s'engage comme soldat lors de la Première Guerre mondiale, puis devient directeur d'une scierie. Proche de l'Alliance démocratique (AD), il est élu conseiller d'arrondissement de Perreux.
+En 1936, il se présente aux élections législatives. Élu, il siège à l'Alliance des républicains de gauche et des radicaux indépendants, le principal groupe parlementaire de l'AD. Parlementaire actif, il est élu secrétaire de la Chambre des députés en janvier 1940.
+Il vote, le 10 juillet 1940, en faveur de la remise des pleins pouvoirs au Maréchal Pétain et ne retrouve pas de mandat parlementaire après la Seconde Guerre mondiale.
+Sa tombe se trouve au cimetière de Saint-Privé.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARGRI SEP3  SEP2 Date de naissance REL 8 février 1891 SEP3  SEP2 Date de décès REL 9 septembre 1965 (à 74 ans) SEP3  SEP2 Résidence REL Loire SEP3 .

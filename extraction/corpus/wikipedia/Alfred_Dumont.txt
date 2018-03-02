@@ -1,0 +1,20 @@
+PRETAG Alfred.
+NOMTAG Dumont.
+Alfred Dumont, né le 17 août 1845 à Dunkerque (Nord) et décédé le 27 juillet 1915 à Paris (Seine) est un avocat et un homme politique français.
+
+
+
+Avocat dans sa ville, il est élu bâtonnier. Adjoint au maire de Dunkerque en 1884 et maire de 1893 à 1908, Conseiller général du Canton de Dunkerque-Est en 1907[2] et député du Nord de 1910 à 1914, inscrit au groupe de l'Action libérale[3]. Il accueillait le Tsar Nicolas II le 17 septembre 1901 lors de son voyage en France et fut distingué à cette occasion de l'Ordre de Sainte-Anne.
+
+
+
+
+
+
+
+PARTISNORM
+PART Action libérale (Action libérale).
+FONCTIONNORM
+
+NOMF Député de la 1re circonscription de Dunkerque NOMF 24 avril 1910 – 31 mai 1914 SEP2 Prédécesseur REL Florent Guillain (Progressistes) SEP3  SEP2 Successeur REL Adolphe Defossé (Radical-socialiste) SEP3 .
+NOMF Conseiller général du Nord(élu pour le Canton de Dunkerque-Est) NOMF 28 juillet 1907 – 3 août 1913 SEP2 Prédécesseur REL Florent Guillain (Progressistes) SEP3  SEP2 Successeur REL Félix Coquelle (URD) SEP3  SEP2 Prédécesseur REL Gustave Lemaire (Droite) SEP3  SEP2 Successeur REL Henri Terquem (Radical ) SEP3  SEP2 Nom de naissance REL Alfred, Henri Dumont SEP3  SEP2 Date de naissance REL 17 août 1845 SEP3  SEP2 Lieu de naissance REL Dunkerque (Nord) SEP3  SEP2 Date de décès REL 27 juillet 1915 (à 69 ans) SEP3  SEP2 Lieu de décès REL Paris (Seine) SEP3  SEP2 Nationalité REL  Français SEP3  SEP2 Parti politique REL Action libérale SEP3  SEP2 Profession REL Avocat SEP3 .

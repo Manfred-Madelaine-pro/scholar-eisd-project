@@ -1,0 +1,17 @@
+PRETAG Auguste.
+NOMTAG Proust.
+Pierre-Auguste Proust, né le 26 avril 1852 à Sorigny (Indre-et-Loire) et décédé le 31 décembre 1923 à Ugine (Savoie), est un homme politique français.
+
+
+
+Receveur de l’enregistrement entre 1877 et 1885, à Ugine (Savoie), Russey (Doubs) puis Ouzouer-le-Marché (Loir-et-Cher). En 1886 Auguste Proust s’installe comme notaire à Ugine, où il succède à Isidore Berthet, son beau-père, lui-même syndic puis maire d’Ugine de 1857 à 1889.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député 1901-1906 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP3  SEP2 Groupe politique REL UR (1901-1902)AL (1902-1906) SEP3  SEP2 Date de naissance REL 26 avril 1852 SEP3  SEP2 Date de décès REL 31 décembre 1921 (à 69 ans) SEP3  SEP2 Résidence REL Savoie SEP3 .
