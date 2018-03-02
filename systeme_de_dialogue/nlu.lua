@@ -167,14 +167,15 @@ main:pattern('[#gram_elm #neg | #gram_sujet | #gram_info ]')
 main:pattern([[
 	[]]..tool.tag(gram_Qdouble)..[[ 
 		[]]..tool.tag(gram_sous_quest)..[[  
-			((.{,4}? #gram_sujet .{,4}? )+ | (.{,4}? #gram_info .{,4}? )+ ){2,4} 
+			((.{,4}? #gram_elm .{,4}? )+ ){2,4} 
 		] 
 		#AND 
 		[]]..tool.tag(gram_sous_quest)..[[  
-			((.{,4}? #gram_sujet .{,4}? )+ | (.{,4}? #gram_info .{,4}? )+ ){2,4} 
+			((.{,4}? #gram_elm .{,4}? )+ ){2,4} 
 		]
 	]
 ]])
+
 
 
 tags = {

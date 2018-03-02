@@ -72,7 +72,7 @@ function test_fonctionnel()
 			--- Cas Simple & Normal --- 
 
 		-- un element
-		"LIEU DE NAISSANCE ?","sep",
+		"LIEU DE NAISSANCE ?","sep", --nettoyage basique des questions
 		"Parlons de Laguiller s'il te plait.",
 		
 		-- substitution du sujet
@@ -82,17 +82,18 @@ function test_fonctionnel()
 		-- Elements multiples 
 		"Laguiller et toi ?", "sep", -- plusieurs cle
 		
-		-- 
-		"Quel est le lieu de naissance de Macron et Auffray ?", 
+		-- croisement clé attribut 
 		"de quel bord politique sont melenchon et macron ?",
+		--variation
+		--"quel est le bord politique de macron et celui de melenchon ?", "sep",
 
-		"Lieu de naissance et date de naissance de Auffray", "sep",
 		"quelle est la date de naissance de Melenchon ? et sa formation ?", "sep",
+		-- variation de la tournure de phrase
+		--"Lieu de naissance et date de naissance de Auffray", "sep",
 
-		"quel est le bord politique de macron et celui de melenchon ?", "sep",
-
-		-- les particules
-
+		-- liste longue : info sur la taille + écriture inclusive
+		--"quelle est la profession de Mélenchon et macron ?"," sep",
+		
 
 			--- Cas Spécial --- 
 		-- s'adresser au S de D de différentes façon 
@@ -117,18 +118,15 @@ function test_fonctionnel()
 
 		"la date de naissance et le lieu de naissance de Melenchon ainsi que lieu de naissance de Macron ?",
 		
-
-		-- liste longue : info sur la taille + écriture inclusive
-		"quelle est la profession de Mélenchon et macron ?"," sep",
-		
 		"quels sont les partis auquels Melenchon et Macron ont été membre ?",
 		
 		-- boucler sur les attibuts
-		"quand Macron a-t-il eu son Baccalauréat ?",
-		"quand Macron et melenchon ont-il eu leur Baccalauréat ?",
+		"quand Macron et melenchon ont-ils eu leur Baccalauréat ?",
 
 
-		-- limites  du systèle de dialogue 
+
+			--- Cas Limites du systèle de dialogue ---
+
 		-- clef icorrecte
 		"quelle est la date de naissance de Dominique ?",
 		-- attribut incorrect
@@ -143,27 +141,24 @@ function test_fonctionnel()
 		-- chercher une information secondaire
 	}
 	
-	-- auffray laguiller glotin bocueil
 	local t_simple = {
-		-- tester les autres politiciens
-		"laguiller",
-		"quel est le parti et date de naissance", 
-		"melenchon",
-		"sep",
+		"Lieu de naissance de Mélenchon et qui sont tes créateurs et les miens ainsi que la date de naissance de melenchon ?","sep",
+	
+		"Lieu de naissance de Mélenchon et qui sont tes créateurs et les miens ainsi que la date de naissance de melenchon et la formation de macron ?","sep",
+
+		"la date de naissance et le lieu de naissance de Melenchon ainsi que lieu de naissance de Macron ?",
+		
+		"quels sont les partis auquels Melenchon et Macron ont été membre ?",
+		
 	}
 
-	local t_cmplx = {
-		"sep",
-	}
-
-	for i, line in pairs(t_fini) do	
+	for i, line in pairs(t_simple) do	
 		init_rep()
 		print("> "..line)
 
 		bot_processing(line)
 
 		--pause
-		--io.write("\n--- Appuyez sur une touche pour continuer ---\n ")
 		io.read()		
 	end
 end
@@ -176,7 +171,7 @@ function bot_processing(line)
 
 	-- traitement de la ligne de texte
 	seq = lp.process(line)
-	--print(seq:tostring(tags))
+	print(seq:tostring(tags))
 
 	return contextual_analysis(seq)
 end
