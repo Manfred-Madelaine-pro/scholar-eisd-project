@@ -16,4 +16,4 @@ Il était le père de René Fayssat, député des Alpes-Maritimes de 1932 à 193
 
 FONCTIONNORM
 
-NOMF Député 1910-1914 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Gauche démocratique SEP2 Date de naissance REL 8 décembre 1855 SEP2 Date de décès REL 19 septembre 1936 SEP2 Résidence REL Alpes-Maritimes.
+NOMF Député 1910-1914 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Gauche démocratique SEP3  SEP2 Date de naissance REL 8 décembre 1855 SEP3  SEP2 Date de décès REL 19 septembre 1936 SEP3  SEP2 Résidence REL Alpes-Maritimes SEP3 .

@@ -15,4 +15,4 @@ Il ne se représente pas aux élections législatives de 1936 et se retire de la
 
 FONCTIONNORM
 
-NOMF Député 1919-1928puis 1932-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARS (1919-1924)RRRS (1924-1936) SEP2 Date de naissance REL 20 novembre 1887 SEP2 Date de décès REL 27 septembre 1948 (à 60 ans) SEP2 Résidence REL Ain.
+NOMF Député 1919-1928puis 1932-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARS (1919-1924)RRRS (1924-1936) SEP3  SEP2 Date de naissance REL 20 novembre 1887 SEP3  SEP2 Date de décès REL 27 septembre 1948 (à 60 ans) SEP3  SEP2 Résidence REL Ain SEP3 .

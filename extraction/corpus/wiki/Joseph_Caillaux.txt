@@ -40,17 +40,17 @@ PART 1944 (1944).
 FONCTIONNORM
 
 NOMF Président du Conseil des ministres françaisMinistre de l'Intérieur NOMF 27 juin 1911 – 14 janvier 1912(6 mois et 18 jours).
-NOMF Président NOMF GouvernementCaillaux SEP2 Gouvernement REL Caillaux SEP2 Législature REL Xe SEP2 Coalition REL Gauche(RRRS et RI, SI, RG, UR) SEP2 Prédécesseur REL Ernest Monis SEP2 Successeur REL Raymond Poincaré(président du Conseil)Théodore Steeg (Intérieur).
+NOMF Président NOMF GouvernementCaillaux SEP2 Gouvernement REL Caillaux SEP3  SEP2 Législature REL Xe SEP3  SEP2 Coalition REL Gauche(RRRS et RI, SI, RG, UR) SEP3  SEP2 Prédécesseur REL Ernest Monis SEP3  SEP2 Successeur REL Raymond Poincaré(président du Conseil)Théodore Steeg (Intérieur) SEP3 .
 NOMF Président NOMF Président du ConseilAristide Briand.
-NOMF Président du Conseil NOMF GouvernementBriand X SEP2 Gouvernement REL Briand X.
+NOMF Président du Conseil NOMF GouvernementBriand X SEP2 Gouvernement REL Briand X SEP3 .
 NOMF Ministre des Finances NOMF 23 juin 1926 – 17 juillet 1926(24 jours).
 NOMF Président NOMF Président du ConseilAristide Briand.
-NOMF Président du Conseil NOMF GouvernementBriand X SEP2 Gouvernement REL Briand X SEP2 Prédécesseur REL Raoul Péret SEP2 Successeur REL Anatole de Monzie.
+NOMF Président du Conseil NOMF GouvernementBriand X SEP2 Gouvernement REL Briand X SEP3  SEP2 Prédécesseur REL Raoul Péret SEP3  SEP2 Successeur REL Anatole de Monzie SEP3 .
 NOMF Président NOMF Président du ConseilÉdouard Herriot.
-NOMF Président du Conseil NOMF GouvernementHerriot I SEP2 Gouvernement REL Herriot I SEP2 Prédécesseur REL Anatole de Monzie SEP2 Successeur REL Paul Painlevé.
+NOMF Président du Conseil NOMF GouvernementHerriot I SEP2 Gouvernement REL Herriot I SEP3  SEP2 Prédécesseur REL Anatole de Monzie SEP3  SEP2 Successeur REL Paul Painlevé SEP3 .
 NOMF Président NOMF Président du ConseilGaston Doumergue.
-NOMF Président du Conseil NOMF GouvernementDoumergue I SEP2 Gouvernement REL Doumergue I SEP2 Prédécesseur REL Charles Dumont SEP2 Successeur REL René Renoult.
+NOMF Président du Conseil NOMF GouvernementDoumergue I SEP2 Gouvernement REL Doumergue I SEP3  SEP2 Prédécesseur REL Charles Dumont SEP3  SEP2 Successeur REL René Renoult SEP3 .
 NOMF Président NOMF Président du ConseilErnest Monis.
-NOMF Président du Conseil NOMF GouvernementMonis SEP2 Gouvernement REL Monis SEP2 Prédécesseur REL Louis-Lucien Klotz SEP2 Successeur REL Louis-Lucien Klotz.
+NOMF Président du Conseil NOMF GouvernementMonis SEP2 Gouvernement REL Monis SEP3  SEP2 Prédécesseur REL Louis-Lucien Klotz SEP3  SEP2 Successeur REL Louis-Lucien Klotz SEP3 .
 NOMF Président NOMF Président du ConseilPierre Waldeck-Rousseau.
-NOMF Président du Conseil NOMF GouvernementWaldeck-Rousseau SEP2 Gouvernement REL Waldeck-Rousseau SEP2 Prédécesseur REL Paul Peytral SEP2 Successeur REL Maurice Rouvier SEP2 Nom de naissance REL Joseph Marie AugusteCaillaux SEP2 Date de naissance REL 30 mars 1863 SEP2 Lieu de naissance REL Le Mans, Sarthe(France) SEP2 Date de décès REL 21 novembre 1944(à 81 ans) SEP2 Lieu de décès REL Mamers, Sarthe(France) SEP2 Nationalité REL française SEP2 Parti politique REL ARD (1898-1911)PRRRS (1911-1919)PRRRS (1925-1944) SEP2 Conjoint REL Berthe Gueydan(1906-1911)Henriette Raynouard(1911-1943) SEP2 Profession REL Avocat.
+NOMF Président du Conseil NOMF GouvernementWaldeck-Rousseau SEP2 Gouvernement REL Waldeck-Rousseau SEP3  SEP2 Prédécesseur REL Paul Peytral SEP3  SEP2 Successeur REL Maurice Rouvier SEP3  SEP2 Nom de naissance REL Joseph Marie AugusteCaillaux SEP3  SEP2 Date de naissance REL 30 mars 1863 SEP3  SEP2 Lieu de naissance REL Le Mans, Sarthe(France) SEP3  SEP2 Date de décès REL 21 novembre 1944(à 81 ans) SEP3  SEP2 Lieu de décès REL Mamers, Sarthe(France) SEP3  SEP2 Nationalité REL française SEP3  SEP2 Parti politique REL ARD (1898-1911)PRRRS (1911-1919)PRRRS (1925-1944) SEP3  SEP2 Conjoint REL Berthe Gueydan(1906-1911)Henriette Raynouard(1911-1943) SEP3  SEP2 Profession REL Avocat SEP3 .

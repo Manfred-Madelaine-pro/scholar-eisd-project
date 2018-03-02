@@ -25,7 +25,7 @@ En 1924, il abandonne la vie politique et professionnelle et passe les sept ann�
 
 FONCTIONNORM
 
-NOMF Ministre français de la Marine NOMF 16 janvier 1921 – 15 janvier 1922 SEP2 Prédécesseur REL Adolphe Landry SEP2 Successeur REL Flaminius Raiberti.
-NOMF Ministre français du Commerce et de l'Industrie NOMF 21 janvier 1913 – 22 mars 1913 SEP2 Prédécesseur REL Fernand David SEP2 Successeur REL Alfred Massé.
-NOMF Ministre français de l'Instruction publique et des Beaux-arts NOMF 14 janvier 1912 – 21 janvier 1913 SEP2 Prédécesseur REL Théodore Steeg SEP2 Successeur REL Théodore Steeg.
-NOMF Député de la Loire-Inférieure NOMF 1910 – 1924 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GRD SEP2 Prédécesseur REL Joseph Canal SEP2 Successeur REL Paul Bellamy SEP2 Date de naissance REL 22 septembre 1863 SEP2 Lieu de naissance REL Saint-Pierre SEP2 Date de décès REL 27 novembre 1931 SEP2 Lieu de décès REL Nantes SEP2 Résidence REL Loire-Inférieure.
+NOMF Ministre français de la Marine NOMF 16 janvier 1921 – 15 janvier 1922 SEP2 Prédécesseur REL Adolphe Landry SEP3  SEP2 Successeur REL Flaminius Raiberti SEP3 .
+NOMF Ministre français du Commerce et de l'Industrie NOMF 21 janvier 1913 – 22 mars 1913 SEP2 Prédécesseur REL Fernand David SEP3  SEP2 Successeur REL Alfred Massé SEP3 .
+NOMF Ministre français de l'Instruction publique et des Beaux-arts NOMF 14 janvier 1912 – 21 janvier 1913 SEP2 Prédécesseur REL Théodore Steeg SEP3  SEP2 Successeur REL Théodore Steeg SEP3 .
+NOMF Député de la Loire-Inférieure NOMF 1910 – 1924 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GRD SEP3  SEP2 Prédécesseur REL Joseph Canal SEP3  SEP2 Successeur REL Paul Bellamy SEP3  SEP2 Date de naissance REL 22 septembre 1863 SEP3  SEP2 Lieu de naissance REL Saint-Pierre SEP3  SEP2 Date de décès REL 27 novembre 1931 SEP3  SEP2 Lieu de décès REL Nantes SEP3  SEP2 Résidence REL Loire-Inférieure SEP3 .

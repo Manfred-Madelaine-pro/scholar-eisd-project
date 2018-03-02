@@ -16,4 +16,4 @@ PART Parti autonomiste breton (Parti autonomiste breton) Parti national breton.
 PART Parti national breton (Parti national breton).
 FONCTIONNORM
 
-NOMF Président du Comité National Breton NOMF Juillet 1940 – Octobre 1940 SEP2 Date de naissance REL 31 janvier 1903 SEP2 Lieu de naissance REL Rennes, France SEP2 Date de décès REL 20 mars 1944 SEP2 Lieu de décès REL Colmar, France SEP2 Nationalité REL Français SEP2 Parti politique REL Parti autonomiste bretonParti national breton SEP2 Conjoint REL Anna Youennou SEP2 Profession REL Journaliste SEP2 Religion REL Catholique.
+NOMF Président du Comité National Breton NOMF Juillet 1940 – Octobre 1940 SEP2 Date de naissance REL 31 janvier 1903 SEP3  SEP2 Lieu de naissance REL Rennes, France SEP3  SEP2 Date de décès REL 20 mars 1944 SEP3  SEP2 Lieu de décès REL Colmar, France SEP3  SEP2 Nationalité REL Français SEP3  SEP2 Parti politique REL Parti autonomiste bretonParti national breton SEP3  SEP2 Conjoint REL Anna Youennou SEP3  SEP2 Profession REL Journaliste SEP3  SEP2 Religion REL Catholique SEP3 .

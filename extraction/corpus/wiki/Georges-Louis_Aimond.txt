@@ -15,4 +15,4 @@ Il est emporté par la maladie en cours de mandat, à l'âge de 44 ans.
 
 FONCTIONNORM
 
-NOMF Député 1919-1923 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GRD SEP2 Date de naissance REL 29 octobre 1878 SEP2 Date de décès REL 6 mai 1923 (à 44 ans) SEP2 Résidence REL Seine-et-Oise.
+NOMF Député 1919-1923 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL GRD SEP3  SEP2 Date de naissance REL 29 octobre 1878 SEP3  SEP2 Date de décès REL 6 mai 1923 (à 44 ans) SEP3  SEP2 Résidence REL Seine-et-Oise SEP3 .

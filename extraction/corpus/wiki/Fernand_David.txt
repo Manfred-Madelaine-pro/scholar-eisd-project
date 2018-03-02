@@ -24,4 +24,4 @@ Liste des sénateurs de la Haute-Savoie
 
 FONCTIONNORM
 
-NOMF Député 1898-1919Sénateur 1920-1935 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL UD (1902-1906)GD (1906-1910)GR (1910-1919)GD (1920-1935) SEP2 Date de naissance REL 18 octobre 1869 SEP2 Date de décès REL 17 janvier 1935 (à 65 ans) SEP2 Résidence REL Haute-Savoie.
+NOMF Député 1898-1919Sénateur 1920-1935 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL UD (1902-1906)GD (1906-1910)GR (1910-1919)GD (1920-1935) SEP3  SEP2 Date de naissance REL 18 octobre 1869 SEP3  SEP2 Date de décès REL 17 janvier 1935 (à 65 ans) SEP3  SEP2 Résidence REL Haute-Savoie SEP3 .

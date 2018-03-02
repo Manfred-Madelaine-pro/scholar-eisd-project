@@ -16,4 +16,4 @@ Il vote les pleins pouvoirs à Philippe Pétain le 10 juillet 1940.
 
 FONCTIONNORM
 
-NOMF Député 1910-1940 NOMF 1910 – SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL RDG (1919-1928)GR (1924-1936)GDRI (1936-1940) SEP2 Date de naissance REL 14 juin 1868 SEP2 Date de décès REL 13 juin 1949 (à 80 ans) SEP2 Nationalité REL  France SEP2 Résidence REL Orne.
+NOMF Député 1910-1940 NOMF 1910 – SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1919-1928)GR (1924-1936)GDRI (1936-1940) SEP3  SEP2 Date de naissance REL 14 juin 1868 SEP3  SEP2 Date de décès REL 13 juin 1949 (à 80 ans) SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Résidence REL Orne SEP3 .

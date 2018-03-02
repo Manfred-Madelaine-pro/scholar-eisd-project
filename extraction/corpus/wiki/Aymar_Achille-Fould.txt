@@ -70,4 +70,4 @@ PART Union pour la démocratie française (UDF) 1986.
 PART 1986 (1986).
 FONCTIONNORM
 
-NOMF Député de la Gironde NOMF 25 novembre 1962 – 11 avril 1986 SEP2 Date de naissance REL 17 juillet 1925 SEP2 Lieu de naissance REL Tarbes SEP2 Date de décès REL 11 avril 1986 (à 60 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL  France SEP2 Parti politique REL RD (1962-1967), PDM (1967-1973), UC (1973), UDF (1986).
+NOMF Député de la Gironde NOMF 25 novembre 1962 – 11 avril 1986 SEP2 Date de naissance REL 17 juillet 1925 SEP3  SEP2 Lieu de naissance REL Tarbes SEP3  SEP2 Date de décès REL 11 avril 1986 (à 60 ans) SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL RD (1962-1967), PDM (1967-1973), UC (1973), UDF (1986) SEP3 .

@@ -44,12 +44,12 @@ PARTISNORM
 PART Alliance démocratique (ARD).
 FONCTIONNORM
 
-NOMF Président de la République française NOMF 18 février 1899 – 18 février 1906(7 ans) SEP2 Élection REL 18 février 1899.
-NOMF Président du Conseil NOMF PrédécesseurFélix Faure SEP2 Prédécesseur REL Félix Faure SEP2 Successeur REL Armand Fallières.
-NOMF Président du Sénat NOMF 16 janvier 1896 – 18 février 1899(3 ans, 1 mois et 2 jours) SEP2 Prédécesseur REL Paul-Armand Challemel-Lacour SEP2 Successeur REL Armand Fallières.
+NOMF Président de la République française NOMF 18 février 1899 – 18 février 1906(7 ans) SEP2 Élection REL 18 février 1899 SEP3 .
+NOMF Président du Conseil NOMF PrédécesseurFélix Faure SEP2 Prédécesseur REL Félix Faure SEP3  SEP2 Successeur REL Armand Fallières SEP3 .
+NOMF Président du Sénat NOMF 16 janvier 1896 – 18 février 1899(3 ans, 1 mois et 2 jours) SEP2 Prédécesseur REL Paul-Armand Challemel-Lacour SEP3  SEP2 Successeur REL Armand Fallières SEP3 .
 NOMF Président du Conseil des ministreset Ministre de l'intérieur NOMF 27 février 1892 – 28 novembre 1892(9 mois et 1 jour).
-NOMF Président NOMF GouvernementÉmile Loubet SEP2 Gouvernement REL Émile Loubet SEP2 Législature REL Ve SEP2 Prédécesseur REL Charles de Freycinet SEP2 Successeur REL Alexandre Ribot.
+NOMF Président NOMF GouvernementÉmile Loubet SEP2 Gouvernement REL Émile Loubet SEP3  SEP2 Législature REL Ve SEP3  SEP2 Prédécesseur REL Charles de Freycinet SEP3  SEP2 Successeur REL Alexandre Ribot SEP3 .
 NOMF Ministre de l'Intérieur NOMF 27 février 1892 – 11 janvier 1893(10 mois et 15 jours).
-NOMF Président NOMF GouvernementÉmile LoubetAlexandre Ribot I SEP2 Gouvernement REL Émile LoubetAlexandre Ribot I SEP2 Prédécesseur REL Ernest Constans SEP2 Successeur REL Alexandre Ribot.
+NOMF Président NOMF GouvernementÉmile LoubetAlexandre Ribot I SEP2 Gouvernement REL Émile LoubetAlexandre Ribot I SEP3  SEP2 Prédécesseur REL Ernest Constans SEP3  SEP2 Successeur REL Alexandre Ribot SEP3 .
 NOMF Ministre des Travaux publics NOMF 12 décembre 1887 – 3 avril 1888(3 mois et 22 jours).
-NOMF Président NOMF GouvernementPierre Tirard I SEP2 Gouvernement REL Pierre Tirard I SEP2 Prédécesseur REL Severiano de Heredia SEP2 Successeur REL Pierre Deluns-Montaud SEP2 Nom de naissance REL Émile François Loubet SEP2 Date de naissance REL 30 décembre 1838 SEP2 Lieu de naissance REL Marsanne, Drôme (France) SEP2 Date de décès REL 20 décembre 1929 (à 90 ans) SEP2 Lieu de décès REL Montélimar, Drôme (France) SEP2 Parti politique REL ARD SEP2 Conjoint REL Marie-Louise Picard SEP2 Entourage REL Léon Gambetta SEP2 Diplômé de REL Faculté de droit del'université de Paris SEP2 Profession REL Avocat SEP2 Religion REL Église catholique.
+NOMF Président NOMF GouvernementPierre Tirard I SEP2 Gouvernement REL Pierre Tirard I SEP3  SEP2 Prédécesseur REL Severiano de Heredia SEP3  SEP2 Successeur REL Pierre Deluns-Montaud SEP3  SEP2 Nom de naissance REL Émile François Loubet SEP3  SEP2 Date de naissance REL 30 décembre 1838 SEP3  SEP2 Lieu de naissance REL Marsanne, Drôme (France) SEP3  SEP2 Date de décès REL 20 décembre 1929 (à 90 ans) SEP3  SEP2 Lieu de décès REL Montélimar, Drôme (France) SEP3  SEP2 Parti politique REL ARD SEP3  SEP2 Conjoint REL Marie-Louise Picard SEP3  SEP2 Entourage REL Léon Gambetta SEP3  SEP2 Diplômé de REL Faculté de droit del'université de Paris SEP3  SEP2 Profession REL Avocat SEP3  SEP2 Religion REL Église catholique SEP3 .

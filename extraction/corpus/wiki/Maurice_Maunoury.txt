@@ -18,4 +18,4 @@ Cousin du maréchal Michel Joseph Maunoury, il prononce son éloge funèbre au n
 
 FONCTIONNORM
 
-NOMF Député d'Eure-et-Loir2e circonscription de Chartres NOMF 1910 – 1924 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GRD SEP2 Prédécesseur REL Ambroise de Saint-Pol SEP2 Successeur REL Henri Triballet SEP2 Date de naissance REL 16 octobre 1863 SEP2 Lieu de naissance REL Alexandrie (Égypte) SEP2 Date de décès REL 16 mai 1925 (à 61 ans) SEP2 Lieu de décès REL Paris SEP2 Père REL Paul Maunoury SEP2 Résidence REL Eure-et-Loir.
+NOMF Député d'Eure-et-Loir2e circonscription de Chartres NOMF 1910 – 1924 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GRD SEP3  SEP2 Prédécesseur REL Ambroise de Saint-Pol SEP3  SEP2 Successeur REL Henri Triballet SEP3  SEP2 Date de naissance REL 16 octobre 1863 SEP3  SEP2 Lieu de naissance REL Alexandrie (Égypte) SEP3  SEP2 Date de décès REL 16 mai 1925 (à 61 ans) SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Père REL Paul Maunoury SEP3  SEP2 Résidence REL Eure-et-Loir SEP3 .

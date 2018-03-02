@@ -16,4 +16,4 @@ Henri Malet reprend alors ses fonctions d'ingénieur et décède en 1971 à Pari
 
 FONCTIONNORM
 
-NOMF Député 1932-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Indépendants de gauche SEP2 Date de naissance REL 15 juillet 1888 SEP2 Date de décès REL 14 janvier 1971 (à 82 ans) SEP2 Résidence REL Charente.
+NOMF Député 1932-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Indépendants de gauche SEP3  SEP2 Date de naissance REL 15 juillet 1888 SEP3  SEP2 Date de décès REL 14 janvier 1971 (à 82 ans) SEP3  SEP2 Résidence REL Charente SEP3 .

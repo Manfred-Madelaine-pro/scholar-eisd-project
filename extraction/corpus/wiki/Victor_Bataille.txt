@@ -21,4 +21,4 @@ Victor Bataille est aussi le cousin de l'écrivain et philosophe Georges Bataill
 
 FONCTIONNORM
 
-NOMF Député 1919-1924puis 1932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GRD (1919-1924)GR (1932-1936)GDRI (1936-1940) SEP2 Date de naissance REL 12 novembre 1887 SEP2 Date de décès REL 10 novembre 1975 (à 87 ans) SEP2 Résidence REL Cantalpuis Saône-et-Loire.
+NOMF Député 1919-1924puis 1932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL GRD (1919-1924)GR (1932-1936)GDRI (1936-1940) SEP3  SEP2 Date de naissance REL 12 novembre 1887 SEP3  SEP2 Date de décès REL 10 novembre 1975 (à 87 ans) SEP3  SEP2 Résidence REL Cantalpuis Saône-et-Loire SEP3 .

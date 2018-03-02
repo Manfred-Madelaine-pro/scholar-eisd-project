@@ -14,4 +14,4 @@ Candidat en seconde position sur les listes du Bloc républicain, il est élu et
 
 FONCTIONNORM
 
-NOMF Député 1919-1924 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GRD SEP2 Date de naissance REL 31 mars 1876 SEP2 Date de décès REL 26 janvier 1927 (à 50 ans) SEP2 Résidence REL Var.
+NOMF Député 1919-1924 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL GRD SEP3  SEP2 Date de naissance REL 31 mars 1876 SEP3  SEP2 Date de décès REL 26 janvier 1927 (à 50 ans) SEP3  SEP2 Résidence REL Var SEP3 .

@@ -21,4 +21,4 @@ PART Union pour un mouvement populaire (UMP).
 PART Alliance centriste (Alliance centriste).
 FONCTIONNORM
 
-NOMF Président du Conseil régional desPays de la Loire NOMF 16 mai 2002 – 1er avril 2004(1 an, 10 mois et 16 jours) SEP2 Prédécesseur REL François Fillon SEP2 Successeur REL Jacques Auxiette SEP2 Date de naissance REL 1er juin 1948 (69 ans) SEP2 Lieu de naissance REL Nantes, Loire-Atlantique (France) SEP2 Nationalité REL française SEP2 Parti politique REL UDFUMPAlliance centriste SEP2 Diplômé de REL Université Paris VI SEP2 Profession REL Médecin hématologue à l'université de Nantes.
+NOMF Président du Conseil régional desPays de la Loire NOMF 16 mai 2002 – 1er avril 2004(1 an, 10 mois et 16 jours) SEP2 Prédécesseur REL François Fillon SEP3  SEP2 Successeur REL Jacques Auxiette SEP3  SEP2 Date de naissance REL 1er juin 1948 (69 ans) SEP3  SEP2 Lieu de naissance REL Nantes, Loire-Atlantique (France) SEP3  SEP2 Nationalité REL française SEP3  SEP2 Parti politique REL UDFUMPAlliance centriste SEP3  SEP2 Diplômé de REL Université Paris VI SEP3  SEP2 Profession REL Médecin hématologue à l'université de Nantes SEP3 .

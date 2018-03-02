@@ -15,4 +15,4 @@ Il se retire ensuite dans sa ville de Montbrison où il décède avant la Libér
 
 FONCTIONNORM
 
-NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARGRI SEP2 Date de naissance REL 21 janvier 1886 SEP2 Date de décès REL 3 mars 1943 (à 57 ans) SEP2 Résidence REL Loire.
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARGRI SEP3  SEP2 Date de naissance REL 21 janvier 1886 SEP3  SEP2 Date de décès REL 3 mars 1943 (à 57 ans) SEP3  SEP2 Résidence REL Loire SEP3 .

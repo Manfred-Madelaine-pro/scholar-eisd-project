@@ -14,4 +14,4 @@ Louis Faget, né le 25 juillet 1861 à Bordeaux et mort le 5 septembre 1931 à T
 
 FONCTIONNORM
 
-NOMF Député 1928-1931 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ADS SEP2 Date de naissance REL 25 juillet 1861 SEP2 Lieu de naissance REL Bordeaux SEP2 Date de décès REL 5 septembre 1931 SEP2 Lieu de décès REL Talence SEP2 Résidence REL Gironde.
+NOMF Député 1928-1931 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ADS SEP3  SEP2 Date de naissance REL 25 juillet 1861 SEP3  SEP2 Lieu de naissance REL Bordeaux SEP3  SEP2 Date de décès REL 5 septembre 1931 SEP3  SEP2 Lieu de décès REL Talence SEP3  SEP2 Résidence REL Gironde SEP3 .

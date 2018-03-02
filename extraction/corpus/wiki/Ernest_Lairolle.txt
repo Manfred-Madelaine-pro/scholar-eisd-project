@@ -16,4 +16,4 @@ Ernest Lairolle a joué un rôle très important dans la vie politique à Nice, 
 
 FONCTIONNORM
 
-NOMF Député 1910-1919 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP2 Groupe politique REL RP (1910-1914)GD (1914-1919) SEP2 Date de naissance REL 23 mars 1851 SEP2 Date de décès REL 8 septembre 1926 (à 75 ans) SEP2 Résidence REL Alpes-Maritimes.
+NOMF Député 1910-1919 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP3  SEP2 Groupe politique REL RP (1910-1914)GD (1914-1919) SEP3  SEP2 Date de naissance REL 23 mars 1851 SEP3  SEP2 Date de décès REL 8 septembre 1926 (à 75 ans) SEP3  SEP2 Résidence REL Alpes-Maritimes SEP3 .

@@ -23,4 +23,4 @@ PARTISNORM
 PART Parti nationaliste basque (PNV-EAJ).
 FONCTIONNORM
 
-NOMF Député européen NOMF 19 juillet 1994 – 5 janvier 1999 SEP2 Élection REL 12 juin 1994 SEP2 Législature REL 4e SEP2 Groupe politique REL PPE SEP2 Date de naissance REL 6 septembre 1963 (54 ans) SEP2 Lieu de naissance REL Zumarraga (Espagne) SEP2 Nationalité REL espagnole SEP2 Parti politique REL PNV-EAJ.
+NOMF Député européen NOMF 19 juillet 1994 – 5 janvier 1999 SEP2 Élection REL 12 juin 1994 SEP3  SEP2 Législature REL 4e SEP3  SEP2 Groupe politique REL PPE SEP3  SEP2 Date de naissance REL 6 septembre 1963 (54 ans) SEP3  SEP2 Lieu de naissance REL Zumarraga (Espagne) SEP3  SEP2 Nationalité REL espagnole SEP3  SEP2 Parti politique REL PNV-EAJ SEP3 .

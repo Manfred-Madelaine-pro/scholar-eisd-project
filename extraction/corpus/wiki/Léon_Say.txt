@@ -13,4 +13,4 @@ Jean-Baptiste Léon Say, né le 6 juin 1826 à Paris où il est mort le 21 avril
 
 FONCTIONNORM
 
-NOMF Président du Sénat NOMF 25 mai 1880 – 30 janvier 1882 SEP2 Prédécesseur REL Louis Martel SEP2 Successeur REL Philippe Le Royer SEP2 Date de naissance REL 6 juin 1826 SEP2 Date de décès REL 21 avril 1896 (à 69 ans).
+NOMF Président du Sénat NOMF 25 mai 1880 – 30 janvier 1882 SEP2 Prédécesseur REL Louis Martel SEP3  SEP2 Successeur REL Philippe Le Royer SEP3  SEP2 Date de naissance REL 6 juin 1826 SEP3  SEP2 Date de décès REL 21 avril 1896 (à 69 ans) SEP3 .

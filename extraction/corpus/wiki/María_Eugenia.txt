@@ -21,5 +21,5 @@ PARTISNORM
 PART Parti nationaliste basque (Parti nationaliste basque).
 FONCTIONNORM
 
-NOMF Président NOMF LégislatureXIIe SEP2 Législature REL XIIe SEP2 Prédécesseur REL Juan Carlos José Raffo Camarillo SEP2 Élection REL 20 novembre 2011 SEP2 Réélection REL 20 décembre 201526 juin 2016 SEP2 Législature REL Xe, XIe et XIIe SEP2 Groupe politique REL Basque.
-NOMF Président NOMF LégislatureXIe SEP2 Législature REL XIe SEP2 Prédécesseur REL Manel Plana SEP2 Successeur REL Juan Carlos José Raffo Camarillo SEP2 Nom de naissance REL María Eugenia Iparragirre Bemposta SEP2 Date de naissance REL 25 juin 1968 (49 ans) SEP2 Lieu de naissance REL Irun, (Espagne) SEP2 Nationalité REL Espagnole SEP2 Parti politique REL Parti nationaliste basque SEP2 Résidence REL Irun, (Espagne).
+NOMF Président NOMF LégislatureXIIe SEP2 Législature REL XIIe SEP3  SEP2 Prédécesseur REL Juan Carlos José Raffo Camarillo SEP3  SEP2 Élection REL 20 novembre 2011 SEP3  SEP2 Réélection REL 20 décembre 201526 juin 2016 SEP3  SEP2 Législature REL Xe, XIe et XIIe SEP3  SEP2 Groupe politique REL Basque SEP3 .
+NOMF Président NOMF LégislatureXIe SEP2 Législature REL XIe SEP3  SEP2 Prédécesseur REL Manel Plana SEP3  SEP2 Successeur REL Juan Carlos José Raffo Camarillo SEP3  SEP2 Nom de naissance REL María Eugenia Iparragirre Bemposta SEP3  SEP2 Date de naissance REL 25 juin 1968 (49 ans) SEP3  SEP2 Lieu de naissance REL Irun, (Espagne) SEP3  SEP2 Nationalité REL Espagnole SEP3  SEP2 Parti politique REL Parti nationaliste basque SEP3  SEP2 Résidence REL Irun, (Espagne) SEP3 .

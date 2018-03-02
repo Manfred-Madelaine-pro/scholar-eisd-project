@@ -15,4 +15,4 @@ En mai 1920, il est nommé membre du comité directeur de la Ligue des patriotes
 
 FONCTIONNORM
 
-NOMF Député du Calvados NOMF 27 avril 1902 – 31 mai 1936 SEP2 Réélection REL 6 mai 190624 avril 191026 avril 191416 novembre 191911 mai 192422 avril 19281er mai 1932 SEP2 Date de naissance REL 15 avril 1867 SEP2 Lieu de naissance REL Caen SEP2 Date de décès REL 10 novembre 1938 SEP2 Lieu de décès REL Paris.
+NOMF Député du Calvados NOMF 27 avril 1902 – 31 mai 1936 SEP2 Réélection REL 6 mai 190624 avril 191026 avril 191416 novembre 191911 mai 192422 avril 19281er mai 1932 SEP3  SEP2 Date de naissance REL 15 avril 1867 SEP3  SEP2 Lieu de naissance REL Caen SEP3  SEP2 Date de décès REL 10 novembre 1938 SEP3  SEP2 Lieu de décès REL Paris SEP3 .

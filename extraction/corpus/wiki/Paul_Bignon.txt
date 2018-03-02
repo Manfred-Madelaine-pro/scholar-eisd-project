@@ -22,5 +22,5 @@ Il est chevalier de la Légion d'honneur, Grand-croix de l'ordre du British Coun
 
 FONCTIONNORM
 
-NOMF Député, Sénateur NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République.
-NOMF Président du conseil général de la Seine-Inférieure NOMF 1903 – 1932 SEP2 Date de naissance REL 14 avril 1858 SEP2 Lieu de naissance REL Eu SEP2 Date de décès REL 24 janvier 1932 (à 73 ans) SEP2 Lieu de décès REL Eu SEP2 Résidence REL Seine-Inférieure.
+NOMF Député, Sénateur NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3 .
+NOMF Président du conseil général de la Seine-Inférieure NOMF 1903 – 1932 SEP2 Date de naissance REL 14 avril 1858 SEP3  SEP2 Lieu de naissance REL Eu SEP3  SEP2 Date de décès REL 24 janvier 1932 (à 73 ans) SEP3  SEP2 Lieu de décès REL Eu SEP3  SEP2 Résidence REL Seine-Inférieure SEP3 .

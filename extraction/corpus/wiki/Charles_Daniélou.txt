@@ -15,4 +15,4 @@ Anti-dreyfusard et conservateur à l'origine (il a été le secrétaire particul
 
 FONCTIONNORM
 
-NOMF Député 1910-19141919-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL RP (1910-1914)RDG (1919-1924)GR (1924-1936) SEP2 Date de naissance REL 13 juillet 1878 SEP2 Date de décès REL 30 décembre 1953 (à 75 ans) SEP2 Résidence REL Finistère.
+NOMF Député 1910-19141919-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RP (1910-1914)RDG (1919-1924)GR (1924-1936) SEP3  SEP2 Date de naissance REL 13 juillet 1878 SEP3  SEP2 Date de décès REL 30 décembre 1953 (à 75 ans) SEP3  SEP2 Résidence REL Finistère SEP3 .

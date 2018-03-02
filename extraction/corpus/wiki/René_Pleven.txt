@@ -46,11 +46,11 @@ PART 1967 (1967) 1969.
 PART 1969 (1969).
 FONCTIONNORM
 
-NOMF Président NOMF GouvernementJacques Chaban-DelmasPierre Messmer I SEP2 Gouvernement REL Jacques Chaban-DelmasPierre Messmer I SEP2 Prédécesseur REL Jean-Marcel Jeanneney (ntérim)René Capitant SEP2 Successeur REL Pierre Messmer (intérim)Jean Taittinger.
+NOMF Président NOMF GouvernementJacques Chaban-DelmasPierre Messmer I SEP2 Gouvernement REL Jacques Chaban-DelmasPierre Messmer I SEP3  SEP2 Prédécesseur REL Jean-Marcel Jeanneney (ntérim)René Capitant SEP3  SEP2 Successeur REL Pierre Messmer (intérim)Jean Taittinger SEP3 .
 NOMF Ministre des Affaires étrangères NOMF 14 – 28 mai 1958(14 jours).
-NOMF Président NOMF GouvernementPierre Pflimlin SEP2 Gouvernement REL Pierre Pflimlin SEP2 Prédécesseur REL Christian Pineau SEP2 Successeur REL Maurice Couve de Murville.
+NOMF Président NOMF GouvernementPierre Pflimlin SEP2 Gouvernement REL Pierre Pflimlin SEP3  SEP2 Prédécesseur REL Christian Pineau SEP3  SEP2 Successeur REL Maurice Couve de Murville SEP3 .
 NOMF Président du Conseil des ministres NOMF 11 août 1951 – 7 janvier 1952(4 mois et 27 jours).
-NOMF Président NOMF GouvernementRené Pleven II SEP2 Gouvernement REL René Pleven II SEP2 Législature REL IIe (Quatrième République) SEP2 Coalition REL Troisième Force (jusqu'au 21/09/1951) SEP2 Prédécesseur REL Henri Queuille SEP2 Successeur REL Edgar Faure.
-NOMF Président NOMF GouvernementRené Pleven I SEP2 Gouvernement REL René Pleven I SEP2 Législature REL Ire (Quatrième République) SEP2 Coalition REL Troisième Force SEP2 Prédécesseur REL Henri Queuille SEP2 Successeur REL Henri Queuille.
-NOMF Président NOMF GouvernementHenri Queuille III SEP2 Gouvernement REL Henri Queuille III.
-NOMF Député du Côtes-du-Nord NOMF 1945 – 1969(24 ans) SEP2 Groupe politique REL UDSR (1945-1958)ED (1958-1962)CD (1962-1967)PDM (1967-1969) SEP2 Nom de naissance REL René Pleven SEP2 Date de naissance REL 15 avril 1901 SEP2 Lieu de naissance REL Rennes (France) SEP2 Date de décès REL 13 janvier 1993 (à 91 ans) SEP2 Lieu de décès REL Paris (France) SEP2 Nationalité REL français SEP2 Parti politique REL UDSR (1945-1958)ED (1958-1962)CD (1962-1967)PDM (1967-1969) SEP2 Diplômé de REL Université de RennesÉcole libre des sciences politiques.
+NOMF Président NOMF GouvernementRené Pleven II SEP2 Gouvernement REL René Pleven II SEP3  SEP2 Législature REL IIe (Quatrième République) SEP3  SEP2 Coalition REL Troisième Force (jusqu'au 21/09/1951) SEP3  SEP2 Prédécesseur REL Henri Queuille SEP3  SEP2 Successeur REL Edgar Faure SEP3 .
+NOMF Président NOMF GouvernementRené Pleven I SEP2 Gouvernement REL René Pleven I SEP3  SEP2 Législature REL Ire (Quatrième République) SEP3  SEP2 Coalition REL Troisième Force SEP3  SEP2 Prédécesseur REL Henri Queuille SEP3  SEP2 Successeur REL Henri Queuille SEP3 .
+NOMF Président NOMF GouvernementHenri Queuille III SEP2 Gouvernement REL Henri Queuille III SEP3 .
+NOMF Député du Côtes-du-Nord NOMF 1945 – 1969(24 ans) SEP2 Groupe politique REL UDSR (1945-1958)ED (1958-1962)CD (1962-1967)PDM (1967-1969) SEP3  SEP2 Nom de naissance REL René Pleven SEP3  SEP2 Date de naissance REL 15 avril 1901 SEP3  SEP2 Lieu de naissance REL Rennes (France) SEP3  SEP2 Date de décès REL 13 janvier 1993 (à 91 ans) SEP3  SEP2 Lieu de décès REL Paris (France) SEP3  SEP2 Nationalité REL français SEP3  SEP2 Parti politique REL UDSR (1945-1958)ED (1958-1962)CD (1962-1967)PDM (1967-1969) SEP3  SEP2 Diplômé de REL Université de RennesÉcole libre des sciences politiques SEP3 .

@@ -26,10 +26,10 @@ PART Union pour la démocratie française (UDF) CDS.
 PART Centre des démocrates sociaux (CDS).
 FONCTIONNORM
 
-NOMF Député européen NOMF 19 juillet 1994 – 24 avril 1998 SEP2 Élection REL 12 juin 1994.
-NOMF Député de lasixième circonscription de la Marne NOMF 23 juin 1988 – 1er avril 1993 SEP2 Prédécesseur REL changement du mode de scrutin SEP2 Successeur REL Philippe-Armand Martin.
+NOMF Député européen NOMF 19 juillet 1994 – 24 avril 1998 SEP2 Élection REL 12 juin 1994 SEP3 .
+NOMF Député de lasixième circonscription de la Marne NOMF 23 juin 1988 – 1er avril 1993 SEP2 Prédécesseur REL changement du mode de scrutin SEP3  SEP2 Successeur REL Philippe-Armand Martin SEP3 .
 NOMF Député de la Marne NOMF 2 avril 1986 – 14 mai 1988.
-NOMF Président duconseil régional de Champagne-Ardenne NOMF 1981 – 1988 SEP2 Prédécesseur REL Jacques Sourdille SEP2 Successeur REL Jean Kaltenbach.
+NOMF Président duconseil régional de Champagne-Ardenne NOMF 1981 – 1988 SEP2 Prédécesseur REL Jacques Sourdille SEP3  SEP2 Successeur REL Jean Kaltenbach SEP3 .
 NOMF Ministre des Départements et Territoiresd'Outre-Mer NOMF 5 avril 1973 – 27 février 1974.
-NOMF Président NOMF GouvernementPierre Messmer II SEP2 Gouvernement REL Pierre Messmer II SEP2 Prédécesseur REL Xavier Deniau SEP2 Successeur REL Joseph Comiti.
-NOMF Député de laquatrième circonscription de la Marne NOMF 3 avril 1978 – 1er avril 1986 SEP2 Prédécesseur REL Pierre Caurier SEP2 Successeur REL changement du mode de scrutin SEP2 Prédécesseur REL Robert Morillon SEP2 Successeur REL Pierre Caurier SEP2 Date de naissance REL 4 juillet 1930 SEP2 Lieu de naissance REL Reims (Marne) SEP2 Date de décès REL 4 mai 2011 (à 80 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL  Française SEP2 Parti politique REL UDF-CDS SEP2 Profession REL Administrateur civil.
+NOMF Président NOMF GouvernementPierre Messmer II SEP2 Gouvernement REL Pierre Messmer II SEP3  SEP2 Prédécesseur REL Xavier Deniau SEP3  SEP2 Successeur REL Joseph Comiti SEP3 .
+NOMF Député de laquatrième circonscription de la Marne NOMF 3 avril 1978 – 1er avril 1986 SEP2 Prédécesseur REL Pierre Caurier SEP3  SEP2 Successeur REL changement du mode de scrutin SEP3  SEP2 Prédécesseur REL Robert Morillon SEP3  SEP2 Successeur REL Pierre Caurier SEP3  SEP2 Date de naissance REL 4 juillet 1930 SEP3  SEP2 Lieu de naissance REL Reims (Marne) SEP3  SEP2 Date de décès REL 4 mai 2011 (à 80 ans) SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Nationalité REL  Française SEP3  SEP2 Parti politique REL UDF-CDS SEP3  SEP2 Profession REL Administrateur civil SEP3 .

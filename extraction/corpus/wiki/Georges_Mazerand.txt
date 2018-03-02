@@ -18,4 +18,4 @@ Il s'éteint dans son village natal à l'âge de 91 ans.
 
 FONCTIONNORM
 
-NOMF Député 1919-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL RDG (1919-1932)GR (1932-1936)GDRI (1936-1940) SEP2 Date de naissance REL 14 avril 1876 SEP2 Date de décès REL 16 mars 1968 (à 91 ans) SEP2 Résidence REL Meurthe-et-Moselle.
+NOMF Député 1919-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1919-1932)GR (1932-1936)GDRI (1936-1940) SEP3  SEP2 Date de naissance REL 14 avril 1876 SEP3  SEP2 Date de décès REL 16 mars 1968 (à 91 ans) SEP3  SEP2 Résidence REL Meurthe-et-Moselle SEP3 .

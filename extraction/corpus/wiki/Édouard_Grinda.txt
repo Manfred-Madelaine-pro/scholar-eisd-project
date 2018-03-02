@@ -12,4 +12,4 @@ NOMTAG Grinda.
 
 FONCTIONNORM
 
-NOMF Député 1919-1932 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL GRD (1919-1924)ADS (1924-1928)RDG (1928-1932) SEP2 Date de naissance REL 20 décembre 1866 SEP2 Date de décès REL 28 mars 1959 (à 92 ans) SEP2 Résidence REL Alpes-Maritimes.
+NOMF Député 1919-1932 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL GRD (1919-1924)ADS (1924-1928)RDG (1928-1932) SEP3  SEP2 Date de naissance REL 20 décembre 1866 SEP3  SEP2 Date de décès REL 28 mars 1959 (à 92 ans) SEP3  SEP2 Résidence REL Alpes-Maritimes SEP3 .

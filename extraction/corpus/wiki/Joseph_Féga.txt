@@ -15,4 +15,4 @@ Le 10 juillet 1940, il approuve le vote des pleins pouvoirs au maréchal Pétain
 
 FONCTIONNORM
 
-NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARGRI SEP2 Date de naissance REL 21 mars 1887 SEP2 Date de décès REL 9 novembre 1966 (à 79 ans) SEP2 Résidence REL Haut-Rhin.
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARGRI SEP3  SEP2 Date de naissance REL 21 mars 1887 SEP3  SEP2 Date de décès REL 9 novembre 1966 (à 79 ans) SEP3  SEP2 Résidence REL Haut-Rhin SEP3 .

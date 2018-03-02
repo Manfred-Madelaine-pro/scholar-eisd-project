@@ -16,4 +16,4 @@ Il ne se représenta pas en 1928 lors du retour au scrutin uninominal d'arrondis
 
 FONCTIONNORM
 
-NOMF Député 1914-1928puis 1932-1936 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL RDG (1914-1919)GRD (1919-1924)GR (1924-1936) SEP2 Date de naissance REL 1er juillet 1879 SEP2 Lieu de naissance REL Istanbul SEP2 Date de décès REL 5 janvier 1939 (à 59 ans) SEP2 Lieu de décès REL Paris SEP2 Résidence REL Pas-de-Calais.
+NOMF Député 1914-1928puis 1932-1936 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL RDG (1914-1919)GRD (1919-1924)GR (1924-1936) SEP3  SEP2 Date de naissance REL 1er juillet 1879 SEP3  SEP2 Lieu de naissance REL Istanbul SEP3  SEP2 Date de décès REL 5 janvier 1939 (à 59 ans) SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Résidence REL Pas-de-Calais SEP3 .

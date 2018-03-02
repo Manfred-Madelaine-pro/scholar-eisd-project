@@ -23,5 +23,5 @@ Admis à l'hôpital du Val-de-Grâce le 15 juillet 2012 pour un AVC, Jean Franç
 FONCTIONNORM
 
 NOMF Ministre des Affaires étrangères8e ministre des Affaires étrangères de la Ve République NOMF 29 novembre 1978 – 13 mai 1981(2 ans, 5 mois et 14 jours).
-NOMF Président NOMF GouvernementRaymond Barre III SEP2 Gouvernement REL Raymond Barre III SEP2 Prédécesseur REL Louis de Guiringaud SEP2 Successeur REL Claude Cheysson.
-NOMF Président NOMF PrédécesseurClaude Pierre-Brossolette SEP2 Prédécesseur REL Claude Pierre-Brossolette SEP2 Successeur REL Jacques Wahl SEP2 Date de naissance REL 8 décembre 1928 SEP2 Lieu de naissance REL Paris, France SEP2 Date de décès REL 18 juillet 2012 (à 83 ans) SEP2 Lieu de décès REL Paris, France SEP2 Nationalité REL  Française.
+NOMF Président NOMF GouvernementRaymond Barre III SEP2 Gouvernement REL Raymond Barre III SEP3  SEP2 Prédécesseur REL Louis de Guiringaud SEP3  SEP2 Successeur REL Claude Cheysson SEP3 .
+NOMF Président NOMF PrédécesseurClaude Pierre-Brossolette SEP2 Prédécesseur REL Claude Pierre-Brossolette SEP3  SEP2 Successeur REL Jacques Wahl SEP3  SEP2 Date de naissance REL 8 décembre 1928 SEP3  SEP2 Lieu de naissance REL Paris, France SEP3  SEP2 Date de décès REL 18 juillet 2012 (à 83 ans) SEP3  SEP2 Lieu de décès REL Paris, France SEP3  SEP2 Nationalité REL  Française SEP3 .

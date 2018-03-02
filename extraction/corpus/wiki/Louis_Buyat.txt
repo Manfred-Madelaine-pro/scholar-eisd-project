@@ -17,4 +17,4 @@ Sous l'Occupation, il est membre du Conseil national instauré par Vichy.
 
 FONCTIONNORM
 
-NOMF Député 1902-1910puis 1928-1932puis 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GRS (1902-1910)GSR (1928-1932)ARGRI (1936-1940) SEP2 Date de naissance REL 26 janvier 1875 SEP2 Date de décès REL 27 août 1963 (à 88 ans) SEP2 Résidence REL Isère.
+NOMF Député 1902-1910puis 1928-1932puis 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL GRS (1902-1910)GSR (1928-1932)ARGRI (1936-1940) SEP3  SEP2 Date de naissance REL 26 janvier 1875 SEP3  SEP2 Date de décès REL 27 août 1963 (à 88 ans) SEP3  SEP2 Résidence REL Isère SEP3 .

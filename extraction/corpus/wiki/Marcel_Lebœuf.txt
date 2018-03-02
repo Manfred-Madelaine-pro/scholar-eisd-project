@@ -16,4 +16,4 @@ Le 10 juillet 1940, il approuve la remise des pleins pouvoirs au maréchal Péta
 
 FONCTIONNORM
 
-NOMF Député 1926-1928Sénateur 1933-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL RDG (1926-1928)UDR (1933-1940) SEP2 Date de naissance REL 5 décembre 1872 SEP2 Date de décès REL 11 mars 1943 (à 70 ans) SEP2 Résidence REL Nièvre.
+NOMF Député 1926-1928Sénateur 1933-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1926-1928)UDR (1933-1940) SEP3  SEP2 Date de naissance REL 5 décembre 1872 SEP3  SEP2 Date de décès REL 11 mars 1943 (à 70 ans) SEP3  SEP2 Résidence REL Nièvre SEP3 .

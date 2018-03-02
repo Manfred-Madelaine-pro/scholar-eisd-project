@@ -17,4 +17,4 @@ Il est inhumé au cimetière Saint-Gall de Strasbourg[1].
 
 FONCTIONNORM
 
-NOMF Député du Bas-Rhin NOMF 1919 – 1936 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GRD (1919-1928)ADS (1928-1932)RDG (1932-1936) SEP2 Date de naissance REL 26 février 1888 SEP2 Date de décès REL 14 octobre 1955 (à 67 ans) SEP2 Lieu de décès REL Strasbourg SEP2 Résidence REL Bas-Rhin.
+NOMF Député du Bas-Rhin NOMF 1919 – 1936 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GRD (1919-1928)ADS (1928-1932)RDG (1932-1936) SEP3  SEP2 Date de naissance REL 26 février 1888 SEP3  SEP2 Date de décès REL 14 octobre 1955 (à 67 ans) SEP3  SEP2 Lieu de décès REL Strasbourg SEP3  SEP2 Résidence REL Bas-Rhin SEP3 .

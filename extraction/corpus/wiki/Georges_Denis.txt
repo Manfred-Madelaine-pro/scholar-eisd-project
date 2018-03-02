@@ -15,4 +15,4 @@ Il a voté pour les pleins pouvoirs à Pétain.
 
 FONCTIONNORM
 
-NOMF Député 1932-1942 NOMF 1932 – SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL RDG (1932-1936)ARGRI (1936-1942) SEP2 Date de naissance REL 28 octobre 1868 SEP2 Date de décès REL 28 octobre 1950 (à 82 ans) SEP2 Résidence REL Mayenne.
+NOMF Député 1932-1942 NOMF 1932 – SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL RDG (1932-1936)ARGRI (1936-1942) SEP3  SEP2 Date de naissance REL 28 octobre 1868 SEP3  SEP2 Date de décès REL 28 octobre 1950 (à 82 ans) SEP3  SEP2 Résidence REL Mayenne SEP3 .

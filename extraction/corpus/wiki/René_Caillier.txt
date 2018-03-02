@@ -15,4 +15,4 @@ Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréc
 
 FONCTIONNORM
 
-NOMF Sénateur 1932-1940 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL UDR SEP2 Date de naissance REL 7 juillet 1879 SEP2 Date de décès REL 11 novembre 1946 (à 67 ans) SEP2 Résidence REL Gironde.
+NOMF Sénateur 1932-1940 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL UDR SEP3  SEP2 Date de naissance REL 7 juillet 1879 SEP3  SEP2 Date de décès REL 11 novembre 1946 (à 67 ans) SEP3  SEP2 Résidence REL Gironde SEP3 .

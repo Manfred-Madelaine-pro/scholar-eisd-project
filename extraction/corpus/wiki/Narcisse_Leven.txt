@@ -22,5 +22,5 @@ PARTISNORM
 PART Alliance démocratique (ARD).
 FONCTIONNORM
 
-NOMF Conseiller municipal de Paris(Quartier du Faubourg-Montmartre) NOMF 1879 – 1887 SEP2 Prédécesseur REL Eugène Viollet-le-Duc SEP2 Successeur REL Aimé-Joseph Daumas.
-NOMF Président de l'Alliance israélite universelle NOMF 1898 – 1915 SEP2 Prédécesseur REL Salomon Hayum Goldschmidt SEP2 Successeur REL Sylvain Lévi SEP2 Nom de naissance REL Nathan-Narcisse Leven SEP2 Date de naissance REL 15 octobre 1833 SEP2 Lieu de naissance REL Uerdingen (Krefeld) SEP2 Date de décès REL 6 janvier 1915 (à 81 ans) SEP2 Lieu de décès REL Paris SEP2 Nationalité REL Prussienne (1833-1848)Française SEP2 Parti politique REL ARD SEP2 Enfants REL Georges Leven SEP2 Profession REL Avocat.
+NOMF Conseiller municipal de Paris(Quartier du Faubourg-Montmartre) NOMF 1879 – 1887 SEP2 Prédécesseur REL Eugène Viollet-le-Duc SEP3  SEP2 Successeur REL Aimé-Joseph Daumas SEP3 .
+NOMF Président de l'Alliance israélite universelle NOMF 1898 – 1915 SEP2 Prédécesseur REL Salomon Hayum Goldschmidt SEP3  SEP2 Successeur REL Sylvain Lévi SEP3  SEP2 Nom de naissance REL Nathan-Narcisse Leven SEP3  SEP2 Date de naissance REL 15 octobre 1833 SEP3  SEP2 Lieu de naissance REL Uerdingen (Krefeld) SEP3  SEP2 Date de décès REL 6 janvier 1915 (à 81 ans) SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Nationalité REL Prussienne (1833-1848)Française SEP3  SEP2 Parti politique REL ARD SEP3  SEP2 Enfants REL Georges Leven SEP3  SEP2 Profession REL Avocat SEP3 .

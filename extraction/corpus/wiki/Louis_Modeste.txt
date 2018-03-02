@@ -14,4 +14,4 @@ Docteur en droit, il commence sa carrière politique dans les cabinets ministér
 
 FONCTIONNORM
 
-NOMF Député NOMF 1893 – 1919 SEP2 Date de naissance REL 22 mars 1855 SEP2 Lieu de naissance REL Évreux SEP2 Date de décès REL 25 décembre 1934 (à 79 ans) SEP2 Lieu de décès REL Cannes.
+NOMF Député NOMF 1893 – 1919 SEP2 Date de naissance REL 22 mars 1855 SEP3  SEP2 Lieu de naissance REL Évreux SEP3  SEP2 Date de décès REL 25 décembre 1934 (à 79 ans) SEP3  SEP2 Lieu de décès REL Cannes SEP3 .

@@ -15,4 +15,4 @@ Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréc
 
 FONCTIONNORM
 
-NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Agraire indépendant SEP2 Date de naissance REL 12 janvier 1874 SEP2 Date de décès REL 18 juillet 1952 (à 78 ans) SEP2 Résidence REL Calvados.
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Agraire indépendant SEP3  SEP2 Date de naissance REL 12 janvier 1874 SEP3  SEP2 Date de décès REL 18 juillet 1952 (à 78 ans) SEP3  SEP2 Résidence REL Calvados SEP3 .

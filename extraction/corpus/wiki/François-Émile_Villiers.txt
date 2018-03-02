@@ -12,4 +12,4 @@ François-Émile Villiers, dit Émile Villiers, est un homme politique français
 
 FONCTIONNORM
 
-NOMF Député 1893-1912Sénateur 1912-1921 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL Action libérale SEP2 Date de naissance REL 31 juillet 1851 SEP2 Date de décès REL 20 janvier 1941 (à 89 ans) SEP2 Résidence REL Finistère.
+NOMF Député 1893-1912Sénateur 1912-1921 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL Action libérale SEP3  SEP2 Date de naissance REL 31 juillet 1851 SEP3  SEP2 Date de décès REL 20 janvier 1941 (à 89 ans) SEP3  SEP2 Résidence REL Finistère SEP3 .

@@ -48,10 +48,10 @@ PART 1958 (1958).
 FONCTIONNORM
 
 NOMF Président du Conseil des ministres français NOMF 27 juin 1953 – 12 juin 1954(11 mois et 16 jours).
-NOMF Président NOMF GouvernementLaniel I et II SEP2 Gouvernement REL Laniel I et II SEP2 Législature REL IIe SEP2 Coalition REL CNIP-ARS-PRS-URAS-MRP-UDSR SEP2 Prédécesseur REL René Mayer SEP2 Successeur REL Pierre Mendès France.
+NOMF Président NOMF GouvernementLaniel I et II SEP2 Gouvernement REL Laniel I et II SEP3  SEP2 Législature REL IIe SEP3  SEP2 Coalition REL CNIP-ARS-PRS-URAS-MRP-UDSR SEP3  SEP2 Prédécesseur REL René Mayer SEP3  SEP2 Successeur REL Pierre Mendès France SEP3 .
 NOMF Ministre d'État NOMF 20 janvier – 28 février 1952(1 mois et 8 jours).
 NOMF Président NOMF Président du ConseilEdgar Faure.
-NOMF Président du Conseil NOMF GouvernementFaure I SEP2 Gouvernement REL Faure I.
+NOMF Président du Conseil NOMF GouvernementFaure I SEP2 Gouvernement REL Faure I SEP3 .
 NOMF Président NOMF Président du ConseilRené Pleven.
-NOMF Président du Conseil NOMF GouvernementPleven II SEP2 Gouvernement REL Pleven II.
-NOMF Député du Calvados NOMF 1945 – 1958(13 ans) SEP2 Date de naissance REL 12 octobre 1889 SEP2 Lieu de naissance REL Vimoutiers (France) SEP2 Date de décès REL 8 avril 1975 (à 85 ans) SEP2 Lieu de décès REL Paris (France) SEP2 Nationalité REL français SEP2 Parti politique REL CR (1932-1936)ARGRI (1936-1940)PRL (1945-1951)RI (1951-1955)IPAS (1956-1958) SEP2 Profession REL Ancien industriel.
+NOMF Président du Conseil NOMF GouvernementPleven II SEP2 Gouvernement REL Pleven II SEP3 .
+NOMF Député du Calvados NOMF 1945 – 1958(13 ans) SEP2 Date de naissance REL 12 octobre 1889 SEP3  SEP2 Lieu de naissance REL Vimoutiers (France) SEP3  SEP2 Date de décès REL 8 avril 1975 (à 85 ans) SEP3  SEP2 Lieu de décès REL Paris (France) SEP3  SEP2 Nationalité REL français SEP3  SEP2 Parti politique REL CR (1932-1936)ARGRI (1936-1940)PRL (1945-1951)RI (1951-1955)IPAS (1956-1958) SEP3  SEP2 Profession REL Ancien industriel SEP3 .

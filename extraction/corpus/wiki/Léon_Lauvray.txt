@@ -15,4 +15,4 @@ En 1939, il se présente aux élections sénatoriales et retrouve un siège de p
 
 FONCTIONNORM
 
-NOMF Député 1928-1932Sénateur 1939-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ADS (1928-1932)UR (1938-1940) SEP2 Date de naissance REL 24 septembre 1877 SEP2 Date de décès REL 4 juin 1965 (à 87 ans) SEP2 Résidence REL Eure.
+NOMF Député 1928-1932Sénateur 1939-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ADS (1928-1932)UR (1938-1940) SEP3  SEP2 Date de naissance REL 24 septembre 1877 SEP3  SEP2 Date de décès REL 4 juin 1965 (à 87 ans) SEP3  SEP2 Résidence REL Eure SEP3 .

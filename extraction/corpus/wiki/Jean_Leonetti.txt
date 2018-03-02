@@ -30,7 +30,7 @@ PART Union pour un mouvement populaire (UMP).
 PART Les Républicains (Les Républicains).
 FONCTIONNORM
 
-NOMF Député de la 7e circonscription des Alpes-Maritimes NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Prédécesseur REL Michel Rossi SEP2 Successeur REL Éric Pauget SEP2 Prédécesseur REL Pierre Merli SEP2 Successeur REL Michel Rossi.
+NOMF Député de la 7e circonscription des Alpes-Maritimes NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Prédécesseur REL Michel Rossi SEP3  SEP2 Successeur REL Éric Pauget SEP3  SEP2 Prédécesseur REL Pierre Merli SEP3  SEP2 Successeur REL Michel Rossi SEP3 .
 NOMF Ministre délégué aux Affaires européennesAuprès du ministre des Affaires étrangères NOMF 29 juin 2011 – 10 mai 2012(10 mois et 11 jours).
-NOMF Président NOMF GouvernementFrançois Fillon III SEP2 Gouvernement REL François Fillon III SEP2 Prédécesseur REL Laurent Wauquiez SEP2 Successeur REL Bernard Cazeneuve.
-NOMF Maire d'AntibesPrésident de la C.A. de Sophia Antipolis NOMF En fonction depuis le 25 juin 1995(22 ans, 7 mois et 26 jours) SEP2 Élection REL juin 1995 SEP2 Prédécesseur REL Pierre Merli SEP2 Nom de naissance REL Jean Antoine Leonetti SEP2 Date de naissance REL 9 juillet 1948 (69 ans) SEP2 Lieu de naissance REL Marseille (Bouches-du-Rhône) SEP2 Nationalité REL Française SEP2 Parti politique REL UDFParti radicalUMPLes Républicains SEP2 Profession REL Praticien hospitalier.
+NOMF Président NOMF GouvernementFrançois Fillon III SEP2 Gouvernement REL François Fillon III SEP3  SEP2 Prédécesseur REL Laurent Wauquiez SEP3  SEP2 Successeur REL Bernard Cazeneuve SEP3 .
+NOMF Maire d'AntibesPrésident de la C.A. de Sophia Antipolis NOMF En fonction depuis le 25 juin 1995(22 ans, 7 mois et 29 jours) SEP2 Élection REL juin 1995 SEP3  SEP2 Prédécesseur REL Pierre Merli SEP3  SEP2 Nom de naissance REL Jean Antoine Leonetti SEP3  SEP2 Date de naissance REL 9 juillet 1948 (69 ans) SEP3  SEP2 Lieu de naissance REL Marseille (Bouches-du-Rhône) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL UDFParti radicalUMPLes Républicains SEP3  SEP2 Profession REL Praticien hospitalier SEP3 .

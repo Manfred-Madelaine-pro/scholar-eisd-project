@@ -14,4 +14,4 @@ Il est le fils de Marie-Désirée Salmon-Grandonnière (1844-1899) et d'Alphonse
 
 FONCTIONNORM
 
-NOMF Député de la Loire-Inférieure NOMF 1928 – 1936 SEP2 Législature REL XIVe, XVe (Troisième République) SEP2 Groupe politique REL RDG SEP2 Prédécesseur REL Charles Ginoux-Defermon SEP2 Successeur REL Emerand Bardoul SEP2 Date de naissance REL 25 décembre 1880 SEP2 Lieu de naissance REL Châteaubriant (France) SEP2 Date de décès REL 10 février 1944 (à 63 ans) SEP2 Lieu de décès REL Châteaubriant (France).
+NOMF Député de la Loire-Inférieure NOMF 1928 – 1936 SEP2 Législature REL XIVe, XVe (Troisième République) SEP3  SEP2 Groupe politique REL RDG SEP3  SEP2 Prédécesseur REL Charles Ginoux-Defermon SEP3  SEP2 Successeur REL Emerand Bardoul SEP3  SEP2 Date de naissance REL 25 décembre 1880 SEP3  SEP2 Lieu de naissance REL Châteaubriant (France) SEP3  SEP2 Date de décès REL 10 février 1944 (à 63 ans) SEP3  SEP2 Lieu de décès REL Châteaubriant (France) SEP3 .

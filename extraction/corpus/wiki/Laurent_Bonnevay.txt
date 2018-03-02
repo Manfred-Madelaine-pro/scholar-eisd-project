@@ -17,4 +17,4 @@ Il fut l'un des rares députés à s'opposer aux accords de Munich en 1938. Il f
 
 FONCTIONNORM
 
-NOMF Député du Rhône (1902-1924)Sénateur du Rhône (1924-1928)Député du Rhône (1928-1941)Député du Rhône (1944-1945) NOMF GouvernementIIIe République et IVe République SEP2 Gouvernement REL IIIe République et IVe République SEP2 Date de naissance REL 28 juillet 1870 SEP2 Lieu de naissance REL Saint-Didier-au-Mont-d'Or (Rhône) SEP2 Date de décès REL 28 mai 1957 (à 86 ans) SEP2 Lieu de décès REL Lyon (Rhône).
+NOMF Député du Rhône (1902-1924)Sénateur du Rhône (1924-1928)Député du Rhône (1928-1941)Député du Rhône (1944-1945) NOMF GouvernementIIIe République et IVe République SEP2 Gouvernement REL IIIe République et IVe République SEP3  SEP2 Date de naissance REL 28 juillet 1870 SEP3  SEP2 Lieu de naissance REL Saint-Didier-au-Mont-d'Or (Rhône) SEP3  SEP2 Date de décès REL 28 mai 1957 (à 86 ans) SEP3  SEP2 Lieu de décès REL Lyon (Rhône) SEP3 .

@@ -25,4 +25,4 @@ En 1955, il est fait commandeur de la Légion d'honneur.
 
 FONCTIONNORM
 
-NOMF Député 1919-1940 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL GRD (1919-1928)RDG (1928-1936)ARGRI (1936-1940) SEP2 Nom de naissance REL Léon Jean Jacques Baréty SEP2 Date de naissance REL 18 octobre 1883 SEP2 Date de décès REL 10 février 1971 (à 87 ans) SEP2 Père REL Alexandre Baréty SEP2 Résidence REL Alpes-Maritimes.
+NOMF Député 1919-1940 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL GRD (1919-1928)RDG (1928-1936)ARGRI (1936-1940) SEP3  SEP2 Nom de naissance REL Léon Jean Jacques Baréty SEP3  SEP2 Date de naissance REL 18 octobre 1883 SEP3  SEP2 Date de décès REL 10 février 1971 (à 87 ans) SEP3  SEP2 Père REL Alexandre Baréty SEP3  SEP2 Résidence REL Alpes-Maritimes SEP3 .

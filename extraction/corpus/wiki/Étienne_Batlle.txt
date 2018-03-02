@@ -15,4 +15,4 @@ Son état de santé ne lui permet pas de solliciter le renouvellement de son si�
 
 FONCTIONNORM
 
-NOMF Député NOMF 1919 – 1924 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GRD SEP2 Date de naissance REL 10 décembre 1859 SEP2 Lieu de naissance REL Ille-sur-Têt SEP2 Date de décès REL 6 décembre 1925 SEP2 Lieu de décès REL Ille-sur-Têt SEP2 Profession REL médecin SEP2 Résidence REL Pyrénées-Orientales.
+NOMF Député NOMF 1919 – 1924 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GRD SEP3  SEP2 Date de naissance REL 10 décembre 1859 SEP3  SEP2 Lieu de naissance REL Ille-sur-Têt SEP3  SEP2 Date de décès REL 6 décembre 1925 SEP3  SEP2 Lieu de décès REL Ille-sur-Têt SEP3  SEP2 Profession REL médecin SEP3  SEP2 Résidence REL Pyrénées-Orientales SEP3 .

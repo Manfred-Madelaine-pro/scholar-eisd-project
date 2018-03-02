@@ -22,4 +22,4 @@ Ministre de la Justice du 19 au 23 juillet 1926 dans le gouvernement Édouard He
 
 FONCTIONNORM
 
-NOMF Député 1919-1928 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GRD SEP2 Date de naissance REL 29 septembre 1871 SEP2 Date de décès REL 5 mars 1954 SEP2 Résidence REL Seine-et-Oise.
+NOMF Député 1919-1928 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GRD SEP3  SEP2 Date de naissance REL 29 septembre 1871 SEP3  SEP2 Date de décès REL 5 mars 1954 SEP3  SEP2 Résidence REL Seine-et-Oise SEP3 .

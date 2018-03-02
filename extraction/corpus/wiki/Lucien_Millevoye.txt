@@ -16,4 +16,4 @@ Il reprend alors le journalisme, devenant rédacteur en chef du journal national
 
 FONCTIONNORM
 
-NOMF Député 1889-18931898-1918 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL Groupe boulangisteGroupe antijuifAction libérale SEP2 Date de naissance REL 1er août 1850 SEP2 Date de décès REL 25 mars 1918 SEP2 Résidence REL SommeSeine.
+NOMF Député 1889-18931898-1918 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL Groupe boulangisteGroupe antijuifAction libérale SEP3  SEP2 Date de naissance REL 1er août 1850 SEP3  SEP2 Date de décès REL 25 mars 1918 SEP3  SEP2 Résidence REL SommeSeine SEP3 .

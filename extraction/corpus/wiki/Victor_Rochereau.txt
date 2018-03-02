@@ -16,4 +16,4 @@ Son fils, Henri Rochereau, sera sénateur, ministre de l'Agriculture, puis commi
 
 FONCTIONNORM
 
-NOMF Député 1914-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL AL (1914-1919)Ind. (1919-1924)NI (1924-1928)Ind. (1928-1932)FR (1932-1936)IR (1936-1940) SEP2 Date de naissance REL 14 septembre 1881 SEP2 Date de décès REL 2 janvier 1962 (à 80 ans) SEP2 Résidence REL Vendée.
+NOMF Député 1914-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL AL (1914-1919)Ind. (1919-1924)NI (1924-1928)Ind. (1928-1932)FR (1932-1936)IR (1936-1940) SEP3  SEP2 Date de naissance REL 14 septembre 1881 SEP3  SEP2 Date de décès REL 2 janvier 1962 (à 80 ans) SEP3  SEP2 Résidence REL Vendée SEP3 .

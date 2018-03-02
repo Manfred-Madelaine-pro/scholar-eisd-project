@@ -13,4 +13,4 @@ Il fut député de la Fédération républicaine (URD) puis de l'Alliance démoc
 
 FONCTIONNORM
 
-NOMF Député 1928-1936 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL URD (1928-1932)CR (1932-1936) SEP2 Date de naissance REL 22 juin 1871 SEP2 Date de décès REL 12 septembre 1949 (à 78 ans) SEP2 Résidence REL Seine.
+NOMF Député 1928-1936 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL URD (1928-1932)CR (1932-1936) SEP3  SEP2 Date de naissance REL 22 juin 1871 SEP3  SEP2 Date de décès REL 12 septembre 1949 (à 78 ans) SEP3  SEP2 Résidence REL Seine SEP3 .

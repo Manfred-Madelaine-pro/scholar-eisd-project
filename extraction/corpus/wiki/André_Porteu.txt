@@ -14,5 +14,5 @@ Fils d'Armand Porteu de la Morandière, député de 1889 à 1902 et maire de Tal
 
 FONCTIONNORM
 
-NOMF Député d'Ille-et-Vilaine NOMF 29 avril 1910 – 1919 SEP2 Groupe politique REL Action libérale.
-NOMF Sénateur d'Ille-et-Vilaine NOMF avril 1920 – 7 avril 1932 SEP2 Groupe politique REL Gauche républicaine SEP2 Prédécesseur REL Armand Porteu de la Morandière SEP2 Successeur REL Paul Porteu de la Morandière SEP2 Date de naissance REL 9 avril 1870 SEP2 Lieu de naissance REL Talensac SEP2 Date de décès REL 7 avril 1932 (à 61 ans) SEP2 Lieu de décès REL Compiègne SEP2 Père REL Armand Porteu de la Morandière SEP2 Conjoint REL Marie-Madeleine Tual SEP2 Enfants REL Paul Porteu de la Morandière.
+NOMF Député d'Ille-et-Vilaine NOMF 29 avril 1910 – 1919 SEP2 Groupe politique REL Action libérale SEP3 .
+NOMF Sénateur d'Ille-et-Vilaine NOMF avril 1920 – 7 avril 1932 SEP2 Groupe politique REL Gauche républicaine SEP3  SEP2 Prédécesseur REL Armand Porteu de la Morandière SEP3  SEP2 Successeur REL Paul Porteu de la Morandière SEP3  SEP2 Date de naissance REL 9 avril 1870 SEP3  SEP2 Lieu de naissance REL Talensac SEP3  SEP2 Date de décès REL 7 avril 1932 (à 61 ans) SEP3  SEP2 Lieu de décès REL Compiègne SEP3  SEP2 Père REL Armand Porteu de la Morandière SEP3  SEP2 Conjoint REL Marie-Madeleine Tual SEP3  SEP2 Enfants REL Paul Porteu de la Morandière SEP3 .

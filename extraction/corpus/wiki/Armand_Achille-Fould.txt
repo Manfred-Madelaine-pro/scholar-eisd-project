@@ -33,5 +33,5 @@ PART 1936 (1936) 1940.
 PART 1940 (1940).
 FONCTIONNORM
 
-NOMF Ministre de l'Agriculture NOMF 14 janvier 1932 – 20 février 1932 SEP2 Gouvernement REL Laval (3) SEP2 Gouvernement REL Laval (1) et (2).
-NOMF Député des Hautes-Pyrénées NOMF 1919 – 1940 SEP2 Date de naissance REL 19 septembre 1890 SEP2 Lieu de naissance REL Condé-sur-Sarthe SEP2 Date de décès REL 14 octobre 1969 (à 79 ans) SEP2 Lieu de décès REL Saint-Julien-Beychevelle SEP2 Nationalité REL  France SEP2 Parti politique REL ERD (1919-1924), URD (1924-1932), CR (1932-1936), ARGRI (1936-1940).
+NOMF Ministre de l'Agriculture NOMF 14 janvier 1932 – 20 février 1932 SEP2 Gouvernement REL Laval (3) SEP3  SEP2 Gouvernement REL Laval (1) et (2) SEP3 .
+NOMF Député des Hautes-Pyrénées NOMF 1919 – 1940 SEP2 Date de naissance REL 19 septembre 1890 SEP3  SEP2 Lieu de naissance REL Condé-sur-Sarthe SEP3  SEP2 Date de décès REL 14 octobre 1969 (à 79 ans) SEP3  SEP2 Lieu de décès REL Saint-Julien-Beychevelle SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL ERD (1919-1924), URD (1924-1932), CR (1932-1936), ARGRI (1936-1940) SEP3 .

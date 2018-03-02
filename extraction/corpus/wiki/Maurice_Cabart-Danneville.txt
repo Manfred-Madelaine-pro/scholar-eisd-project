@@ -18,4 +18,4 @@ Inscrit à l'Union républicaine, il participe aux travaux concernant la marine,
 
 FONCTIONNORM
 
-NOMF Sénateur (1930 - 1941) NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL Union républicaine SEP2 Date de naissance REL 9 juin 1886 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 2 mai 1942 SEP2 Lieu de décès REL La Glacerie SEP2 Résidence REL Manche.
+NOMF Sénateur (1930 - 1941) NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL Union républicaine SEP3  SEP2 Date de naissance REL 9 juin 1886 SEP3  SEP2 Lieu de naissance REL Paris SEP3  SEP2 Date de décès REL 2 mai 1942 SEP3  SEP2 Lieu de décès REL La Glacerie SEP3  SEP2 Résidence REL Manche SEP3 .

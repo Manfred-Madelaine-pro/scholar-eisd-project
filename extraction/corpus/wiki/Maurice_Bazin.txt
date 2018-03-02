@@ -14,4 +14,4 @@ Il vote, le 10 juillet 1940, en faveur de la remise des pleins pouvoirs au Maré
 
 FONCTIONNORM
 
-NOMF Député 1936-1940 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL ARGRI SEP2 Date de naissance REL 28 septembre 1893 SEP2 Date de décès REL 28 octobre 1944 (à 51 ans) SEP2 Résidence REL Jura.
+NOMF Député 1936-1940 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL ARGRI SEP3  SEP2 Date de naissance REL 28 septembre 1893 SEP3  SEP2 Date de décès REL 28 octobre 1944 (à 51 ans) SEP3  SEP2 Résidence REL Jura SEP3 .

@@ -14,4 +14,4 @@ Fils du député César Ossola, élevé dans un milieu familial républicain, il
 
 FONCTIONNORM
 
-NOMF Député des Alpes-Maritimes (1914-1932) NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Date de naissance REL 24 avril 1881 SEP2 Date de décès REL 30 avril 1932 (à 51 ans).
+NOMF Député des Alpes-Maritimes (1914-1932) NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Date de naissance REL 24 avril 1881 SEP3  SEP2 Date de décès REL 30 avril 1932 (à 51 ans) SEP3 .

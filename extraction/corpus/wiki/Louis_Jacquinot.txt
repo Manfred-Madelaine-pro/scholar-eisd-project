@@ -30,6 +30,6 @@ Modéré, il appartient aux indépendants pendant la IVe République. Il fait pa
 
 FONCTIONNORM
 
-NOMF Député de la Meuse NOMF 1945 – 1973 SEP2 Groupe politique REL CR (1932-1936)ARGRI (1936-1940)PRL (1945-1946)RI (1946-1955)IPAS (1956-1959)UNR-UDT (1962-1967)UDVe (1967-1968)UDR (1968-1973).
-NOMF Ministre d'État NOMF 21 novembre 1945 – 23 janvier 1946(2 mois et 2 jours) SEP2 Gouvernement REL Charles de Gaulle II.
-NOMF Président NOMF GouvernementCharles de Gaule IIIMichel DebréGouvernements Georges Pompidou I et II SEP2 Gouvernement REL Charles de Gaule IIIMichel DebréGouvernements Georges Pompidou I et II SEP2 Date de naissance REL 16 septembre 1898 SEP2 Lieu de naissance REL Gondrecourt-le-Château (France) SEP2 Date de décès REL 14 juin 1993 (à 94 ans) SEP2 Lieu de décès REL Paris (France) SEP2 Nationalité REL  Française SEP2 Résidence REL Meuse.
+NOMF Député de la Meuse NOMF 1945 – 1973 SEP2 Groupe politique REL CR (1932-1936)ARGRI (1936-1940)PRL (1945-1946)RI (1946-1955)IPAS (1956-1959)UNR-UDT (1962-1967)UDVe (1967-1968)UDR (1968-1973) SEP3 .
+NOMF Ministre d'État NOMF 21 novembre 1945 – 23 janvier 1946(2 mois et 2 jours) SEP2 Gouvernement REL Charles de Gaulle II SEP3 .
+NOMF Président NOMF GouvernementCharles de Gaule IIIMichel DebréGouvernements Georges Pompidou I et II SEP2 Gouvernement REL Charles de Gaule IIIMichel DebréGouvernements Georges Pompidou I et II SEP3  SEP2 Date de naissance REL 16 septembre 1898 SEP3  SEP2 Lieu de naissance REL Gondrecourt-le-Château (France) SEP3  SEP2 Date de décès REL 14 juin 1993 (à 94 ans) SEP3  SEP2 Lieu de décès REL Paris (France) SEP3  SEP2 Nationalité REL  Française SEP3  SEP2 Résidence REL Meuse SEP3 .

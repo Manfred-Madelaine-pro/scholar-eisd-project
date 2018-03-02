@@ -17,4 +17,4 @@ Le 10 juillet 1940, il vote en faveur de la remise des pleins pouvoirs au Maréc
 
 FONCTIONNORM
 
-NOMF Député du Nord1919-1928Député du Pas-de-Calais1928-1934Sénateur du Pas-de-Calais1934-1944Député du Pas-de-Calais1958-1962 NOMF GouvernementIIIe République-Ve République SEP2 Gouvernement REL IIIe République-Ve République SEP2 Groupe politique REL GRD (1919-1924)GR (1924-1928)GSR (1928-1932)GR (1932-1935)UDR (1935-1940)ED (1958-1962) SEP2 Date de naissance REL 15 avril 1886 SEP2 Date de décès REL 26 avril 1973 (à 87 ans).
+NOMF Député du Nord1919-1928Député du Pas-de-Calais1928-1934Sénateur du Pas-de-Calais1934-1944Député du Pas-de-Calais1958-1962 NOMF GouvernementIIIe République-Ve République SEP2 Gouvernement REL IIIe République-Ve République SEP3  SEP2 Groupe politique REL GRD (1919-1924)GR (1924-1928)GSR (1928-1932)GR (1932-1935)UDR (1935-1940)ED (1958-1962) SEP3  SEP2 Date de naissance REL 15 avril 1886 SEP3  SEP2 Date de décès REL 26 avril 1973 (à 87 ans) SEP3 .

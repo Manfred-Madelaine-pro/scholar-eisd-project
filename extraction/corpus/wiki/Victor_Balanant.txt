@@ -14,4 +14,4 @@ Battu aux élections législatives de 1928, il continue son action politique dan
 
 FONCTIONNORM
 
-NOMF Député 1919-1928 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL RDG (1919-1924)Dém. (1924-1928) SEP2 Date de naissance REL 3 juillet 1888 SEP2 Date de décès REL 17 août 1944 (à 56 ans) SEP2 Résidence REL Finistère.
+NOMF Député 1919-1928 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL RDG (1919-1924)Dém. (1924-1928) SEP3  SEP2 Date de naissance REL 3 juillet 1888 SEP3  SEP2 Date de décès REL 17 août 1944 (à 56 ans) SEP3  SEP2 Résidence REL Finistère SEP3 .

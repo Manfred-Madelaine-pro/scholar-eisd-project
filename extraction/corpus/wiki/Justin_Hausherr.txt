@@ -16,4 +16,4 @@ PART Mouvement républicain populaire (MRP) Centre démocrate.
 PART Centre démocrate (Centre démocrate).
 FONCTIONNORM
 
-NOMF Député de la 1re circonscription du Haut-Rhin NOMF 11 mars 1973 – 2 avril 1978 SEP2 Groupe politique REL RDS SEP2 Prédécesseur REL Edmond Borocco SEP2 Successeur REL Jean-Paul Fuchs SEP2 Date de naissance REL 25 novembre 1912 SEP2 Lieu de naissance REL Eguisheim SEP2 Date de décès REL 10 juillet 1992 (à 79 ans) SEP2 Lieu de décès REL Colmar SEP2 Nationalité REL Française SEP2 Parti politique REL MRP, Centre démocrate SEP2 Profession REL Professeur de l'enseignement secondaire.
+NOMF Député de la 1re circonscription du Haut-Rhin NOMF 11 mars 1973 – 2 avril 1978 SEP2 Groupe politique REL RDS SEP3  SEP2 Prédécesseur REL Edmond Borocco SEP3  SEP2 Successeur REL Jean-Paul Fuchs SEP3  SEP2 Date de naissance REL 25 novembre 1912 SEP3  SEP2 Lieu de naissance REL Eguisheim SEP3  SEP2 Date de décès REL 10 juillet 1992 (à 79 ans) SEP3  SEP2 Lieu de décès REL Colmar SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL MRP, Centre démocrate SEP3  SEP2 Profession REL Professeur de l'enseignement secondaire SEP3 .

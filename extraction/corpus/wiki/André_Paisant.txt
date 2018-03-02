@@ -19,4 +19,4 @@ Sous-secrétaire d'État aux Finances du 17 janvier 1921 au 15 janvier 1922 dans
 
 FONCTIONNORM
 
-NOMF Député 1914-1926 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL URRRS (1914-1919)GRD (1919-1924)RSSF (1924-1926) SEP2 Date de naissance REL 11 août 1868 SEP2 Lieu de naissance REL Senlis (Oise) SEP2 Date de décès REL 7 avril 1926 (à 57 ans) SEP2 Lieu de décès REL Montmorency (Val-d'Oise) SEP2 Résidence REL Oise.
+NOMF Député 1914-1926 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL URRRS (1914-1919)GRD (1919-1924)RSSF (1924-1926) SEP3  SEP2 Date de naissance REL 11 août 1868 SEP3  SEP2 Lieu de naissance REL Senlis (Oise) SEP3  SEP2 Date de décès REL 7 avril 1926 (à 57 ans) SEP3  SEP2 Lieu de décès REL Montmorency (Val-d'Oise) SEP3  SEP2 Résidence REL Oise SEP3 .

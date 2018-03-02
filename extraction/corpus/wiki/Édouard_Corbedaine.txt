@@ -14,4 +14,4 @@ Le 10 juillet 1940, il ne prend pas part au vote sur la remise des pleins pouvoi
 
 FONCTIONNORM
 
-NOMF Sénateur 1933-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Union républicaine SEP2 Date de naissance REL 11 novembre 1879 SEP2 Date de décès REL 17 octobre 1950 (à 70 ans) SEP2 Résidence REL Moselle.
+NOMF Sénateur 1933-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Union républicaine SEP3  SEP2 Date de naissance REL 11 novembre 1879 SEP3  SEP2 Date de décès REL 17 octobre 1950 (à 70 ans) SEP3  SEP2 Résidence REL Moselle SEP3 .

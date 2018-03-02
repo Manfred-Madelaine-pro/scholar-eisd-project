@@ -22,6 +22,6 @@ PARTISNORM
 PART Nouveau Centre (NC).
 FONCTIONNORM
 
-NOMF Député de la 1e circonscription de la Vendée NOMF 23 juin 1988 – 17 juin 2012(23 ans, 11 mois et 25 jours) SEP2 Groupe politique REL UDF puis NC SEP2 Prédécesseur REL aucun (scrutin proportionnel) SEP2 Successeur REL Alain Lebœuf.
+NOMF Député de la 1e circonscription de la Vendée NOMF 23 juin 1988 – 17 juin 2012(23 ans, 11 mois et 25 jours) SEP2 Groupe politique REL UDF puis NC SEP3  SEP2 Prédécesseur REL aucun (scrutin proportionnel) SEP3  SEP2 Successeur REL Alain Lebœuf SEP3 .
 NOMF Conseiller régional des Pays de la Loire NOMF 22 mars 1992 – 15 mars 1998(5 ans, 11 mois et 21 jours).
-NOMF Conseiller général du Canton de La Roche-sur-Yon-Nord NOMF 17 mars 1985 – 29 mars 1992(7 ans et 12 jours) SEP2 Prédécesseur REL Jacques Auxiette (PS) SEP2 Successeur REL Philippe Darniche (UDF) SEP2 Date de naissance REL 30 octobre 1940 SEP2 Lieu de naissance REL Caen (France) SEP2 Date de décès REL 3 septembre 2015 (à 74 ans) SEP2 Lieu de décès REL La Roche-sur-Yon (France) SEP2 Nature du décès REL Leptospirose SEP2 Parti politique REL NC SEP2 Enfants REL 2 SEP2 Diplômé de REL hopitaux de Paris.
+NOMF Conseiller général du Canton de La Roche-sur-Yon-Nord NOMF 17 mars 1985 – 29 mars 1992(7 ans et 12 jours) SEP2 Prédécesseur REL Jacques Auxiette (PS) SEP3  SEP2 Successeur REL Philippe Darniche (UDF) SEP3  SEP2 Date de naissance REL 30 octobre 1940 SEP3  SEP2 Lieu de naissance REL Caen (France) SEP3  SEP2 Date de décès REL 3 septembre 2015 (à 74 ans) SEP3  SEP2 Lieu de décès REL La Roche-sur-Yon (France) SEP3  SEP2 Nature du décès REL Leptospirose SEP3  SEP2 Parti politique REL NC SEP3  SEP2 Enfants REL 2 SEP3  SEP2 Diplômé de REL hopitaux de Paris SEP3 .

@@ -14,4 +14,4 @@ NOMTAG Constant.
 
 FONCTIONNORM
 
-NOMF Député 1893-1919 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL GD (1906-1914)GR (1914-1919) SEP2 Date de naissance REL 20 juillet 1861 SEP2 Date de décès REL 4 décembre 1950 (à 89 ans) SEP2 Résidence REL Gironde.
+NOMF Député 1893-1919 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL GD (1906-1914)GR (1914-1919) SEP3  SEP2 Date de naissance REL 20 juillet 1861 SEP3  SEP2 Date de décès REL 4 décembre 1950 (à 89 ans) SEP3  SEP2 Résidence REL Gironde SEP3 .

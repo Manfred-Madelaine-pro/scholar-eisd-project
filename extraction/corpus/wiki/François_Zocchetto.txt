@@ -22,6 +22,6 @@ PARTISNORM
 PART Union des démocrates et indépendants (UDI).
 FONCTIONNORM
 
-NOMF Président du groupe Union centriste du Sénat NOMF 9 février 2011 – 25 septembre 2017(6 ans, 7 mois et 16 jours) SEP2 Élection REL 9 février 2011 SEP2 Prédécesseur REL Nicolas About SEP2 Successeur REL Hervé Marseille.
-NOMF Sénateur français NOMF 1er octobre 2001 – 1er octobre 2017(16 ans) SEP2 Élection REL 23 septembre 2001 SEP2 Réélection REL 25 septembre 2011 SEP2 Circonscription REL Mayenne SEP2 Groupe politique REL UC SEP2 Élection REL 15 mars 1995.
-NOMF Président NOMF Biographie SEP2 Date de naissance REL 14 décembre 1958 (59 ans) SEP2 Lieu de naissance REL Laval (Mayenne) SEP2 Nationalité REL Française SEP2 Parti politique REL UDI SEP2 Diplômé de REL ESCP EuropeIEP de Paris SEP2 Profession REL Avocat.
+NOMF Président du groupe Union centriste du Sénat NOMF 9 février 2011 – 25 septembre 2017(6 ans, 7 mois et 16 jours) SEP2 Élection REL 9 février 2011 SEP3  SEP2 Prédécesseur REL Nicolas About SEP3  SEP2 Successeur REL Hervé Marseille SEP3 .
+NOMF Sénateur français NOMF 1er octobre 2001 – 1er octobre 2017(16 ans) SEP2 Élection REL 23 septembre 2001 SEP3  SEP2 Réélection REL 25 septembre 2011 SEP3  SEP2 Circonscription REL Mayenne SEP3  SEP2 Groupe politique REL UC SEP3  SEP2 Élection REL 15 mars 1995 SEP3 .
+NOMF Président NOMF Biographie SEP2 Date de naissance REL 14 décembre 1958 (59 ans) SEP3  SEP2 Lieu de naissance REL Laval (Mayenne) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL UDI SEP3  SEP2 Diplômé de REL ESCP EuropeIEP de Paris SEP3  SEP2 Profession REL Avocat SEP3 .

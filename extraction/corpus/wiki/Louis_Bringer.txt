@@ -17,4 +17,4 @@ En 1920, Louis Bringer avait acquis le château du Boy à Lanuéjols afin d'en f
 
 FONCTIONNORM
 
-NOMF Député 1919-1930Sénateur 1930-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GRD (1919-1924)NI (1924-1928)Ind. (1928-1930)NI (1930-1940) SEP2 Date de naissance REL 3 août 1882 SEP2 Date de décès REL 11 décembre 1961 (à 79 ans) SEP2 Résidence REL Lozère.
+NOMF Député 1919-1930Sénateur 1930-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GRD (1919-1924)NI (1924-1928)Ind. (1928-1930)NI (1930-1940) SEP3  SEP2 Date de naissance REL 3 août 1882 SEP3  SEP2 Date de décès REL 11 décembre 1961 (à 79 ans) SEP3  SEP2 Résidence REL Lozère SEP3 .

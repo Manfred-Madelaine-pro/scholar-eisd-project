@@ -16,4 +16,4 @@ Le 10 juillet 1940, il vote en faveur de la Remise des pleins pouvoirs au Maréc
 
 FONCTIONNORM
 
-NOMF Député 1919-1924Sénateur 1938-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL ERD (1919-1924)UR (1938-1940) SEP2 Date de naissance REL 24 mars 1869 SEP2 Date de décès REL 26 août 1953 SEP2 Résidence REL Haute-Loire puis Seine.
+NOMF Député 1919-1924Sénateur 1938-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL ERD (1919-1924)UR (1938-1940) SEP3  SEP2 Date de naissance REL 24 mars 1869 SEP3  SEP2 Date de décès REL 26 août 1953 SEP3  SEP2 Résidence REL Haute-Loire puis Seine SEP3 .

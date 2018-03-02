@@ -24,4 +24,4 @@ Il est à l'origine de l'affaire Boudarel en 1991.
 
 FONCTIONNORM
 
-NOMF Député 1968-1981 NOMF 1968 – SEP2 Gouvernement REL Ve République SEP2 Groupe politique REL Non InscritCentristeRéformateurUnion pour la démocratie française SEP2 Date de naissance REL 3 juillet 1923 SEP2 Date de décès REL 16 juillet 1999 (à 76 ans) SEP2 Résidence REL Deuxième circonscription de la Haute-Saône.
+NOMF Député 1968-1981 NOMF 1968 – SEP2 Gouvernement REL Ve République SEP3  SEP2 Groupe politique REL Non InscritCentristeRéformateurUnion pour la démocratie française SEP3  SEP2 Date de naissance REL 3 juillet 1923 SEP3  SEP2 Date de décès REL 16 juillet 1999 (à 76 ans) SEP3  SEP2 Résidence REL Deuxième circonscription de la Haute-Saône SEP3 .

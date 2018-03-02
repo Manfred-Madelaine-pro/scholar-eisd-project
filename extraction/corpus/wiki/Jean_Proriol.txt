@@ -24,6 +24,6 @@ PARTISNORM
 PART Républicains indépendants (parti politique) (RI) .
 FONCTIONNORM
 
-NOMF Député de la 2e circonscriptionde la Haute-Loire NOMF 3 avril 1978 – 19 juin 2012(34 ans, 2 mois et 16 jours) SEP2 Prédécesseur REL Louis Eyraud (PS) SEP2 Successeur REL Jean-Pierre Vigier (UMP).
-NOMF Sénateur de la Haute-Loire NOMF 2 octobre 1974 – 12 mars 1978(3 ans, 5 mois et 10 jours) SEP2 Successeur REL Adrien Gouteyron.
-NOMF Conseiller général de la Haute-LoireÉlu dans le canton de Monistrol-sur-Loire NOMF 14 octobre 1962 – 29 mars 1992(29 ans, 5 mois et 15 jours) SEP2 Prédécesseur REL Alphonse Proriol (DVD) SEP2 Successeur REL Guy Granger (RPR) SEP2 Date de naissance REL 25 novembre 1934 (83 ans) SEP2 Lieu de naissance REL Beauzac (Haute-Loire) SEP2 Nationalité REL Française SEP2 Parti politique REL RI[1]UDF-ADUDF-PPDFDLUMP SEP2 Père REL Alphonse Proriol SEP2 Profession REL cadre commercial SEP2 Religion REL catholique SEP2 Résidence REL Beauzac (Haute-Loire).
+NOMF Député de la 2e circonscriptionde la Haute-Loire NOMF 3 avril 1978 – 19 juin 2012(34 ans, 2 mois et 16 jours) SEP2 Prédécesseur REL Louis Eyraud (PS) SEP3  SEP2 Successeur REL Jean-Pierre Vigier (UMP) SEP3 .
+NOMF Sénateur de la Haute-Loire NOMF 2 octobre 1974 – 12 mars 1978(3 ans, 5 mois et 10 jours) SEP2 Successeur REL Adrien Gouteyron SEP3 .
+NOMF Conseiller général de la Haute-LoireÉlu dans le canton de Monistrol-sur-Loire NOMF 14 octobre 1962 – 29 mars 1992(29 ans, 5 mois et 15 jours) SEP2 Prédécesseur REL Alphonse Proriol (DVD) SEP3  SEP2 Successeur REL Guy Granger (RPR) SEP3  SEP2 Date de naissance REL 25 novembre 1934 (83 ans) SEP3  SEP2 Lieu de naissance REL Beauzac (Haute-Loire) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL RI[1]UDF-ADUDF-PPDFDLUMP SEP3  SEP2 Père REL Alphonse Proriol SEP3  SEP2 Profession REL cadre commercial SEP3  SEP2 Religion REL catholique SEP3  SEP2 Résidence REL Beauzac (Haute-Loire) SEP3 .

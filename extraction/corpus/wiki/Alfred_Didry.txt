@@ -15,4 +15,4 @@ Battu par un autre membre de l'Alliance démocratique, André Beauguitte, lors d
 
 FONCTIONNORM
 
-NOMF Député 1924-1932 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP2 Groupe politique REL GRD (1924-1928)ADS (1928-1932) SEP2 Date de naissance REL 15 avril 1862 SEP2 Date de décès REL 14 juin 1937 (à 75 ans) SEP2 Résidence REL Meuse.
+NOMF Député 1924-1932 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP3  SEP2 Groupe politique REL GRD (1924-1928)ADS (1928-1932) SEP3  SEP2 Date de naissance REL 15 avril 1862 SEP3  SEP2 Date de décès REL 14 juin 1937 (à 75 ans) SEP3  SEP2 Résidence REL Meuse SEP3 .

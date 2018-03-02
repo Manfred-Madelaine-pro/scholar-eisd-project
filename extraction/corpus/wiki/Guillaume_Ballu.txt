@@ -15,4 +15,4 @@ Battu en 1936 par un candidat communiste, il se retire à Gournay, dont il reste
 
 FONCTIONNORM
 
-NOMF Député 1928-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ADS (1928-1932)CR (1932-1936) SEP2 Date de naissance REL 27 mai 1885 SEP2 Date de décès REL 11 mai 1968 (à 82 ans) SEP2 Résidence REL Seine-et-Oise.
+NOMF Député 1928-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ADS (1928-1932)CR (1932-1936) SEP3  SEP2 Date de naissance REL 27 mai 1885 SEP3  SEP2 Date de décès REL 11 mai 1968 (à 82 ans) SEP3  SEP2 Résidence REL Seine-et-Oise SEP3 .

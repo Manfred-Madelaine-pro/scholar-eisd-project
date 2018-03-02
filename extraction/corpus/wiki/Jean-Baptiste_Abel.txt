@@ -13,4 +13,4 @@ Jean-Baptiste Eugène Abel est né le 11 janvier 1863 à Toulon où il meurt le 
 
 FONCTIONNORM
 
-NOMF Député 1893-1898puis1910-1921 NOMF 1893 – SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GR (1893-1919)GRD (1919-1921) SEP2 Date de naissance REL 11 janvier 1863 SEP2 Date de décès REL 30 septembre 1921 SEP2 Résidence REL Var.
+NOMF Député 1893-1898puis1910-1921 NOMF 1893 – SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GR (1893-1919)GRD (1919-1921) SEP3  SEP2 Date de naissance REL 11 janvier 1863 SEP3  SEP2 Date de décès REL 30 septembre 1921 SEP3  SEP2 Résidence REL Var SEP3 .

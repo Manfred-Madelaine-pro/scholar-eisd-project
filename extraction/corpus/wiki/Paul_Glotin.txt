@@ -18,4 +18,4 @@ En 1919, il est élu conseiller général et député de la Gironde sous l'étiq
 FONCTIONNORM
 
 NOMF Député de la Gironde NOMF 1919 – 1924.
-NOMF Conseiller général de la Gironde NOMF Adjoint au maire de Bordeaux SEP2 Date de naissance REL 18 mai 1870 SEP2 Date de décès REL 9 novembre 1933.
+NOMF Conseiller général de la Gironde NOMF Adjoint au maire de Bordeaux SEP2 Date de naissance REL 18 mai 1870 SEP3  SEP2 Date de décès REL 9 novembre 1933 SEP3 .

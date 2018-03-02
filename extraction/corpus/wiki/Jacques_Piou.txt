@@ -20,4 +20,4 @@ Il fut maire de Sadirac.
 
 FONCTIONNORM
 
-NOMF Député 1885-1893puis 1898-1902puis 1906-1919 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP2 Groupe politique REL Action libérale SEP2 Date de naissance REL 6 août 1838 SEP2 Date de décès REL 12 mai 1932 (à 93 ans) SEP2 Résidence REL Haute-Garonnepuis Lozère.
+NOMF Député 1885-1893puis 1898-1902puis 1906-1919 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP3  SEP2 Groupe politique REL Action libérale SEP3  SEP2 Date de naissance REL 6 août 1838 SEP3  SEP2 Date de décès REL 12 mai 1932 (à 93 ans) SEP3  SEP2 Résidence REL Haute-Garonnepuis Lozère SEP3 .

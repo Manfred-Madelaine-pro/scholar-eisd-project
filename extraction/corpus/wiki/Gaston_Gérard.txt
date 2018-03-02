@@ -21,4 +21,4 @@ On lui doit également quelques ouvrages : Au secours du bon sens, Dijon, ma bo
 
 FONCTIONNORM
 
-NOMF Député 1928-1932puis 1936-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GR (1928-1932)GDRI (1936-1940) SEP2 Prédécesseur REL Charles Dumont SEP2 Successeur REL Robert Jardillier SEP2 Date de naissance REL 30 avril 1878 SEP2 Lieu de naissance REL Dijon, France SEP2 Date de décès REL 5 février 1969 (à 90 ans) SEP2 Lieu de décès REL Dijon, France SEP2 Nationalité REL Française.
+NOMF Député 1928-1932puis 1936-1940 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GR (1928-1932)GDRI (1936-1940) SEP3  SEP2 Prédécesseur REL Charles Dumont SEP3  SEP2 Successeur REL Robert Jardillier SEP3  SEP2 Date de naissance REL 30 avril 1878 SEP3  SEP2 Lieu de naissance REL Dijon, France SEP3  SEP2 Date de décès REL 5 février 1969 (à 90 ans) SEP3  SEP2 Lieu de décès REL Dijon, France SEP3  SEP2 Nationalité REL Française SEP3 .

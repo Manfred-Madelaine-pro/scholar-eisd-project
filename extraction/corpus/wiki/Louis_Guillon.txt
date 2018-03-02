@@ -13,4 +13,4 @@ Louis Guillon, né le 25 août 1887 à Épinal et décédé le 27 novembre 1947 
 
 FONCTIONNORM
 
-NOMF Député 1932-1936 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL IAESP SEP2 Date de naissance REL 25 août 1887 SEP2 Date de décès REL 27 novembre 1947 (à 60 ans) SEP2 Résidence REL Vosges.
+NOMF Député 1932-1936 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL IAESP SEP3  SEP2 Date de naissance REL 25 août 1887 SEP3  SEP2 Date de décès REL 27 novembre 1947 (à 60 ans) SEP3  SEP2 Résidence REL Vosges SEP3 .

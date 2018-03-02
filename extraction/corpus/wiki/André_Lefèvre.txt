@@ -14,7 +14,7 @@ Fort de cette position, il se présente sous l'étiquette du nouveau Parti répu
 
 FONCTIONNORM
 
-NOMF Député NOMF 1910 – 1924 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL PRS (1910-1914)URRRS (1914-1919)GRD (1919-1924).
+NOMF Député NOMF 1910 – 1924 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL PRS (1910-1914)URRRS (1914-1919)GRD (1919-1924) SEP3 .
 NOMF Ministre de la Guerre NOMF 20 janvier 1920 – 16 décembre 1920.
 NOMF Président NOMF Président du ConseilAlexandre MillerandGeorges Leygues.
-NOMF Président du Conseil NOMF GouvernementGouvernement Millerand (1)Gouvernement Millerand (2)Gouvernement Leygues SEP2 Gouvernement REL Gouvernement Millerand (1)Gouvernement Millerand (2)Gouvernement Leygues SEP2 Prédécesseur REL Georges Clemenceau SEP2 Successeur REL Aristide Briand SEP2 Date de naissance REL 17 juin 1869 SEP2 Date de décès REL 5 novembre 1929 SEP2 Résidence REL Bouches-du-Rhône.
+NOMF Président du Conseil NOMF GouvernementGouvernement Millerand (1)Gouvernement Millerand (2)Gouvernement Leygues SEP2 Gouvernement REL Gouvernement Millerand (1)Gouvernement Millerand (2)Gouvernement Leygues SEP3  SEP2 Prédécesseur REL Georges Clemenceau SEP3  SEP2 Successeur REL Aristide Briand SEP3  SEP2 Date de naissance REL 17 juin 1869 SEP3  SEP2 Date de décès REL 5 novembre 1929 SEP3  SEP2 Résidence REL Bouches-du-Rhône SEP3 .

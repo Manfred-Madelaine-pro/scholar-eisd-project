@@ -19,4 +19,4 @@ Bâtonnier de l’Ordre des Avocats de 1959 à 1961, il poursuit son activité d
 
 FONCTIONNORM
 
-NOMF Sénateur NOMF 23 décembre 1934 – 20 octobre 1945 SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL Union républicaine - UR SEP2 Date de naissance REL 17 septembre 1886 SEP2 Lieu de naissance REL Gray SEP2 Date de décès REL 11 janvier 1983 (à 96 ans) SEP2 Lieu de décès REL Besançon SEP2 Nationalité REL  Française SEP2 Profession REL Avocat SEP2 Résidence REL Doubs.
+NOMF Sénateur NOMF 23 décembre 1934 – 20 octobre 1945 SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL Union républicaine - UR SEP3  SEP2 Date de naissance REL 17 septembre 1886 SEP3  SEP2 Lieu de naissance REL Gray SEP3  SEP2 Date de décès REL 11 janvier 1983 (à 96 ans) SEP3  SEP2 Lieu de décès REL Besançon SEP3  SEP2 Nationalité REL  Française SEP3  SEP2 Profession REL Avocat SEP3  SEP2 Résidence REL Doubs SEP3 .

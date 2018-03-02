@@ -30,13 +30,13 @@ PART Centre national des indépendants et paysans (CNIP).
 FONCTIONNORM
 
 NOMF Président NOMF Président de la République française.
-NOMF Président de la République française NOMF 16 janvier 1954 – 8 janvier 1959(4 ans, 11 mois et 23 jours) SEP2 Élection REL 23 décembre 1953.
-NOMF Président du Conseil NOMF PrédécesseurVincent Auriol SEP2 Prédécesseur REL Vincent Auriol SEP2 Successeur REL Charles de Gaulle(Ve République) SEP2 Élection REL 19 novembre 1948.
+NOMF Président de la République française NOMF 16 janvier 1954 – 8 janvier 1959(4 ans, 11 mois et 23 jours) SEP2 Élection REL 23 décembre 1953 SEP3 .
+NOMF Président du Conseil NOMF PrédécesseurVincent Auriol SEP2 Prédécesseur REL Vincent Auriol SEP3  SEP2 Successeur REL Charles de Gaulle(Ve République) SEP3  SEP2 Élection REL 19 novembre 1948 SEP3 .
 NOMF Président NOMF Sénateur de la Seine-Inférieure.
-NOMF Sénateur de la Seine-Inférieure NOMF 7 novembre 1948 – 23 décembre 1953(5 ans, 1 mois et 16 jours) SEP2 Élection REL 7 novembre 1948 SEP2 Réélection REL 18 mai 1952.
+NOMF Sénateur de la Seine-Inférieure NOMF 7 novembre 1948 – 23 décembre 1953(5 ans, 1 mois et 16 jours) SEP2 Élection REL 7 novembre 1948 SEP3  SEP2 Réélection REL 18 mai 1952 SEP3 .
 NOMF Ministre de la Reconstruction et del'Urbanisme NOMF 24 novembre 1947 – 7 septembre 1948(9 mois et 14 jours).
 NOMF Président NOMF Président du ConseilRobert SchumanAndré Marie.
-NOMF Président du Conseil NOMF GouvernementSchuman IMarieSchuman II SEP2 Gouvernement REL Schuman IMarieSchuman II SEP2 Prédécesseur REL Jean Letourneau SEP2 Successeur REL Eugène Claudius-Petit.
-NOMF Député de la Seine-Inférieure NOMF 21 octobre 1945 – 19 novembre 1948(3 ans et 29 jours) SEP2 Élection REL 21 octobre 1945 SEP2 Réélection REL 2 juin 194610 novembre 1946 SEP2 Législature REL Constituantes 1945-1946Ire (IVe République).
-NOMF Sénateur de la Seine-Inférieure NOMF 14 janvier 1936 – 1er janvier 1944(7 ans, 11 mois et 18 jours) SEP2 Élection REL 14 janvier 1936.
-NOMF Député de la Seine-Inférieure NOMF 10 juin 1923 – 31 mai 1935(11 ans, 11 mois et 21 jours) SEP2 Élection REL 10 juin 1923 SEP2 Réélection REL 11-25 mai 192422-29 avril 19281er-8 mai 1932 SEP2 Législature REL XIIe-XIIIe-XIVe-XVe SEP2 Nom de naissance REL Jules Gustave René Coty SEP2 Date de naissance REL 20 mars 1882 SEP2 Lieu de naissance REL Le Havre (France) SEP2 Date de décès REL 22 novembre 1962(à 80 ans) SEP2 Lieu de décès REL Le Havre (France) SEP2 Nature du décès REL Infarctus du myocarde SEP2 Nationalité REL française SEP2 Parti politique REL ADCNIP SEP2 Conjoint REL Germaine Corblet SEP2 Diplômé de REL Université de Caen SEP2 Profession REL Avocat SEP2 Religion REL Catholicisme.
+NOMF Président du Conseil NOMF GouvernementSchuman IMarieSchuman II SEP2 Gouvernement REL Schuman IMarieSchuman II SEP3  SEP2 Prédécesseur REL Jean Letourneau SEP3  SEP2 Successeur REL Eugène Claudius-Petit SEP3 .
+NOMF Député de la Seine-Inférieure NOMF 21 octobre 1945 – 19 novembre 1948(3 ans et 29 jours) SEP2 Élection REL 21 octobre 1945 SEP3  SEP2 Réélection REL 2 juin 194610 novembre 1946 SEP3  SEP2 Législature REL Constituantes 1945-1946Ire (IVe République) SEP3 .
+NOMF Sénateur de la Seine-Inférieure NOMF 14 janvier 1936 – 1er janvier 1944(7 ans, 11 mois et 18 jours) SEP2 Élection REL 14 janvier 1936 SEP3 .
+NOMF Député de la Seine-Inférieure NOMF 10 juin 1923 – 31 mai 1935(11 ans, 11 mois et 21 jours) SEP2 Élection REL 10 juin 1923 SEP3  SEP2 Réélection REL 11-25 mai 192422-29 avril 19281er-8 mai 1932 SEP3  SEP2 Législature REL XIIe-XIIIe-XIVe-XVe SEP3  SEP2 Nom de naissance REL Jules Gustave René Coty SEP3  SEP2 Date de naissance REL 20 mars 1882 SEP3  SEP2 Lieu de naissance REL Le Havre (France) SEP3  SEP2 Date de décès REL 22 novembre 1962(à 80 ans) SEP3  SEP2 Lieu de décès REL Le Havre (France) SEP3  SEP2 Nature du décès REL Infarctus du myocarde SEP3  SEP2 Nationalité REL française SEP3  SEP2 Parti politique REL ADCNIP SEP3  SEP2 Conjoint REL Germaine Corblet SEP3  SEP2 Diplômé de REL Université de Caen SEP3  SEP2 Profession REL Avocat SEP3  SEP2 Religion REL Catholicisme SEP3 .

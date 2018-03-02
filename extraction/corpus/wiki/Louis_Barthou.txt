@@ -27,6 +27,6 @@ PARTISNORM
 PART Alliance démocratique (AD).
 FONCTIONNORM
 
-NOMF Président du Conseil des ministres françaiset Ministre de l'Instruction publique et des Beaux-Arts NOMF 22 mars 1913 – 9 décembre 1913(8 mois et 17 jours) SEP2 Gouvernement REL Barthou SEP2 Législature REL Xe législature SEP2 Prédécesseur REL Aristide Briand SEP2 Successeur REL Gaston Doumergue.
+NOMF Président du Conseil des ministres françaiset Ministre de l'Instruction publique et des Beaux-Arts NOMF 22 mars 1913 – 9 décembre 1913(8 mois et 17 jours) SEP2 Gouvernement REL Barthou SEP3  SEP2 Législature REL Xe législature SEP3  SEP2 Prédécesseur REL Aristide Briand SEP3  SEP2 Successeur REL Gaston Doumergue SEP3 .
 NOMF Ministre d'État NOMF 12 septembre 1917 – 23 octobre 1917(1 mois et 2 jours).
-NOMF Président NOMF GouvernementGouvernement Paul Painlevé (1) SEP2 Gouvernement REL Gouvernement Paul Painlevé (1) SEP2 Nom de naissance REL Jean-Louis Barthou SEP2 Date de naissance REL 25 août 1862 SEP2 Lieu de naissance REL Oloron-Sainte-Marie (Basses-Pyrénées, France) SEP2 Date de décès REL 9 octobre 1934 (à 72 ans) SEP2 Lieu de décès REL Marseille (Bouches-du-Rhône, France) SEP2 Nationalité REL Française SEP2 Parti politique REL AD SEP2 Profession REL Avocat.
+NOMF Président NOMF GouvernementGouvernement Paul Painlevé (1) SEP2 Gouvernement REL Gouvernement Paul Painlevé (1) SEP3  SEP2 Nom de naissance REL Jean-Louis Barthou SEP3  SEP2 Date de naissance REL 25 août 1862 SEP3  SEP2 Lieu de naissance REL Oloron-Sainte-Marie (Basses-Pyrénées, France) SEP3  SEP2 Date de décès REL 9 octobre 1934 (à 72 ans) SEP3  SEP2 Lieu de décès REL Marseille (Bouches-du-Rhône, France) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL AD SEP3  SEP2 Profession REL Avocat SEP3 .

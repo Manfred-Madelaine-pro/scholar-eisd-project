@@ -16,4 +16,4 @@ Sa tombe se trouve au cimetière de Saint-Privé.
 
 FONCTIONNORM
 
-NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARGRI SEP2 Date de naissance REL 8 février 1891 SEP2 Date de décès REL 9 septembre 1965 (à 74 ans) SEP2 Résidence REL Loire.
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARGRI SEP3  SEP2 Date de naissance REL 8 février 1891 SEP3  SEP2 Date de décès REL 9 septembre 1965 (à 74 ans) SEP3  SEP2 Résidence REL Loire SEP3 .

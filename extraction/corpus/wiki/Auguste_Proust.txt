@@ -14,4 +14,4 @@ Receveur de l’enregistrement entre 1877 et 1885, à Ugine (Savoie), Russey (Do
 
 FONCTIONNORM
 
-NOMF Député 1901-1906 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP2 Groupe politique REL UR (1901-1902)AL (1902-1906) SEP2 Date de naissance REL 26 avril 1852 SEP2 Date de décès REL 31 décembre 1921 (à 69 ans) SEP2 Résidence REL Savoie.
+NOMF Député 1901-1906 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP3  SEP2 Groupe politique REL UR (1901-1902)AL (1902-1906) SEP3  SEP2 Date de naissance REL 26 avril 1852 SEP3  SEP2 Date de décès REL 31 décembre 1921 (à 69 ans) SEP3  SEP2 Résidence REL Savoie SEP3 .

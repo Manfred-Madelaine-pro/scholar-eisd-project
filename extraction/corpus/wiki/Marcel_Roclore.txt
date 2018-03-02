@@ -31,7 +31,7 @@ Retiré de la vie politique nationale depuis lors, Marcel Roclore meurt brutalem
 
 FONCTIONNORM
 
-NOMF Député 1945-51puis 1956-62 NOMF GouvernementIVe République-Ve République SEP2 Gouvernement REL IVe République-Ve République SEP2 Groupe politique REL RI (1945-51)IPAS (1956-62).
+NOMF Député 1945-51puis 1956-62 NOMF GouvernementIVe République-Ve République SEP2 Gouvernement REL IVe République-Ve République SEP3  SEP2 Groupe politique REL RI (1945-51)IPAS (1956-62) SEP3 .
 NOMF Ministre d'État NOMF 22 janvier 1947 – 21 octobre 1947.
 NOMF Président NOMF Président du ConseilPaul Ramadier.
-NOMF Président du Conseil NOMF Gouvernementgouvernement Paul Ramadier (1) SEP2 Gouvernement REL gouvernement Paul Ramadier (1) SEP2 Date de naissance REL 25 août 1897 SEP2 Date de décès REL 27 octobre 1966 (à 69 ans) SEP2 Résidence REL Côte-d'Or.
+NOMF Président du Conseil NOMF Gouvernementgouvernement Paul Ramadier (1) SEP2 Gouvernement REL gouvernement Paul Ramadier (1) SEP3  SEP2 Date de naissance REL 25 août 1897 SEP3  SEP2 Date de décès REL 27 octobre 1966 (à 69 ans) SEP3  SEP2 Résidence REL Côte-d'Or SEP3 .

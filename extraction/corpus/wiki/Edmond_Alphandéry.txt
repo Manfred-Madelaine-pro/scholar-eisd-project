@@ -48,4 +48,4 @@ PART Union pour la démocratie française (UDF).
 FONCTIONNORM
 
 NOMF Ministre de l'Économie16e ministre des Finances de la Ve République NOMF 30 mars 1993 – 11 mai 1995(2 ans, 1 mois et 11 jours).
-NOMF Président NOMF GouvernementÉdouard Balladur SEP2 Gouvernement REL Édouard Balladur SEP2 Prédécesseur REL Michel Sapin SEP2 Successeur REL Alain Madelin SEP2 Date de naissance REL 2 septembre 1943 (74 ans) SEP2 Lieu de naissance REL Avignon (Vaucluse) SEP2 Nationalité REL Française SEP2 Parti politique REL UDF.
+NOMF Président NOMF GouvernementÉdouard Balladur SEP2 Gouvernement REL Édouard Balladur SEP3  SEP2 Prédécesseur REL Michel Sapin SEP3  SEP2 Successeur REL Alain Madelin SEP3  SEP2 Date de naissance REL 2 septembre 1943 (74 ans) SEP3  SEP2 Lieu de naissance REL Avignon (Vaucluse) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL UDF SEP3 .

@@ -14,4 +14,4 @@ Parlementaire discret, il approuve le vote des pleins pouvoirs au maréchal Pét
 
 FONCTIONNORM
 
-NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARGRI SEP2 Date de naissance REL 26 octobre 1880 SEP2 Date de décès REL 22 avril 1945 (à 64 ans) SEP2 Résidence REL Ain.
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARGRI SEP3  SEP2 Date de naissance REL 26 octobre 1880 SEP3  SEP2 Date de décès REL 22 avril 1945 (à 64 ans) SEP3  SEP2 Résidence REL Ain SEP3 .

@@ -20,7 +20,7 @@ PART 1940 (1940).
 FONCTIONNORM
 
 NOMF Président du Conseil des ministres français NOMF 8 novembre 1934 – 1er juin 1935(6 mois et 24 jours).
-NOMF Président NOMF GouvernementFlandin (1) SEP2 Gouvernement REL Flandin (1) SEP2 Législature REL XIVe législature SEP2 Prédécesseur REL Gaston Doumergue SEP2 Successeur REL Fernand Bouisson.
+NOMF Président NOMF GouvernementFlandin (1) SEP2 Gouvernement REL Flandin (1) SEP3  SEP2 Législature REL XIVe législature SEP3  SEP2 Prédécesseur REL Gaston Doumergue SEP3  SEP2 Successeur REL Fernand Bouisson SEP3 .
 NOMF Ministre d'État NOMF 7 juin 1935 – 22 janvier 1936(7 mois et 15 jours).
-NOMF Président NOMF GouvernementLaval (4) SEP2 Gouvernement REL Laval (4).
-NOMF Député français NOMF 1914 – 1940(26 ans) SEP2 Groupe politique REL URRRS (1914-1919)GRD (1919-1928)RDG (1928-1936)ARGRI (1936-1940) SEP2 Nom de naissance REL Pierre-Étienne Flandin SEP2 Date de naissance REL 12 avril 1889 SEP2 Lieu de naissance REL Paris (France) SEP2 Date de décès REL 13 juin 1958 (à 69 ans) SEP2 Lieu de décès REL Saint-Jean-Cap-Ferrat (Alpes-Maritimes) (France) SEP2 Nationalité REL française SEP2 Parti politique REL AD (1914-1940) SEP2 Profession REL Avocat SEP2 Résidence REL Yonne.
+NOMF Président NOMF GouvernementLaval (4) SEP2 Gouvernement REL Laval (4) SEP3 .
+NOMF Député français NOMF 1914 – 1940(26 ans) SEP2 Groupe politique REL URRRS (1914-1919)GRD (1919-1928)RDG (1928-1936)ARGRI (1936-1940) SEP3  SEP2 Nom de naissance REL Pierre-Étienne Flandin SEP3  SEP2 Date de naissance REL 12 avril 1889 SEP3  SEP2 Lieu de naissance REL Paris (France) SEP3  SEP2 Date de décès REL 13 juin 1958 (à 69 ans) SEP3  SEP2 Lieu de décès REL Saint-Jean-Cap-Ferrat (Alpes-Maritimes) (France) SEP3  SEP2 Nationalité REL française SEP3  SEP2 Parti politique REL AD (1914-1940) SEP3  SEP2 Profession REL Avocat SEP3  SEP2 Résidence REL Yonne SEP3 .

@@ -17,4 +17,4 @@ En 1935, la rue Joseph-Chailley dans le 12e arrondissement de Paris prend son n
 
 FONCTIONNORM
 
-NOMF Député 1906-1914 NOMF 1906 – SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL UD (1906-1910)GR (1910-1914) SEP2 Date de naissance REL 4 mars 1854 SEP2 Date de décès REL 9 novembre 1928 (à 74 ans) SEP2 Résidence REL Vendée.
+NOMF Député 1906-1914 NOMF 1906 – SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL UD (1906-1910)GR (1910-1914) SEP3  SEP2 Date de naissance REL 4 mars 1854 SEP3  SEP2 Date de décès REL 9 novembre 1928 (à 74 ans) SEP3  SEP2 Résidence REL Vendée SEP3 .

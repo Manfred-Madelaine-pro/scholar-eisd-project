@@ -17,4 +17,4 @@ Il était chevalier de Saint-Grégoire-le-Grand.
 
 FONCTIONNORM
 
-NOMF Député 1919-1924 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL ERD SEP2 Date de naissance REL 8 juillet 1861 SEP2 Date de décès REL 26 octobre 1930 (à 69 ans) SEP2 Résidence REL Doubs.
+NOMF Député 1919-1924 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL ERD SEP3  SEP2 Date de naissance REL 8 juillet 1861 SEP3  SEP2 Date de décès REL 26 octobre 1930 (à 69 ans) SEP3  SEP2 Résidence REL Doubs SEP3 .

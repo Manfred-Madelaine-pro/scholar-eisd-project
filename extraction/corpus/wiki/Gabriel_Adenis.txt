@@ -17,4 +17,4 @@ Après cette défaite, il se consacre à la mairie de Grand-Bourg, et meurt le 1
 
 FONCTIONNORM
 
-NOMF Député 1924-1928 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GRD SEP2 Date de naissance REL 31 mai 1879 SEP2 Date de décès REL 18 février 1941 (à 61 ans) SEP2 Résidence REL Creuse.
+NOMF Député 1924-1928 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL GRD SEP3  SEP2 Date de naissance REL 31 mai 1879 SEP3  SEP2 Date de décès REL 18 février 1941 (à 61 ans) SEP3  SEP2 Résidence REL Creuse SEP3 .

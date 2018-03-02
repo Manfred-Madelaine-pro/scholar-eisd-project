@@ -22,7 +22,7 @@ Deux de ses fils, Félix (1877-1915) et Camille (1885-1963), eurent une carrièr
 
 FONCTIONNORM
 
-NOMF Conseiller municipal de Paris(Quartier des Arts-et-Métiers) NOMF 1884 – 1890 SEP2 Prédécesseur REL Charles Murat SEP2 Successeur REL Octave Blondel.
+NOMF Conseiller municipal de Paris(Quartier des Arts-et-Métiers) NOMF 1884 – 1890 SEP2 Prédécesseur REL Charles Murat SEP3  SEP2 Successeur REL Octave Blondel SEP3 .
 NOMF Député de la Seine NOMF 1889 – 1897.
-NOMF Député de Haute-Savoie NOMF 1897 – 1905 SEP2 Prédécesseur REL Léon Orsat SEP2 Successeur REL Émile Favre.
-NOMF Sénateur de Haute-Savoie NOMF 1905 – 1918 SEP2 Prédécesseur REL André Folliet SEP2 Successeur REL Hippolyte Curral SEP2 Date de naissance REL 2 mai 1850 SEP2 Lieu de naissance REL Valleiry SEP2 Date de décès REL 10 décembre 1918 SEP2 Lieu de décès REL Paris SEP2 Nationalité REL  Duché de Savoie Française SEP2 Fratrie REL Alphonse Chautemps SEP2 Enfants REL Félix Chautemps, Camille Chautemps.
+NOMF Député de Haute-Savoie NOMF 1897 – 1905 SEP2 Prédécesseur REL Léon Orsat SEP3  SEP2 Successeur REL Émile Favre SEP3 .
+NOMF Sénateur de Haute-Savoie NOMF 1905 – 1918 SEP2 Prédécesseur REL André Folliet SEP3  SEP2 Successeur REL Hippolyte Curral SEP3  SEP2 Date de naissance REL 2 mai 1850 SEP3  SEP2 Lieu de naissance REL Valleiry SEP3  SEP2 Date de décès REL 10 décembre 1918 SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Nationalité REL  Duché de Savoie Française SEP3  SEP2 Fratrie REL Alphonse Chautemps SEP3  SEP2 Enfants REL Félix Chautemps, Camille Chautemps SEP3 .

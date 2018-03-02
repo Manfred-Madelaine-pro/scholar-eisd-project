@@ -18,4 +18,4 @@ Il quittera dès lors la carrière politique pour continuer essentiellement son 
 
 FONCTIONNORM
 
-NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARGRI SEP2 Nom de naissance REL Gaston Maurice Moreau SEP2 Date de naissance REL 3 octobre 1878 SEP2 Lieu de naissance REL Angers (Maine-et-Loire) SEP2 Date de décès REL 3 septembre 1958 SEP2 Lieu de décès REL Joué-lès-Tours (Indre-et-Loire) SEP2 Nationalité REL française SEP2 Résidence REL Maine-et-Loire.
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARGRI SEP3  SEP2 Nom de naissance REL Gaston Maurice Moreau SEP3  SEP2 Date de naissance REL 3 octobre 1878 SEP3  SEP2 Lieu de naissance REL Angers (Maine-et-Loire) SEP3  SEP2 Date de décès REL 3 septembre 1958 SEP3  SEP2 Lieu de décès REL Joué-lès-Tours (Indre-et-Loire) SEP3  SEP2 Nationalité REL française SEP3  SEP2 Résidence REL Maine-et-Loire SEP3 .

@@ -26,4 +26,4 @@ Les papiers personnels d'André Honnorat sont conservés aux Archives nationales
 
 FONCTIONNORM
 
-NOMF Député 1910-1921Sénateur 1921-1940 NOMF 1910 – 1940 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GR (1910-1919)GRD (1919-1921)UR (1921-1940) SEP2 Date de naissance REL 13 décembre 1868 SEP2 Date de décès REL 24 juillet 1950 (à 81 ans) SEP2 Résidence REL Basses-Alpes.
+NOMF Député 1910-1921Sénateur 1921-1940 NOMF 1910 – 1940 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GR (1910-1919)GRD (1919-1921)UR (1921-1940) SEP3  SEP2 Date de naissance REL 13 décembre 1868 SEP3  SEP2 Date de décès REL 24 juillet 1950 (à 81 ans) SEP3  SEP2 Résidence REL Basses-Alpes SEP3 .

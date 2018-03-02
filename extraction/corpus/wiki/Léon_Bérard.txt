@@ -17,4 +17,4 @@ Il est nommé ministre de l'Instruction publique et des Beaux-arts en 1919, puis
 
 FONCTIONNORM
 
-NOMF Député 1910-1927Sénateur 1927-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GD (1910-1914)RDG (1914-1919)GRD (1919-1927)UR (1927-1940) SEP2 Date de naissance REL 6 janvier 1876 SEP2 Date de décès REL 24 février 1960 (à 84 ans) SEP2 Résidence REL Basses-Pyrénées.
+NOMF Député 1910-1927Sénateur 1927-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL GD (1910-1914)RDG (1914-1919)GRD (1919-1927)UR (1927-1940) SEP3  SEP2 Date de naissance REL 6 janvier 1876 SEP3  SEP2 Date de décès REL 24 février 1960 (à 84 ans) SEP3  SEP2 Résidence REL Basses-Pyrénées SEP3 .

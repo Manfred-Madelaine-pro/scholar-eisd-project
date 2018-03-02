@@ -16,4 +16,4 @@ Il comparaît devant la Cour de justice de Paris en octobre 1949; il bénéficie
 
 FONCTIONNORM
 
-NOMF Député 1932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL CR (1932-1936)ARGRI (1936-1940) SEP2 Date de naissance REL 4 mai 1898 SEP2 Date de décès REL 11 janvier 1963 (à 64 ans) SEP2 Résidence REL Puy-de-Dôme.
+NOMF Député 1932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL CR (1932-1936)ARGRI (1936-1940) SEP3  SEP2 Date de naissance REL 4 mai 1898 SEP3  SEP2 Date de décès REL 11 janvier 1963 (à 64 ans) SEP3  SEP2 Résidence REL Puy-de-Dôme SEP3 .

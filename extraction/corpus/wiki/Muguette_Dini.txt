@@ -22,4 +22,4 @@ PARTISNORM
 PART Alliance centriste (AC).
 FONCTIONNORM
 
-NOMF Conseillère générale du Canton de Limonest NOMF 27 mars 1994 – 16 mars 2008 SEP2 Prédécesseur REL Jacques Berger SEP2 Successeur REL Max Vincent SEP2 Date de naissance REL 16 mars 1940 (77 ans) SEP2 Lieu de naissance REL Illiers-Combray (Eure-et-Loir) SEP2 Nationalité REL Française SEP2 Parti politique REL AC SEP2 Profession REL Enseignante retraitée.
+NOMF Conseillère générale du Canton de Limonest NOMF 27 mars 1994 – 16 mars 2008 SEP2 Prédécesseur REL Jacques Berger SEP3  SEP2 Successeur REL Max Vincent SEP3  SEP2 Date de naissance REL 16 mars 1940 (77 ans) SEP3  SEP2 Lieu de naissance REL Illiers-Combray (Eure-et-Loir) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL AC SEP3  SEP2 Profession REL Enseignante retraitée SEP3 .

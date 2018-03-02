@@ -16,4 +16,4 @@ Son fils Roland, militant du Parti social français, fut l'un des fondateurs du 
 
 FONCTIONNORM
 
-NOMF Sénateur 1920-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Union républicaine SEP2 Date de naissance REL 27 mars 1876 SEP2 Date de décès REL 15 janvier 1945 (à 68 ans) SEP2 Résidence REL Pas-de-Calais.
+NOMF Sénateur 1920-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Union républicaine SEP3  SEP2 Date de naissance REL 27 mars 1876 SEP3  SEP2 Date de décès REL 15 janvier 1945 (à 68 ans) SEP3  SEP2 Résidence REL Pas-de-Calais SEP3 .

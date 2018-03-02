@@ -19,5 +19,5 @@ Réélu député en 1924 et 1928, siégeant au centre-droit, il rejoint le Séna
 
 FONCTIONNORM
 
-NOMF Député NOMF 1919 – 1930 SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL RDG (1919-1924)GRD (1924-1928)GR (1928-1932).
-NOMF Sénateur NOMF 1930 – 1938 SEP2 Date de naissance REL 4 octobre 1877 SEP2 Date de décès REL 21 février 1938 (à 60 ans) SEP2 Résidence REL Côtes-du-Nord.
+NOMF Député NOMF 1919 – 1930 SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1919-1924)GRD (1924-1928)GR (1928-1932) SEP3 .
+NOMF Sénateur NOMF 1930 – 1938 SEP2 Date de naissance REL 4 octobre 1877 SEP3  SEP2 Date de décès REL 21 février 1938 (à 60 ans) SEP3  SEP2 Résidence REL Côtes-du-Nord SEP3 .

@@ -42,4 +42,4 @@ Dans le film Section spéciale, son rôle est interprété par Louis Seigner.
 
 FONCTIONNORM
 
-NOMF Député NOMF 16 novembre 1919 – 31 mai 1928 SEP2 Réélection REL 11 mai 1924 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL ARS (1919-1924)GRD (1924-1928) SEP2 Date de naissance REL 9 juillet 1874 SEP2 Date de décès REL 14 mai 1945 (à 70 ans) SEP2 Sépulture REL Cassemartin SEP2 Père REL Aimé Barthélemy SEP2 Résidence REL Gers.
+NOMF Député NOMF 16 novembre 1919 – 31 mai 1928 SEP2 Réélection REL 11 mai 1924 SEP3  SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL ARS (1919-1924)GRD (1924-1928) SEP3  SEP2 Date de naissance REL 9 juillet 1874 SEP3  SEP2 Date de décès REL 14 mai 1945 (à 70 ans) SEP3  SEP2 Sépulture REL Cassemartin SEP3  SEP2 Père REL Aimé Barthélemy SEP3  SEP2 Résidence REL Gers SEP3 .

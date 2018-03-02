@@ -15,4 +15,4 @@ Le président de la Chambre des députés, Raoul Péret, lui rend ainsi hommage�
 
 FONCTIONNORM
 
-NOMF Député 1921-1922 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP2 Groupe politique REL Républicains de gauche SEP2 Date de naissance REL 24 mai 1875 SEP2 Date de décès REL 7 septembre 1922 (à 47 ans) SEP2 Résidence REL Côtes-du-Nord.
+NOMF Député 1921-1922 NOMF Gouvernement3e République SEP2 Gouvernement REL 3e République SEP3  SEP2 Groupe politique REL Républicains de gauche SEP3  SEP2 Date de naissance REL 24 mai 1875 SEP3  SEP2 Date de décès REL 7 septembre 1922 (à 47 ans) SEP3  SEP2 Résidence REL Côtes-du-Nord SEP3 .

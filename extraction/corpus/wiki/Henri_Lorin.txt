@@ -16,4 +16,4 @@ Il meurt à Bordeaux d'une hémorragie cérébrale survenue au cours du dépouil
 
 FONCTIONNORM
 
-NOMF Député 1919-1924puis 1928-1932 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARS (1919-1924)ADS (1928-1932) SEP2 Date de naissance REL 2 juillet 1866 SEP2 Date de décès REL 1er mai 1932 SEP2 Résidence REL Gironde.
+NOMF Député 1919-1924puis 1928-1932 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARS (1919-1924)ADS (1928-1932) SEP3  SEP2 Date de naissance REL 2 juillet 1866 SEP3  SEP2 Date de décès REL 1er mai 1932 SEP3  SEP2 Résidence REL Gironde SEP3 .

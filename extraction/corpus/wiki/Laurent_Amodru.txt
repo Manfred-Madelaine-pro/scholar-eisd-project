@@ -21,4 +21,4 @@ Systématiquement élu au premier tour de scrutin, il est un parlementaire actif
 
 FONCTIONNORM
 
-NOMF Député1893-19101914-1928 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL RP (1902-1910)GD (1914-1919)RDG (1919-1928) SEP2 Date de naissance REL 9 octobre 1849 SEP2 Date de décès REL 27 avril 1930 (à 80 ans) SEP2 Résidence REL Seine-et-Oise.
+NOMF Député1893-19101914-1928 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL RP (1902-1910)GD (1914-1919)RDG (1919-1928) SEP3  SEP2 Date de naissance REL 9 octobre 1849 SEP3  SEP2 Date de décès REL 27 avril 1930 (à 80 ans) SEP3  SEP2 Résidence REL Seine-et-Oise SEP3 .

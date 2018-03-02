@@ -13,4 +13,4 @@ Membre de la loge d’Agen au Grand Orient de France, Jules Cels cumule plusieur
 
 FONCTIONNORM
 
-NOMF Député 1910-1924puis 1928-1932 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL RRRS (1919-1924)GR (1928-1932) SEP2 Date de naissance REL 18 novembre 1865 SEP2 Date de décès REL 24 octobre 1938 SEP2 Résidence REL Lot-et-Garonne.
+NOMF Député 1910-1924puis 1928-1932 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL RRRS (1919-1924)GR (1928-1932) SEP3  SEP2 Date de naissance REL 18 novembre 1865 SEP3  SEP2 Date de décès REL 24 octobre 1938 SEP3  SEP2 Résidence REL Lot-et-Garonne SEP3 .

@@ -19,4 +19,4 @@ Atteint par la maladie dès 1906, son mandat prit fin prématurément le 7 févr
 
 FONCTIONNORM
 
-NOMF Député à la Chambre(27 décembre 1903 - 31 mai 19066 mai 1906 - 8 février 1907) NOMF Gouvernement France SEP2 Gouvernement REL  France SEP2 Groupe politique REL Action libérale SEP2 Date de naissance REL 27 juin 1860 SEP2 Date de décès REL 8 février 1907 (à 46 ans) SEP2 Résidence REL Maine-et-Loire (Cholet).
+NOMF Député à la Chambre(27 décembre 1903 - 31 mai 19066 mai 1906 - 8 février 1907) NOMF Gouvernement France SEP2 Gouvernement REL  France SEP3  SEP2 Groupe politique REL Action libérale SEP3  SEP2 Date de naissance REL 27 juin 1860 SEP3  SEP2 Date de décès REL 8 février 1907 (à 46 ans) SEP3  SEP2 Résidence REL Maine-et-Loire (Cholet) SEP3 .

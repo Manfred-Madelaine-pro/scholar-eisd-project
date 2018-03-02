@@ -24,4 +24,4 @@ PART 1936 (1936).
 FONCTIONNORM
 
 NOMF Président du Conseil général de la Manche NOMF 1930 – 1935.
-NOMF Député de la Manche NOMF 24 avril 1910 – 31 mai 1936 SEP2 Date de naissance REL 10 avril 1864 SEP2 Lieu de naissance REL Coutances SEP2 Date de décès REL 15 février 1937 SEP2 Lieu de décès REL Agon-Coutainville SEP2 Nationalité REL  France SEP2 Parti politique REL GD (1910-1914)RDG (1914-1936).
+NOMF Député de la Manche NOMF 24 avril 1910 – 31 mai 1936 SEP2 Date de naissance REL 10 avril 1864 SEP3  SEP2 Lieu de naissance REL Coutances SEP3  SEP2 Date de décès REL 15 février 1937 SEP3  SEP2 Lieu de décès REL Agon-Coutainville SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL GD (1910-1914)RDG (1914-1936) SEP3 .

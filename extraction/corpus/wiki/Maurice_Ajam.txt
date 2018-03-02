@@ -15,4 +15,4 @@ Il est le grand-père de Maurice Bouvier-Ajam, docteur en droit, fondateur de l'
 
 FONCTIONNORM
 
-NOMF Député 1905-1924Sénateur 1924-1927 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GR (1905-1910)GD (1910-1914)RRRS (1914-1919)GRD (1919-1924)UR (1924-1927) SEP2 Date de naissance REL 11 juin 1861 SEP2 Date de décès REL 26 février 1944 (à 82 ans) SEP2 Résidence REL Sarthe.
+NOMF Député 1905-1924Sénateur 1924-1927 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GR (1905-1910)GD (1910-1914)RRRS (1914-1919)GRD (1919-1924)UR (1924-1927) SEP3  SEP2 Date de naissance REL 11 juin 1861 SEP3  SEP2 Date de décès REL 26 février 1944 (à 82 ans) SEP3  SEP2 Résidence REL Sarthe SEP3 .

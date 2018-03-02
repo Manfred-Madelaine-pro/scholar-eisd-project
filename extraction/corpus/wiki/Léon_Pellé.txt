@@ -14,4 +14,4 @@ Homme de droite, il combat la « paperasserie » et le Front populaire. Au dé
 
 FONCTIONNORM
 
-NOMF Député du Loiret NOMF 1932 – 1940 SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL CR (1932-1936)IR (1936-1940) SEP2 Date de naissance REL 20 février 1881 SEP2 Lieu de naissance REL Chaingy (Loiret) SEP2 Date de décès REL 16 janvier 1963 (à 81 ans) SEP2 Lieu de décès REL Huisseau-sur-Mauves (Loiret) SEP2 Nationalité REL Français SEP2 Profession REL Agriculteur.
+NOMF Député du Loiret NOMF 1932 – 1940 SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL CR (1932-1936)IR (1936-1940) SEP3  SEP2 Date de naissance REL 20 février 1881 SEP3  SEP2 Lieu de naissance REL Chaingy (Loiret) SEP3  SEP2 Date de décès REL 16 janvier 1963 (à 81 ans) SEP3  SEP2 Lieu de décès REL Huisseau-sur-Mauves (Loiret) SEP3  SEP2 Nationalité REL Français SEP3  SEP2 Profession REL Agriculteur SEP3 .

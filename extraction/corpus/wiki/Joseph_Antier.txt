@@ -19,4 +19,4 @@ Son fils Paul Antier (1905-1996), également avocat, devient député de la Haut
 
 FONCTIONNORM
 
-NOMF Député 1919-1924puis 1928-1932Sénateur 1938-1940 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP2 Groupe politique REL ERD (1919-1924DP (1928-1932)ANRS (1938-1940) SEP2 Date de naissance REL 31 mai 1868 SEP2 Date de décès REL 22 septembre 1943 (à 75 ans) SEP2 Résidence REL Haute-Loire.
+NOMF Député 1919-1924puis 1928-1932Sénateur 1938-1940 NOMF GouvernementIIIe république SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL ERD (1919-1924DP (1928-1932)ANRS (1938-1940) SEP3  SEP2 Date de naissance REL 31 mai 1868 SEP3  SEP2 Date de décès REL 22 septembre 1943 (à 75 ans) SEP3  SEP2 Résidence REL Haute-Loire SEP3 .

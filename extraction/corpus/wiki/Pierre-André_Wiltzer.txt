@@ -32,7 +32,7 @@ PART Union pour un mouvement populaire (UMP).
 FONCTIONNORM
 
 NOMF Ministre délégué à la Coopération et à la Francophonie NOMF 17 juin 2002 – 31 mars 2004.
-NOMF Président NOMF Premier ministreJean-Pierre Raffarin SEP2 Premier ministre REL Jean-Pierre Raffarin SEP2 Gouvernement REL Gouvernement Raffarin 2.
+NOMF Président NOMF Premier ministreJean-Pierre Raffarin SEP2 Premier ministre REL Jean-Pierre Raffarin SEP3  SEP2 Gouvernement REL Gouvernement Raffarin 2 SEP3 .
 NOMF Député de l’Essonne NOMF 2 avril 1986 – 14 mai 1988.
-NOMF Député de la 4e circonscription de l’Essonne NOMF 23 juin 1988 – 18 juillet 2002 SEP2 Successeur REL Nathalie Kosciusko-Morizet.
-NOMF Conseiller régional d’Île-de-France NOMF 22 mars 1992 – 21 mars 2004 SEP2 Date de naissance REL 31 octobre 1940 (77 ans) SEP2 Lieu de naissance REL Agen SEP2 Nationalité REL Française SEP2 Parti politique REL UDF puis UMP SEP2 Diplômé de REL ENA SEP2 Profession REL Haut fonctionnaire.
+NOMF Député de la 4e circonscription de l’Essonne NOMF 23 juin 1988 – 18 juillet 2002 SEP2 Successeur REL Nathalie Kosciusko-Morizet SEP3 .
+NOMF Conseiller régional d’Île-de-France NOMF 22 mars 1992 – 21 mars 2004 SEP2 Date de naissance REL 31 octobre 1940 (77 ans) SEP3  SEP2 Lieu de naissance REL Agen SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL UDF puis UMP SEP3  SEP2 Diplômé de REL ENA SEP3  SEP2 Profession REL Haut fonctionnaire SEP3 .

@@ -13,4 +13,4 @@ Avocat, il est le fils de Jules Fayssat, député de 1910 à 1914, il est élu e
 
 FONCTIONNORM
 
-NOMF Député 1932-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL IDG SEP2 Date de naissance REL 14 novembre 1897 SEP2 Date de décès REL 30 décembre 1968 SEP2 Résidence REL Alpes-Maritimes.
+NOMF Député 1932-1936 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL IDG SEP3  SEP2 Date de naissance REL 14 novembre 1897 SEP3  SEP2 Date de décès REL 30 décembre 1968 SEP3  SEP2 Résidence REL Alpes-Maritimes SEP3 .

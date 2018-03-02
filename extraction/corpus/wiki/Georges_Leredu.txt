@@ -15,4 +15,4 @@ Georges Jean Leredu décéda à Paris, le 23 juin 1943[1].
 
 FONCTIONNORM
 
-NOMF Député 1914-1927Sénateur 1927-1936 NOMF 1914 – SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL ERD (1919-1924)GRD (1924-1927) SEP2 Date de naissance REL 2 juin 1860 SEP2 Date de décès REL 23 juin 1943 (à 83 ans) SEP2 Résidence REL Seine-et-Oise.
+NOMF Député 1914-1927Sénateur 1927-1936 NOMF 1914 – SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL ERD (1919-1924)GRD (1924-1927) SEP3  SEP2 Date de naissance REL 2 juin 1860 SEP3  SEP2 Date de décès REL 23 juin 1943 (à 83 ans) SEP3  SEP2 Résidence REL Seine-et-Oise SEP3 .

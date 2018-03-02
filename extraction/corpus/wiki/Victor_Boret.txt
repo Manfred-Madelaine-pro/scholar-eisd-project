@@ -16,4 +16,4 @@ Bien qu'il fût né à Saumur (Maine-et-Loire), qu'il commençât sa carrière p
 
 FONCTIONNORM
 
-NOMF Député 1910-1927Sénateur 1927-1936 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL GRD (1919-1924)GR (1924-1927) SEP2 Date de naissance REL 18 août 1872 SEP2 Date de décès REL 22 avril 1952 (à 79 ans) SEP2 Résidence REL Vienne.
+NOMF Député 1910-1927Sénateur 1927-1936 NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL GRD (1919-1924)GR (1924-1927) SEP3  SEP2 Date de naissance REL 18 août 1872 SEP3  SEP2 Date de décès REL 22 avril 1952 (à 79 ans) SEP3  SEP2 Résidence REL Vienne SEP3 .

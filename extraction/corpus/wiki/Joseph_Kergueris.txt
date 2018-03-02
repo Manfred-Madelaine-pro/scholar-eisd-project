@@ -20,8 +20,8 @@ PART Union pour la démocratie française (UDF) AC.
 PART Alliance centriste (AC).
 FONCTIONNORM
 
-NOMF Président du conseil général du Morbihan NOMF 2004 – 2011 SEP2 Prédécesseur REL Jean-Charles Cavaillé SEP2 Successeur REL François Goulard.
-NOMF Président de la communauté de communes du pays d'Auray NOMF 2002 – 2008 SEP2 Prédécesseur REL création SEP2 Successeur REL Michel Jalu.
-NOMF Sénateur du Morbihan NOMF 23 septembre 2001 – 30 septembre 2011 SEP2 Élection REL 23 septembre 2001 SEP2 Groupe politique REL Union centriste.
+NOMF Président du conseil général du Morbihan NOMF 2004 – 2011 SEP2 Prédécesseur REL Jean-Charles Cavaillé SEP3  SEP2 Successeur REL François Goulard SEP3 .
+NOMF Président de la communauté de communes du pays d'Auray NOMF 2002 – 2008 SEP2 Prédécesseur REL création SEP3  SEP2 Successeur REL Michel Jalu SEP3 .
+NOMF Sénateur du Morbihan NOMF 23 septembre 2001 – 30 septembre 2011 SEP2 Élection REL 23 septembre 2001 SEP3  SEP2 Groupe politique REL Union centriste SEP3 .
 NOMF Conseiller régional de Bretagne NOMF 1984 – 2001.
-NOMF Conseiller général du canton de Pluvigner NOMF 1979 – 2011 SEP2 Prédécesseur REL Eugène Le Couviour SEP2 Successeur REL Bernadette Desjardins SEP2 Successeur REL Jean-François Le Neillon SEP2 Date de naissance REL 2 octobre 1938 SEP2 Nationalité REL  France SEP2 Parti politique REL UDF, puis AC SEP2 Diplômé de REL Saint-Cyr SEP2 Profession REL Maître de conférence.
+NOMF Conseiller général du canton de Pluvigner NOMF 1979 – 2011 SEP2 Prédécesseur REL Eugène Le Couviour SEP3  SEP2 Successeur REL Bernadette Desjardins SEP3  SEP2 Successeur REL Jean-François Le Neillon SEP3  SEP2 Date de naissance REL 2 octobre 1938 SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL UDF, puis AC SEP3  SEP2 Diplômé de REL Saint-Cyr SEP3  SEP2 Profession REL Maître de conférence SEP3 .

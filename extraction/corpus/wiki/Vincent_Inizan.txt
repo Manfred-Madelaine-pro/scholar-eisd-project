@@ -26,4 +26,4 @@ Ayant abandonné la vie politique, il s'éteint dans son village natal, le 12 d�
 
 FONCTIONNORM
 
-NOMF Député NOMF 1919 – 1942 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL RDG (1919-1924)URD (1924-1932)FR (1932-1942[1]) SEP2 Date de naissance REL 18 avril 1869 SEP2 Lieu de naissance REL Kernouës SEP2 Date de décès REL 12 mars 1951 (à 81 ans) SEP2 Lieu de décès REL Kernouës SEP2 Résidence REL Finistère.
+NOMF Député NOMF 1919 – 1942 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL RDG (1919-1924)URD (1924-1932)FR (1932-1942[1]) SEP3  SEP2 Date de naissance REL 18 avril 1869 SEP3  SEP2 Lieu de naissance REL Kernouës SEP3  SEP2 Date de décès REL 12 mars 1951 (à 81 ans) SEP3  SEP2 Lieu de décès REL Kernouës SEP3  SEP2 Résidence REL Finistère SEP3 .

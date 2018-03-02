@@ -14,4 +14,4 @@ Il succède à son père au conseil général de la Mayenne en 1902. Conseiller 
 
 FONCTIONNORM
 
-NOMF Député (1906-1910), Sénateur (1925-1941) NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP2 Groupe politique REL Action libérale SEP2 Date de naissance REL 7 février 1867 SEP2 Date de décès REL 9 février 1956 (à 89 ans) SEP2 Résidence REL Mayenne.
+NOMF Député (1906-1910), Sénateur (1925-1941) NOMF GouvernementIIIème République SEP2 Gouvernement REL IIIème République SEP3  SEP2 Groupe politique REL Action libérale SEP3  SEP2 Date de naissance REL 7 février 1867 SEP3  SEP2 Date de décès REL 9 février 1956 (à 89 ans) SEP3  SEP2 Résidence REL Mayenne SEP3 .

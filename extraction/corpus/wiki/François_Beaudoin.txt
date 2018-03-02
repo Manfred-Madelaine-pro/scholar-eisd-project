@@ -27,4 +27,4 @@ Croix de guerre 1939-1945
 
 FONCTIONNORM
 
-NOMF Député 1936-1940 NOMF 3 mai 1936 – 31 mai 1942 SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Agraire indépendant SEP2 Date de naissance REL 28 août 1904 SEP2 Date de décès REL 15 avril 1945 (à 40 ans) SEP2 Résidence REL Moselle.
+NOMF Député 1936-1940 NOMF 3 mai 1936 – 31 mai 1942 SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Agraire indépendant SEP3  SEP2 Date de naissance REL 28 août 1904 SEP3  SEP2 Date de décès REL 15 avril 1945 (à 40 ans) SEP3  SEP2 Résidence REL Moselle SEP3 .

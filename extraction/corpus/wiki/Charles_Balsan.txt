@@ -20,4 +20,4 @@ PARTISNORM
 PART Conservatisme (Conservateur).
 FONCTIONNORM
 
-NOMF Député de l'Indre NOMF 6 octobre 1889 – 31 mai 1902 SEP2 Date de naissance REL 16 avril 1838 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 4 février 1912 SEP2 Lieu de décès REL Paris SEP2 Parti politique REL Conservateur SEP2 Enfants REL Famille Balsan.
+NOMF Député de l'Indre NOMF 6 octobre 1889 – 31 mai 1902 SEP2 Date de naissance REL 16 avril 1838 SEP3  SEP2 Lieu de naissance REL Paris SEP3  SEP2 Date de décès REL 4 février 1912 SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Parti politique REL Conservateur SEP3  SEP2 Enfants REL Famille Balsan SEP3 .

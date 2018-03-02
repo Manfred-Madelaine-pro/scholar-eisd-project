@@ -18,4 +18,4 @@ Il ne se représente pas aux élections dû à la seconde Assemblée nationale C
 
 FONCTIONNORM
 
-NOMF Député 1926-1932puis 1945-1955Sénateur 1934-1940 NOMF GouvernementTroisième République-Quatrième République SEP2 Gouvernement REL Troisième République-Quatrième République SEP2 Groupe politique REL ADS (1928-1932)UR (1934-1940)RI (1945-1955) SEP2 Date de naissance REL 3 mars 1885 SEP2 Date de décès REL 7 avril 1962 (à 77 ans) SEP2 Résidence REL Vosges.
+NOMF Député 1926-1932puis 1945-1955Sénateur 1934-1940 NOMF GouvernementTroisième République-Quatrième République SEP2 Gouvernement REL Troisième République-Quatrième République SEP3  SEP2 Groupe politique REL ADS (1928-1932)UR (1934-1940)RI (1945-1955) SEP3  SEP2 Date de naissance REL 3 mars 1885 SEP3  SEP2 Date de décès REL 7 avril 1962 (à 77 ans) SEP3  SEP2 Résidence REL Vosges SEP3 .

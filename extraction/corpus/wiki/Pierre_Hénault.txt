@@ -20,4 +20,4 @@ Le 1er juin 1958, Pierre Hénault vote l'investiture du général de Gaulle et l
 
 FONCTIONNORM
 
-NOMF Député 1948-1962 NOMF GouvernementIVe République-Ve République SEP2 Gouvernement REL IVe République-Ve République SEP2 Groupe politique REL PRL (1948-1951)RPF (1951-1953)ARS (1953-1956)IPAS (1956-1962) SEP2 Date de naissance REL 25 février 1892 SEP2 Date de décès REL 12 février 1971 (à 78 ans) SEP2 Résidence REL Manche.
+NOMF Député 1948-1962 NOMF GouvernementIVe République-Ve République SEP2 Gouvernement REL IVe République-Ve République SEP3  SEP2 Groupe politique REL PRL (1948-1951)RPF (1951-1953)ARS (1953-1956)IPAS (1956-1962) SEP3  SEP2 Date de naissance REL 25 février 1892 SEP3  SEP2 Date de décès REL 12 février 1971 (à 78 ans) SEP3  SEP2 Résidence REL Manche SEP3 .

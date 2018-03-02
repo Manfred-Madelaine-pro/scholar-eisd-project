@@ -16,4 +16,4 @@ Il est décoré au titre de Chevalier de la Légion d'honneur, le 16 juin 1930[4
 
 FONCTIONNORM
 
-NOMF Député des Alpes-de-Haute-Provence NOMF 6 mai 1906 – 31 mai 1910(3 ans, 11 mois et 25 jours) SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Action libérale SEP2 Nom de naissance REL Pierre François Camille Guyot de Villeneuve SEP2 Date de naissance REL 9 août 1862 SEP2 Lieu de naissance REL Saint-Bouize, (Cher) château de Lagrange SEP2 Date de décès REL 6 juillet 1939 (à 76 ans) SEP2 Lieu de décès REL paris (Seine) SEP2 Nationalité REL  Française SEP2 Résidence REL Basses-Alpes.
+NOMF Député des Alpes-de-Haute-Provence NOMF 6 mai 1906 – 31 mai 1910(3 ans, 11 mois et 25 jours) SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Action libérale SEP3  SEP2 Nom de naissance REL Pierre François Camille Guyot de Villeneuve SEP3  SEP2 Date de naissance REL 9 août 1862 SEP3  SEP2 Lieu de naissance REL Saint-Bouize, (Cher) château de Lagrange SEP3  SEP2 Date de décès REL 6 juillet 1939 (à 76 ans) SEP3  SEP2 Lieu de décès REL paris (Seine) SEP3  SEP2 Nationalité REL  Française SEP3  SEP2 Résidence REL Basses-Alpes SEP3 .

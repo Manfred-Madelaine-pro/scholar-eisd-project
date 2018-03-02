@@ -29,7 +29,7 @@ Président du Haut Comité français pour la défense civile.
 
 FONCTIONNORM
 
-NOMF Sénateur de l'Aisne NOMF 7 mai 1978 – 30 septembre 2008(30 ans, 4 mois et 23 jours) SEP2 Élection REL 26 juin 1971[1] SEP2 Réélection REL 28 septembre 198024 septembre 198927 septembre 1998 SEP2 Groupe politique REL RDSEpuisUMP SEP2 Prédécesseur REL Jacques Pelletier.
-NOMF Conseiller général de l'AisneÉlu dans le canton d'Oulchy-le-Château NOMF 1972 – 18 mars 2001 SEP2 Prédécesseur REL Jacques Moquet SEP2 Successeur REL Hervé Muzart.
-NOMF Président du Conseil général de l'Aisne NOMF 3 octobre 1988 – 27 mars 1998(9 ans, 5 mois et 24 jours) SEP2 Prédécesseur REL Charles Brazier SEP2 Successeur REL Jean-Pierre Balligand.
-NOMF Conseiller régional de Picardie NOMF 1973 – 1988 SEP2 Date de naissance REL 27 juin 1931 (86 ans) SEP2 Lieu de naissance REL Boulogne-Billancourt (Hauts-de-Seine) SEP2 Conjoint REL Pascale Waymel SEP2 Résidence REL Aisne.
+NOMF Sénateur de l'Aisne NOMF 7 mai 1978 – 30 septembre 2008(30 ans, 4 mois et 23 jours) SEP2 Élection REL 26 juin 1971[1] SEP3  SEP2 Réélection REL 28 septembre 198024 septembre 198927 septembre 1998 SEP3  SEP2 Groupe politique REL RDSEpuisUMP SEP3  SEP2 Prédécesseur REL Jacques Pelletier SEP3 .
+NOMF Conseiller général de l'AisneÉlu dans le canton d'Oulchy-le-Château NOMF 1972 – 18 mars 2001 SEP2 Prédécesseur REL Jacques Moquet SEP3  SEP2 Successeur REL Hervé Muzart SEP3 .
+NOMF Président du Conseil général de l'Aisne NOMF 3 octobre 1988 – 27 mars 1998(9 ans, 5 mois et 24 jours) SEP2 Prédécesseur REL Charles Brazier SEP3  SEP2 Successeur REL Jean-Pierre Balligand SEP3 .
+NOMF Conseiller régional de Picardie NOMF 1973 – 1988 SEP2 Date de naissance REL 27 juin 1931 (86 ans) SEP3  SEP2 Lieu de naissance REL Boulogne-Billancourt (Hauts-de-Seine) SEP3  SEP2 Conjoint REL Pascale Waymel SEP3  SEP2 Résidence REL Aisne SEP3 .

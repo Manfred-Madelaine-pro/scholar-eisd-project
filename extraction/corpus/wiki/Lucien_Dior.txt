@@ -28,6 +28,6 @@ PART 1928 (1928) 1932.
 PART 1932 (1932).
 FONCTIONNORM
 
-NOMF Ministre du Commerce et de l'Industrie NOMF 16 janvier 1921 – 29 mars 1924 SEP2 Gouvernement REL Briand VII, Poincaré II, Poincaré III SEP2 Prédécesseur REL Auguste Isaac SEP2 Successeur REL Louis Loucheur.
+NOMF Ministre du Commerce et de l'Industrie NOMF 16 janvier 1921 – 29 mars 1924 SEP2 Gouvernement REL Briand VII, Poincaré II, Poincaré III SEP3  SEP2 Prédécesseur REL Auguste Isaac SEP3  SEP2 Successeur REL Louis Loucheur SEP3 .
 NOMF Président du Conseil général de la Manche NOMF Député de la Manche.
-NOMF Député de la Manche NOMF 6 mai 1906 – 31 mai 1932 SEP2 Date de naissance REL 4 juillet 1867 SEP2 Lieu de naissance REL Granville (Manche) SEP2 Date de décès REL 20 mai 1932 (à 64 ans) SEP2 Lieu de décès REL Neuilly-sur-Seine (Hauts-de-Seine) SEP2 Nationalité REL  France SEP2 Parti politique REL ERD (1919-1924)RDG (1924-1928)ADS (1928-1932).
+NOMF Député de la Manche NOMF 6 mai 1906 – 31 mai 1932 SEP2 Date de naissance REL 4 juillet 1867 SEP3  SEP2 Lieu de naissance REL Granville (Manche) SEP3  SEP2 Date de décès REL 20 mai 1932 (à 64 ans) SEP3  SEP2 Lieu de décès REL Neuilly-sur-Seine (Hauts-de-Seine) SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL ERD (1919-1924)RDG (1924-1928)ADS (1928-1932) SEP3 .

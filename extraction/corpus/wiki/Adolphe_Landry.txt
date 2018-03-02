@@ -22,4 +22,4 @@ Normalien, attiré par les idées socialistes, député (de 1910 à 1932, de 193
 
 FONCTIONNORM
 
-NOMF Député 1910-1930puis 1936-1940puis 1945-1946Sénateur (1930)puis 1945-1956 NOMF 1910 – SEP2 Gouvernement REL IIIe République-IVe République SEP2 Groupe politique REL URRRS (1914-1919)ARS (1919-1924)GRD (1924-1928)GR (1928-1930)GD (1930)RRRS (1936-1946)GD (1946-1956) SEP2 Date de naissance REL 29 septembre 1874 SEP2 Date de décès REL 28 août 1956 (à 81 ans) SEP2 Résidence REL Corse.
+NOMF Député 1910-1930puis 1936-1940puis 1945-1946Sénateur (1930)puis 1945-1956 NOMF 1910 – SEP2 Gouvernement REL IIIe République-IVe République SEP3  SEP2 Groupe politique REL URRRS (1914-1919)ARS (1919-1924)GRD (1924-1928)GR (1928-1930)GD (1930)RRRS (1936-1946)GD (1946-1956) SEP3  SEP2 Date de naissance REL 29 septembre 1874 SEP3  SEP2 Date de décès REL 28 août 1956 (à 81 ans) SEP3  SEP2 Résidence REL Corse SEP3 .

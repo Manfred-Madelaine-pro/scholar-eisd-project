@@ -17,4 +17,4 @@ Il abandonne ensuite définitivement la vie politique.
 
 FONCTIONNORM
 
-NOMF Député 1932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL RDG (1932-1936)ARGRI (1936-1940) SEP2 Date de naissance REL 29 décembre 1881 SEP2 Date de décès REL 4 janvier 1949 (à 67 ans) SEP2 Résidence REL Pas-de-Calais.
+NOMF Député 1932-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1932-1936)ARGRI (1936-1940) SEP3  SEP2 Date de naissance REL 29 décembre 1881 SEP3  SEP2 Date de décès REL 4 janvier 1949 (à 67 ans) SEP3  SEP2 Résidence REL Pas-de-Calais SEP3 .

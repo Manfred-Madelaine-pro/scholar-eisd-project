@@ -12,4 +12,4 @@ Albert Le Moigne, né le 19 juillet 1849 à Cherbourg, et mort le 14 mars 1930 �
 
 FONCTIONNORM
 
-NOMF Député 1895-1906puis 1919-1928 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL RDG SEP2 Date de naissance REL 19 juillet 1849 SEP2 Date de décès REL 14 mars 1930 (à 80 ans) SEP2 Résidence REL Manche.
+NOMF Député 1895-1906puis 1919-1928 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL RDG SEP3  SEP2 Date de naissance REL 19 juillet 1849 SEP3  SEP2 Date de décès REL 14 mars 1930 (à 80 ans) SEP3  SEP2 Résidence REL Manche SEP3 .

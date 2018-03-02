@@ -18,4 +18,4 @@ Dans le journal qu’il a tenu pendant l’occupation allemande, Ma ville à l�
 
 FONCTIONNORM
 
-NOMF Député 1928-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL RDG (1928-1932)GI (1932-1936)IAP (1936-1940) SEP2 Date de naissance REL 21 juillet 1883 SEP2 Date de décès REL 28 décembre 1963 (à 80 ans) SEP2 Résidence REL Bas-Rhin.
+NOMF Député 1928-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1928-1932)GI (1932-1936)IAP (1936-1940) SEP3  SEP2 Date de naissance REL 21 juillet 1883 SEP3  SEP2 Date de décès REL 28 décembre 1963 (à 80 ans) SEP3  SEP2 Résidence REL Bas-Rhin SEP3 .

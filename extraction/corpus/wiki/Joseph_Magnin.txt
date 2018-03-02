@@ -23,6 +23,6 @@ FONCTIONNORM
 
 NOMF Sénateur inamovible NOMF 1875 – 22 novembre 1910.
 NOMF Ministre des Finances NOMF 28 décembre 1879 – 13 novembre 1881.
-NOMF Président NOMF GouvernementFreycinet I, Ferry I SEP2 Gouvernement REL Freycinet I, Ferry I SEP2 Prédécesseur REL Léon Say SEP2 Successeur REL François Allain-Targé.
-NOMF Ministre du Commerce et de l'Agriculture NOMF 4 septembre 1870 – 19 février 1871 SEP2 Gouvernement REL Gouvernement de la Défense nationale SEP2 Prédécesseur REL Clément Duvernois SEP2 Successeur REL Félix Lambrecht.
-NOMF Député de la Côte-d'Or NOMF 13 décembre 1863 – 7 mars 1876 SEP2 Nationalité REL  Française.
+NOMF Président NOMF GouvernementFreycinet I, Ferry I SEP2 Gouvernement REL Freycinet I, Ferry I SEP3  SEP2 Prédécesseur REL Léon Say SEP3  SEP2 Successeur REL François Allain-Targé SEP3 .
+NOMF Ministre du Commerce et de l'Agriculture NOMF 4 septembre 1870 – 19 février 1871 SEP2 Gouvernement REL Gouvernement de la Défense nationale SEP3  SEP2 Prédécesseur REL Clément Duvernois SEP3  SEP2 Successeur REL Félix Lambrecht SEP3 .
+NOMF Député de la Côte-d'Or NOMF 13 décembre 1863 – 7 mars 1876 SEP2 Nationalité REL  Française SEP3 .

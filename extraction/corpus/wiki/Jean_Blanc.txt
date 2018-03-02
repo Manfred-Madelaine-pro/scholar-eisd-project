@@ -19,4 +19,4 @@ Jean Blanc était marié et père de huit enfants. Son épouse, Armande, est dé
 
 FONCTIONNORM
 
-NOMF Sénateur 1968-1995 NOMF GouvernementQuatrième RépubliqueCinquième République SEP2 Gouvernement REL Quatrième RépubliqueCinquième République SEP2 Groupe politique REL CDS SEP2 Nom de naissance REL Jean-Pierre Blanc SEP2 Date de naissance REL 11 septembre 1920 SEP2 Lieu de naissance REL Saint-Jean-de-Maurienne SEP2 Date de décès REL 29 septembre 2004 (à 84 ans) SEP2 Lieu de décès REL La Ravoire SEP2 Nationalité REL Française SEP2 Profession REL homme politique SEP2 Résidence REL Savoie.
+NOMF Sénateur 1968-1995 NOMF GouvernementQuatrième RépubliqueCinquième République SEP2 Gouvernement REL Quatrième RépubliqueCinquième République SEP3  SEP2 Groupe politique REL CDS SEP3  SEP2 Nom de naissance REL Jean-Pierre Blanc SEP3  SEP2 Date de naissance REL 11 septembre 1920 SEP3  SEP2 Lieu de naissance REL Saint-Jean-de-Maurienne SEP3  SEP2 Date de décès REL 29 septembre 2004 (à 84 ans) SEP3  SEP2 Lieu de décès REL La Ravoire SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Profession REL homme politique SEP3  SEP2 Résidence REL Savoie SEP3 .

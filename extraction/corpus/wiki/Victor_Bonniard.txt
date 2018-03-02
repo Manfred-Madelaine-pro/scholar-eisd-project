@@ -15,4 +15,4 @@ Victor Bonniard est un homme politique français né le 3 avril 1855 à Brianço
 FONCTIONNORM
 
 NOMF Député des Hautes-Alpes NOMF 6 mai 1906 – 9 février 1921(14 ans, 9 mois et 3 jours).
-NOMF Sénateur des Hautes-Alpes NOMF 9 janvier 1921 – 14 juin 1924(3 ans, 5 mois et 5 jours) SEP2 Date de naissance REL 3 avril 1855 SEP2 Lieu de naissance REL Briançon (Hautes-Alpes) SEP2 Date de décès REL 14 juin 1924 (à 69 ans) SEP2 Lieu de décès REL Paris (Seine) SEP2 Nationalité REL  France française SEP2 Profession REL Banquier.
+NOMF Sénateur des Hautes-Alpes NOMF 9 janvier 1921 – 14 juin 1924(3 ans, 5 mois et 5 jours) SEP2 Date de naissance REL 3 avril 1855 SEP3  SEP2 Lieu de naissance REL Briançon (Hautes-Alpes) SEP3  SEP2 Date de décès REL 14 juin 1924 (à 69 ans) SEP3  SEP2 Lieu de décès REL Paris (Seine) SEP3  SEP2 Nationalité REL  France française SEP3  SEP2 Profession REL Banquier SEP3 .

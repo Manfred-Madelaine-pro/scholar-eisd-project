@@ -15,4 +15,4 @@ PARTISNORM
 PART EAJ-PNV (EAJ-PNV).
 FONCTIONNORM
 
-NOMF Député général de la Députation forale du Guipuscoa NOMF En fonction depuis le 6 juillet 2007 SEP2 Prédécesseur REL Joxe Joan González de Txabarri Miranda SEP2 Date de naissance REL 2 juin 1965 (52 ans) SEP2 Lieu de naissance REL Beasain, Guipuscoa SEP2 Parti politique REL EAJ-PNV SEP2 Profession REL Philosophe SEP2 Religion REL Catholique.
+NOMF Député général de la Députation forale du Guipuscoa NOMF En fonction depuis le 6 juillet 2007 SEP2 Prédécesseur REL Joxe Joan González de Txabarri Miranda SEP3  SEP2 Date de naissance REL 2 juin 1965 (52 ans) SEP3  SEP2 Lieu de naissance REL Beasain, Guipuscoa SEP3  SEP2 Parti politique REL EAJ-PNV SEP3  SEP2 Profession REL Philosophe SEP3  SEP2 Religion REL Catholique SEP3 .

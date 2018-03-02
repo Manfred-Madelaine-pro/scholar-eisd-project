@@ -16,4 +16,4 @@ Devenant président de la Fédération républicaine en 1921 afin d'absorber les
 
 FONCTIONNORM
 
-NOMF Député 1919-1924 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL ERD SEP2 Date de naissance REL 6 septembre 1849 SEP2 Date de décès REL 23 mars 1938 (à 88 ans) SEP2 Résidence REL Rhône.
+NOMF Député 1919-1924 NOMF GouvernementIIIe République SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL ERD SEP3  SEP2 Date de naissance REL 6 septembre 1849 SEP3  SEP2 Date de décès REL 23 mars 1938 (à 88 ans) SEP3  SEP2 Résidence REL Rhône SEP3 .

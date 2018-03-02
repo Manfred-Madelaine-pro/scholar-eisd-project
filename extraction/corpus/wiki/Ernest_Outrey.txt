@@ -14,4 +14,4 @@ Famille.
 
 FONCTIONNORM
 
-NOMF Député de la Cochinchine NOMF 1914 – 1936 SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL GR (1914-1919)NI (1919-1924)GRD (1924-1928)GR (1928-1936) SEP2 Date de naissance REL 11 avril 1863 SEP2 Date de décès REL 7 octobre 1941 (à 78 ans) SEP2 Résidence REL Cochinchine (Indochine).
+NOMF Député de la Cochinchine NOMF 1914 – 1936 SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL GR (1914-1919)NI (1919-1924)GRD (1924-1928)GR (1928-1936) SEP3  SEP2 Date de naissance REL 11 avril 1863 SEP3  SEP2 Date de décès REL 7 octobre 1941 (à 78 ans) SEP3  SEP2 Résidence REL Cochinchine (Indochine) SEP3 .

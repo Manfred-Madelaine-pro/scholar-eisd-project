@@ -18,4 +18,4 @@ PARTISNORM
 PART Action libérale (Action libérale).
 FONCTIONNORM
 
-NOMF Député du Tarn NOMF 22 mai 1898 – 31 mai 1910 SEP2 Prédécesseur REL André Reille SEP2 Date de naissance REL 26 décembre 1871 SEP2 Lieu de naissance REL Saint-Amans-Soult SEP2 Date de décès REL 15 février 1944 (à 72 ans) SEP2 Lieu de décès REL Carmaux SEP2 Parti politique REL Action libérale SEP2 Profession REL Militaire SEP2 Religion REL Catholique.
+NOMF Député du Tarn NOMF 22 mai 1898 – 31 mai 1910 SEP2 Prédécesseur REL André Reille SEP3  SEP2 Date de naissance REL 26 décembre 1871 SEP3  SEP2 Lieu de naissance REL Saint-Amans-Soult SEP3  SEP2 Date de décès REL 15 février 1944 (à 72 ans) SEP3  SEP2 Lieu de décès REL Carmaux SEP3  SEP2 Parti politique REL Action libérale SEP3  SEP2 Profession REL Militaire SEP3  SEP2 Religion REL Catholique SEP3 .

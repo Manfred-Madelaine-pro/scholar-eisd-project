@@ -26,5 +26,5 @@ PARTISNORM
 PART Action libérale populaire (Action libérale).
 FONCTIONNORM
 
-NOMF Député de la Loire NOMF 17 mars 1912 – 31 mai 1914(2 ans, 2 mois et 14 jours) SEP2 Législature REL Xe (Troisième République) SEP2 Groupe politique REL Action libérale SEP2 Prédécesseur REL Jules Dugoujard SEP2 Successeur REL M. Desseignez.
-NOMF Conseiller général du canton de Perreux NOMF 1904 – 1919(15 ans) SEP2 Prédécesseur REL André Robert SEP2 Successeur REL Louis Cherpin SEP2 Nom de naissance REL Joannès François Marie Déchelette SEP2 Date de naissance REL 12 août 1864 SEP2 Lieu de naissance REL Montagny (Loire) SEP2 Date de décès REL 9 juillet 1934 (à 69 ans) SEP2 Lieu de décès REL Villars-les-Dombes (Ain) SEP2 Nationalité REL Française SEP2 Parti politique REL Action libérale.
+NOMF Député de la Loire NOMF 17 mars 1912 – 31 mai 1914(2 ans, 2 mois et 14 jours) SEP2 Législature REL Xe (Troisième République) SEP3  SEP2 Groupe politique REL Action libérale SEP3  SEP2 Prédécesseur REL Jules Dugoujard SEP3  SEP2 Successeur REL M. Desseignez SEP3 .
+NOMF Conseiller général du canton de Perreux NOMF 1904 – 1919(15 ans) SEP2 Prédécesseur REL André Robert SEP3  SEP2 Successeur REL Louis Cherpin SEP3  SEP2 Nom de naissance REL Joannès François Marie Déchelette SEP3  SEP2 Date de naissance REL 12 août 1864 SEP3  SEP2 Lieu de naissance REL Montagny (Loire) SEP3  SEP2 Date de décès REL 9 juillet 1934 (à 69 ans) SEP3  SEP2 Lieu de décès REL Villars-les-Dombes (Ain) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL Action libérale SEP3 .

@@ -14,4 +14,4 @@ Magistrat, il est substitut à Rambouillet, Melun, puis à Versailles. Il démis
 FONCTIONNORM
 
 NOMF Député NOMF 1902 – 1910.
-NOMF Conseiller général du canton de Versailles-Sud NOMF 1892 – 1910 SEP2 Successeur REL Alphonse Chrétien SEP2 Nom de naissance REL Pierre Théodore Henri Rudelle SEP2 Date de naissance REL 9 juillet 1843 SEP2 Lieu de naissance REL Paris SEP2 Date de décès REL 10 août 1926 (à 83 ans) SEP2 Lieu de décès REL Versailles SEP2 Nationalité REL Française SEP2 Profession REL Avocat.
+NOMF Conseiller général du canton de Versailles-Sud NOMF 1892 – 1910 SEP2 Successeur REL Alphonse Chrétien SEP3  SEP2 Nom de naissance REL Pierre Théodore Henri Rudelle SEP3  SEP2 Date de naissance REL 9 juillet 1843 SEP3  SEP2 Lieu de naissance REL Paris SEP3  SEP2 Date de décès REL 10 août 1926 (à 83 ans) SEP3  SEP2 Lieu de décès REL Versailles SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Profession REL Avocat SEP3 .

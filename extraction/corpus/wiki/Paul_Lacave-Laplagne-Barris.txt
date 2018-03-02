@@ -16,4 +16,4 @@ Petit-fils de Jean Paul Lacave-Laplagne-Barris et arrière-arrière-petit-fils d
 
 FONCTIONNORM
 
-NOMF Député 1914-1919 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Gauche démocratique SEP2 Date de naissance REL 24 octobre 1881 SEP2 Date de décès REL 1er avril 1982 (à 100 ans) SEP2 Résidence REL Hautes-Pyrénées.
+NOMF Député 1914-1919 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Gauche démocratique SEP3  SEP2 Date de naissance REL 24 octobre 1881 SEP3  SEP2 Date de décès REL 1er avril 1982 (à 100 ans) SEP3  SEP2 Résidence REL Hautes-Pyrénées SEP3 .

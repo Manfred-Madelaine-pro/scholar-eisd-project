@@ -16,4 +16,4 @@ Le lycée public de Lamballe porte aujourd'hui son nom.
 
 FONCTIONNORM
 
-NOMF Député 1919-1924 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARS SEP2 Date de naissance REL 4 décembre 1888 SEP2 Date de décès REL 17 janvier 1949 (à 60 ans) SEP2 Résidence REL Côtes-du-Nord.
+NOMF Député 1919-1924 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARS SEP3  SEP2 Date de naissance REL 4 décembre 1888 SEP3  SEP2 Date de décès REL 17 janvier 1949 (à 60 ans) SEP3  SEP2 Résidence REL Côtes-du-Nord SEP3 .

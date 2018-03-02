@@ -21,4 +21,4 @@ En 1946, il donne une partie de ses collections au Musée de l'Homme[1].
 
 FONCTIONNORM
 
-NOMF Député NOMF 1932 – 1940 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL NI (1932-1936)ARGRI (1936-1940) SEP2 Date de naissance REL 1er août 1880 SEP2 Date de décès REL 8 avril 1965 (à 84 ans) SEP2 Résidence REL Calvados.
+NOMF Député NOMF 1932 – 1940 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL NI (1932-1936)ARGRI (1936-1940) SEP3  SEP2 Date de naissance REL 1er août 1880 SEP3  SEP2 Date de décès REL 8 avril 1965 (à 84 ans) SEP3  SEP2 Résidence REL Calvados SEP3 .

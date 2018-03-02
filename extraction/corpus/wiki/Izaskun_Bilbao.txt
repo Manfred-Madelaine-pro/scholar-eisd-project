@@ -16,4 +16,4 @@ PARTISNORM
 PART Parti national basque (EAJ-PNV).
 FONCTIONNORM
 
-NOMF Députée européenne NOMF En fonction depuis le 14 juillet 2009 SEP2 Élection REL 7 juin 2009 SEP2 Réélection REL 25 mai 2014 SEP2 Législature REL 7e et 8e SEP2 Groupe politique REL ADLE SEP2 Législature REL VIIIe SEP2 Prédécesseur REL Juan María Atutxa SEP2 Successeur REL Arantza Quiroga SEP2 Nom de naissance REL Izaskun Bilbao Barandica SEP2 Date de naissance REL 27 mars 1961 (56 ans) SEP2 Lieu de naissance REL Bermeo (Espagne) SEP2 Nationalité REL espagnole SEP2 Parti politique REL EAJ-PNV.
+NOMF Députée européenne NOMF En fonction depuis le 14 juillet 2009 SEP2 Élection REL 7 juin 2009 SEP3  SEP2 Réélection REL 25 mai 2014 SEP3  SEP2 Législature REL 7e et 8e SEP3  SEP2 Groupe politique REL ADLE SEP3  SEP2 Législature REL VIIIe SEP3  SEP2 Prédécesseur REL Juan María Atutxa SEP3  SEP2 Successeur REL Arantza Quiroga SEP3  SEP2 Nom de naissance REL Izaskun Bilbao Barandica SEP3  SEP2 Date de naissance REL 27 mars 1961 (56 ans) SEP3  SEP2 Lieu de naissance REL Bermeo (Espagne) SEP3  SEP2 Nationalité REL espagnole SEP3  SEP2 Parti politique REL EAJ-PNV SEP3 .

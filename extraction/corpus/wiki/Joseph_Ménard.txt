@@ -19,4 +19,4 @@ Il meurt au cours d'une cure thermale à Lamalou-les-Bains le 8 septembre 1911.
 
 FONCTIONNORM
 
-NOMF Député 1910-1911 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Action libérale SEP2 Date de naissance REL 12 septembre 1859 SEP2 Lieu de naissance REL Lunel SEP2 Date de décès REL 8 septembre 1911 SEP2 Lieu de décès REL Lamalou-les-Bains SEP2 Sépulture REL Lunel SEP2 Fratrie REL Charles Ménard SEP2 Diplômé de REL Faculté de droit de Paris SEP2 Profession REL avocat SEP2 Résidence REL Seine.
+NOMF Député 1910-1911 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Action libérale SEP3  SEP2 Date de naissance REL 12 septembre 1859 SEP3  SEP2 Lieu de naissance REL Lunel SEP3  SEP2 Date de décès REL 8 septembre 1911 SEP3  SEP2 Lieu de décès REL Lamalou-les-Bains SEP3  SEP2 Sépulture REL Lunel SEP3  SEP2 Fratrie REL Charles Ménard SEP3  SEP2 Diplômé de REL Faculté de droit de Paris SEP3  SEP2 Profession REL avocat SEP3  SEP2 Résidence REL Seine SEP3 .

@@ -14,4 +14,4 @@ Docteur en droit, avocat et membre de l'Alliance démocratique, il se présente 
 
 FONCTIONNORM
 
-NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL ARGRI SEP2 Date de naissance REL 16 mai 1903 SEP2 Date de décès REL 5 mars 1985 (à 81 ans) SEP2 Résidence REL Loire.
+NOMF Député 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL ARGRI SEP3  SEP2 Date de naissance REL 16 mai 1903 SEP3  SEP2 Date de décès REL 5 mars 1985 (à 81 ans) SEP3  SEP2 Résidence REL Loire SEP3 .

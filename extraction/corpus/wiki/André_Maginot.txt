@@ -22,18 +22,18 @@ Son nom a été donné à la place Maginot, anciennement place Saint-Jean à Nan
 
 FONCTIONNORM
 
-NOMF Député 1910-1932 NOMF 1910 – 1932 SEP2 Gouvernement REL IIIe République SEP2 Groupe politique REL GD (1910-1914)RDG (1914-1919)GRD (1919-1928)ADS (1928-1932).
+NOMF Député 1910-1932 NOMF 1910 – 1932 SEP2 Gouvernement REL IIIe République SEP3  SEP2 Groupe politique REL GD (1910-1914)RDG (1914-1919)GRD (1919-1928)ADS (1928-1932) SEP3 .
 NOMF Ministre des Colonies NOMF 20 mars 1917 – 7 septembre 1917.
 NOMF Président NOMF Président du ConseilAlexandre Ribot.
-NOMF Président du Conseil NOMF GouvernementRibot V SEP2 Gouvernement REL Ribot V SEP2 Prédécesseur REL Gaston Doumergue SEP2 Successeur REL René Besnard.
+NOMF Président du Conseil NOMF GouvernementRibot V SEP2 Gouvernement REL Ribot V SEP3  SEP2 Prédécesseur REL Gaston Doumergue SEP3  SEP2 Successeur REL René Besnard SEP3 .
 NOMF Ministre des Pensions, Primes et Allocations de Guerre NOMF 20 janvier 1920 – 12 janvier 1922.
 NOMF Président NOMF Président du ConseilAlexandre MillerandGeorges LeyguesAristide Briand.
-NOMF Président du Conseil NOMF GouvernementMillerand I et IILeyguesBriand VII SEP2 Gouvernement REL Millerand I et IILeyguesBriand VII.
+NOMF Président du Conseil NOMF GouvernementMillerand I et IILeyguesBriand VII SEP2 Gouvernement REL Millerand I et IILeyguesBriand VII SEP3 .
 NOMF Ministre de la Guerre et des Pensions NOMF 15 janvier 1922 – 10 juin 1924.
 NOMF Président NOMF Président du ConseilRaymond PoincaréFrédéric François-Marsal.
-NOMF Président du Conseil NOMF GouvernementPoincaré II et IIIFrançois-Marsal SEP2 Gouvernement REL Poincaré II et IIIFrançois-Marsal SEP2 Prédécesseur REL Louis Barthou SEP2 Successeur REL Charles Nollet.
+NOMF Président du Conseil NOMF GouvernementPoincaré II et IIIFrançois-Marsal SEP2 Gouvernement REL Poincaré II et IIIFrançois-Marsal SEP3  SEP2 Prédécesseur REL Louis Barthou SEP3  SEP2 Successeur REL Charles Nollet SEP3 .
 NOMF Ministre de la Guerre NOMF 29 juillet 1929 – 22 octobre 1929.
 NOMF Président NOMF Président du ConseilAristide Briand.
-NOMF Président du Conseil NOMF GouvernementBriand XI SEP2 Gouvernement REL Briand XI SEP2 Prédécesseur REL Paul Painlevé SEP2 Successeur REL Louis Barthou.
+NOMF Président du Conseil NOMF GouvernementBriand XI SEP2 Gouvernement REL Briand XI SEP3  SEP2 Prédécesseur REL Paul Painlevé SEP3  SEP2 Successeur REL Louis Barthou SEP3 .
 NOMF Président NOMF Président du ConseilPierre Laval.
-NOMF Président du Conseil NOMF GouvernementLaval I et II SEP2 Gouvernement REL Laval I et II SEP2 Prédécesseur REL Louis Barthou SEP2 Successeur REL André Tardieu SEP2 Date de naissance REL 17 février 1877 SEP2 Date de décès REL 7 janvier 1932 (à 54 ans) SEP2 Nationalité REL française SEP2 Religion REL Catholicisme SEP2 Résidence REL Bar-le-Duc.
+NOMF Président du Conseil NOMF GouvernementLaval I et II SEP2 Gouvernement REL Laval I et II SEP3  SEP2 Prédécesseur REL Louis Barthou SEP3  SEP2 Successeur REL André Tardieu SEP3  SEP2 Date de naissance REL 17 février 1877 SEP3  SEP2 Date de décès REL 7 janvier 1932 (à 54 ans) SEP3  SEP2 Nationalité REL française SEP3  SEP2 Religion REL Catholicisme SEP3  SEP2 Résidence REL Bar-le-Duc SEP3 .

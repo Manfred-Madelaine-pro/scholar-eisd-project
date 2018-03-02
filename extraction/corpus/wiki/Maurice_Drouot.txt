@@ -16,4 +16,4 @@ Il perd son fils en 1945 dans la campagne d'Allemagne. À la Libération, il fai
 
 FONCTIONNORM
 
-NOMF Député 1928-1932puis 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL RDG (1928-1932)ARGRI (1936-1940) SEP2 Date de naissance REL 12 février 1876 SEP2 Date de décès REL 4 juin 1959 (à 83 ans) SEP2 Résidence REL Haute-Saône.
+NOMF Député 1928-1932puis 1936-1940 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL RDG (1928-1932)ARGRI (1936-1940) SEP3  SEP2 Date de naissance REL 12 février 1876 SEP3  SEP2 Date de décès REL 4 juin 1959 (à 83 ans) SEP3  SEP2 Résidence REL Haute-Saône SEP3 .

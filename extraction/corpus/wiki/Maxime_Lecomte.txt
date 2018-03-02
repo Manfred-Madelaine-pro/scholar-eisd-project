@@ -22,7 +22,7 @@ PARTISNORM
 PART Union républicaine (Union républicaine).
 FONCTIONNORM
 
-NOMF Sénateur du Nord NOMF 4 janvier 1891 – 10 juin 1914 SEP2 Prédécesseur REL Victor Cirier (Gauche républicaine).
-NOMF Député de la 2e circonscription d'Avesnes NOMF 22 septembre 1889 – 17 janvier 1891 SEP2 Prédécesseur REL Lui-même SEP2 Successeur REL Ernest Herbecq (Républicain).
-NOMF Député du Nord(scrutin majoritaire-proportionnel par département) NOMF 1er janvier 1887 – 11 novembre 1889 SEP2 Prédécesseur REL Émile Bottieau (Union des Droites) SEP2 Successeur REL Lui-même.
-NOMF Député de la 2e circonscription d'Avesnes NOMF 6 avril 1884 – 9 novembre 1885 SEP2 Prédécesseur REL Émile de Marcère (Opportuniste) SEP2 Successeur REL Émile Bottieau (Union des Droites) SEP2 Nom de naissance REL Maxime, Emmanuel, Augustin Lecomte[1] SEP2 Date de naissance REL 1er mars 1846 SEP2 Lieu de naissance REL Bavay (Nord) SEP2 Date de décès REL 10 juin 1914 (à 68 ans) SEP2 Lieu de décès REL Achères (Seine-et-Oise) SEP2 Nationalité REL  Français SEP2 Parti politique REL Union républicaine SEP2 Profession REL Avocat.
+NOMF Sénateur du Nord NOMF 4 janvier 1891 – 10 juin 1914 SEP2 Prédécesseur REL Victor Cirier (Gauche républicaine) SEP3 .
+NOMF Député de la 2e circonscription d'Avesnes NOMF 22 septembre 1889 – 17 janvier 1891 SEP2 Prédécesseur REL Lui-même SEP3  SEP2 Successeur REL Ernest Herbecq (Républicain) SEP3 .
+NOMF Député du Nord(scrutin majoritaire-proportionnel par département) NOMF 1er janvier 1887 – 11 novembre 1889 SEP2 Prédécesseur REL Émile Bottieau (Union des Droites) SEP3  SEP2 Successeur REL Lui-même SEP3 .
+NOMF Député de la 2e circonscription d'Avesnes NOMF 6 avril 1884 – 9 novembre 1885 SEP2 Prédécesseur REL Émile de Marcère (Opportuniste) SEP3  SEP2 Successeur REL Émile Bottieau (Union des Droites) SEP3  SEP2 Nom de naissance REL Maxime, Emmanuel, Augustin Lecomte[1] SEP3  SEP2 Date de naissance REL 1er mars 1846 SEP3  SEP2 Lieu de naissance REL Bavay (Nord) SEP3  SEP2 Date de décès REL 10 juin 1914 (à 68 ans) SEP3  SEP2 Lieu de décès REL Achères (Seine-et-Oise) SEP3  SEP2 Nationalité REL  Français SEP3  SEP2 Parti politique REL Union républicaine SEP3  SEP2 Profession REL Avocat SEP3 .

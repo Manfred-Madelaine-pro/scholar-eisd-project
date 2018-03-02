@@ -20,4 +20,4 @@ PARTISNORM
 PART Parti nationaliste basque (PNV).
 FONCTIONNORM
 
-NOMF Députée aux Cortes Generalespour Biscaye NOMF En fonction depuis le 30 novembre 2016(1 an, 2 mois et 15 jours) SEP2 Élection REL 26 juin 2016 SEP2 Législature REL XIIe SEP2 Groupe politique REL Basque SEP2 Prédécesseur REL Pedro Azpiazu SEP2 Nom de naissance REL Idoia Sagastizabal Unzetabarrenetxea SEP2 Date de naissance REL 22 septembre 1972 (45 ans) SEP2 Lieu de naissance REL Eibar, Espagne SEP2 Nationalité REL Espagnole SEP2 Parti politique REL PNV SEP2 Résidence REL Espagne.
+NOMF Députée aux Cortes Generalespour Biscaye NOMF En fonction depuis le 30 novembre 2016(1 an, 2 mois et 15 jours) SEP2 Élection REL 26 juin 2016 SEP3  SEP2 Législature REL XIIe SEP3  SEP2 Groupe politique REL Basque SEP3  SEP2 Prédécesseur REL Pedro Azpiazu SEP3  SEP2 Nom de naissance REL Idoia Sagastizabal Unzetabarrenetxea SEP3  SEP2 Date de naissance REL 22 septembre 1972 (45 ans) SEP3  SEP2 Lieu de naissance REL Eibar, Espagne SEP3  SEP2 Nationalité REL Espagnole SEP3  SEP2 Parti politique REL PNV SEP3  SEP2 Résidence REL Espagne SEP3 .

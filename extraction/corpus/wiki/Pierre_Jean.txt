@@ -15,4 +15,4 @@ Diplomate de profession, il est élu député de Grasse en janvier 1903 et sièg
 
 FONCTIONNORM
 
-NOMF Député 1903-1910puis 1914-1924 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL UR (1903-1910)GD (1914-1919)ERD (1919-1924) SEP2 Date de naissance REL 10 janvier 1862 SEP2 Date de décès REL 8 mars 1937 (à 75 ans) SEP2 Résidence REL Alpes-Maritimes.
+NOMF Député 1903-1910puis 1914-1924 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL UR (1903-1910)GD (1914-1919)ERD (1919-1924) SEP3  SEP2 Date de naissance REL 10 janvier 1862 SEP3  SEP2 Date de décès REL 8 mars 1937 (à 75 ans) SEP3  SEP2 Résidence REL Alpes-Maritimes SEP3 .

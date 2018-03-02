@@ -26,4 +26,4 @@ Une rue porte son nom à Forcalquier.
 
 FONCTIONNORM
 
-NOMF Député 1876-1889puis 1910-1924Sénateur en 1903 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP2 Groupe politique REL Ind. (1910-1914)RDG (1914-1919)GRD (1919-1924) SEP2 Date de naissance REL 23 juillet 1840 SEP2 Date de décès REL 27 août 1931 (à 91 ans) SEP2 Résidence REL Rhône puis Basses-Alpes.
+NOMF Député 1876-1889puis 1910-1924Sénateur en 1903 NOMF GouvernementTroisième République SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Ind. (1910-1914)RDG (1914-1919)GRD (1919-1924) SEP3  SEP2 Date de naissance REL 23 juillet 1840 SEP3  SEP2 Date de décès REL 27 août 1931 (à 91 ans) SEP3  SEP2 Résidence REL Rhône puis Basses-Alpes SEP3 .

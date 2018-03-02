@@ -19,4 +19,4 @@ PART Union des droites (Union des droites) Action libérale.
 PART Action libérale (Action libérale).
 FONCTIONNORM
 
-NOMF Député des Côtes-du-Nord NOMF 24 février 1884 – 31 mai 1910 SEP2 Date de naissance REL 6 mars 1853 SEP2 Lieu de naissance REL Saint-Brieuc SEP2 Date de décès REL 15 janvier 1921 SEP2 Lieu de décès REL Paris SEP2 Parti politique REL Union des droites, Action libérale.
+NOMF Député des Côtes-du-Nord NOMF 24 février 1884 – 31 mai 1910 SEP2 Date de naissance REL 6 mars 1853 SEP3  SEP2 Lieu de naissance REL Saint-Brieuc SEP3  SEP2 Date de décès REL 15 janvier 1921 SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Parti politique REL Union des droites, Action libérale SEP3 .

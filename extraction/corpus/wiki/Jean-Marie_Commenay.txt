@@ -12,4 +12,4 @@ Jean-Marie Commenay, né le 18 juin 1924 à Saint-Sever (Landes) et mort le 30 s
 
 FONCTIONNORM
 
-NOMF Député 1958-1978 NOMF GouvernementVe république SEP2 Gouvernement REL Ve république SEP2 Groupe politique REL RPCD (1958-1962)RD (1962-1967)PDM (1967-1973)UC (1973-1974)RCDS (1974-1977) SEP2 Date de naissance REL 18 juin 1924 SEP2 Date de décès REL 30 septembre 1998 (à 74 ans) SEP2 Résidence REL Landes.
+NOMF Député 1958-1978 NOMF GouvernementVe république SEP2 Gouvernement REL Ve république SEP3  SEP2 Groupe politique REL RPCD (1958-1962)RD (1962-1967)PDM (1967-1973)UC (1973-1974)RCDS (1974-1977) SEP3  SEP2 Date de naissance REL 18 juin 1924 SEP3  SEP2 Date de décès REL 30 septembre 1998 (à 74 ans) SEP3  SEP2 Résidence REL Landes SEP3 .

@@ -22,5 +22,5 @@ PARTISNORM
 PART Alliance centriste (Alliance centriste).
 FONCTIONNORM
 
-NOMF Sénateur du Rhône NOMF 23 avril 2014 – 30 septembre 2014(5 mois et 7 jours) SEP2 Prédécesseur REL Michel Mercier (UDF) SEP2 Prédécesseur REL Michel Mercier (UDF) SEP2 Successeur REL Michel Mercier SEP2 Prédécesseur REL André Poutissou (PS) SEP2 Successeur REL Bernard Perrut (UMP).
-NOMF Conseiller général du RhôneÉlu dans le canton de Villefranche-sur-Saône NOMF 27 mars 1994 – 1er avril 2015(21 ans et 5 jours) SEP2 Prédécesseur REL Francisque Perrut (UDF) SEP2 Successeur REL Thomas Ravier, Muriel Blanc SEP2 Date de naissance REL 15 avril 1947 (70 ans) SEP2 Lieu de naissance REL Villefranche-sur-Saône, Rhône (France) SEP2 Parti politique REL Alliance centriste.
+NOMF Sénateur du Rhône NOMF 23 avril 2014 – 30 septembre 2014(5 mois et 7 jours) SEP2 Prédécesseur REL Michel Mercier (UDF) SEP3  SEP2 Prédécesseur REL Michel Mercier (UDF) SEP3  SEP2 Successeur REL Michel Mercier SEP3  SEP2 Prédécesseur REL André Poutissou (PS) SEP3  SEP2 Successeur REL Bernard Perrut (UMP) SEP3 .
+NOMF Conseiller général du RhôneÉlu dans le canton de Villefranche-sur-Saône NOMF 27 mars 1994 – 1er avril 2015(21 ans et 5 jours) SEP2 Prédécesseur REL Francisque Perrut (UDF) SEP3  SEP2 Successeur REL Thomas Ravier, Muriel Blanc SEP3  SEP2 Date de naissance REL 15 avril 1947 (70 ans) SEP3  SEP2 Lieu de naissance REL Villefranche-sur-Saône, Rhône (France) SEP3  SEP2 Parti politique REL Alliance centriste SEP3 .

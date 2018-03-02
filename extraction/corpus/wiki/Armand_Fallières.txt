@@ -33,14 +33,14 @@ PARTISNORM
 PART Alliance démocratique (ARD-PRD).
 FONCTIONNORM
 
-NOMF Président de la République française NOMF 18 février 1906 – 18 février 1913(7 ans) SEP2 Élection REL 17 janvier 1906.
-NOMF Président du Conseil NOMF PrédécesseurÉmile Loubet SEP2 Prédécesseur REL Émile Loubet SEP2 Successeur REL Raymond Poincaré.
-NOMF Président du Sénat NOMF 3 mars 1899 – 13 février 1906(6 ans, 11 mois et 10 jours) SEP2 Prédécesseur REL Émile Loubet SEP2 Successeur REL Antonin Dubost.
+NOMF Président de la République française NOMF 18 février 1906 – 18 février 1913(7 ans) SEP2 Élection REL 17 janvier 1906 SEP3 .
+NOMF Président du Conseil NOMF PrédécesseurÉmile Loubet SEP2 Prédécesseur REL Émile Loubet SEP3  SEP2 Successeur REL Raymond Poincaré SEP3 .
+NOMF Président du Sénat NOMF 3 mars 1899 – 13 février 1906(6 ans, 11 mois et 10 jours) SEP2 Prédécesseur REL Émile Loubet SEP3  SEP2 Successeur REL Antonin Dubost SEP3 .
 NOMF Président du Conseil des ministreset Ministre de l'Intérieur NOMF 29 janvier 1883 – 17 février 1883(19 jours).
-NOMF Président NOMF GouvernementFallières SEP2 Gouvernement REL Fallières SEP2 Législature REL IIIe SEP2 Coalition REL Union républicaine SEP2 Prédécesseur REL Charles Duclerc SEP2 Successeur REL Jules FerryPierre Waldeck-Rousseau.
+NOMF Président NOMF GouvernementFallières SEP2 Gouvernement REL Fallières SEP3  SEP2 Législature REL IIIe SEP3  SEP2 Coalition REL Union républicaine SEP3  SEP2 Prédécesseur REL Charles Duclerc SEP3  SEP2 Successeur REL Jules FerryPierre Waldeck-Rousseau SEP3 .
 NOMF Ministre des Affaires étrangères (intérim) NOMF 29 janvier 1883 – 17 février 1883(19 jours).
 NOMF Président NOMF Président du ConseilLui-même.
-NOMF Président du Conseil NOMF GouvernementFallières SEP2 Gouvernement REL Fallières SEP2 Prédécesseur REL Charles Duclerc SEP2 Successeur REL Paul-ArmandChallemel-Lacour.
+NOMF Président du Conseil NOMF GouvernementFallières SEP2 Gouvernement REL Fallières SEP3  SEP2 Prédécesseur REL Charles Duclerc SEP3  SEP2 Successeur REL Paul-ArmandChallemel-Lacour SEP3 .
 NOMF Ministre de l'Intérieur NOMF 7 août 1882 – 17 février 1883(6 mois et 10 jours).
 NOMF Président NOMF Président du ConseilCharles DuclercLui-même.
-NOMF Président du Conseil NOMF GouvernementDuclercFallières SEP2 Gouvernement REL DuclercFallières SEP2 Prédécesseur REL René Goblet SEP2 Successeur REL Pierre Waldeck-Rousseau SEP2 Nom de naissance REL Clément ArmandFallières SEP2 Date de naissance REL 6 novembre 1841 SEP2 Lieu de naissance REL Mézin, Lot-et-Garonne(France) SEP2 Date de décès REL 22 juin 1931 (à 89 ans) SEP2 Lieu de décès REL Villeneuve-de-Mézin,Lot-et-Garonne (France) SEP2 Nature du décès REL Crise cardiaque SEP2 Parti politique REL ARD-PRD SEP2 Conjoint REL Jeanne Bresson SEP2 Enfants REL André Fallières SEP2 Diplômé de REL Université de ToulouseUniversité de Paris SEP2 Profession REL Avocat SEP2 Religion REL Catholique.
+NOMF Président du Conseil NOMF GouvernementDuclercFallières SEP2 Gouvernement REL DuclercFallières SEP3  SEP2 Prédécesseur REL René Goblet SEP3  SEP2 Successeur REL Pierre Waldeck-Rousseau SEP3  SEP2 Nom de naissance REL Clément ArmandFallières SEP3  SEP2 Date de naissance REL 6 novembre 1841 SEP3  SEP2 Lieu de naissance REL Mézin, Lot-et-Garonne(France) SEP3  SEP2 Date de décès REL 22 juin 1931 (à 89 ans) SEP3  SEP2 Lieu de décès REL Villeneuve-de-Mézin,Lot-et-Garonne (France) SEP3  SEP2 Nature du décès REL Crise cardiaque SEP3  SEP2 Parti politique REL ARD-PRD SEP3  SEP2 Conjoint REL Jeanne Bresson SEP3  SEP2 Enfants REL André Fallières SEP3  SEP2 Diplômé de REL Université de ToulouseUniversité de Paris SEP3  SEP2 Profession REL Avocat SEP3  SEP2 Religion REL Catholique SEP3 .

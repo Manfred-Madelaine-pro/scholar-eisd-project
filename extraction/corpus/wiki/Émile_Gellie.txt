@@ -16,4 +16,4 @@ Cette décision lui permet d'être élu député à l'Assemblée constituante en
 
 FONCTIONNORM
 
-NOMF Député 1928-1940puis 1945-1946 NOMF GouvernementTroisième République-Quatrième République SEP2 Gouvernement REL Troisième République-Quatrième République SEP2 Groupe politique REL RDG (1928-1936)GDRI (1936-1940)RI (1945-1946) SEP2 Date de naissance REL 12 août 1885 SEP2 Date de décès REL 21 avril 1962 (à 76 ans) SEP2 Résidence REL Gironde.
+NOMF Député 1928-1940puis 1945-1946 NOMF GouvernementTroisième République-Quatrième République SEP2 Gouvernement REL Troisième République-Quatrième République SEP3  SEP2 Groupe politique REL RDG (1928-1936)GDRI (1936-1940)RI (1945-1946) SEP3  SEP2 Date de naissance REL 12 août 1885 SEP3  SEP2 Date de décès REL 21 avril 1962 (à 76 ans) SEP3  SEP2 Résidence REL Gironde SEP3 .

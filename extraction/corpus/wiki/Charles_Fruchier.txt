@@ -14,4 +14,4 @@ Frère de Raoul Fruchier, député des Basses-Alpes, il est avocat-avoué près 
 
 FONCTIONNORM
 
-NOMF Député Alpes-de-Haute-Provence NOMF 11 mai 1902 – 31 mai 1906(4 ans et 20 jours) SEP2 Date de naissance REL 4 novembre 1865 SEP2 Lieu de naissance REL Digne-les-Bains SEP2 Date de décès REL 28 juillet 1936 (à 70 ans) SEP2 Lieu de décès REL Digne-les-Bains.
+NOMF Député Alpes-de-Haute-Provence NOMF 11 mai 1902 – 31 mai 1906(4 ans et 20 jours) SEP2 Date de naissance REL 4 novembre 1865 SEP3  SEP2 Lieu de naissance REL Digne-les-Bains SEP3  SEP2 Date de décès REL 28 juillet 1936 (à 70 ans) SEP3  SEP2 Lieu de décès REL Digne-les-Bains SEP3 .
