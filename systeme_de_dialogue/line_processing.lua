@@ -15,14 +15,15 @@ function lp.process(sen)
 	return seq 
 end
 
+
 function lp.split(inputstr, sep)
         if sep == nil then
-                sep = "%s"
+			sep = "%s"
         end
         local t={} ; i=1
         for str in string.gmatch(inputstr, "([^"..sep.."]+)") do
-                t[i] = str
-                i = i + 1
+            t[i] = str
+            i = i + 1
         end
         return t
 end
@@ -55,6 +56,16 @@ function lp.read_corpus(corpus_path)
 end
 
 
+-- Generation de la cle unique a partir du nom & prenom d'un politicien
+function lp.gen_key(nom, prenom)
+	local u_key = prenom.."_"..nom
+	u_key = string.lower( c.cleaner(u_key))
+	local txt = u_key:gsub(" ", "_")
+
+	if (txt ~= u_key) then u_key = txt end
+
+	return u_key
+end
 
 
 return lp

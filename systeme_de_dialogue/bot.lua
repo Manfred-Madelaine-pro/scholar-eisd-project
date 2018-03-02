@@ -167,7 +167,6 @@ function test_fonctionnel()
 		--bugg
 		"fillon date de naissance et fillon ou ?", "ou", "ou",
 		 
-
 		"la date de naissance et le lieu de naissance de Melenchon ainsi que lieu de naissance de Macron ?",
 	
 		"Lieu de naissance de Mélenchon et qui sont tes créateurs et les miens ainsi que la date de naissance de melenchon ?","sep",
@@ -516,6 +515,8 @@ function search_tag(key, att, q_tag)
 	local name      = search_in_db(db, key_value, db_name)
 	local firstname = search_in_db(db, key_value, db_fname)
 
+	lp.gen_key(name, firstname)
+
 	if res == 0 then
 		if(att_value == db_death) then
 			fill_response(mdl_alive, "vivant", name, part)
@@ -538,7 +539,7 @@ function search_tag(key, att, q_tag)
 	return true
 end
 
--- TODO clean
+-- TODO clean search secondaire
 function search_tag_sec(key, att)
 	if(att == date_sec) then 
 		local key_value = corr.corrector(key, l_sujets)
@@ -651,7 +652,7 @@ function get_forma(res, i)
 	return t
 end
 
--- generic(res, i, {"date", "name"}, {"date"=f_date, "name" = f_name}, "un(e)"-- optionnelle)
+-- TODO generic(res, i, {"date", "name"}, {"date"=f_date, "name" = f_name}, "un(e)"-- optionnelle)
 function generic(res, i, liste_att, liste_func, ecrit_inclu)
 	local liste_var = {}
 
@@ -714,6 +715,7 @@ function get_bord(res, i)
 	
 	return t
 end
+
 
 function get_particule(res, i, ecrit_inclu)
 	local  part = search_in_db(res, i, "particule")

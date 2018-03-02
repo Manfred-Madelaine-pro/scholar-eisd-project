@@ -239,8 +239,8 @@ return {
 	},
 
 	["fillon"] = {
-		name = "Fillon",
-		firstname = "François",
+		name = "De la Fillon",
+		firstname = "Françoiséé",
 		gender = nil,
 	
 		birth = "4 mars 1954",
