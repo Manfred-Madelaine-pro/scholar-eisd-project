@@ -1,0 +1,19 @@
+PRETAG Adrien.
+NOMTAG Constans.
+Adrien Constans est un homme politique français né le 26 mars 1873 à Montauban (Tarn-et-Garonne) et décédé le 11 février 1932 à Saint-Antonin-Noble-Val (Tarn-et-Garonne).
+Médecin à Saint-Antonin-Noble-Val en 1898, il est conseiller général du canton de Saint-Antonin-Noble-Val et député de Tarn-et-Garonne de 1912 à 1924 et de 1928 à 1932, siégeant au groupe de l'Action libérale, puis à l'Entente républicaine démocratique.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine PART  (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata PART  ().
+FONCTIONNORM
+
+NOMF Député NOMF .

@@ -1,0 +1,22 @@
+PRETAG Frédéric.
+NOMTAG Rioust.
+Frédéric Rioust de Largentaye est un homme politique français né le 6 mars 1853 à Saint-Brieuc (Côtes-d'Armor) et décédé le 15 janvier 1921 à Paris.
+
+
+Petit-fils de Marie-Ange Rioust de Largentaye, député des Côtes-du-Nord de 1849 à 1851, et d'Augustin Latimier du Clésieux. fils de Charles Rioust de Largentaye, député des Côtes-du-Nord de 1871 à 1883, Frédéric Rioust de Largentaye succède à son père comme député des Côtes-du-Nord, au décès de celui-ci. Député royaliste, antidreyfusard, il siège ensuite à l'Action libérale, après le Ralliement.
+Député assez discret, il connait son heure de célébrité lors d'un incident à la Chambre. Lors de l'interpellation qui suit l'agression dont fut victime le président de la République, Émile Loubet, lors du grand steeple chase d'Auteuil, le 4 juin 1899, Frédéric Rioust de Largentaye s'écrie, lors de cette séance mouvementée, que le président Loubet est un "honnête homme de Panama", en référence au scandale de Panama, qui a éclaboussé la classe politique dans les années 1890. La Chambre, sur proposition de son président, Paul Deschanel, décide immédiatement contre lui la censure, avec exclusion temporaire. Rioust refuse de quitter son banc, et il faut l'expulser de force, à l'issue d'une longue suspension de séance.
+En 1910, après plusieurs réélections triomphales, Frédéric Rioust de Largentaye est très sévèrement battu par Louis de Chappedelaine. Il quitte alors définitivement la politique.
+Il avait épousé une Mlle Baconnière de Salverte.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union des droites PART  (Union des droites) Action libérale.
+PART Action libérale PART  (Action libérale).
+FONCTIONNORM
+
+NOMF Député des Côtes-du-Nord NOMF 24 février 1884 – 31 mai 1910 SEP2 Date de naissance REL 6 mars 1853 SEP3  SEP2 Lieu de naissance REL Saint-Brieuc SEP3  SEP2 Date de décès REL 15 janvier 1921 SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Parti politique REL Union des droites, Action libérale SEP3 .

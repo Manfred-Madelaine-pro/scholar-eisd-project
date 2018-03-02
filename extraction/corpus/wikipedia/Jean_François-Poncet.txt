@@ -1,0 +1,27 @@
+PRETAG Jean.
+NOMTAG François-Poncet.
+Jean François-Poncet, né le 8 décembre 1928 à Paris et mort le 18 juillet 2012 dans la même ville, est un diplomate et un homme politique français.
+
+
+
+Enfance, famille et études.
+Jean François-Poncet est le fils d'André François-Poncet, homme politique et diplomate. Il effectue des études de droit et d'économie, puis entre à l'ENA d'où il sort major en 1955 (promotion Albert-Thomas).
+Il épouse Marie-Thérèse de Mitry, fille d'Emmanuel de Mitry et de Marguerite de Wendel, sœur d'Hélène de Mitry épouse de François Missoffe et mère de Françoise de Panafieu, dont il a trois enfants : Philippe, Jacques et Florence.
+Carrière politique.
+En 1955, il devient secrétaire d'ambassade, puis participe à l'élaboration du traité de Rome en 1957[1]. En 1970, il quitte la diplomatie pour intégrer la direction de Carnaud SA, leader français de l'emballage alimentaire.
+En janvier 1976, il est nommé secrétaire d'État auprès du ministre des Affaires étrangères Jean Sauvagnargues. L'été suivant, il devient secrétaire général de la présidence de la République et le demeure jusqu'au 29 novembre 1978, date à laquelle il est nommé ministre des Affaires étrangères du gouvernement de Raymond Barre jusqu'à l'alternance du 13 mai 1981. Il rejoint l'Union pour la démocratie française à sa création par le biais des Adhérents directs. Il écrit alors régulièrement des éditoriaux pour le journal Le Figaro.
+En 1978, il est élu puis réélu président du Conseil général du Lot-et-Garonne jusqu'en 1994, puis de 1998 à 2004. En 1983, il est élu sénateur, puis réélu en 1992 et 2001. Il siège d'abord dans le groupe Rassemblement Démocratique et Européen (RDE), puis dans le groupe UMP.
+De 1990 à 1995, il est président du Mouvement Européen-France.
+Admis à l'hôpital du Val-de-Grâce le 15 juillet 2012 pour un AVC, Jean François-Poncet meurt trois jours plus tard à l'âge de 83 ans[2].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Ministre des Affaires étrangères8e ministre des Affaires étrangères de la Ve République NOMF 29 novembre 1978 – 13 mai 1981(2 ans, 5 mois et 14 jours).
+NOMF Président NOMF GouvernementRaymond Barre III SEP2 Gouvernement REL Raymond Barre III SEP3  SEP2 Prédécesseur REL Louis de Guiringaud SEP3  SEP2 Successeur REL Claude Cheysson SEP3 .
+NOMF Président NOMF PrédécesseurClaude Pierre-Brossolette SEP2 Prédécesseur REL Claude Pierre-Brossolette SEP3  SEP2 Successeur REL Jacques Wahl SEP3  SEP2 Date de naissance REL 8 décembre 1928 SEP3  SEP2 Lieu de naissance REL Paris, France SEP3  SEP2 Date de décès REL 18 juillet 2012 (à 83 ans) SEP3  SEP2 Lieu de décès REL Paris, France SEP3  SEP2 Nationalité REL  Française SEP3 .

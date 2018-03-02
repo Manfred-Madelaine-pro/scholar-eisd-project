@@ -1,6 +1,7 @@
 local tst = {}
 local tool = require 'tool'
 local lp = require 'line_processing'
+local c = require 'clean'
 
 
 main = dark.pipeline()
@@ -83,7 +84,6 @@ end
 main:lexicon("#mois", {"janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre"})
 tool.new_lex(ppn, f_data)
 tool.new_lex(place, f_data)
-tool.new_lex(parti, f_data)
 --tool.new_lex(ecole, f_data)
 
 main:pattern('[#annee /^%d%d%d%d$/]')
@@ -106,12 +106,12 @@ main:pattern('("compagne"|"femme") [#femme #prenom #nom?]')
 --main:pattern('[#parti'..tool.get_tag(parti)..']')
 main:pattern('[#intervalDate (#annee "-"|"depuis") #annee]')
 main:pattern('[#raccourcis "(" [#acc .{,4}] ")"]')
-main:pattern('[#parti [#nom .*?] #raccourcis #intervalDate]')
+main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
 
 
 main:pattern('"NOMF" [#nomFonc .*?] "NOMF"')
-main:pattern('"NOMF" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)]')
-main:pattern('"SEP2" [#fonc [#arg .*?] "REL" [#val .*?]] "SEP2"')
+main:pattern('"NOMF" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)] ("(" .*? ")")?')
+main:pattern('"SEP2" [#fonc [#arg .*?] "REL" [#val .*?]] "SEP3"')
 
 main:pattern('[#bac ("Il"|"Elle")? ("obtient"|"reçoit"|"decroche") .*? ("baccalaureat"|"bac") .*? ("en" [#anneeObtention #annee])?]')
 
@@ -139,40 +139,43 @@ tags = {
 	["#lieuF"] = "blue",
 	["#anneeObtention"] = "blue",
 	["#femme"] = "red",
+	["#parti"] = "red",
+	["#nom"] = "red",
+	["#raccourcis"] = "red",	
+	["#intervalDate"] = "red",
 	
 }
 
 db = {
 	["JLM"] = {
-		nom = "Mélenchon",
-		prenom = "Jean-Luc",
-		famille = {
-		},
-		parti = {
-		},
-		fonctions = {
-		},
-		formation = {
-		},
+
 	}
 }
 
-function traitement(seq)
+function traitement(seq, nom, prenomm)
+	local fichierCourant = string.lower(c.cleaner(nom))
+	if(db[fichierCourant] == nil) then
+		db[fichierCourant] = {
+			nom = nom,
+			prenom = prenomm,
+		}
+	end
+	--print("\n\n " .. fichierCourant .. "\n\n")
 	if havetag(seq, "#dateNaissance") then
 		local date = tagstr2(seq, "#dateNaissance")
-		db["JLM"].dateNaissance = date
+		db[fichierCourant].dateNaissance = date
 	end
 
 	if havetag(seq, "#lieuNaissance") then
 		local lieu = tagstr2(seq, "#lieuNaissance")
-		db["JLM"].lieuNaissance = lieu
+		db[fichierCourant].lieuNaissance = lieu
 	end
 
 	if havetag(seq, "#parent1") then
 		local prenomP = GetValueInLink(seq, "#prenom", "#parent1")
 		local nomP = GetValueInLink(seq, "#nom", "#parent1")
 		local met = GetValueInLink(seq, "#metier", "#parent1")
-		db["JLM"].famille["Parent1"] = {
+		db[fichierCourant].famille["Parent1"] = {
 			prenom = prenomP,
 			nom = nomP,
 			profession = met,
@@ -183,39 +186,53 @@ function traitement(seq)
 		local prenomP = GetValueInLink(seq, "#prenom", "#parent2")
 		local nomP = GetValueInLink(seq, "#nom", "#parent2")
 		local met = GetValueInLink(seq, "#metier", "#parent2")
-		db["JLM"].famille["Parent2"] = {
+		db[fichierCourant].famille["Parent2"] = {
 			prenom = prenomP,
 			nom = nomP,
 			profession = met,
 		}
 	end
-
+	
 	if havetag(seq, "#parti") then
 		local nomPa = GetValueInLink(seq, "#nom", "#parti")
 		local racc = GetValueInLink(seq, "#acc", "#parti")
 		local int = GetValueInLink(seq, "#intervalDate", "#parti")
-		db["JLM"].parti[#db["JLM"].parti + 1] = {
+		if(db[fichierCourant].parti == nil) then
+			db[fichierCourant].parti = {}
+		end
+		db[fichierCourant].parti[#db[fichierCourant].parti + 1] = {
 			nom = nomPa,
 			acronyme = racc,
 			dates = int,
 		}
 	end
-
+	
 	if havetag(seq, "#nomFonc") then
 		tab = {}
 		tab["nom"] = tagstr2(seq, "#nomFonc")
+		
 		tab["date"] = tagstr2(seq, "#dateFonc")
-		local foncs = tagstr(seq, "#arg")
-		local gg = tagstr(seq, "#val")
-		for i, v in ipairs(foncs) do
-			tab[v] = gg[i]
-		end
-		db["JLM"].fonctions[#db["JLM"].fonctions + 1] = tab
-	end
 
+		if havetag(seq, "#arg") then
+			local foncs = tagstr(seq, "#arg")
+			local gg = tagstr(seq, "#val")
+		
+			for i, v in ipairs(foncs) do
+				tab[v] = gg[i]
+			end
+		end
+		if(db[fichierCourant].fonctions == nil) then
+			db[fichierCourant].fonctions = {}
+		end
+		db[fichierCourant].fonctions[#db[fichierCourant].fonctions + 1] = tab
+	end
+	
 	if havetag(seq, "#bac") then
 		local ann = GetValueInLink(seq, "#anneeObtention", "#bac")
-		db["JLM"].formation["Baccalaureat"] = {
+		if(db[fichierCourant].formation == nil) then
+			db[fichierCourant].formation = {}
+		end
+		db[fichierCourant].formation["Baccalaureat"] = {
 			annee = ann,
 			lieu = "",
 		}
@@ -225,20 +242,30 @@ function traitement(seq)
 		local ann = GetValueInLink(seq, "#anneeObtention", "#fac")
 		local suj = GetValueInLink(seq, "#sujet", "#fac")
 		local li = GetValueInLink(seq, "#lieuF", "#fac")
-		db["JLM"].formation["Faculte"] = {
+		if(db[fichierCourant].formation == nil) then
+			db[fichierCourant].formation = {}
+		end
+		db[fichierCourant].formation["Faculte"] = {
 			annee = ann,
 			sujet = suj,
 		}
 	end
-
+	
 
 end
 
 
-local f_test = "../test"
+local f_test = "../extraction/corpus/wikipedia"
+--local f_test = "../test"
 lp.read_corpus(f_test)
 
-print(serialize(db))
+local outfile = io.open("databaseTemp.lua", "w")
+outfile:write("return ")
+outfile:write(serialize(db))
+outfile.close()
+
+
+--print(serialize(db))
 return tst
 
 

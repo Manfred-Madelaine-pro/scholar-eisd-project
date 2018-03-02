@@ -1,0 +1,23 @@
+PRETAG Charles.
+NOMTAG Balsan.
+Pierre-Fulcran-Jean-Charles Balsan (16 avril 1838, Paris - 4 février 1912, Paris), est un manufacturier et homme politique français, frère d'Auguste Balsan.
+
+
+
+Troisième fils de Jean-Pierre Balsan (1807-1869), manufacturier et administrateur de la Banque de France de Châteauroux, et d'Elodie Martin, Charles Balsan suivit ses études au collège Rollin, puis sorti ingénieur de l'École centrale.
+Il dirigea avec son frère Balsan (entreprise), l'ancienne manufacture royale (17 août 1751) de drap à Châteauroux et participa en 1891 à la création d'une sucrerie qui connut un grand développement. Il fut longtemps président du Tribunal de Commerce et vice-président de la Société d'agriculture.
+En 1874, il acquit le château du Plessis (Velles) et ses 1164 hectares de terrains.
+Balsan fut nommé censeur en 1879, puis régent en 1890 de la Banque de France (XVe siège) ; il fut administrateur de la Compagnie d'assurances « La France ».
+Conseiller municipal de Châteauroux et conseiller général, il fut élu député conservateur en 1889 dans la première circonscription de Châteauroux, réélu en 1893 et en 1898, à chaque fois au premier tour[réf. nécessaire].
+
+
+
+
+
+
+
+PARTISNORM
+PART Conservatisme PART  (Conservateur).
+FONCTIONNORM
+
+NOMF Député de l'Indre NOMF 6 octobre 1889 – 31 mai 1902 SEP2 Date de naissance REL 16 avril 1838 SEP3  SEP2 Lieu de naissance REL Paris SEP3  SEP2 Date de décès REL 4 février 1912 SEP3  SEP2 Lieu de décès REL Paris SEP3  SEP2 Parti politique REL Conservateur SEP3  SEP2 Enfants REL Famille Balsan SEP3 .

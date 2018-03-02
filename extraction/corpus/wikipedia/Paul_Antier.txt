@@ -1,0 +1,15 @@
+PRETAG Paul.
+NOMTAG Antier.
+Paul Antier, homme politique français, né au Puy-en-Velay dans la Haute-Loire, le 20 mai 1905, décédé le 23 octobre 1996 à Antibes, était député de la Haute-Loire et ministre sous la IVe République. Il est le cinquième fils de Joseph Antier, lui-même avocat, député et sénateur de ce même département sous la Troisième République française.
+
+
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Ministre de la marine marchande, Ministre de l'agriculture,Député 1936-1940puis 1945-1958, Maire de Laussonne, conseiller général de la Haute-Loire NOMF 1936 – SEP2 Gouvernement REL IIIe République-IVe République SEP3  SEP2 Groupe politique REL AI (1936-1940)Paysan (1945-1946)RAPS (1946)CRUPS (1946-1951)CRAPS (1951-1955)Paysan (1956-1958) SEP3  SEP2 Date de naissance REL 20 mai 1905 SEP3  SEP2 Lieu de naissance REL Le Puy-en-Velay (France) SEP3  SEP2 Date de décès REL 23 octobre 1996 (à 91 ans) SEP3  SEP2 Lieu de décès REL Antibes (France) SEP3  SEP2 Résidence REL Haute-Loire SEP3 .

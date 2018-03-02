@@ -1,0 +1,20 @@
+PRETAG François.
+NOMTAG Forest.
+François Forest est un homme politique français né le 13 septembre 1852 à Chanzeaux (Maine-et-Loire) et décédé le 2 janvier 1926 à Paris.
+Ancien élève de l'école militaire de Saint-Cyr, puis professeur à cette même école, il quitte l'armée avec le grade de capitaine d’état-major. Il devient maire de Malansac et conseiller général du canton de Rochefort-en-Terre. Il est député du Morbihan de 1898 à 1914, inscrit au groupe de l'Action libérale. Il se consacre essentiellement aux questions agricoles et militaires.
+Il épousa en 1884 Marie dite Marguerite Turpault, héritière de la Maison Turpault de Cholet, rendue célèbre avec la fabrication et le négoce des "Petits mouchoirs de Cholet"
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Action libérale PART  (Action libérale).
+FONCTIONNORM
+
+NOMF Député du Morbihan NOMF 1898 – 1914 SEP2 Prédécesseur REL Alfred Brard SEP3  SEP2 Successeur REL Joseph Gouyon de Coypel SEP3  SEP2 Prédécesseur REL Joseph Fortune SEP3  SEP2 Successeur REL Joseph Fortune SEP3 .
+NOMF Conseiller général du canton de Rochefort-en-Terre NOMF 1895 – 1919 SEP2 Prédécesseur REL Roger Audren de Kerdrel SEP3  SEP2 Successeur REL Victor Limon-Duparcmeur SEP3  SEP2 Date de naissance REL 13 septembre 1852 SEP3  SEP2 Lieu de naissance REL Chanzeaux (Maine-et-Loire, France) SEP3  SEP2 Date de décès REL 2 janvier 1926 SEP3  SEP2 Lieu de décès REL Paris (France) SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL Action libérale SEP3 .

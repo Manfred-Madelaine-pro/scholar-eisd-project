@@ -1,0 +1,23 @@
+PRETAG Albert-de.
+NOMTAG Mun.
+Adrien Albert Marie, comte de Mun, né au château de Lumigny (Seine-et-Marne) le 28 février 1841 et mort à Bordeaux le 6 octobre 1914, est un député français, élu de Morlaix (Finistère), initiateur du catholicisme social et théoricien du corporatisme chrétien.
+Il est légitimiste et défend la Restauration monarchique jusqu’à la mort du comte de Chambord et l’encyclique Au milieu des sollicitudes (1892) prônant le ralliement des catholiques à la République. Adversaire du libéralisme comme du socialisme[1], il défend nombre de réformes sociales dans un esprit particulier, inspiré du corporatisme d’Ancien Régime : c’est ainsi que sa pensée influença différents mouvements chrétiens, d’abord du catholicisme social, puis de tendances opposées comme la démocratie chrétienne ou la gauche chrétienne protestante, le christianisme social. Ayant soutenu un temps le général Boulanger puis devenu anti-dreyfusard, il fonde l’Action libérale populaire après la victoire du Bloc des gauches en 1902, s’opposant de façon virulente à la loi de séparation des Églises et de l’État, puis défend le réarmement de la France.
+
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Légitimisme PART  (Légitimiste) Union des droites.
+PART Union des droites PART  (Union des droites) .
+PART Action libérale PART  (Action libérale) droite.
+PART Droite (politique) PART  (droite).
+FONCTIONNORM
+
+NOMF Député du Finistère NOMF 21 janvier 1894 – 31 mai 1914 SEP2 Élection REL 21 janvier 1894 SEP3  SEP2 Réélection REL 22 mai 189811 mai 190220 mai 19068 mai 1910 SEP3  SEP2 Législature REL VIe, VIIe, VIIIe, IXe et Xe SEP3  SEP2 Prédécesseur REL Émile Cillard de Kermenguy SEP3 .
+NOMF Député du Morbihan NOMF 28 octobre 1881 – 14 octobre 1893 SEP2 Élection REL 4 septembre 1881 SEP3  SEP2 Réélection REL 18 octobre 18856 octobre 1889 SEP3  SEP2 Législature REL IIIe, IVe et Ve SEP3  SEP2 Élection REL 20 février 1876 SEP3  SEP2 Réélection REL 14 octobre 1877 SEP3  SEP2 Législature REL Ire et IIe SEP3  SEP2 Successeur REL Louis Joachim Le Maguet SEP3  SEP2 Nom de naissance REL Adrien Albert Marie, comte de Mun SEP3  SEP2 Date de naissance REL 28 février 1841 SEP3  SEP2 Lieu de naissance REL Lumigny (Seine-et-Marne, France) SEP3  SEP2 Date de décès REL 6 octobre 1914 (à 73 ans) SEP3  SEP2 Lieu de décès REL Bordeaux (Gironde, France) SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL Légitimiste — Union des droites, puisAction libérale (droite) SEP3  SEP2 Conjoint REL Simone d'Andlau SEP3  SEP2 Enfants REL Bertrand de Mun Henri de Mun SEP3  SEP2 Profession REL Militaire SEP3  SEP2 Religion REL Catholique SEP3 .

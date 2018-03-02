@@ -1,0 +1,21 @@
+PRETAG Paul.
+NOMTAG Glotin.
+Roger-Paul Glotin, né le 18 mai 1870 à Bordeaux et mort le 9 novembre 1933 à Bordeaux, est un industriel et homme politique français.
+
+
+Roger-Paul Glotin est le fils de Pierre-Joseph Glotin, ancien lieutenant de vaisseau, qui quitta la Marine et reprit la maison Marie Brizard après son mariage avec Suzanne Legrand, héritière par sa mère Laure Roger de la fondatrice de la maison.
+Après des études au lycée Saint-Joseph de Tivoli, il s'associa en 1904 avec sa mère dans la société Marie Brizard, avant de la diriger seul avec son frère Édouard, jusqu'à leurs décès en 1933.
+Très chrétien, un des chefs de file du Parti catholique, il s’implique dans la gestion de la ville de Bordeaux et fonde, avec son ami Paul Duché et André Ballande, un journal catholique et conservateur, La Liberté du Sud-Ouest[1], dont il présida le conseil et en restera jusqu'à la fin administrateur et bailleur de fonds. Il présida le Comité girondin de la Patrie française, prit part à l'organisation de l'Action libérale en 1902 à Bordeaux, et devint le président du comité de Bordeaux puis du comité de Bordeaux et du Sud-Ouest de ce parti de catholiques ralliés à la République. Il fut président d'honneur de l’Association catholique de la jeunesse française (ACJF) en 1914.
+Il entra en 1912 au conseil municipal de Bordeaux, fut adjoint au maire de Bordeaux l'année suivante, et se trouva mobilisé en 1914 au 139e Territorial et envoyé au Maroc où sa santé fut durement touchée, l'obligeant à être rapatrié en 1915. À la fin de la guerre, il prit la présidence des amicales de l'enseignement libre du Sud-Ouest et de la Société civile de l'École de Saint-Joseph de Tivoli, qu'il dota du domaine de Peyreblanque à Caudéran.
+En 1919, il est élu conseiller général et député de la Gironde sous l'étiquette de l'Entente républicaine démocratique. Il devient membre des Commissions des Douanes, de la Marine et de la Boisson.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député de la Gironde NOMF 1919 – 1924.
+NOMF Conseiller général de la Gironde NOMF Adjoint au maire de Bordeaux SEP2 Date de naissance REL 18 mai 1870 SEP3  SEP2 Date de décès REL 9 novembre 1933 SEP3 .

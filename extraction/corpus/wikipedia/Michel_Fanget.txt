@@ -1,0 +1,33 @@
+PRETAG Michel.
+NOMTAG Fanget.
+Michel Fanget est un homme politique français, né le 3 mai 1950 à Clermont-Ferrand.
+Il est membre du MoDem, dont il préside la fédération du Puy-de-Dôme. Il a été député UDF de la première circonscription du Puy-de-Dôme de 1993 à 1997. Il est député de la quatrième circonscription du Puy-de-Dôme depuis juin 2017.
+
+
+
+Médecin cardiologue de profession, Michel Fanget a fait ses études de médecine à l'université de Clermont-Ferrand où il a obtenu son diplôme d'État de docteur en médecine et un certificat d’études spéciales de biologie et médecine du sport. Il a ensuite obtenu son certificat d’études spéciales de cardiologie à l'université Claude Bernard Lyon 1. Il est actuellement praticien attaché au CHU de Clermont-Ferrand et au Centre Jean Perrin.
+Michel Fanget est également connu à Clermont-Ferrand pour son action associative et plus particulièrement pour sa présidence de l’AEP Clermont la Plaine (structure socio-éducative et humanitaire de portage de repas à domicile).
+Il fait son entrée en politique lors des élections municipales de 1989 en figurant sur la liste d'opposition à Roger Quilliot. Ce dernier est réélu maire, mais Michel Fanget fait son entrée au conseil municipal sous l'étiquette de l'UDF. Il continue à y siéger après les élections municipales de 1995 et de 2001. Il est actuellement président du groupe d'opposition à Serge Godard, devenu maire en 1997.
+Lors des élections législatives de 1993, il profite de la « vague bleue » pour devancer le candidat RPR Brice Hortefeux et battre au second tour le député socialiste sortant de la première circonscription du Puy-de-Dôme, Maurice Pourchon[1]. Il siège alors au sein du groupe Union pour la démocratie française et du centre. Il est battu lors des scrutins suivants (1997, 2002, 2007 et 2012) par la socialiste Odile Saugues[2].
+En 1994, il conquiert le siège de conseiller général du canton de Clermont-Ferrand-Centre en battant le socialiste Jacques Mary mais il est battu en 2001 par la socialiste Patricia Guilhot.
+Le 6 décembre 2007, il annonce sa candidature à l'élection municipale de 2008 sous l'étiquette du MoDem [3]
+En 2009, il est troisième sur la liste MoDem pour les élections européennes.
+En 2012, il se représente aux élections législatives dans la première circonscription du Puy-de-Dôme. Il est battu dès le premier tour, avec 4,84 % des voix.
+Il mène la liste du MoDem lors de l'élection municipale de mars 2014 à Clermont-Ferrand et obtient 8 % des voix lors du premier tour. Entre les deux tours, il négocie une fusion avec la liste UMP de Jean-Pierre Brenas (25 %) mais les négociations échouent[4].
+En 2017, dans le sillage de l'élection présidentielle remportée par Emmanuel Macron, Michel Fanget est investi par La République en marche ! aux élections législatives. Initialement candidat à l'investiture dans la première circonscription du Puy-de-Dôme (dont il était le député de 1993 à 1997), celle-ci échoit à Valérie Thomas, co-fondatrice du mouvement En Marche ! dans le département[5]. Quelques jours plus tard, il est finalement investi dans la quatrième circonscription[6]. Il remporte l'élection au deuxième tour face à Bertrand Barraud, maire d'Issoire et candidat Les Républicains.
+
+
+
+
+
+
+
+PARTISNORM
+PART Union pour la démocratie française PART  (UDF) 1989-2007.
+PART Mouvement démocrate PART  (MoDem) Depuis 2007.
+FONCTIONNORM
+
+NOMF Député du Puy-de-Dôme NOMF En fonction depuis le 21 juin 2017(8 mois et 3 jours) SEP2 Élection REL 18 juin 2017 SEP3  SEP2 Circonscription REL 4e circonscription SEP3  SEP2 Législature REL XVe SEP3  SEP2 Prédécesseur REL Jean-Paul Bacquet SEP3  SEP2 Élection REL 28 mars 1993 SEP3  SEP2 Circonscription REL 1re circonscription SEP3  SEP2 Législature REL Xe SEP3  SEP2 Prédécesseur REL Maurice Pourchon SEP3  SEP2 Successeur REL Odile Saugues SEP3 .
+NOMF Conseiller régional d'Auvergne-Rhône-Alpes NOMF En fonction depuis le 1er janvier 2016(2 ans, 1 mois et 23 jours) SEP2 Élection REL 13 décembre 2015 SEP3 .
+NOMF Président NOMF Conseiller général du Puy-de-Dômeélu dans le canton de Clermont-Ferrand-Centre.
+NOMF Conseiller général du Puy-de-Dômeélu dans le canton de Clermont-Ferrand-Centre NOMF 27 mars 1994 – 18 mars 2001(6 ans, 11 mois et 19 jours) SEP2 Prédécesseur REL Jacques Mary SEP3  SEP2 Successeur REL Patricia Guilhot SEP3  SEP2 Date de naissance REL 3 mai 1950 (67 ans) SEP3  SEP2 Lieu de naissance REL Clermont-Ferrand (Puy-de-Dôme SEP3  SEP2 Nationalité REL Français SEP3  SEP2 Parti politique REL UDF (1989-2007)MoDem (Depuis 2007) SEP3  SEP2 Diplômé de REL université Claude Bernard Lyon 1 SEP3 .

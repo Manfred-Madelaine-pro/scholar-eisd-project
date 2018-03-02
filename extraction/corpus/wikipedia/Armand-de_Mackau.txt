@@ -1,0 +1,17 @@
+PRETAG Armand-de.
+NOMTAG Mackau.
+Ange-Ferdinand-Armand, baron de Mackau, né le 29 novembre 1832 à Paris et mort le 6 mai 1918 à Vimoutiers (Orne), est un homme politique français, monarchiste et boulangiste.
+
+
+Il est le fils de l'amiral Ange, baron de Mackau (1788-1855), qui fut ministre de la Marine. Il est député de l'Orne de 1866 à 1918 (sauf entre 1870 et 1876). Il est également président du comice d'Argentan de 1879 jusqu'à sa mort.
+Leader monarchiste, il se lance dans l'aventure boulangiste dans les années 1880. Après l'échec du boulangisme, il se rallie à la République en adhérant à l'Action libérale de Jacques Piou. Il préside le comité qui organise la vente du Bazar de la Charité en 1897 et dont l'incendie fera plus de 120 victimes. D'après la presse de l'époque, rappelée dans l'émission d'André Gillois Soyez témoins du 2 mai 1958, il s'en tirera en se frayant un passage à coups de canne à travers les victimes amassées devant la sortie.
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député NOMF .

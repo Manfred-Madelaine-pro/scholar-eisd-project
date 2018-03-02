@@ -1,0 +1,19 @@
+PRETAG Camille.
+NOMTAG Guyot.
+Pierre François Camille Guyot de Villeneuve est un homme politique français né le 9 août 1862 au château de Lagrange (commune de Saint-Bouize, département du Cher), et décédé à Paris le 6 juillet 1939.
+
+
+Il est le fils du comte Gustave Guyot de Villeneuve et le petit-fils du ministre Camille de Montalivet[2].
+Secrétaire d'ambassade, démissionnaire en 1886 pour protester contre le vote des lois d'exil frappant le comte de Paris, il est membre du service d'honneur de ce dernier, puis député de l'Action libérale populaire des Basses-Alpes de 1906 à 1910[3]. Il est maire de Saint-Bouize pendant 40 ans et président du comice agricole des cantons de Sancerre, Sancergues et Léré.
+Il épouse à la nonciature de Paris, en 1893, Léonie Thérèse Piou, fille de Jacques Piou, conseiller du comte de Paris et futur fondateur avec Albert de Mun en 1901 de l'Action libérale populaire, parti des catholiques ralliés à la République. Il en eut quatre enfants.
+Il est décoré au titre de Chevalier de la Légion d'honneur, le 16 juin 1930[4].
+
+
+
+
+
+
+
+FONCTIONNORM
+
+NOMF Député des Alpes-de-Haute-Provence NOMF 6 mai 1906 – 31 mai 1910(3 ans, 11 mois et 25 jours) SEP2 Gouvernement REL Troisième République SEP3  SEP2 Groupe politique REL Action libérale SEP3  SEP2 Nom de naissance REL Pierre François Camille Guyot de Villeneuve SEP3  SEP2 Date de naissance REL 9 août 1862 SEP3  SEP2 Lieu de naissance REL Saint-Bouize, (Cher) château de Lagrange SEP3  SEP2 Date de décès REL 6 juillet 1939 (à 76 ans) SEP3  SEP2 Lieu de décès REL paris (Seine) SEP3  SEP2 Nationalité REL  Française SEP3  SEP2 Résidence REL Basses-Alpes SEP3 .

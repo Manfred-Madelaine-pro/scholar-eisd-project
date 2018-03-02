@@ -1,0 +1,19 @@
+PRETAG Louis.
+NOMTAG Darblay.
+Louis Darblay est un homme politique français né le 17 septembre 1851 à Chevilly (Loiret) et décédé le 18 janvier 1927 à Chevilly.
+Propriétaire terrien et exploitant agricole, il est président du syndicat des agriculteurs du Loiret et président du comice agricole d'Orléans. Conseiller municipal de Chevilly, il succède en 1894 à son père comme conseiller général du canton d'Artenay, qu'il conserve jusqu'à son décès. Il est député du Loiret de 1901 à 1906, inscrit au groupe de l'Action libérale, puis de 1919 à 1924 au groupe de l'Entente républicaine démocratique. Il s'intéresse surtout aux questions agricoles.
+
+
+
+
+
+
+
+
+
+PARTISNORM
+PART Fédération républicaine PART  (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata PART  ().
+FONCTIONNORM
+
+NOMF DéputéLoiret NOMF .

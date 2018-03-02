@@ -1,0 +1,30 @@
+PRETAG Aymeri-de.
+NOMTAG Montesquiou.
+Aymeri Francis André Philippe de Montesquiou de son nom complet de Montesquiou-Fezensac d'Artagnan, dit duc de Fezensac (titre irrégulier)[1],[2],[3],[4],[5], est né le 7 juillet 1942 à Marsan (Gers). Homme politique français, il est membre du Parti radical et ancien vice-président du groupe du Rassemblement démocratique et social européen.
+
+
+
+Issu d'une famille noble du Gers, fils de Pierre de Montesquiou. Aymeri de Montesquiou-Fezensac et ses enfants sont autorisés par décret du 16 mars 2012 à substituer à leur nom patronymique celui de « de Montesquiou-Fezensac d'Artagnan »[6] (le nom « d'Artagnan », nom d'une seigneurie, tomba en désuétude dans la famille de Montesquiou à la fin du XVIIe siècle).
+Malgré l'homonymie la famille de Montesquiou ne descend pas du célèbre Charles de Batz de Castelmore dit d'Artagnan qui a inspiré le personnage de d'Artagnan à Alexandre Dumas, et dont les descendants subsistants ont déposé une requête contre le décret du Premier ministre François Fillon du 16 mars 2012, autorisant Aymeri de Montesquiou à modifier son nom. Le Conseil d’État a rejeté ce recours considérant que les requérants « alors même qu'ils sont descendants de Charles de Batz-Castelmore d'Artagnan, ne justifient pas de ce que l'attribution, par le décret attaqué, du nom de « d'Artagnan » à des membres de la famille de Montesquiou leur causerait un préjudice de nature à en justifier l'annulation »[7].
+Le Conseil d’État avait précédemment rejeté le 28 octobre 2005 un recours du sénateur Aymeri de Montesquiou contre un décret du 26 mars 2004 autorisant M. Baïri à porter le nom de sa grand-mère maternelle qui se nommait d’Artagnan, considérant que « le préjudice invoqué par le sénateur ne peut être regardé comme suffisant »[8].
+Une longue carrière politique.
+Propriétaire-exploitant agricole, il est élu maire de Marsan en 1976 à la suite du décès de son père Pierre de Montesquiou. Il devient conseiller général du Gers pour le canton de Gimont en 1982. Il est élu député du Gers le 16 mars 1986, puis député européen le 15 juin 1989. Il retourne à l'Assemblée nationale le 21 avril 1997, toujours comme député du Gers.
+Il est élu sénateur du Gers le 27 septembre 1998 sous l'étiquette UDF, puis réélu le 21 septembre 2008 au 1er tour[9].
+Au Sénat, il est président du groupe France-Iran et vice-président de la commission des finances.
+Un intermédiaire des relations franco-kazakhes.
+Durant les années 2000, Aymeri de Montesquiou a plusieurs fois séjourné au Kazakhstan . Il connaît personnellement le président kazakh Noursoultan Nazarbaïev, le premier ministre Karim Massimov ou encore le maire d'Astana Imangali Tasmagambetov. Il occupe la fonction de président délégué pour le Kazakhstan du groupe interparlementaire d’amitié France-Asie centrale, et sert d'intermédiaire entre les entreprises françaises et le pouvoir kazakh. Sous la présidence Sarkozy (2007-2012), il est nommé représentant spécial de Nicolas Sarkozy pour l’Asie centrale.
+
+
+
+
+
+
+
+PARTISNORM
+PART Parti radical PART  (PRV).
+FONCTIONNORM
+
+NOMF Sénateur du Gers NOMF 1er octobre 1998 – 11 juin 2015(16 ans, 8 mois et 10 jours) SEP2 Élection REL 27 septembre 1998 SEP3  SEP2 Successeur REL Raymond Vall SEP3 .
+NOMF Conseiller général du GersÉlu dans le canton de Gimont NOMF 21 mars 1982 – 2 avril 2015(33 ans et 12 jours) SEP2 Élection REL 21 mars 1982 SEP3  SEP2 Prédécesseur REL Guy Balas SEP3 .
+NOMF Député du GersÉlu dans la 2e circonscription NOMF 2 avril 1993 – 21 avril 1997(4 ans et 19 jours) SEP2 Élection REL 28 mars 1993 SEP3  SEP2 Prédécesseur REL Jean-Pierre Joseph SEP3  SEP2 Successeur REL Yvon Montané SEP3  SEP2 Élection REL 16 mars 1986 SEP3 .
+NOMF Député européen NOMF 4 novembre 1989 – 16 avril 1993(3 ans, 5 mois et 12 jours) SEP2 Élection REL 15 juin 1989 SEP3  SEP2 Successeur REL Jean-Jacques de Peretti SEP3  SEP2 Nom de naissance REL Aymeri de Montesquiou-Fezensac SEP3  SEP2 Date de naissance REL 7 juillet 1942 (75 ans) SEP3  SEP2 Lieu de naissance REL Marsan (Gers) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL PRV SEP3  SEP2 Profession REL Exploitant agricole SEP3 .
