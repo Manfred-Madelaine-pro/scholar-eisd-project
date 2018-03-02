@@ -21,7 +21,7 @@ Il ne se représente pas pour une nouvelle candidature aux élections législati
 
 
 PARTISNORM
-PART Républicains indépendants (parti politique) (RI) .
+PART Républicains indépendants (parti politique) PART  (RI) .
 FONCTIONNORM
 
 NOMF Député de la 2e circonscriptionde la Haute-Loire NOMF 3 avril 1978 – 19 juin 2012(34 ans, 2 mois et 16 jours) SEP2 Prédécesseur REL Louis Eyraud (PS) SEP3  SEP2 Successeur REL Jean-Pierre Vigier (UMP) SEP3 .

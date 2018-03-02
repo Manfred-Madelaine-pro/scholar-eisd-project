@@ -21,8 +21,8 @@ Vie privée.
 
 
 PARTISNORM
-PART Bonapartisme (Bonapartiste).
-PART Ralliés (Ralliés).
+PART Bonapartisme PART  (Bonapartiste).
+PART Ralliés PART  (Ralliés).
 FONCTIONNORM
 
 NOMF Député NOMF 1885 – 1907 SEP2 Groupe politique REL Union des droitesDroite constitutionnelleAction libéraleRépublicains nationalistes SEP3  SEP2 Prédécesseur REL Jérôme Esnault SEP3  SEP2 Successeur REL Joseph Le Cherpy SEP3 .

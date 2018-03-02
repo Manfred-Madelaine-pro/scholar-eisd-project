@@ -14,7 +14,7 @@ Agriculteur de profession, il est député UDF de la 3e circonscription de Lot-
 
 
 PARTISNORM
-PART Alliance centriste (AC).
+PART Alliance centriste PART  (AC).
 FONCTIONNORM
 
 NOMF Sénateur de Lot-et-Garonne NOMF 23 septembre 2001 – 30 septembre 2011(10 ans et 7 jours) SEP2 Groupe politique REL RDSE (2001-2002)UC (2002-2011) SEP3  SEP2 Successeur REL Pierre Camani SEP3 .

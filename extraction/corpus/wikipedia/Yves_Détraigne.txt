@@ -11,9 +11,9 @@ Yves Détraigne (né le 21 décembre 1954 à Reims) est un homme politique fran�
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF) MoDem.
-PART Mouvement démocrate (MoDem) AC.
-PART Alliance centriste (AC).
+PART Union pour la démocratie française PART  (UDF) MoDem.
+PART Mouvement démocrate PART  (MoDem) AC.
+PART Alliance centriste PART  (AC).
 FONCTIONNORM
 
 NOMF Sénateur de la Marne NOMF En fonction depuis le 1er octobre 2001 SEP2 Groupe politique REL UCR SEP3 .

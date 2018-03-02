@@ -34,7 +34,7 @@ En avril 2017, Michel Roumégoux annonce qu'il est candidat aux élections légi
 
 
 PARTISNORM
-PART Alliance centriste (Alliance centriste).
+PART Alliance centriste PART  (Alliance centriste).
 FONCTIONNORM
 
 NOMF Député de la 1re circonscription du Lot NOMF 19 juin 2002 – 19 juin 2007(5 ans) SEP2 Prédécesseur REL Bernard Charles (PRG) SEP3  SEP2 Successeur REL Dominique Orliac (PRG) SEP3  SEP2 Prédécesseur REL Bernard Charles (PRG) SEP3  SEP2 Successeur REL Marc Lecuru (UMP) SEP3 .

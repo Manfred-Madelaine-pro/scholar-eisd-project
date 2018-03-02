@@ -35,8 +35,8 @@ Gilles Bourdouleix est le beau-frère de Christian Prudhomme, l'actuel directeur
 
 
 PARTISNORM
-PART Union pour un mouvement populaire (UMP).
-PART Union des démocrates et indépendants (groupe parlementaire) (UDI) 2012-2013[1].
+PART Union pour un mouvement populaire PART  (UMP).
+PART Union des démocrates et indépendants (groupe parlementaire) PART  (UDI) 2012-2013[1].
 FONCTIONNORM
 
 NOMF Député français NOMF 19 juin 2002 – 20 juin 2017(15 ans et 1 jour) SEP2 Élection REL 16 juin 2002 SEP3  SEP2 Réélection REL 17 juin 200717 juin 2012 SEP3  SEP2 Circonscription REL 5e de Maine-et-Loire SEP3  SEP2 Législature REL XIIe, XIIIe et XIVe SEP3  SEP2 Groupe politique REL UMP (2002-2012)UDI (2012-2013)NI (2013-2017) SEP3  SEP2 Prédécesseur REL Maurice Ligot SEP3  SEP2 Successeur REL Denis Masséglia SEP3  SEP2 Prédécesseur REL Maurice Ligot SEP3 .

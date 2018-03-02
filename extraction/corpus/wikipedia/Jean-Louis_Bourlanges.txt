@@ -28,8 +28,8 @@ Soutien de François Bayrou au premier tour de l'élection présidentielle de 20
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF).
-PART Mouvement démocrate (MoDem).
+PART Union pour la démocratie française PART  (UDF).
+PART Mouvement démocrate PART  (MoDem).
 FONCTIONNORM
 
 NOMF Député français NOMF En fonction depuis le 21 juin 2017(8 mois et 4 jours) SEP2 Élection REL 18 juin 2017 SEP3  SEP2 Circonscription REL 12e des Hauts-de-Seine SEP3  SEP2 Législature REL XVe SEP3  SEP2 Groupe politique REL MoDem SEP3  SEP2 Prédécesseur REL Jean-Marc Germain SEP3 .

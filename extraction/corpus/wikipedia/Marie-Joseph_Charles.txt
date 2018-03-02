@@ -17,8 +17,8 @@ Cette famille fut propriétaire d'un grand équipage de chasse à courre : l'é
 
 
 PARTISNORM
-PART Alliance démocratique (Alliance démocratique).
-PART Voir et modifier les données sur Wikidata ().
+PART Alliance démocratique PART  (Alliance démocratique).
+PART Voir et modifier les données sur Wikidata PART  ().
 FONCTIONNORM
 
 NOMF DéputéOise NOMF 1932-1935.

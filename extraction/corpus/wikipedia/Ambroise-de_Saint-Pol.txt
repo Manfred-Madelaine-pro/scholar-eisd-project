@@ -13,7 +13,7 @@ Propriétaire et agriculteur, il est maire de Pézy et conseiller d'arrondisseme
 
 
 PARTISNORM
-PART Action libérale (Action libérale).
+PART Action libérale PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Député d'Eure-et-Loir2e circonscription de Chartres NOMF 1902 – 1910 SEP2 Gouvernement REL Troisième République SEP3  SEP2 Prédécesseur REL Émile Bordier SEP3  SEP2 Successeur REL Maurice Maunoury SEP3  SEP2 Date de naissance REL 18 janvier 1857 SEP3  SEP2 Lieu de naissance REL Abbeville SEP3  SEP2 Date de décès REL 15 février 1924 (à 67 ans) SEP3  SEP2 Lieu de décès REL Pézy SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL Action libérale SEP3  SEP2 Profession REL Propriétaire agriculteur SEP3 .

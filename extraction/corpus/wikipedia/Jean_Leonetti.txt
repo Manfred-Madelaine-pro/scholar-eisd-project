@@ -24,10 +24,10 @@ Début 2018, il devient président du conseil national des Républicains, succé
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF).
-PART Parti radical (Parti radical).
-PART Union pour un mouvement populaire (UMP).
-PART Les Républicains (Les Républicains).
+PART Union pour la démocratie française PART  (UDF).
+PART Parti radical PART  (Parti radical).
+PART Union pour un mouvement populaire PART  (UMP).
+PART Les Républicains PART  (Les Républicains).
 FONCTIONNORM
 
 NOMF Député de la 7e circonscription des Alpes-Maritimes NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Prédécesseur REL Michel Rossi SEP3  SEP2 Successeur REL Éric Pauget SEP3  SEP2 Prédécesseur REL Pierre Merli SEP3  SEP2 Successeur REL Michel Rossi SEP3 .

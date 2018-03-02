@@ -12,8 +12,8 @@ Officier de cavalerie, neveu de Jean-Baptiste de Belcastel, sénateur de Haute-G
 
 
 PARTISNORM
-PART Fédération républicaine (Fédération républicaine).
-PART Voir et modifier les données sur Wikidata ().
+PART Fédération républicaine PART  (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata PART  ().
 FONCTIONNORM
 
 NOMF Député NOMF .

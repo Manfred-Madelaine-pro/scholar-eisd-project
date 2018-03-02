@@ -21,7 +21,7 @@ Durant les années 2000, Aymeri de Montesquiou a plusieurs fois séjourné au Ka
 
 
 PARTISNORM
-PART Parti radical (PRV).
+PART Parti radical PART  (PRV).
 FONCTIONNORM
 
 NOMF Sénateur du Gers NOMF 1er octobre 1998 – 11 juin 2015(16 ans, 8 mois et 10 jours) SEP2 Élection REL 27 septembre 1998 SEP3  SEP2 Successeur REL Raymond Vall SEP3 .

@@ -23,8 +23,8 @@ En 2017, dans le sillage de l'élection présidentielle remportée par Emmanuel 
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF) 1989-2007.
-PART Mouvement démocrate (MoDem) Depuis 2007.
+PART Union pour la démocratie française PART  (UDF) 1989-2007.
+PART Mouvement démocrate PART  (MoDem) Depuis 2007.
 FONCTIONNORM
 
 NOMF Député du Puy-de-Dôme NOMF En fonction depuis le 21 juin 2017(8 mois et 3 jours) SEP2 Élection REL 18 juin 2017 SEP3  SEP2 Circonscription REL 4e circonscription SEP3  SEP2 Législature REL XVe SEP3  SEP2 Prédécesseur REL Jean-Paul Bacquet SEP3  SEP2 Élection REL 28 mars 1993 SEP3  SEP2 Circonscription REL 1re circonscription SEP3  SEP2 Législature REL Xe SEP3  SEP2 Prédécesseur REL Maurice Pourchon SEP3  SEP2 Successeur REL Odile Saugues SEP3 .

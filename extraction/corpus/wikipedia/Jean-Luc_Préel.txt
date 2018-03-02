@@ -19,7 +19,7 @@ Il décède le 3 septembre 2015, emporté par la leptospirose.
 
 
 PARTISNORM
-PART Nouveau Centre (NC).
+PART Nouveau Centre PART  (NC).
 FONCTIONNORM
 
 NOMF Député de la 1e circonscription de la Vendée NOMF 23 juin 1988 – 17 juin 2012(23 ans, 11 mois et 25 jours) SEP2 Groupe politique REL UDF puis NC SEP3  SEP2 Prédécesseur REL aucun (scrutin proportionnel) SEP3  SEP2 Successeur REL Alain Lebœuf SEP3 .

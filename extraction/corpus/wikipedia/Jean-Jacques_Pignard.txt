@@ -19,7 +19,7 @@ Enfin, à l'issue des élections départementales de mars 2015, il quitte son de
 
 
 PARTISNORM
-PART Alliance centriste (Alliance centriste).
+PART Alliance centriste PART  (Alliance centriste).
 FONCTIONNORM
 
 NOMF Sénateur du Rhône NOMF 23 avril 2014 – 30 septembre 2014(5 mois et 7 jours) SEP2 Prédécesseur REL Michel Mercier (UDF) SEP3  SEP2 Prédécesseur REL Michel Mercier (UDF) SEP3  SEP2 Successeur REL Michel Mercier SEP3  SEP2 Prédécesseur REL André Poutissou (PS) SEP3  SEP2 Successeur REL Bernard Perrut (UMP) SEP3 .

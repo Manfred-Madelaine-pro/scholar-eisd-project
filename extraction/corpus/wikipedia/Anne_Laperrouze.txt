@@ -20,9 +20,9 @@ Directeur de projet dans l'industrie pharmaceutique (2002-2004)
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF).
-PART Mouvement démocrate (MoDem).
-PART Alliance centriste (AC).
+PART Union pour la démocratie française PART  (UDF).
+PART Mouvement démocrate PART  (MoDem).
+PART Alliance centriste PART  (AC).
 FONCTIONNORM
 
 NOMF Conseillère générale(élue dans le canton de Puylaurens)puis Conseillère départementale(élue dans le canton du Pastel) NOMF En fonction depuis le 18 mars 2001(16 ans, 10 mois et 30 jours) SEP2 Avec REL Jean-Luc Alibert SEP3  SEP2 Élection REL 18 mars 2001 SEP3  SEP2 Réélection REL 9 mars 200829 mars 2015 SEP3  SEP2 Prédécesseur REL Louis Latger SEP3 .

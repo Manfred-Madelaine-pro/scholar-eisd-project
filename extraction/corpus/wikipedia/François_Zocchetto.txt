@@ -19,7 +19,7 @@ Carrière politique.
 
 
 PARTISNORM
-PART Union des démocrates et indépendants (UDI).
+PART Union des démocrates et indépendants PART  (UDI).
 FONCTIONNORM
 
 NOMF Président du groupe Union centriste du Sénat NOMF 9 février 2011 – 25 septembre 2017(6 ans, 7 mois et 16 jours) SEP2 Élection REL 9 février 2011 SEP3  SEP2 Prédécesseur REL Nicolas About SEP3  SEP2 Successeur REL Hervé Marseille SEP3 .

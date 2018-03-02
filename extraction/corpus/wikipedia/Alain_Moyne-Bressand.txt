@@ -20,10 +20,10 @@ Aux élections législatives de 2017, il est battu dès le premier tour en arriv
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF) DL.
-PART Démocratie libérale (parti politique) (DL) UMP.
-PART Union pour un mouvement populaire (UMP) LR.
-PART Les Républicains (LR).
+PART Union pour la démocratie française PART  (UDF) DL.
+PART Démocratie libérale (parti politique) PART  (DL) UMP.
+PART Union pour un mouvement populaire PART  (UMP) LR.
+PART Les Républicains PART  (LR).
 FONCTIONNORM
 
 NOMF Député de l'IsèreÉlu dans la 6e circonscription NOMF 2 avril 1986 – 20 juin 2017(31 ans, 2 mois et 18 jours) SEP2 Élection REL 12 juin 1988 SEP3  SEP2 Réélection REL 28 mars 1993 • 1er juin 1997 • 16 juin 2002 • 17 juin 2007 SEP3  SEP2 Prédécesseur REL aucun (proportionnelle) SEP3  SEP2 Successeur REL Cendra Motin SEP3  SEP2 Élection REL 13 mars 1983 SEP3  SEP2 Prédécesseur REL Henri Loiseau SEP3 .

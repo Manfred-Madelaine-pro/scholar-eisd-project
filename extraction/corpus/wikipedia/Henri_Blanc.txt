@@ -14,8 +14,8 @@ En 1902, il ne se représente pas et réintègre la magistrature. Avocat génér
 
 
 PARTISNORM
-PART Alliance démocratique (Alliance démocratique).
-PART Voir et modifier les données sur Wikidata ().
+PART Alliance démocratique PART  (Alliance démocratique).
+PART Voir et modifier les données sur Wikidata PART  ().
 FONCTIONNORM
 
 NOMF Député NOMF .

@@ -14,7 +14,7 @@ Lors des élections sénatoriales de 2017, Françoise Férat est réélue pour u
 
 
 PARTISNORM
-PART Alliance centriste (AC).
+PART Alliance centriste PART  (AC).
 FONCTIONNORM
 
 NOMF Conseillère générale du Canton de Châtillon-sur-Marne NOMF 29 mars 1992 – 2015 SEP2 Prédécesseur REL Georges Doyen (PS) SEP3  SEP2 Successeur REL Canton supprimé SEP3  SEP2 Date de naissance REL 5 mars 1949 (68 ans) SEP3  SEP2 Lieu de naissance REL Épernay (Marne) SEP3  SEP2 Parti politique REL AC SEP3 .

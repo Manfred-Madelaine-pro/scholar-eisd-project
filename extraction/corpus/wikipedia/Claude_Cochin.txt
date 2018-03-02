@@ -17,7 +17,7 @@ Une statue à sa mémoire est placée au premier étage de la mairie de Bergues.
 
 
 PARTISNORM
-PART Action libérale (Action libérale).
+PART Action libérale PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Député de la 2e circonscription de Dunkerque NOMF 26 avril 1914 – 31 décembre 1918 SEP2 Prédécesseur REL Henry Cochin (Action libérale) SEP3  SEP2 Successeur REL - SEP3 .

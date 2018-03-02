@@ -13,8 +13,8 @@ Adhérent de l'UDF (adhérent direct), il siège au groupe RDSE, dont il présid
 
 
 PARTISNORM
-PART Union pour la démocratie française (Union pour la démocratie française).
-PART Voir et modifier les données sur Wikidata ().
+PART Union pour la démocratie française PART  (Union pour la démocratie française).
+PART Voir et modifier les données sur Wikidata PART  ().
 FONCTIONNORM
 
 NOMF Sénateur de la Cinquième République NOMF .

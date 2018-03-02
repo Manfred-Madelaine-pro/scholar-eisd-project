@@ -11,7 +11,7 @@ Ernest Lamy est un avocat et homme politique, né le 8 novembre 1867 à Lorient 
 
 
 PARTISNORM
-PART Action libérale (Action libérale).
+PART Action libérale PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Sénateur du Morbihan NOMF 1924 – 1927.

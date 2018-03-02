@@ -11,7 +11,7 @@ Jean-Claude Merceron, né le 12 janvier 1942 à Givrand (Vendée), est une perso
 
 
 PARTISNORM
-PART Alliance centriste (AC).
+PART Alliance centriste PART  (AC).
 FONCTIONNORM
 
 NOMF Sénateur de la Vendée NOMF 1er octobre 2004 – 30 septembre 2014 SEP2 Élection REL 26 septembre 2004 SEP3  SEP2 Groupe politique REL Union centriste et républicaine SEP3  SEP2 Successeur REL Philippe Bernard SEP3 .

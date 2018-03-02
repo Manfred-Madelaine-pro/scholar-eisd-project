@@ -13,9 +13,9 @@ Député de la Vendée de 1981 à 1993, il est ministre des Anciens Combattants 
 
 
 PARTISNORM
-PART Union pour la nouvelle République (UNR) UDF.
-PART Union pour la démocratie française (UDF) UMP.
-PART Union pour un mouvement populaire (UMP).
+PART Union pour la nouvelle République PART  (UNR) UDF.
+PART Union pour la démocratie française PART  (UDF) UMP.
+PART Union pour un mouvement populaire PART  (UMP).
 FONCTIONNORM
 
 NOMF Ministre des Anciens Combattants et Victimes de guerre NOMF 30 mars 1993 – 11 mai 1995(2 ans, 1 mois et 11 jours).

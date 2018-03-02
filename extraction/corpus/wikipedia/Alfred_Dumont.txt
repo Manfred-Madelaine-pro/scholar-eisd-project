@@ -13,7 +13,7 @@ Avocat dans sa ville, il est élu bâtonnier. Adjoint au maire de Dunkerque en 1
 
 
 PARTISNORM
-PART Action libérale (Action libérale).
+PART Action libérale PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Député de la 1re circonscription de Dunkerque NOMF 24 avril 1910 – 31 mai 1914 SEP2 Prédécesseur REL Florent Guillain (Progressistes) SEP3  SEP2 Successeur REL Adolphe Defossé (Radical-socialiste) SEP3 .

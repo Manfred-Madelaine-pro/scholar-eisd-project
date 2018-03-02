@@ -28,10 +28,10 @@ Mère d'une famille recomposée de quatre enfants, elle vit dans le Pays de Vitr
 
 
 PARTISNORM
-PART Parti radical (Parti radical) 2010-2012.
-PART Union des démocrates et indépendants (UDI) AC.
-PART Alliance centriste (AC) 2012-2017.
-PART La République en marche ! (EM/LREM) depuis 2017.
+PART Parti radical PART  (Parti radical) 2010-2012.
+PART Union des démocrates et indépendants PART  (UDI) AC.
+PART Alliance centriste PART  (AC) 2012-2017.
+PART La République en marche ! PART  (EM/LREM) depuis 2017.
 FONCTIONNORM
 
 NOMF Députée française NOMF En fonction depuis le 21 juin 2017(8 mois et 2 jours) SEP2 Élection REL 18 juin 2017 SEP3  SEP2 Circonscription REL 5e d'Ille-et-Vilaine SEP3  SEP2 Législature REL XVe (Cinquième République) SEP3  SEP2 Groupe politique REL LREM SEP3  SEP2 Prédécesseur REL Isabelle Le Callennec SEP3  SEP2 Date de naissance REL 28 octobre 1964 (53 ans) SEP3  SEP2 Lieu de naissance REL Noisy-le-Sec (Seine-Saint-Denis, France) SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL Parti radical (2010-2012)UDI-AC (2012-2017)EM/LREM (depuis 2017) SEP3  SEP2 Diplômée de REL Université Rennes-IIUniversité Nancy-I SEP3  SEP2 Profession REL Professeure de danse SEP3  SEP2 Résidence REL Vitré (Ille-et-Vilaine) SEP3 .

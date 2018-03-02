@@ -15,6 +15,6 @@ Léopold Bellan est reçu franc-maçon dans la loge « Les droits de l'Homme �
 
 
 PARTISNORM
-PART d:Q3141290 (d).
-PART Voir et modifier les données sur Wikidata ().
+PART d:Q3141290 PART  (d).
+PART Voir et modifier les données sur Wikidata PART  ().
 FONCTIONNORM

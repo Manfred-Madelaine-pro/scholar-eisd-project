@@ -26,9 +26,9 @@ Il a été le premier président en 1921 du Groupement des Coopératives de Reco
 
 
 PARTISNORM
-PART Action libérale (Action libérale).
-PART Entente républicaine démocratique (ERD).
-PART Union républicaine démocratique (URD).
+PART Action libérale PART  (Action libérale).
+PART Entente républicaine démocratique PART  (ERD).
+PART Union républicaine démocratique PART  (URD).
 FONCTIONNORM
 
 NOMF Député de la 2e circonscription d'Hazebrouck NOMF 22 avril 1928 – 31 mai 1936 SEP2 Prédécesseur REL lui-même SEP3  SEP2 Successeur REL Jean-Pierre Plichon (Républicains indépendants) SEP3 .

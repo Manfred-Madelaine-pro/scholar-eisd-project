@@ -24,7 +24,7 @@ Mort.
 
 
 PARTISNORM
-PART Alliance démocratique (AD).
+PART Alliance démocratique PART  (AD).
 FONCTIONNORM
 
 NOMF Président du Conseil des ministres françaiset Ministre de l'Instruction publique et des Beaux-Arts NOMF 22 mars 1913 – 9 décembre 1913(8 mois et 17 jours) SEP2 Gouvernement REL Barthou SEP3  SEP2 Législature REL Xe législature SEP3  SEP2 Prédécesseur REL Aristide Briand SEP3  SEP2 Successeur REL Gaston Doumergue SEP3 .

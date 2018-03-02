@@ -13,7 +13,7 @@ Il épousa en 1884 Marie dite Marguerite Turpault, héritière de la Maison Turp
 
 
 PARTISNORM
-PART Action libérale (Action libérale).
+PART Action libérale PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Député du Morbihan NOMF 1898 – 1914 SEP2 Prédécesseur REL Alfred Brard SEP3  SEP2 Successeur REL Joseph Gouyon de Coypel SEP3  SEP2 Prédécesseur REL Joseph Fortune SEP3  SEP2 Successeur REL Joseph Fortune SEP3 .

@@ -13,7 +13,7 @@ Il est le père de l'historien Adrien Dansette[2].
 
 
 PARTISNORM
-PART Action libérale (Action libérale).
+PART Action libérale PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Député de la 4e circonscription de Lille NOMF 27 avril 1902 – 30 mars 1917 SEP2 Prédécesseur REL Lui-même SEP3  SEP2 Successeur REL - SEP3 .

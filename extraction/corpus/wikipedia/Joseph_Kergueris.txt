@@ -16,8 +16,8 @@ Auparavant membre de l'UDF, il souligne n'avoir jamais adhéré au MoDem[1]. Il 
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF) AC.
-PART Alliance centriste (AC).
+PART Union pour la démocratie française PART  (UDF) AC.
+PART Alliance centriste PART  (AC).
 FONCTIONNORM
 
 NOMF Président du conseil général du Morbihan NOMF 2004 – 2011 SEP2 Prédécesseur REL Jean-Charles Cavaillé SEP3  SEP2 Successeur REL François Goulard SEP3 .

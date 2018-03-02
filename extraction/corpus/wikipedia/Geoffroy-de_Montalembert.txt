@@ -12,7 +12,7 @@ Geoffroy, comte de Montalembert, né le 16 décembre 1850 à Versailles (Seine-e
 
 
 PARTISNORM
-PART Action libérale populaire (Action libérale).
+PART Action libérale populaire PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Député de la 6e circonscription de Lille NOMF 27 avril 1902 – 31 mai 1906 SEP2 Prédécesseur REL Lui-même SEP3  SEP2 Successeur REL Henri Delecroix (Radical-socialiste) SEP3 .

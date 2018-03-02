@@ -11,7 +11,7 @@ Jules Galot est un homme politique français né le 15 février 1839 au Havre (S
 
 
 PARTISNORM
-PART Action libérale (Action libérale).
+PART Action libérale PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Député de la Loire-Inférieure NOMF 8 mai 1898 – 31 mai 1906 SEP2 Gouvernement REL IIIe république SEP3  SEP2 Groupe politique REL Action libérale SEP3  SEP2 Date de naissance REL 15 février 1839 SEP3  SEP2 Lieu de naissance REL Le Havre (Seine-Maritime) SEP3  SEP2 Date de décès REL 10 septembre 1908 (à 69 ans) SEP3  SEP2 Lieu de décès REL Sainte-Marie-sur-Mer (Loire-Inférieure) SEP3  SEP2 Parti politique REL Action libérale SEP3 .

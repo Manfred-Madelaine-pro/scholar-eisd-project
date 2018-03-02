@@ -13,9 +13,9 @@ Il étudie au lycée à Besançon (lycée Victor Hugo), où il fréquente la mê
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF).
-PART Union pour un mouvement populaire (UMP).
-PART Les Républicains (LR).
+PART Union pour la démocratie française PART  (UDF).
+PART Union pour un mouvement populaire PART  (UMP).
+PART Les Républicains PART  (LR).
 FONCTIONNORM
 
 NOMF Sénateur français NOMF 1er octobre 2001 – 1er octobre 2017(16 ans) SEP2 Élection REL 23 septembre 2001 SEP3  SEP2 Réélection REL 25 septembre 2011 SEP3  SEP2 Circonscription REL Jura SEP3  SEP2 Groupe politique REL RDSE SEP3 .

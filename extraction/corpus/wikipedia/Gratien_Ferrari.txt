@@ -18,8 +18,8 @@ Alors que la campagne municipale est lancée depuis plusieurs mois, et que les t
 
 
 PARTISNORM
-PART Rassemblement pour la République (RPR) UDF.
-PART Union pour la démocratie française (UDF).
+PART Rassemblement pour la République PART  (RPR) UDF.
+PART Union pour la démocratie française PART  (UDF).
 FONCTIONNORM
 
 NOMF Député de la SavoieÉlu dans la 1re circonscription NOMF 2 avril 1993 – 21 avril 1997(4 ans et 19 jours) SEP2 Prédécesseur REL Louis Besson SEP3  SEP2 Successeur REL Dominique Dord SEP3  SEP2 Prédécesseur REL Louis Besson SEP3  SEP2 Successeur REL Louis Besson SEP3  SEP2 Prédécesseur REL André Grosjean SEP3  SEP2 Successeur REL André Grosjean SEP3  SEP2 Date de naissance REL 27 mars 1935 SEP3  SEP2 Lieu de naissance REL Aix-les-Bains SEP3  SEP2 Date de décès REL 11 octobre 2015 (à 80 ans) SEP3  SEP2 Lieu de décès REL Chambéry SEP3  SEP2 Nationalité REL Française SEP3  SEP2 Parti politique REL RPR puis UDF SEP3  SEP2 Enfants REL 3 dont Laurence Ferrari SEP3 .

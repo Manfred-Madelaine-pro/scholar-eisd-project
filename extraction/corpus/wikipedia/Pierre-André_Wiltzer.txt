@@ -27,8 +27,8 @@ En 1988, lors du référendum sur l'autodétermination en Nouvelle-Calédonie, a
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF) UMP.
-PART Union pour un mouvement populaire (UMP).
+PART Union pour la démocratie française PART  (UDF) UMP.
+PART Union pour un mouvement populaire PART  (UMP).
 FONCTIONNORM
 
 NOMF Ministre délégué à la Coopération et à la Francophonie NOMF 17 juin 2002 – 31 mars 2004.

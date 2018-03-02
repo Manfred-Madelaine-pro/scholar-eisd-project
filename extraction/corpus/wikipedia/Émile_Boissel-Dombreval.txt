@@ -15,12 +15,12 @@ Pendant la Première Guerre mondiale, il est lieutenant-rapporteur du Conseil de
 
 
 PARTISNORM
-PART Gauche démocratique (GD) 1910.
-PART 1910 (1910) 1914.
-PART 1914 (1914) .
-PART Républicains de gauche (RDG) 1914.
-PART 1914 (1914) 1936.
-PART 1936 (1936).
+PART Gauche démocratique PART  (GD) 1910.
+PART 1910 PART  (1910) 1914.
+PART 1914 PART  (1914) .
+PART Républicains de gauche PART  (RDG) 1914.
+PART 1914 PART  (1914) 1936.
+PART 1936 PART  (1936).
 FONCTIONNORM
 
 NOMF Président du Conseil général de la Manche NOMF 1930 – 1935.

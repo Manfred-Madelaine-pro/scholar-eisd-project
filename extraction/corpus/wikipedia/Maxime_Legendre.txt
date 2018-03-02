@@ -18,7 +18,7 @@ Il a été membre du conseil général des Conférence de Saint-Vincent-de-Paul.
 
 
 PARTISNORM
-PART Action libérale (Action libérale).
+PART Action libérale PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Député de l'Eure NOMF Biographie SEP2 Lieu de naissance REL Paris SEP3  SEP2 Lieu de décès REL Les Préaux SEP3  SEP2 Parti politique REL Action libérale SEP3 .

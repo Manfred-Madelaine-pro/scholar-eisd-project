@@ -17,8 +17,8 @@ Le 20 mars 1876 à Paris, il épouse Hélène Péan de Saint-Gilles (1857-1946),
 
 
 PARTISNORM
-PART Monarchisme (Monarchiste).
-PART Action libérale populaire (Action libérale).
+PART Monarchisme PART  (Monarchiste).
+PART Action libérale populaire PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Député de la Seine(Première circonscription du VIIIe arrondissement) NOMF 1893 – 1919 SEP2 Groupe politique REL Action libérale SEP3  SEP2 Prédécesseur REL Marius Martin SEP3 .

@@ -24,12 +24,12 @@ Une volonté de rassembler le centre.
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF) jusqu'en 2007.
-PART Mouvement démocrate (MoDem) 2007-2008.
-PART Sans étiquette (SE) 2008-2009.
-PART Alliance centriste (AC) depuis 2009.
-PART Union des démocrates et indépendants (UDI) 2012-2016.
-PART La République en marche (REM) depuis 2017.
+PART Union pour la démocratie française PART  (UDF) jusqu'en 2007.
+PART Mouvement démocrate PART  (MoDem) 2007-2008.
+PART Sans étiquette PART  (SE) 2008-2009.
+PART Alliance centriste PART  (AC) depuis 2009.
+PART Union des démocrates et indépendants PART  (UDI) 2012-2016.
+PART La République en marche PART  (REM) depuis 2017.
 FONCTIONNORM
 
 NOMF Député européen NOMF En fonction depuis le 1er juillet 2014(3 ans, 7 mois et 25 jours) SEP2 Élection REL 25 mai 2014 SEP3  SEP2 Législature REL 8e SEP3 .

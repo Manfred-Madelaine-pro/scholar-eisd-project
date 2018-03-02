@@ -13,10 +13,10 @@ Il est légitimiste et défend la Restauration monarchique jusqu’à la mort du
 
 
 PARTISNORM
-PART Légitimisme (Légitimiste) Union des droites.
-PART Union des droites (Union des droites) .
-PART Action libérale (Action libérale) droite.
-PART Droite (politique) (droite).
+PART Légitimisme PART  (Légitimiste) Union des droites.
+PART Union des droites PART  (Union des droites) .
+PART Action libérale PART  (Action libérale) droite.
+PART Droite (politique) PART  (droite).
 FONCTIONNORM
 
 NOMF Député du Finistère NOMF 21 janvier 1894 – 31 mai 1914 SEP2 Élection REL 21 janvier 1894 SEP3  SEP2 Réélection REL 22 mai 189811 mai 190220 mai 19068 mai 1910 SEP3  SEP2 Législature REL VIe, VIIe, VIIIe, IXe et Xe SEP3  SEP2 Prédécesseur REL Émile Cillard de Kermenguy SEP3 .

@@ -20,12 +20,12 @@ Carrière.
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF) PR.
-PART Parti républicain (PR) UDF.
-PART Union pour la démocratie française (UDF) NC.
-PART Les Centristes (NC) LC.
-PART Les Centristes (LC) UDI.
-PART Union des démocrates et indépendants (UDI).
+PART Union pour la démocratie française PART  (UDF) PR.
+PART Parti républicain PART  (PR) UDF.
+PART Union pour la démocratie française PART  (UDF) NC.
+PART Les Centristes PART  (NC) LC.
+PART Les Centristes PART  (LC) UDI.
+PART Union des démocrates et indépendants PART  (UDI).
 FONCTIONNORM
 
 NOMF Président du conseil régional de Normandie NOMF En fonction depuis le 4 janvier 2016(2 ans, 1 mois et 19 jours) SEP2 Élection REL 4 janvier 2016 SEP3  SEP2 Prédécesseur REL Nicolas Mayer-Rossignol(Haute-Normandie)Laurent Beauvais(Basse-Normandie) SEP3 .

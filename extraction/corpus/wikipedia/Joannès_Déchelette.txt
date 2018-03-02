@@ -23,7 +23,7 @@ Désormais, Joannès Déchelette se consacre exclusivement à l'exercice de ses 
 
 
 PARTISNORM
-PART Action libérale populaire (Action libérale).
+PART Action libérale populaire PART  (Action libérale).
 FONCTIONNORM
 
 NOMF Député de la Loire NOMF 17 mars 1912 – 31 mai 1914(2 ans, 2 mois et 14 jours) SEP2 Législature REL Xe (Troisième République) SEP3  SEP2 Groupe politique REL Action libérale SEP3  SEP2 Prédécesseur REL Jules Dugoujard SEP3  SEP2 Successeur REL M. Desseignez SEP3 .

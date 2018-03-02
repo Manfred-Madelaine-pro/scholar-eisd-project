@@ -19,18 +19,18 @@ Il est le fils d'Achille Fould (1861-1926), député des Hautes-Pyrénées et le
 
 
 PARTISNORM
-PART Entente républicaine démocratique (ERD) 1919.
-PART 1919 (1919) 1924.
-PART 1924 (1924) URD.
-PART Union républicaine démocratique (URD) 1924.
-PART 1924 (1924) 1932.
-PART 1932 (1932) CR.
-PART Centre républicain (groupe parlementaire) (CR) 1932.
-PART 1932 (1932) 1936.
-PART 1936 (1936) ARGRI.
-PART Alliance des républicains de gauche et des radicaux indépendants (ARGRI) 1936.
-PART 1936 (1936) 1940.
-PART 1940 (1940).
+PART Entente républicaine démocratique PART  (ERD) 1919.
+PART 1919 PART  (1919) 1924.
+PART 1924 PART  (1924) URD.
+PART Union républicaine démocratique PART  (URD) 1924.
+PART 1924 PART  (1924) 1932.
+PART 1932 PART  (1932) CR.
+PART Centre républicain (groupe parlementaire) PART  (CR) 1932.
+PART 1932 PART  (1932) 1936.
+PART 1936 PART  (1936) ARGRI.
+PART Alliance des républicains de gauche et des radicaux indépendants PART  (ARGRI) 1936.
+PART 1936 PART  (1936) 1940.
+PART 1940 PART  (1940).
 FONCTIONNORM
 
 NOMF Ministre de l'Agriculture NOMF 14 janvier 1932 – 20 février 1932 SEP2 Gouvernement REL Laval (3) SEP3  SEP2 Gouvernement REL Laval (1) et (2) SEP3 .

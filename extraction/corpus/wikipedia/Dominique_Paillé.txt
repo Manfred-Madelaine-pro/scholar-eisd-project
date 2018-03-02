@@ -30,10 +30,10 @@ Après avoir soutenu Jean-Christophe Lagarde à la présidence de l'UDI, il int�
 
 
 PARTISNORM
-PART Union pour la démocratie française (UDF) 1993-2002.
-PART Parti radical (Parti radical) depuis 1995.
-PART Union pour un mouvement populaire (UMP) 2002-2011.
-PART Union des démocrates et indépendants (UDI) depuis 2012.
+PART Union pour la démocratie française PART  (UDF) 1993-2002.
+PART Parti radical PART  (Parti radical) depuis 1995.
+PART Union pour un mouvement populaire PART  (UMP) 2002-2011.
+PART Union des démocrates et indépendants PART  (UDI) depuis 2012.
 FONCTIONNORM
 
 NOMF Président de l'Office français de l'immigration et de l'intégration NOMF 21 janvier 2011 – 12 septembre 2011(7 mois et 22 jours) SEP2 Prédécesseur REL 1er président SEP3  SEP2 Successeur REL Arno Klarsfeld SEP3 .

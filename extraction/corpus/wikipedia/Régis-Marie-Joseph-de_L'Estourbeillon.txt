@@ -18,9 +18,9 @@ Le 11 octobre 1942, le marquis Régis de l'Estourbeillon reçut la francisque du
 
 
 PARTISNORM
-PART Union régionaliste bretonne (URB).
-PART Royalisme (Royaliste).
-PART Antisémitisme sous la Troisième République (Groupe antisémite) [1].
+PART Union régionaliste bretonne PART  (URB).
+PART Royalisme PART  (Royaliste).
+PART Antisémitisme sous la Troisième République PART  (Groupe antisémite) [1].
 FONCTIONNORM
 
 NOMF Député du Morbihan NOMF 1er juin 1898 – 7 décembre 1919 SEP2 Élection REL 22 mai 1898 SEP3  SEP2 Réélection REL 11 mai 190220 mai 19068 mai 191010 mai 1914 SEP3  SEP2 Législature REL VIIe, VIIIe, IXe, Xe et XIe SEP3  SEP2 Date de naissance REL 10 février 1858 SEP3  SEP2 Lieu de naissance REL Nantes (Loire-Inférieure, France) SEP3  SEP2 Date de décès REL 4 septembre 1946 (à 88 ans) SEP3  SEP2 Lieu de décès REL Avessac (Loire-Inférieure, France) SEP3  SEP2 Nationalité REL  France SEP3  SEP2 Parti politique REL URBRoyaliste« Groupe antisémite » [1] SEP3  SEP2 Profession REL propriétaire SEP3 .

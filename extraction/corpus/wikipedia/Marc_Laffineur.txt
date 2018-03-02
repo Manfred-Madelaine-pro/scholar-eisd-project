@@ -31,8 +31,8 @@ Il soutient Alain Juppé pour la primaire présidentielle des Républicains de 2
 
 
 PARTISNORM
-PART Union pour un mouvement populaire (UMP).
-PART Les Républicains (Les Républicains).
+PART Union pour un mouvement populaire PART  (UMP).
+PART Les Républicains PART  (Les Républicains).
 FONCTIONNORM
 
 NOMF Député de la 7e circonscriptionde Maine-et-Loire NOMF 20 juin 2012 – 20 juin 2017(5 ans) SEP2 Élection REL 17 juin 2012 SEP3  SEP2 Législature REL XIVe législature SEP3  SEP2 Groupe politique REL UMP puis LR SEP3  SEP2 Prédécesseur REL Joseph Bossé SEP3  SEP2 Successeur REL Philippe Bolo SEP3  SEP2 Successeur REL Joseph Bossé SEP3  SEP2 Élection REL 13 mars 1983 SEP3  SEP2 Prédécesseur REL Guy Pasquier SEP3 .

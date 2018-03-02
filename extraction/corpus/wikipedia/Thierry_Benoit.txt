@@ -21,7 +21,7 @@ Le 18 juin 2017, à l'issue du second tour des élections législatives, il est 
 
 
 PARTISNORM
-PART Union des démocrates et indépendants (UDI).
+PART Union des démocrates et indépendants PART  (UDI).
 FONCTIONNORM
 
 NOMF Député de la 6e circonscription d'Ille-et-Vilaine NOMF En fonction depuis le 20 juin 2007(10 ans, 8 mois et 4 jours) SEP2 Élection REL 17 juin 2007 SEP3  SEP2 Réélection REL 17 juin 201218 juin 2017 SEP3  SEP2 Législature REL XIIIe, XIVe et XVe SEP3  SEP2 Groupe politique REL LC SEP3  SEP2 Prédécesseur REL Daniel Prévost SEP3 .

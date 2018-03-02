@@ -12,8 +12,8 @@ Médecin à Saint-Antonin-Noble-Val en 1898, il est conseiller général du cant
 
 
 PARTISNORM
-PART Fédération républicaine (Fédération républicaine).
-PART Voir et modifier les données sur Wikidata ().
+PART Fédération républicaine PART  (Fédération républicaine).
+PART Voir et modifier les données sur Wikidata PART  ().
 FONCTIONNORM
 
 NOMF Député NOMF .
