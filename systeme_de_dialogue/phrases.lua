@@ -95,7 +95,7 @@ mdl_no_rep = {
 
 mdl_creatr_u = {
 	"Vos créateurs sont vos parents bien sûr !",
-	"Et bien ma foi, ce sont vos parents je présume.",
+	"He bien ma foi, ce sont vos parents je présume.",
 }
 
 mdl_bord = {

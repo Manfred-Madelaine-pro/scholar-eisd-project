@@ -25,7 +25,7 @@ local turn = 0
 local POS_KEY = 3
 local dialog  = {}
 local reponse = {}
-local prev_key = nil --TODO
+local prev_key = nil
 local enable_hist = false
 
 
@@ -92,7 +92,7 @@ function test_fonctionnel()
 		-- réponse double fusionnée
 		"qui sont les créateurs de Macron et Mélenchon ?",
 		-- Small talk
-		"Quelle est la réponse à la grande question sur la vie, l'univers et tout le reste ?","sep",
+		"Quelle est la réponse à la grande question sur la vie, l'univers et tout le reste ?",
 		--historique
 		"affiche moi l'historique", "sep",
 		
@@ -108,7 +108,6 @@ function test_fonctionnel()
 
 
 			--- Cas Limites du systèle de dialogue ---
-
 		-- clef icorrecte
 		"quelle est la date de naissance de Dominique ?",
 		-- attribut incorrect
@@ -136,10 +135,6 @@ function test_fonctionnel()
 
 		-- s'adresser au S de D de différentes façon 
 		"qui sont tes createurs ?",
-	}
-
-	local t_simple = {
-		
 		"quelles sont les professions de macron et quelle est la formation de melenchon ?",
 		"jean-luc formation ?",
 		"melenchon parti politique ?",
@@ -149,17 +144,19 @@ function test_fonctionnel()
 		"fillon bord ?",
 		"fillon professions ?",
 		"la date de naissance et le lieu de naissance de Melenchon ainsi que lieu de naissance de Macron ?",
-	
-		"Lieu de naissance de Mélenchon et qui sont tes créateurs et les miens ainsi que la date de naissance de melenchon ?","sep",
-		"Lieu de naissance de Mélenchon et qui sont tes créateurs et les miens ainsi que la date de naissance de melenchon et la formation de macron ?","sep",
-		
-		--bugg
-		"fillon date de naissance et fillon ou ?", "ou", "ou",
-		 
-		
+		--bugg corrigé
+		"fillon date de naissance et fillon ou ?", "ou", "ou",	
+		"macron date de naissance et melu ou ?", "ou", "ou",	
 	}
 
-	for i, line in pairs(t_simple) do	
+	local t_simple = {	
+		--bug
+		"Lieu de naissance de Mélenchon et qui sont tes créateurs et les miens ainsi que la date de naissance de melenchon ?","sep",
+		"Lieu de naissance de Mélenchon et qui sont tes créateurs et les miens ainsi que la date de naissance de melenchon et la formation de macron ?","sep",
+
+	}
+
+	for i, line in pairs(t_fini) do	
 		init_rep()
 		print("> "..line)
 
@@ -175,7 +172,6 @@ function bot_processing(line)
 
 	-- traitement de la ligne de texte
 	seq = lp.process(line)
-
 	print(seq:tostring(tags))
 
 	return contextual_analysis(seq)
@@ -188,13 +184,7 @@ function contextual_analysis(question)
 		dialog.hckey   = find_elm(question, l_sujets, true)
 		dialog.hctypes = find_elm(question, l_attributs, false)
 
-		-- puis on fait le lien entre hors contexte et en contexte
-		dialog.eckey, dialog.ectype = hc_to_ec(dialog.eckey, dialog.ectype, dialog.hckey, dialog.hctypes)
-		
-		-- on definie le paterne de la reponse 
-		analyse_elm(dialog.ectype, dialog.eckey, true)
-
-		update_prev_key(dialog.eckey)
+		dialog.eckey, dialog.ectype = dialogue(dialog.eckey, dialog.ectype, dialog.hckey, dialog.hctypes)
 
 		-- on rempli le paterne choisi et l'affiche a l'ecran
 		create_answer(reponse)
@@ -205,42 +195,35 @@ end
 
 -- la question est elle meme composee de deux questions ou plus
 function cas_complexe(question)
-	if (#question[t.tag(gram_Qdouble)]) ~= 0 then
-		local l_questions = t.tagstr(question, t.tag(gram_sous_quest))
-		dialog.hckey, dialog.hctypes, dialog.eckey, dialog.ectype = {}, {}, {}, {}
+	if (#question[t.tag(gram_Qdouble)]) == 0 then return false end
 
-		for i, quest in ipairs(l_questions) do
-			quest = lp.process(quest)
+	local l_questions = t.tagstr(question, t.tag(gram_sous_quest))
+	dialog.hckey, dialog.hctypes, dialog.eckey, dialog.ectype = {}, {}, {}, {}
 
-			dialog.hckey  [#dialog.hckey  +1] = find_elm(quest, l_sujets, true)
-			dialog.hctypes[#dialog.hctypes+1] = find_elm(quest, l_attributs, false)	
+	for i, quest in ipairs(l_questions) do
+		quest = lp.process(quest)
 
-			-- puis on fait le lien entre hors contexte et en contexte
-			dialog.eckey[i], dialog.ectype[i] = hc_to_ec(dialog.eckey[i], dialog.ectype[i], dialog.hckey[i], dialog.hctypes[i])
+		dialog.hckey  [#dialog.hckey  +1] = find_elm(quest, l_sujets, true)
+		dialog.hctypes[#dialog.hctypes+1] = find_elm(quest, l_attributs, false)	
 
-			-- on definie le paterne de la reponse 
-			analyse_elm(dialog.ectype[i], dialog.eckey[i], true)
-			
-			-- TODO gerer le changement de sujet par il pour une double phrase
-			update_prev_key(dialog.eckey[i])
-		end
-		create_answer(reponse)
-	else return false end
+		dialog.eckey[i], dialog.ectype[i] = dialogue(dialog.eckey[i], dialog.ectype[i], dialog.hckey[i], dialog.hctypes[i])
+	end
+
+	create_answer(reponse)
 	return true
 end
 
 
--- TODO autom
-function eeee( ... )
-
-	-- puis on fait le lien entre hors contexte et en contexte
-	dialog.eckey[i], dialog.ectype[i] = hc_to_ec(dialog.eckey[i], dialog.ectype[i], dialog.hckey[i], dialog.hctypes[i])
+function dialogue(eckey, ectype, hckey, hctypes)
+	-- on fait le lien entre hors contexte et en contexte
+	eckey, ectype = hc_to_ec(eckey, ectype, hckey, hctypes)
 
 	-- on definie le paterne de la reponse 
-	analyse_elm(dialog.ectype[i], dialog.eckey[i], true)
+	analyse_elm(ectype, eckey, true)
 	
-	-- TODO gerer le changement de sujet par il pour une double phrase
-	update_prev_key(dialog.eckey[i])
+	-- gere le changement de sujet par il pour une double phrase
+	update_prev_key(eckey)
+	return eckey, ectype
 end
 
 
@@ -364,21 +347,22 @@ function get_pattern(key, typ, is_key)
 	elseif is_special(typ) then
 		cas_special(typ, key) 
 		current_key = typ
-	elseif is_special(key) then
-		cas_special(key, typ) 
-	elseif key and typ == nil then
-		search_pattern(key, nil)
+
+	elseif is_special(key) then cas_special(key, typ) 
+
+	elseif key and typ == nil then search_pattern(key, nil)
+
 	elseif key then
 		search_pattern(typ, key)
 		current_key = typ
+
 	elseif typ then
 		res = "cette information"
 		if(#typ > 1) then res = "ces informations" end
 
 		fill_response(mdl_Qinfo, "quel politicien", res)
-	else
-		fill_response(mdl_idk, "idk")
-	end
+
+	else fill_response(mdl_idk, "idk") end
 
 	update_prev_key(current_key)	
 end
@@ -400,11 +384,11 @@ function is_special(elem)
 	
 	for i, att in pairs(tab) do
 		if t.in_list(elem, att) then
-			res=true
+			res = true
 			break
 		end
 	end
-	if elem == "$ help" then res = true end
+	if (elem == "$ help") then res = true end
 	
 	return res
 end
@@ -433,10 +417,9 @@ function cas_special(key, att)
 		return true
 	else return false end
 
-	--traitement
+	-- traitement
 	if not att then
 		if m_tutoie then m_key = "moi" end
-
 		fill_response(mdl_Qatt, "quelle information", m_key)
 
 	-- Question sur les createurs 
@@ -448,17 +431,13 @@ function cas_special(key, att)
 			for i, att in pairs(l_dev) do
 				res = res..tab..att
 			end
-		else
-			m_mdl = mdl_creatr_u
-		end
+		else m_mdl = mdl_creatr_u end
+
 		fill_response(m_mdl, "createurs", "", res)
 		
 	else
-		if m_tutoie then 
-			m_mdl = mdl_no_rep
-		else
-			m_mdl = mdl_no_gere
-		end
+		if m_tutoie then m_mdl = mdl_no_rep
+		else m_mdl = mdl_no_gere end
 
 		fill_response(m_mdl, "non_gere")
 	end
@@ -505,8 +484,7 @@ function search_tag(key, att, q_tag)
 			fill_response(mdl_t_err, "att_error ", att_value)
 		end
 	elseif res == -1 then
-		print("EROR", key_value)
-		t.print_table(key_value)
+		if type(key_value) == "table" then key_value = key_value[1] end
 		fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 	else
 		-- Choix du pronom à utiliser
@@ -519,11 +497,11 @@ function search_tag(key, att, q_tag)
 end
 
 
--- TODO clean search secondaire
+-- recherche d'attribut secondaire
 function search_tag_sec(key, att)
 	if att ~= date_sec then return false end
 
-	local res, name, firstname = -1, "", ""
+	local res, part, name, firstname = -1, "", "", ""
 
 	local key_value =  lp.search_pol(corr.corrector(key))
 	local att_value = "formation"
@@ -532,6 +510,7 @@ function search_tag_sec(key, att)
 	else
 		res       = search_in_db(db, key_value, att_value)
 		name      = search_in_db(db, key_value, db_name)
+		part      = get_particule(db, key_value, "Il/Elle")
 		firstname = search_in_db(db, key_value, db_fname)
 	end
 
@@ -541,29 +520,16 @@ function search_tag_sec(key, att)
 		fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 	else
 		att_value = "bac"
-		local pos = get_pos(res, att, "Baccalaureat")
+		local pos = t.get_pos(res, att, "Baccalaureat")
 		if pos > 0 then
 			res = att_value.." en "..search_in_db(res, pos, "date")
 		else res = "non" end
 		
-		-- Choix du pronom à utiliser
-		if t.key_is_used(dialog[#dialog-POS_KEY], key) then	
-			local  part = get_particule(db, key_value, "Il/Elle")
-			gen_answer(part, res, att_value)
+		-- TODO test Choix du pronom à utiliser
+		if key == prev_key then	gen_answer(part, res, att_value)
 
 		else gen_answer(firstname.." "..name, res, att_value) end
 	end
-end
-
-
-function get_pos(tab, att_secondaire, word)
-	-- boucle sur le nom des formation à la recherche du mot clé
-	for i,v in ipairs(tab) do
-		for w in v.name:gmatch("%w+") do 
-			if(w == word) then return i end
-		end
-	end
-	return -1
 end
 
 

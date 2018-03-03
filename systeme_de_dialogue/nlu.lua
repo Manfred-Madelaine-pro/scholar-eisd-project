@@ -66,9 +66,7 @@ l_attributs = {
 	db_death
 }
 
-att_secondaires = {
-	date_sec,
-}
+att_secondaires = {	date_sec}
 
 
 l_hist = { "historique"}
@@ -178,10 +176,10 @@ main:pattern([[
 		[]]..t.tag(gram_sous_quest)..[[  
 			((.{,4}? #gram_elm .{,4}? )+ ){2,4} 
 		] 
-		#AND 
+		(#AND 
 		[]]..t.tag(gram_sous_quest)..[[  
 			((.{,4}? #gram_elm .{,4}? )+ ){2,4} 
-		] 
+		] )+
 	]
 ]])
 
@@ -204,11 +202,10 @@ tags = {
 	["#negation"]= "red",
 	[t.tag(life)]= "red",
 	[t.tag(user)]= "red",
-	[t.tag(hist)]="magenta",
-	--[t.tag(nd_forma)] = "red",
-	[t.tag(gram_Qdouble)] = "red",
+	[t.tag(hist)]= "red",
+	[t.tag(gram_Qdouble)] = "cyan",
 	--TODO
-	[t.tag(gram_Qmult)] = "yellow",
+	[t.tag(gram_Qmult)] = "cyan",
 	[t.tag(t.qtag(db_bord))] = "red",
 	[t.tag(t.qtag(db_prof))] = "red",
 	[t.tag(gram_sous_quest)]="magenta",

@@ -34,7 +34,8 @@ function lp.split_sentence(line)
 	-- Decoupage de la phrase en plusieurs segments selon la ponctuation
 	for sen in line:gmatch("(.-[.?!])") do
 		seq = lp.process(sen)
-		traitement(seq, fichierCourant, prenom)
+		--print(main(seq):tostring(tags))
+		traitement(seq)
 	end
 end
 
@@ -43,9 +44,9 @@ end
 function lp.read_corpus(corpus_path)
 	local fic = ""
 	for f in os.dir(corpus_path) do
-		fic = lp.split(f, ".")[1]
-		prenom = lp.split(fic, "_")[1]
-		fichierCourant = lp.split(fic, "_")[2]
+		--fic = lp.split(f, ".")[1]
+		--prenom = lp.split(fic, "_")[1]
+		--fichierCourant = lp.split(fic, "_")[2]
 		print(f)
 		for line in io.lines(corpus_path.."/"..f) do
 			if line ~= "" then
@@ -59,11 +60,9 @@ end
 -- Generation de la cle unique a partir du nom & prenom d'un politicien
 function lp.gen_key(name, firstname)
 	local u_key = lp.formatage(firstname.."_"..name)
-
 	local txt = u_key:gsub(" ", "_")
 
 	if (txt ~= u_key) then u_key = txt end
-
 	return u_key
 end
 
@@ -95,7 +94,10 @@ end
 
 function get_list_pol(key)
 	local res = {}
-	key = key:gsub(" ", "")
+	t.print_table(key)
+	if(type(key) == "table") then
+		key = key[1]:gsub(" ", "")
+	else key = key:gsub(" ", "") end
 
 	for u_key, pol in pairs(db) do
 		-- cas particuloier Jean-François de Fillon
