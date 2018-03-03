@@ -23,6 +23,7 @@ exit  = "end"
 user  = "user"
 help  = "help"
 life  = "life"
+name  = "name"
 place = "lieu"
 ppn   = "pnominal" -- pronom personel nominal
 hist  = "historique"
@@ -55,7 +56,7 @@ gram_Qmult  	= "question_multiple"
 
 -- Liste d'elements
 l_sujets = {
-	ppn, user, tutoiement, fin, 
+	name, user, tutoiement, fin, 
 	t.qtag(help), life, hist, 
 }
 
@@ -100,7 +101,8 @@ end
 
 
 -- Création d'un lexique ou chargement d'un lexique existant
-t.create_lex(f_data)
+t.new_lex(ppn, f_data)
+
 
 main:lexicon("#AND", l_et)
 main:lexicon("#neg", l_neg)
@@ -152,6 +154,8 @@ main:pattern('['..t.tag(t.qtag(help))..' "$" "help" ]')
 
 main:pattern('[#negation '..t.tag(neg)..' .{,3}? "pas"]')
 
+main:pattern('['..t.tag(name)..' '..t.tag(ppn)..' ('..t.tag(ppn)..')? ]')
+
 main:pattern('"quelle" .{,3}? "reponse" .{,3}? ['..t.tag(life)..' #42 ]')
 
 main:pattern('['..t.tag(t.qtag(db_parti))..' /quels?/ .{,3}? /partis?/ ]')
@@ -183,7 +187,7 @@ main:pattern([[
 	]
 ]])
 
---TODO
+-- non operationnel
 main:pattern('['..t.tag(gram_Qmult)..' ('..t.tag(gram_Qdouble)..'){2,4} ]')
 
 
@@ -200,6 +204,7 @@ tags = {
 
 	["#AND"] = "yellow",
 	["#negation"]= "red",
+	[t.tag(name)]= "red",
 	[t.tag(life)]= "red",
 	[t.tag(user)]= "red",
 	[t.tag(hist)]= "red",

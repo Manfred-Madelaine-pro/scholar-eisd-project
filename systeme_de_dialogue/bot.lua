@@ -27,13 +27,16 @@ local dialog  = {}
 local reponse = {}
 local prev_key = nil
 local enable_hist = false
+local print_analyse = false
+
+local data_version = {"databaseFinal", "databaseBeta"}
 
 
 -- Main
 function bot.start(lst_attributs)
 	l_attributs = lst_attributs
 
-	db = dofile("database.lua")
+	db = dofile(data_version[2]..".lua")
 
 	line = ""
 
@@ -120,9 +123,12 @@ function test_fonctionnel()
 	
 	local t_preuve = {
 		-- gestion des pronoms 
-		"fillon date de naissance et ou ?", "sep",
-		"fillon date de naissance et fillon ou ?", "sep",
-		"melu ?", 
+		--"fillon date de naissance et ou ?", "sep",
+		"melenchon profession ?", 
+		"jean-luc date de naissance?", 
+		"jean-luc melenchon formation?", 
+		"de fillon ou ?", 
+		"jean-francois de fillon date de naissance ?", "sep",
 		"formation ?", 
 		"ou ?", "sep", 
 
@@ -156,7 +162,7 @@ function test_fonctionnel()
 
 	}
 
-	for i, line in pairs(t_fini) do	
+	for i, line in pairs(t_preuve) do	
 		init_rep()
 		print("> "..line)
 
@@ -171,8 +177,9 @@ function bot_processing(line)
 	dialog.quest = "quest  = "..line
 
 	-- traitement de la ligne de texte
+	line = lp.formatage(line)
 	seq = lp.process(line)
-	print(seq:tostring(tags))
+	if(print_analyse) then print(seq:tostring(tags)) end
 
 	return contextual_analysis(seq)
 end
@@ -260,10 +267,10 @@ end
 
 
 function hc_to_ec(eckey, ectype, hckey, hctypes)
-	-- lien Hors context vesr En context sur les clés
+	-- lien Hors context vers En context sur les clés
 	eckey = update_context(hckey, hctypes, eckey)
 
-	-- lien Hors context vesr En context sur les types
+	-- lien Hors context vers En context sur les types
 	ectype = update_context(hctypes, hckey, ectype)
 	return eckey, ectype
 end

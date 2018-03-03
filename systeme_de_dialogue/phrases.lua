@@ -18,14 +18,16 @@ start = {
 	"La route vers un dialogue naturel est droite.. mais la pente est forte ! \z
 		Jessayerai donc de répondre au mieux à vos questions mais épargnez mes maladresses.",
 	"Bonjour ! Je suis "..BOT_NAME..", l'As des Politiciens Français. Comment puis-je vous aider ?",
+	"Bonjour, je m'appelle "..BOT_NAME..", que puis-je faire pour vous ?",
+	"Salut ! :)",
 	"Qu'est-ce qu'un pléonasme me demanderez-vous ? He bien c'est dire d'un Macroniste qu'il est de droite !",
+	"Voici un Jeune et Beau projet Disruptif et Dynamique ! "..BOT_NAME.." se met En Marche !",
+	"Je vous ai compris !! Que puis-je faire pour vous, habitant de Gaulle ?",
+	
 	"Il n'y a rien de plus terrible pour un soldat déjà anonyme que de mourir inconnu. - F. Hollande.",
 	"Le pouvoir d'achat des Français s’est amélioré même s'ils ne s’en rendent pas compte. - M. Sapin",
-	"Voici un Jeune et Beau projet Disruptif et Dynamique ! "..BOT_NAME.." se met En Marche !",
 	"Pourquoi démissionner quand on est innocent ? - L'innocence, par J. Cahuzac.",
-	"Bonjour, je m'appelle "..BOT_NAME..", que puis-je faire pour vous ?",
-	"Je vous ai compris !! Que puis-je faire pour vous, habitant de Gaulle ?",
-	"Salut ! :)",
+	"Quand Chirac vient me voir à l'Élysée, il monte le perron avec ses idées puis redescend avec les miennes. - F. Mitterrand",
 }
 
 mode = "Choisissez un mode : (q pour quitter)\n\z

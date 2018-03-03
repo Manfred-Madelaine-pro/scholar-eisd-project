@@ -240,6 +240,16 @@ return {
 	
 	},
 
+	["jean-francois_de_fill"] = {
+		name = "de Fill",
+		firstname = "Jean-François",
+		gender = nil,
+	
+		birth = "4 mars 1954",
+		death = nil,
+		birthplace = "Mans (Sarthe)",
+	},
+
 	["jean-francois_de_fillon"] = {
 		name = "de Fillon",
 		firstname = "Jean-François",

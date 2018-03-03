@@ -31,14 +31,6 @@ function t.bot_answer(answer)
 end
 
 
-
--- Cree l'ensemble des lexiques
-function t.create_lex(f_data)
-	t.new_lex(place, f_data)
-	t.new_lex(ppn, f_data)
-end
-
-
 function t.new_lex(tag, f_data)
 	main:lexicon(t.tag(tag), f_data..tag..".txt")
 end
