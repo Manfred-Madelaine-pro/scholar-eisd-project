@@ -47,7 +47,7 @@ function lp.read_corpus(corpus_path)
 		--fic = lp.split(f, ".")[1]
 		--prenom = lp.split(fic, "_")[1]
 		--fichierCourant = lp.split(fic, "_")[2]
-		print(f)
+		--print(f)
 		for line in io.lines(corpus_path.."/"..f) do
 			if line ~= "" then
 				lp.split_sentence(line)

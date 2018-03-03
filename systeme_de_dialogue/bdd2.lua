@@ -88,8 +88,8 @@ tool.new_lex(ppn, f_data)
 tool.new_lex(place, f_data)
 --tool.new_lex(prenomsMasculins, f_data)
 --tool.new_lex(prenomsFeminins, f_data)
-main:pattern('"PRETAG" [#prenomDef .*?] "PRETAG"')
-main:pattern('"NOMTAG" [#nomDef .*?] "NOMTAG"')
+main:pattern('"pretag" [#prenomDef .*?] "pretag"')
+main:pattern('"nomtag" [#nomDef .*?] "nomtag"')
 
 main:pattern('[#annee /^%d%d%d%d$/]')
 
@@ -120,9 +120,9 @@ main:pattern('[#raccourcis "(" [#acc .{,6}] ")"]')
 main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
 
 
-main:pattern('"NOMF" [#nomFonc .*?] "NOMF"')
-main:pattern('"NOMF" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)] ("(" .*? ")")?')
-main:pattern('"SEP2" [#fonc [#arg .*?] "REL" [#val .*?]] "SEP3"')
+main:pattern('"nomf" [#nomFonc .*?] "nomf"')
+main:pattern('"nomf" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)] ("(" .*? ")")?')
+main:pattern('"sep2" [#fonc [#arg .*?] "rel" [#val .*?]] "sep3"')
 
 
 main:pattern('[#bac ("Il"|"Elle")? ("obtient"|"reçoit"|"decroche") .*? ("baccalaureat"|"bac") .*? ("en" [#anneeObtention #annee])?]')
@@ -186,6 +186,7 @@ function traitement(seq)
 	--print("\n\n " .. fichierCourant .. "\n\n")
 
 	if havetag(seq, "#nomDef") then
+		print(AAA)
 		nomC = tagstr2(seq, "#nomDef")
 	end
 
@@ -194,6 +195,8 @@ function traitement(seq)
 	end
 
 	local fichierCourant = lp.gen_key(nomC, prenomC)
+
+	--print(nomC)
 
 	if(db[fichierCourant] == nil) then
 		db[fichierCourant] = {
