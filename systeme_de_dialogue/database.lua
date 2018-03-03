@@ -1,5 +1,5 @@
 return {
-	["melenchon"] = {
+	["jean-luc_melenchon"] = {
 		name = "Mélenchon",
 		firstname = "Jean-Luc",
 		particule = "Il",
@@ -64,7 +64,7 @@ return {
 		}
 	},
 
-	["macron"] = {
+	["emmanuel_macron"] = {
 		name = "Macron",
 		firstname = "Emmanuel",
 		particule = "Il",
@@ -97,12 +97,14 @@ return {
 				acronyme = "EM",
 				date_adhesion = "2016",
 				date_depart = nil,
+				particule = "",
 			},
 
 			[2] = {
 				nom = "Parti Socialiste",
 				acronyme = "PS",
 				date_adhesion = nil,
+				particule = "le",
 				date_depart = nil,
 			},
 		},
@@ -124,7 +126,7 @@ return {
 			},
 		}
 	},
-	["auffray"] = {
+	["charles_auffray"] = {
 		name = "Auffray",
 		firstname = "Charles",
 		particule = "Il",
@@ -161,7 +163,7 @@ return {
 			}
 		},
 	},
-	["laguiller"] = {
+	["arlette_laguiller"] = {
 		name = "Laguiller",
 		firstname = "Arlette",
 		particule = "Elle",
@@ -200,7 +202,7 @@ return {
 		},
 	},
 
-	["glotin"] = {
+	["paul_glotin"] = {
 		name = "Glotin",
 		firstname = "Paul",
 		gender = nil,
@@ -227,7 +229,7 @@ return {
 		},
 	},
 
-	["bocueil"] = {
+	["louis_bocueil"] = {
 		name = "Bocueil",
 		firstname = "Louis",
 		gender = nil,
@@ -238,9 +240,19 @@ return {
 	
 	},
 
-	["fillon"] = {
-		name = "De la Fillon",
-		firstname = "Françoiséé",
+	["jean-francois_de_fillon"] = {
+		name = "de Fillon",
+		firstname = "Jean-François",
+		gender = nil,
+	
+		birth = "4 mars 1954",
+		death = nil,
+		birthplace = "Mans (Sarthe)",
+	},
+
+	["francois_fillon"] = {
+		name = "Fillon",
+		firstname = "François",
 		gender = nil,
 	
 		birth = "4 mars 1954",

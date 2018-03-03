@@ -52,6 +52,7 @@ mdl_idk = {
 	"Je ne vois vraiment pas quoi vous répondre :(",
 	"Error 404 incorrect sentence, sorry...",
 	"Comment puis-je répondre à cela ?",
+	"Serait-ce là du charabia ?",
 	"Nani ?",
 }
 
@@ -121,6 +122,11 @@ mdl_alive = {
 	"N'enterrez pas "..tool.bls(sjt).." trop tôt, "..tool.bls(res).." est encore en vie.", 
 	"C'est-à-dire que "..tool.bls(sjt).." est encore en vie, pour le meilleur... et pour le pire !",
 	"Figurez-vous que "..tool.bls(sjt).." n'est pas mort, "..tool.bls(res).." est bel et bien vivant !", 
+}
+
+mdl_choose_pol = {
+	"De qui parlez-vous exactement ?"..tool.bls(res),
+	"Pouvez vous choisir le politicien dont vous parlez ?"..tool.bls(res),
 }
 
 
