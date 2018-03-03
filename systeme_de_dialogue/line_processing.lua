@@ -34,7 +34,7 @@ function lp.split_sentence(line)
 	for sen in line:gmatch("(.-[.?!])") do
 		seq = lp.process(sen)
 		--print(main(seq):tostring(tags))
-		traitement(seq, fichierCourant, prenom)
+		traitement(seq)
 	end
 end
 
@@ -43,9 +43,9 @@ end
 function lp.read_corpus(corpus_path)
 	local fic = ""
 	for f in os.dir(corpus_path) do
-		fic = lp.split(f, ".")[1]
-		prenom = lp.split(fic, "_")[1]
-		fichierCourant = lp.split(fic, "_")[2]
+		--fic = lp.split(f, ".")[1]
+		--prenom = lp.split(fic, "_")[1]
+		--fichierCourant = lp.split(fic, "_")[2]
 		print(f)
 		for line in io.lines(corpus_path.."/"..f) do
 			if line ~= "" then
@@ -58,6 +58,7 @@ end
 
 -- Generation de la cle unique a partir du nom & prenom d'un politicien
 function lp.gen_key(nom, prenom)
+
 	local u_key = prenom.."_"..nom
 	u_key = string.lower( c.cleaner(u_key))
 	local txt = u_key:gsub(" ", "_")

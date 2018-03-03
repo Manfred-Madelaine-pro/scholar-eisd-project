@@ -10,6 +10,8 @@ main:basic()
 -- Tag names
 place = "lieu"
 ppn = "pnominal"
+prenomsMasculins = "prenomM"
+prenomsFeminins = "prenomF"
 parti = "partis"
 ecole = "ecole"
 
@@ -84,26 +86,28 @@ end
 main:lexicon("#mois", {"janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre"})
 tool.new_lex(ppn, f_data)
 tool.new_lex(place, f_data)
---tool.new_lex(ecole, f_data)
+--tool.new_lex(prenomsMasculins, f_data)
+--tool.new_lex(prenomsFeminins, f_data)
+main:pattern('"PRETAG" [#prenomDef .*?] "PRETAG"')
+main:pattern('"NOMTAG" [#nomDef .*?] "NOMTAG"')
 
 main:pattern('[#annee /^%d%d%d%d$/]')
 
 main:pattern('[#date #d #mois #annee]')
 
 main:pattern('("ne"|"nee"|"nait") .*? "le" [#dateNaissance #date]')
-main:pattern('("ne"|"nee"|"nait") .*? "a" [#lieuNaissance' ..tool.tag(place).. ']')
+main:pattern('("ne"|"nee"|"nait") .*? "a" [#lieuNaissance #POS=NNP+]')
 
-main:pattern('[#prenom'..tool.tag(ppn)..'] [#nom .{,2}? ( #POS=NNP+ | #W )+]')
+--main:pattern('[#prenom'..tool.tag(ppn)..'] [#nom .{,2}? ( #POS=NNP+ | #W )+]')
 
---main:pattern('[#prenomDef #prenom] #prenom*')
 
---main:pattern('("fils"|"fille") .*? "de" [#prenomParent1 #prenom] [#nomParent1 #nom]?')
---main:pattern('#prenomParent1 .*? "et" "de" [#prenomParent2 #prenom] [#nomParent2 #nom]?')
 main:pattern('[#parent1 ("fils"|"fille") .*? "de" #prenom #nom? ("," [#metier .*?] ",")?]')
 main:pattern('#parent1 .*? "et" "de" [#parent2 #prenom #nom? ("," [#metier .*?] ",")?]')
 main:pattern('("compagne"|"femme") [#femme #prenom #nom?]')
+--main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#fils [#prenom ' ..tool.tag(prenomsMasculins).. '] [#nom #POS=NNP+]?]')
+--main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#fille [#prenom ' ..tool.tag(prenomsFeminins).. '] [#nom #POS=NNP+]?]')
 
---main:pattern('[#parti'..tool.get_tag(parti)..']')
+
 main:pattern('[#intervalDate (#annee "-"|"depuis") #annee]')
 main:pattern('[#raccourcis "(" [#acc .{,4}] ")"]')
 main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
@@ -113,12 +117,11 @@ main:pattern('"NOMF" [#nomFonc .*?] "NOMF"')
 main:pattern('"NOMF" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)] ("(" .*? ")")?')
 main:pattern('"SEP2" [#fonc [#arg .*?] "REL" [#val .*?]] "SEP3"')
 
+
 main:pattern('[#bac ("Il"|"Elle")? ("obtient"|"reçoit"|"decroche") .*? ("baccalaureat"|"bac") .*? ("en" [#anneeObtention #annee])?]')
 
 main:pattern('[#fac "faculte" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*?] ("en" [#anneeObtention #annee])]')
 main:pattern('[#fac "faculte" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*?] ("en" [#anneeObtention #annee])?]')
-
---main:pattern('"NEW" [#fonc .*?] "SEP"')
 
 
 
@@ -143,6 +146,8 @@ tags = {
 	["#nom"] = "red",
 	["#raccourcis"] = "red",	
 	["#intervalDate"] = "red",
+	["#prenomDef"] = "red",
+	["#nomDef"] = "red",
 	
 }
 
@@ -152,15 +157,36 @@ db = {
 	}
 }
 
-function traitement(seq, nom, prenomm)
-	local fichierCourant = string.lower(c.cleaner(nom))
+nomC = ""
+prenomC = ""
+
+function traitement(seq)
+	--local fichierCourant = string.lower(c.cleaner(nom))
+	--if(db[fichierCourant] == nil) then
+	--	db[fichierCourant] = {
+	--		nom = nom,
+	--		prenom = prenomm,
+	--	}
+	--end
+	--print("\n\n " .. fichierCourant .. "\n\n")
+
+	if havetag(seq, "#nomDef") then
+		nomC = tagstr2(seq, "#nomDef")
+	end
+
+	if havetag(seq, "#prenomDef") then
+		prenomC = tagstr2(seq, "#prenomDef")
+	end
+
+	local fichierCourant = lp.gen_key(nomC, prenomC)
+
 	if(db[fichierCourant] == nil) then
 		db[fichierCourant] = {
-			nom = nom,
-			prenom = prenomm,
+			prenom = prenomC,
+			nom = nomC,
 		}
 	end
-	--print("\n\n " .. fichierCourant .. "\n\n")
+	
 	if havetag(seq, "#dateNaissance") then
 		local date = tagstr2(seq, "#dateNaissance")
 		db[fichierCourant].dateNaissance = date
@@ -194,16 +220,30 @@ function traitement(seq, nom, prenomm)
 	end
 	
 	if havetag(seq, "#parti") then
+		local dateDeb = nil
+		local dateFin = nil
 		local nomPa = GetValueInLink(seq, "#nom", "#parti")
 		local racc = GetValueInLink(seq, "#acc", "#parti")
 		local int = GetValueInLink(seq, "#intervalDate", "#parti")
+		if(int ~= nil) then
+			dateDeb = lp.split(int, " - ")[1]
+			if(dateDeb == "Depuis" or dateDeb == "depuis") then
+				dateDeb = lp.split(int, " - ")[2]
+				dateFin = ""
+			else
+				dateFin = lp.split(int, " - ")[3]
+			end
+			
+		end
+			
 		if(db[fichierCourant].parti == nil) then
 			db[fichierCourant].parti = {}
 		end
 		db[fichierCourant].parti[#db[fichierCourant].parti + 1] = {
 			nom = nomPa,
 			acronyme = racc,
-			dates = int,
+			date_deb = dateDeb,
+			date_fin = dateFin,
 		}
 	end
 	
