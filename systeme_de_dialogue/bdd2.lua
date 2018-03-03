@@ -106,7 +106,11 @@ main:pattern('[#femme "est" .*? "femme" "politique"]')
 main:pattern('[#parent1 ("fils"|"fille") .*? "de" #prenom #nom? ("," [#metier .*?] ",")?]')
 main:pattern('#parent1 .*? "et" "de" [#parent2 #prenom #nom? ("," [#metier .*?] ",")?]')
 main:pattern('("compagne"|"femme") [#femme #prenom #nom?]')
---main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#fils [#prenom ' ..tool.tag(prenomsMasculins).. '] [#nom #POS=NNP+]?]')
+main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#enfant [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('"sa" "fille" [#fille [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('"son" "fils" [#fils [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('"son" "frère" [#frere [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('"sa" "soeur" [#soeur [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 --main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#fille [#prenom ' ..tool.tag(prenomsFeminins).. '] [#nom #POS=NNP+]?]')
 
 
