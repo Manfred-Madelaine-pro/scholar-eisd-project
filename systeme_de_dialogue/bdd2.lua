@@ -105,17 +105,18 @@ main:pattern('[#femme "est" .*? "femme" "politique"]')
 
 main:pattern('[#parent1 ("fils"|"fille") .*? "de" #prenom #nom? ("," [#metier .*?] ",")?]')
 main:pattern('#parent1 .*? "et" "de" [#parent2 #prenom #nom? ("," [#metier .*?] ",")?]')
-main:pattern('("compagne"|"femme") [#femme #prenom #nom?]')
-main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#enfant [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('(/[I|i]l/|"Elle") .*? ("mère"|"père") "de" [#enfant [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 main:pattern('"sa" "fille" [#fille [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 main:pattern('"son" "fils" [#fils [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 main:pattern('"son" "frère" [#frere [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 main:pattern('"sa" "soeur" [#soeur [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('"est" ("le"|"la") ("fille"|"fils") ("de"|"du") .*? [#parent [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('("est"|"etait") ("marié"|"mariée"|"divorcé"|"divorcée") ("de"|"a") [#conjoint [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 --main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#fille [#prenom ' ..tool.tag(prenomsFeminins).. '] [#nom #POS=NNP+]?]')
 
 
 main:pattern('[#intervalDate (#annee "-"|"depuis") #annee]')
-main:pattern('[#raccourcis "(" [#acc .{,4}] ")"]')
+main:pattern('[#raccourcis "(" [#acc .{,6}] ")"]')
 main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
 
 
@@ -134,6 +135,13 @@ main:pattern('[#fac "faculte" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*
 tags = {
 	["#dateNaissance"] = "yellow",
 	["#lieuNaissance"] = "green",
+	["#enfant"] = "red",
+	["#frere"] = "red",
+	["#soeur"] = "red",
+	["#conjoint"] = "red",
+	["#parent"] = "red",
+	["#fille"] = "red",
+	["#fils"] = "red",
 	["#parent1"] = "red",
 	["#parent2"] = "red",
 	["#metier"] = "green",
@@ -209,11 +217,106 @@ function traitement(seq)
 		db[fichierCourant].lieuNaissance = lieu
 	end
 
+	if(db[fichierCourant].famille == nil) then
+		db[fichierCourant].famille = {}
+	end
+
+	if havetag(seq, "#parent") then
+		local prenom = GetValueInLink(seq, "#prenom", "#parent")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#parent")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "parent",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+	
+	if havetag(seq, "#fille") then
+		local prenom = GetValueInLink(seq, "#prenom", "#fille")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#fille")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "fille",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+
+	if havetag(seq, "#fils") then
+		local prenom = GetValueInLink(seq, "#prenom", "#fils")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#fils")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "fils",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+
+	if havetag(seq, "#frere") then
+		local prenom = GetValueInLink(seq, "#prenom", "#frere")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#frere")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "frere",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+
+	if havetag(seq, "#soeur") then
+		local prenom = GetValueInLink(seq, "#prenom", "#soeur")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#soeur")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "soeur",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+
+	if havetag(seq, "#conjoint") then
+		local prenom = GetValueInLink(seq, "#prenom", "#conjoint")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#conjoint")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "conjoint",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+
 	if havetag(seq, "#parent1") then
 		local prenomP = GetValueInLink(seq, "#prenom", "#parent1")
 		local nomP = GetValueInLink(seq, "#nom", "#parent1")
 		local met = GetValueInLink(seq, "#metier", "#parent1")
-		db[fichierCourant].famille["Parent1"] = {
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "parent",
 			prenom = prenomP,
 			nom = nomP,
 			profession = met,
@@ -224,7 +327,8 @@ function traitement(seq)
 		local prenomP = GetValueInLink(seq, "#prenom", "#parent2")
 		local nomP = GetValueInLink(seq, "#nom", "#parent2")
 		local met = GetValueInLink(seq, "#metier", "#parent2")
-		db[fichierCourant].famille["Parent2"] = {
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "parent",
 			prenom = prenomP,
 			nom = nomP,
 			profession = met,
@@ -307,7 +411,7 @@ function traitement(seq)
 end
 
 
-local f_test = "../extraction/corpus/wikipedia"
+local f_test = "../extraction/corpus/wikipedia/"
 --local f_test = "../test"
 lp.read_corpus(f_test)
 
