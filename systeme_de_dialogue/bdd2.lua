@@ -96,7 +96,9 @@ main:pattern('[#annee /^%d%d%d%d$/]')
 main:pattern('[#date #d #mois #annee]')
 
 main:pattern('("ne"|"nee"|"nait") .*? "le" [#dateNaissance #date]')
-main:pattern('("ne"|"nee"|"nait") .*? "a" [#lieuNaissance #POS=NNP+]')
+main:pattern('("ne"|"nee"|"nait") .*? "a"|"au" [#lieuNaissance #POS=NNP+]')
+
+main:pattern('[#femme "est" .*? "femme" "politique"]')
 
 --main:pattern('[#prenom'..tool.tag(ppn)..'] [#nom .{,2}? ( #POS=NNP+ | #W )+]')
 
@@ -148,6 +150,7 @@ tags = {
 	["#intervalDate"] = "red",
 	["#prenomDef"] = "red",
 	["#nomDef"] = "red",
+	["#femme"] = "red",
 	
 }
 
@@ -184,7 +187,12 @@ function traitement(seq)
 		db[fichierCourant] = {
 			prenom = prenomC,
 			nom = nomC,
+			particule = "Il",
 		}
+	end
+
+	if havetag(seq, "#femme") then
+		db[fichierCourant].particule = "Elle"
 	end
 	
 	if havetag(seq, "#dateNaissance") then
