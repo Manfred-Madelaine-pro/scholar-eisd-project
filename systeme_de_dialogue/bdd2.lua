@@ -186,7 +186,6 @@ function traitement(seq)
 	--print("\n\n " .. fichierCourant .. "\n\n")
 
 	if havetag(seq, "#nomDef") then
-		print(AAA)
 		nomC = tagstr2(seq, "#nomDef")
 	end
 
@@ -196,7 +195,7 @@ function traitement(seq)
 
 	local fichierCourant = lp.gen_key(nomC, prenomC)
 
-	--print(nomC)
+	--print(fichierCourant)
 
 	if(db[fichierCourant] == nil) then
 		db[fichierCourant] = {
