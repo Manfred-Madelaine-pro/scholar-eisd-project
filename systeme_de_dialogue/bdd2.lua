@@ -7,15 +7,6 @@ main = dark.pipeline()
 main:basic()
 main:model("postag-fr")
 
--- Tag names
-place = "lieu"
-ppn = "pnominal"
-prenomsMasculins = "prenomM"
-prenomsFeminins = "prenomF"
-parti = "partis"
-ecole = "ecole"
-
-local f_data = "data/"
 
 function tagstr(s, tag, lim_debut, lim_fin)
 	lim_debut = lim_debut or 1
@@ -82,11 +73,180 @@ function GetValueInLink(seq, entity, link)
 	return nil
 end
 
+function couvertureTotale()
+	local datab = dofile("databaseFinal.lua")
+
+	local outfile = io.open("couverture.lua", "w")
+	outfile:write("Couverture\n")
+	
+	local wr = ""
+
+	local i = 0
+	local name = 0
+	local firstname = 0
+	local birth = 0
+	local birthplace = 0
+	local particule = 0
+
+	local famille = 0
+	local parti = 0
+	local formation = 0
+	local profession = 0
+
+	local nomFam = 0
+	local prenomFam = 0
+	local statut = 0
+	local professionFam = 0
+	local nbMembreF = 0
+
+	local nbParti = 0
+	local nomParti = 0
+	local acronyme = 0
+	local dateDebP = 0
+	local dateFinP = 0
+
+	local nbProf = 0
+	local intitule = 0
+	local dateDep = 0
+	local dateAd = 0
+
+	local nbForm = 0
+	local nomForm = 0
+	local dateOb = 0
+	local lieu = 0
+	local sujet = 0
+	for k, v in pairs(datab) do
+		i = i + 1
+		if(v.name ~= nil and v.name ~= "") then
+			name = name + 1
+		end
+		if(v.firstname ~= nil and v.firstname ~= "") then
+			firstname = firstname + 1
+		end
+		if(v.birth ~= nil and v.birth ~= "") then
+			birth = birth + 1
+		end
+		if(v.birthplace ~= nil and v.birthplace ~= "") then
+			birthplace = birthplace + 1
+		end
+		if(v.particule ~= nil and v.particule ~= "") then
+			particule = particule + 1
+		end
+
+		if(v.famille ~= nil and #v.famille ~= 0) then
+			famille = famille + 1
+			for k2, v2 in pairs(v.famille) do
+				nbMembreF = nbMembreF + 1
+				if(v2.nom ~= nil and v2.nom ~= "") then
+					nomFam = nomFam + 1
+				end
+				if(v2.prenom ~= nil and v2.prenom ~= "") then
+					prenomFam = prenomFam + 1
+				end
+				if(v2.statut ~= nil and v2.statut ~= "") then
+					statut = statut + 1
+				end
+				if(v2.profession ~= nil and v2.profession ~= "") then
+					professionFam = professionFam + 1
+				end
+			end
+		end
+		if(v.parti ~= nil and #v.parti ~= 0) then
+			parti = parti + 1
+			for k2, v2 in pairs(v.parti) do
+				nbParti = nbParti + 1
+				if(v2.nom ~= nil and v2.nom ~= "") then
+					nomParti = nomParti + 1
+				end
+				if(v2.acronyme ~= nil and v2.acronyme ~= "") then
+					acronyme = acronyme + 1
+				end
+				if(v2.date_deb ~= nil and v2.date_deb ~= "") then
+					dateDebP = dateDebP + 1
+				end
+				if(v2.date_fin ~= nil and v2.date_fin ~= "") then
+					dateFinP = dateFinP + 1
+				end
+			end
+		end
+		if(v.profession ~= nil and #v.profession ~= 0) then
+			profession = profession + 1
+			for k2, v2 in pairs(v.profession) do
+				nbProf = nbProf + 1
+				if(v2.intitule ~= nil and v2.intitule ~= "") then
+					intitule = intitule + 1
+				end
+				if(v2.date_adhesion ~= nil and v2.date_adhesion ~= "") then
+					dateAd = dateAd + 1
+				end
+				if(v2.date_depart ~= nil and v2.date_depart ~= "") then
+					dateDep = dateDep + 1
+				end
+			end
+		end
+		if(v.formation ~= nil and #v.formation ~= 0) then
+			formation = formation + 1
+			for k2, v2 in pairs(v.formation) do
+				nbForm = nbForm + 1
+				if(v2.name ~= nil and v2.name ~= "") then
+					nomForm = nomForm + 1
+				end
+				if(v2.sujet ~= nil and v2.sujet ~= "") then
+					sujet = sujet + 1
+				end
+				if(v2.lieu ~= nil and v2.lieu ~= "") then
+					lieu = lieu + 1
+				end
+				if(v2.date ~= nil and v2.date ~= "") then
+					dateOb = dateOb + 1
+				end
+			end
+		end
+		
+	end
+
+	wr = wr .. "Nombre de personnalités politiques : " .. tostring(i) .. "\n"
+	.. "name : " .. tostring(name) .. " couverture : " .. tostring((name / i) * 100) .. "%\n"
+	.. "firstname : " .. tostring(firstname) .. " couverture : " .. tostring((firstname / i) * 100) .. "%\n"
+	.. "birth : " .. tostring(birth) .. " couverture : " .. tostring((birth / i) * 100) .. "%\n"
+	.. "birthplace : " .. tostring(birthplace) .. " couverture : " .. tostring((birthplace / i) * 100) .. "%\n"
+	.. "particule : " .. tostring(particule) .. " couverture : " .. tostring((particule / i) * 100) .. "%\n"
+
+	.. "famille : " .. tostring(famille) .. " couverture : " .. tostring((famille / i) * 100) .. "%\n"
+	.. "\t Nombre total de membres de famille : " .. tostring(nbMembreF) .. "\n"
+	.. "\t Nom : " .. tostring(nomFam) .. " couverture : " .. tostring((nomFam / nbMembreF) * 100) .. "%\n"
+	.. "\t Prénom : " .. tostring(prenomFam) .. " couverture : " .. tostring((prenomFam / nbMembreF) * 100) .. "%\n"
+	.. "\t Statut : " .. tostring(statut) .. " couverture : " .. tostring((statut / nbMembreF) * 100) .. "%\n"
+	.. "\t Métier : " .. tostring(professionFam) .. " couverture : " .. tostring((professionFam / nbMembreF) * 100) .. "%\n"
+
+	.. "parti : " .. tostring(parti) .. " couverture : " .. tostring((parti / i) * 100) .. "%\n"
+	.. "\t Nombre total de partis : " .. tostring(nbParti) .. "\n"
+	.. "\t Nom : " .. tostring(nomParti) .. " couverture : " .. tostring((nomParti / nbParti) * 100) .. "%\n"
+	.. "\t Acronyme : " .. tostring(acronyme) .. " couverture : " .. tostring((acronyme / nbParti) * 100) .. "%\n"
+	.. "\t Date adhésion : " .. tostring(dateDebP) .. " couverture : " .. tostring((dateDebP / nbParti) * 100) .. "%\n"
+	.. "\t Date départ : " .. tostring(dateFinP) .. " couverture : " .. tostring((dateFinP / nbParti) * 100) .. "%\n"
+	
+	.. "profession : " .. tostring(profession) .. " couverture : " .. tostring((profession / i) * 100) .. "%\n"
+	.. "\t Nombre total de professions : " .. tostring(nbProf) .. "%\n"
+	.. "\t Nom : " .. tostring(intitule) .. " couverture : " .. tostring((intitule / nbProf) * 100) .. "%\n"
+	.. "\t Date adhésion : " .. tostring(dateAd) .. " couverture : " .. tostring((dateAd / nbProf) * 100) .. "%\n"
+	.. "\t Date départ : " .. tostring(dateDep) .. " couverture : " .. tostring((dateDep / nbProf) * 100) .. "%\n"
+
+	.. "formation : " .. tostring(formation) .. " couverture : " .. tostring((formation / i) * 100) .. "%\n"
+	.. "\t Nombre total de formations : " .. tostring(nbForm) .. "\n"
+	.. "\t Nom : " .. tostring(nomForm) .. " couverture : " .. tostring((nomForm / nbForm) * 100) .. "%\n"
+	.. "\t Sujet : " .. tostring(sujet) .. " couverture : " .. tostring((sujet / nbForm) * 100) .. "%\n"
+	.. "\t Lieu : " .. tostring(lieu) .. " couverture : " .. tostring((lieu / nbForm) * 100) .. "%\n"
+	.. "\t Date obtention : " .. tostring(dateOb) .. " couverture : " .. tostring((dateOb / nbForm) * 100) .. "%\n"
+	
+	outfile:write(wr)
+	outfile.close()
+	print(wr)
+end
+
 
 main:lexicon("#mois", {"janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre"})
 
---tool.new_lex(prenomsMasculins, f_data)
---tool.new_lex(prenomsFeminins, f_data)
 main:pattern('"PRETAG" [#prenomDef .*?] "PRETAG"')
 main:pattern('"NOMTAG" [#nomDef .*?] "NOMTAG"')
 
@@ -98,8 +258,6 @@ main:pattern('("né"|"née"|"nait") .*? "le" [#dateNaissance #date]')
 main:pattern('("né"|"née"|"nait") .*? ("à"|"au") [#lieuNaissance #POS=NNP+]')
 
 main:pattern('[#femme "est" .*? "femme" "politique"]')
-
---main:pattern('[#prenom'..tool.tag(ppn)..'] [#nom .{,2}? ( #POS=NNP+ | #W )+]')
 
 
 main:pattern('[#pre #POS=NNP]')
@@ -113,7 +271,6 @@ main:pattern('"son" "frère" [#frere [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 main:pattern('"sa" "soeur" [#soeur [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 main:pattern('"est" ("le"|"la") ("fille"|"fils") ("de"|"du") .*? [#parent [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 main:pattern('("est"|"était") ("marié"|"mariée"|"divorcé"|"divorcée") ("de"|"à") [#conjoint [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
---main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#fille [#prenom ' ..tool.tag(prenomsFeminins).. '] [#nom #POS=NNP+]?]')
 
 
 main:pattern('[#intervalDate (#annee ("-"|"–"|"depuis")) #annee]')
@@ -123,8 +280,7 @@ main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
 
 main:pattern('"NOMF" [#nomFonc .*?] ([#dateFonc #annee ("-"|"–") #annee])? ("(" .*? ")")? "NOMF"')
 main:pattern('"NOMF" [#dateFonc #annee ("-"|"–") #annee]')
---main:pattern('"NOMF" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)] ("(" .*? ")")?')
-main:pattern('"NOMF" ("en" "fonction")? [#depuis ("depuis")?] ("le")? [#dateD #date] ("-"|"–")? [#dateF (#date)?]')
+main:pattern('"NOMF" (("en"|"En") "fonction")? [#depuis ("depuis")?] ("le")? [#dateD #date] ("-"|"–")? [#dateF (#date)?]')
 main:pattern('"SEP2" [#fonc [#arg .*?] "rel" [#val .*?]] "SEP3"')
 
 
@@ -139,7 +295,7 @@ main:pattern('[#licence [#nom ("licence"|"master"|"Licence"|"Master") #d?] ("de"
 
 tags = {
 	--["#pre"] = "green",
-	--[[["#dateNaissance"] = "yellow",
+	["#dateNaissance"] = "yellow",
 	["#lieuNaissance"] = "green",
 	["#enfant"] = "red",
 	["#frere"] = "red",
@@ -170,16 +326,14 @@ tags = {
 	["#date"] = "red",
 	["#dateD"] = "red",
 	["#dateF"] = "red",
-	["#depuis"] = "red",]]
+	["#depuis"] = "red",
 	["#bac"] = "blue",
 	["#licence"] = "blue",
 	
 }
 
 db = {
-	["JLM"] = {
-
-	}
+	
 }
 
 nomC = ""
@@ -188,14 +342,6 @@ aLic = 0
 aBac = 0
 
 function traitement(seq)
-	--local fichierCourant = string.lower(c.cleaner(nom))
-	--if(db[fichierCourant] == nil) then
-	--	db[fichierCourant] = {
-	--		nom = nom,
-	--		prenom = prenomm,
-	--	}
-	--end
-	--print("\n\n " .. fichierCourant .. "\n\n")–
 
 	if havetag(seq, "#nomDef") then
 		aLic = 0
@@ -208,8 +354,6 @@ function traitement(seq)
 	end
 
 	local fichierCourant = lp.gen_key(nomC, prenomC)
-
-	--print(fichierCourant)
 
 	if(db[fichierCourant] == nil) then
 		db[fichierCourant] = {
@@ -467,9 +611,9 @@ function traitement(seq)
 end
 
 
-local f_test = "../extraction/corpus/wikipedia/"
---local f_test = "../test"
-lp.read_corpus(f_test)
+local corpus = "../extraction/corpus/wikipedia/"
+lp.read_corpus(corpus)
+--couvertureTotale()
 
 local outfile = io.open("databaseTemp.lua", "w")
 outfile:write("return ")
