@@ -284,7 +284,7 @@ main:pattern('"NOMF" (("en"|"En") "fonction")? [#depuis ("depuis")?] ("le")? [#d
 main:pattern('"SEP2" [#fonc [#arg .*?] "rel" [#val .*?]] "SEP3"')
 
 
-main:pattern('[#bac ("obtient"|"reçoit"|"décroche") .*? ("baccalauréat"|"bac")]')
+main:pattern('[#bac ("baccalauréat"|"bac")]')
 main:pattern('#bac .*? "en" [#anneeObtention #annee]')
 main:pattern('#bac .*? ("à"|"au") [#lieuF #POS=NNP]')
 
@@ -612,8 +612,8 @@ end
 
 
 local corpus = "../extraction/corpus/wikipedia/"
-lp.read_corpus(corpus)
---couvertureTotale()
+--lp.read_corpus(corpus)
+couvertureTotale()
 
 local outfile = io.open("databaseTemp.lua", "w")
 outfile:write("return ")
