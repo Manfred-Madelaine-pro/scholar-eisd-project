@@ -28,7 +28,7 @@ local reponse = {}
 local prev_key = nil
 
 local enable_hist = false
-local print_analyse = true
+local print_analyse = false
 
 local data_version = {"databaseFinal", "databaseBeta"}
 
@@ -37,7 +37,7 @@ local data_version = {"databaseFinal", "databaseBeta"}
 function bot.start(lst_attributs)
 	l_attributs = lst_attributs
 
-	db = dofile(data_version[1]..".lua")
+	db = dofile(data_version[2]..".lua")
 
 	line = ""
 
