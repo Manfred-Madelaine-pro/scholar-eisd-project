@@ -13,7 +13,7 @@
 local bot = {}
 
 
--- importation d'un module
+-- importation des modules
 local t 	= require 'tool'
 local txt	= require 'phrases'
 local corr	= require 'corrector'
@@ -27,7 +27,7 @@ local dialog  = {}
 local reponse = {}
 local prev_key = nil
 local enable_hist = false
-local print_analyse = true
+local print_analyse = false
 
 local data_version = {"databaseFinal", "databaseBeta"}
 
@@ -44,6 +44,7 @@ function bot.start(lst_attributs)
 		print(mode)
 		io.write("> ")
 		line = "2"
+		--TODO
 		--io.read()
 		if(line == "1")	then
 			t.init(txt.pick_mdl(start))
@@ -72,6 +73,7 @@ end
 
 
 function test_fonctionnel()
+	-- Tests operationnels sur DatabaseBeta
 	local t_fini = {
 		"$help", "sep",
 
@@ -122,6 +124,10 @@ function test_fonctionnel()
 	}
 	
 	local t_preuve = {
+		"jean - francois de fillon date de naissance ?", "sep",
+		"laguiller date de naissance?", 
+		"jean -luc melenchon profession ?", 
+		"quelle est la parti de Dominique ?",
 		"melenchon quel parti politique ?",
 		-- bug
 		--"jean-francois formation ?", "sep",
@@ -135,8 +141,6 @@ function test_fonctionnel()
 		-- gestion des pronoms 
 		--"fillon date de naissance et ou ?", "sep",
 		"jean -luc melenchon profession ?", 
-		"jean - francois de fillon date de naissance ?", "sep",
-		"laguiller date de naissance?", 
 		"melenchon profession ?", 
 		"emmanuel macron formation?", 
 		" ou ?", 
@@ -158,12 +162,6 @@ function test_fonctionnel()
 		"macron date de naissance et melu ou ?", "ou", "ou",	
 	}
 
-	local t_simple = {	
-		--bug
-		"Lieu de naissance de Mélenchon et qui sont tes créateurs et les miens ainsi que la date de naissance de melenchon ?","sep",
-		"Lieu de naissance de Mélenchon et qui sont tes créateurs et les miens ainsi que la date de naissance de melenchon et la formation de macron ?","sep",
-
-	}
 
 	for i, line in pairs(t_fini) do	
 		init_rep()
@@ -214,7 +212,7 @@ function cas_complexe(question)
 	for i, quest in ipairs(l_questions) do
 		quest = lp.process(quest)
 
-		dialog.hckey  [#dialog.hckey  +1] = find_elm(quest, l_sujets, true)
+		dialog.hckey  [#dialog.hckey  +1] = find_elm(quest, l_sujets,     true)
 		dialog.hctypes[#dialog.hctypes+1] = find_elm(quest, l_attributs, false)	
 
 		dialog.eckey[i], dialog.ectype[i] = dialogue(dialog.eckey[i], dialog.ectype[i], dialog.hckey[i], dialog.hctypes[i])
@@ -290,14 +288,11 @@ function update_context(cond1, cond2, val)
 	return var
 end
 
--- TODO
+
 function create_answer(reponse)
 	local res = "answer = "
-	for i,v in ipairs(reponse.gen) do
-		res = res..v..","
-	end
+	for i,v in ipairs(reponse.gen) do res = res..v.."," end
 	dialog.gen = res
-	
 	res = {}
 
 	for i, mdl in pairs(reponse.model) do
@@ -306,7 +301,6 @@ function create_answer(reponse)
 				if (reponse[balise][i]) then
 					modifie = txt.fill_mdl(mdl, balise, reponse[balise][i])
 				else
-					--TODO
 					local vrb = "NUUUL"
 					if(#reponse[balise] >= 1) then
 						vrb = reponse[balise][#reponse[balise]]
@@ -328,9 +322,7 @@ function create_answer(reponse)
 	for i, v in pairs(res) do 
 		rep = rep..v 
 
-		-- TODO : améliorer la transition entre 2 réponses
-		if i == #res-1 then
-			rep = rep.."\nEt, " 
+		if i == #res-1 then rep = rep.."\nEt, " 
 		else rep = rep.."\n" end 
 	end
 
@@ -439,9 +431,7 @@ function cas_special(key, att)
 		
 		if m_tutoie then
 			m_mdl = mdl_creatr_b
-			for i, att in pairs(l_dev) do
-				res = res..tab..att
-			end
+			for i, att in pairs(l_dev) do res = res..tab..att end
 		else m_mdl = mdl_creatr_u end
 
 		fill_response(m_mdl, "createurs", "", res)
@@ -489,18 +479,15 @@ function search_tag(key, att, q_tag)
 	end
 
 	if res == 0 then
-		if(att_value == db_death) then
-			fill_response(mdl_alive, "vivant", name, part)
-		else
-			fill_response(mdl_t_err, "att_error ", txt.pick_attribut(att_value))
-		end
+		if(att_value == db_death) then fill_response(mdl_alive, "vivant", name, part)
+		else fill_response(mdl_t_err, "att_error ", txt.pick_attribut(att_value)) end
+
 	elseif res == -1 then
 		if type(key_value) == "table" then key_value = key_value[1] end
 		fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 	else
 		-- Choix du pronom à utiliser
 		if key == prev_key then	gen_answer(part, res, att_value)
-
 		else gen_answer(firstname.." "..name, res, att_value) end
 	end
 
@@ -532,13 +519,10 @@ function search_tag_sec(key, att)
 	else
 		att_value = "bac"
 		local pos = t.get_pos(res, att, "Baccalaureat")
-		if pos > 0 then
-			res = att_value.." en "..search_in_db(res, pos, "date")
+		if pos > 0 then	res = att_value.." en "..search_in_db(res, pos, "date")
 		else res = "non" end
 		
-		-- TODO test Choix du pronom à utiliser
 		if key == prev_key then	gen_answer(part, res, att_value)
-
 		else gen_answer(firstname.." "..name, res, att_value) end
 	end
 end
@@ -551,28 +535,21 @@ function gen_answer(sjt, res, attribut_val)
 		vrb = #res.." "..attribut_val.."(s)"
 
 		local l_func = {
-			[db_forma] = get_forma,
-			[db_parti] = get_parti,
-			[db_prof] = get_prof,
-			[db_bord] = get_bord,
+			[db_forma] = get_forma, [db_prof] = get_prof,
+			[db_parti] = get_parti, [db_bord] = get_bord,
 		}
 
 		-- Recherche de la formation
 		for i = 1, #res do
 			for att, get_func in pairs(l_func) do
-				if (attribut_val == att) then
-					rep = rep..get_func(res, i)
-				end
+				if (attribut_val == att) then rep = rep..get_func(res, i) end
 			end
 
 			if i == #res-1 then rep = rep.." et " 
 			elseif i < #res then rep = rep..", "end
 		end
-		fill_response(txt.get_mdl(attribut_val), attribut_val, sjt, rep, vrb)
-		
-	else
-		fill_response(txt.get_mdl(attribut_val), res, sjt, res)
-	end
+		 fill_response(txt.get_mdl(attribut_val), attribut_val, sjt, rep, vrb)	
+	else fill_response(txt.get_mdl(attribut_val), res, sjt, res) end
 end
 
 
@@ -582,10 +559,8 @@ function get_prof(res, i)
 	local date_f = search_in_db(res, i, "date_fin")
 
 	local t = ""
-
 	if (no_err(inti)) then t = t..inti.."" end
 	if (date_f == 0) then t = t.." (toujours en fonction)" end
-	
 	return t
 end
 
@@ -597,10 +572,8 @@ function get_forma(res, i)
 	local part = get_particule(res, i, "un(e)")
 
 	local t = ""
-
 	if (no_err(name)) then t = t..part.." "..name end
 	if (no_err(date)) then t = t.." obtenu(e) en "..date end
-	
 	return t
 end
 
@@ -614,7 +587,6 @@ function get_parti(res, i)
 	local t = ""
 	if (no_err(name)) then t = t..part.." "..name end
 	if (no_err(acc)) then t = t.." ("..acc..")" end
-	
 	return t
 end
 
@@ -625,7 +597,6 @@ function get_bord(res, i)
 
 	local t = ""
 	if (no_err(name)) then t = t..part.." "..name end
-	
 	return t
 end
 
@@ -697,26 +668,22 @@ end
 
 --Fonction pour récupérer les informations
 function search_in_db(db, politicien, ...)
-  local b = 0
-  local arg = {...}
+	local arg, b = {...}, 0
 
-  for k,v in pairs(db) do
-    if (k == politicien) then
-		b, tab = 1, v
+	for k,v in pairs(db) do
+		if (k == politicien) then
+			b, tab = 1, v
 
-		-- parcours en profondeur
-		for i,champ in ipairs(arg) do
-			tab = tab[champ]
+			-- parcours en profondeur
+			for i,champ in ipairs(arg) do tab = tab[champ] end
+
+			-- On a detecte des elements
+			if (tab ~= nil) then return tab
+			else return 0 end
 		end
+	end
 
-    	-- On a detecte des elements
-		if (tab ~= nil) then return tab
-	   
-		else return 0 end
-    end
-  end
-
-  if (b == 0) then return -1 end
+	if (b == 0) then return -1 end
 end
 
 

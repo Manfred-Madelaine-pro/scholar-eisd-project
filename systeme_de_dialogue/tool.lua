@@ -17,6 +17,7 @@ function t.bls(tag)
 	return "<"..tag..">"
 end
 
+
 -- Lancer le systeme de dialogue
 function t.init(txt)
 	local s = " ---- "
@@ -39,9 +40,7 @@ end
 function t.list_tags(l_tags, is_quest)
 	res = ""
 	for i, tag in pairs(l_tags) do
-		if is_quest then
-			tag = t.qtag(tag)
-		end
+		if is_quest then tag = t.qtag(tag) end
 		res = res..t.tag(tag)
 		if i < #l_tags then res = res.." | " end
 	end
@@ -75,7 +74,6 @@ function t.key_is_used(tab, key)
 end
 
 
--- deprecated
 function t.rm_doublon(tab)
 	if #tab < 2 then return false end
 
@@ -100,13 +98,9 @@ function t.print_table(res)
 				print("table "..index)
 				print_table(value)
 				print()
-			else
-				print(index, value)
-			end
+			else print(index, value) end
 		end
-	else
-		print(res)
-	end
+	else print(res) end
 end
 
 
@@ -129,9 +123,8 @@ end
 function t.tagstr(seq, tag, lim_debut, lim_fin)
 	lim_debut = lim_debut or 1
 	lim_fin   = lim_fin   or #seq
-	if not havetag(seq, tag) then
-		return nil
-	end
+	if not havetag(seq, tag) then return nil end
+	
 	local list = seq[tag]
 	local tab = {}
 	for i, position in ipairs(list) do

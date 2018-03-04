@@ -68,7 +68,7 @@ mdl_life = {
 mdl_help = {
 	"Vous pouvez poser une question sur :\n\z
 		\tun politicien français\n\z
-		\tle systeme de dialogue, c-à-d moi "..BOT_NAME.."\n\z
+		\tle systeme de dialogue, c-à-d moi, "..BOT_NAME.."\n\z
 		\tl'utilisateur, c-à-d vous\n\z
 		\tou sur plusieurs des individus cités ci-dessus\n\n\z
 
@@ -133,6 +133,11 @@ mdl_choose_pol = {
 	"Pouvez vous choisir le politicien dont vous parlez ?"..tool.bls(res),
 }
 
+mdl_t_err = {
+	"Désolé, je n'ai pas d'information sur "..tool.bls(sjt)..".",
+	"Désolé mais je n'ai pas d'information sur "..tool.bls(sjt)..".",
+}
+
 
 mdl_no_gere = {"cette information n'est pas gérée."}
 
@@ -145,8 +150,6 @@ mdl_birth = {tool.bls(sjt).." est né le "..tool.bls(res).."."}
 mdl_death = {tool.bls(sjt).." est mort le "..tool.bls(res).."."}
 
 mdl_Qatt = {"Que souhaitez-vous savoir sur "..tool.bls(sjt).." ?"}
-
-mdl_t_err = {"Désolé, je n'ai pas d'information sur "..tool.bls(sjt).."."}
 
 mdl_hist = {"Voici l'historique de notre conversation :\n"..tool.bls(sjt)}
 
@@ -167,6 +170,8 @@ local table_mdl = {
 	["formation"] = mdl_forma,
 	["birthplace"] = mdl_birthp,
 }
+
+
 
 -- Remplace la balise passee en parametre par sa valeur
 function txt.fill_mdl(model, balise, valeur)
@@ -209,6 +214,7 @@ function txt.pick_attribut(m_att)
 	end
 	return res
 end
+
 
 function txt.get_mdl(nom)
 	for att, model in pairs(table_mdl) do

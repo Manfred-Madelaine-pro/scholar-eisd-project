@@ -5,9 +5,9 @@
 Projet d'EISD realisé par les etudiants:
 
 - Manfred Madelaine :+1:
-- Cédrick Ribet :100:
-- Hugo Bommart :fire:
-- Léo Galmant  :nose:
+- Cédrick Ribet     :100:
+- Hugo Bommart      :fire:
+- Léo Galmant       :nose:
 
 ## Description
 Projet d'une durée de 3 mois visant au développement d'un système de dialogue axé sur les Personnalités Politiques Françaises. 
@@ -28,7 +28,7 @@ La création des données à partir du Wikipédia des politiciens se fait de la 
 ### B- Extraction des données du Corpus
 1. Se placer dans le Répertoire __systeme_de_dialogue__
 
-2. Entrer la commande __./dark bdd.lua__
+2. Entrer la commande __./dark make_db.lua__
 
 3. La base de données utilisée par le Système de Dialogue est générée !
 

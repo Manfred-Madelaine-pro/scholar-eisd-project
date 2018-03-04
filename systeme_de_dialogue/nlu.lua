@@ -73,7 +73,6 @@ att_secondaires = {date_sec}
 l_hist = { "historique"}
 l_forma= {"formations?"}
 l_prof = {"professions?"}
--- TODO add les ponctuations
 l_et   = {"et", "ainsi que"}
 l_birth= {"date de naissance"}
 l_bord = {"bord politique", "bord"}
@@ -208,9 +207,8 @@ tags = {
 	[t.tag(life)]= "red",
 	[t.tag(user)]= "red",
 	[t.tag(hist)]= "red",
-	[t.tag(gram_Qdouble)] = "cyan",
-	--TODO
 	[t.tag(gram_Qmult)] = "cyan",
+	[t.tag(gram_Qdouble)] = "cyan",
 	[t.tag(t.qtag(db_bord))] = "red",
 	[t.tag(t.qtag(db_prof))] = "red",
 	[t.tag(gram_sous_quest)]="magenta",

@@ -26,7 +26,7 @@ if __name__ == '__main__':
 
 	print(count, '->', len(l_nom))
 
-	# sort l_nom by their length
+	# rangement de l_nom par la longueur de ses elements
 	l_nom = sorted(l_nom,  key=itemgetter(1, 0), reverse=True)
 	
 	with open('pnominal.txt', 'w') as f:
