@@ -37,6 +37,7 @@ db_name   = "name"
 db_parti  = "parti"
 db_birth  = "birth"
 db_death  = "death"
+db_famil  = "famille"
 db_fname  = "firstname"
 db_forma  = "formation"
 db_prof   = "profession"
@@ -64,7 +65,7 @@ l_attributs = {
 	db_birth, db_birthp, db_forma, 
 	hdb_createurs, db_parti, 
 	db_bord, db_prof, date_sec, 
-	db_death
+	db_death, db_famil
 }
 
 att_secondaires = {date_sec}
@@ -149,6 +150,15 @@ main:pattern([[
 	]
 ]])
 
+-- Qestion sur la famille
+main:pattern([[
+	[]]..t.tag(t.qtag(db_famil))..[[ 
+		/quels?/ #POS=VRB .{,4}? "famille" |
+		"qui" #POS=VRB .{,4}? "famille" |
+		"famille" |
+	]
+]])
+
 main:pattern('['..t.tag(t.qtag(help))..' "$" "help" ]')
 
 main:pattern('[#negation '..t.tag(neg)..' .{,3}? "pas"]')
@@ -192,14 +202,15 @@ main:pattern('['..t.tag(gram_Qmult)..' ('..t.tag(gram_Qdouble)..'){2,4} ]')
 
 
 tags = {
-	["#Qparti"] = "red",
-	["#Qhelp"] = "green",
-	["#Qbirth"] = "green",
+	["#Qparti"]= "red",
+	["#Qhelp"]= "green",
+	["#Qbirth"]= "green",
 	["#Qdeath"] = "green",
 	["#Qstatut"] = "green",
-	["#Qformation"]="green",
-	["#Qcreateurs"]= "green",
-	["#Qbirthplace"]= "green",
+	["#Qfamille"] = "green",
+	["#Qformation"] ="green",
+	["#Qcreateurs"] = "green",
+	["#Qbirthplace"] = "green",
 
 	["#AND"] = "yellow",
 	["#negation"]= "red",
@@ -207,10 +218,10 @@ tags = {
 	[t.tag(life)]= "red",
 	[t.tag(user)]= "red",
 	[t.tag(hist)]= "red",
-	[t.tag(gram_Qmult)] = "cyan",
-	[t.tag(gram_Qdouble)] = "cyan",
-	[t.tag(t.qtag(db_bord))] = "red",
+	[t.tag(gram_Qmult)]="cyan",
+	[t.tag(gram_Qdouble)]="cyan",
+	[t.tag(t.qtag(db_bord))]="red",
 	[t.tag(t.qtag(db_prof))] = "red",
 	[t.tag(gram_sous_quest)]="magenta",
-	[t.tag(t.qtag(date_sec))]="magenta",
+	[t.tag(t.qtag(date_sec))]= "magenta",
 }

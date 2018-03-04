@@ -19,8 +19,9 @@ start = {
 	"La route vers un dialogue naturel est droite.. mais la pente est forte ! \z
 		Jessayerai donc de répondre au mieux à vos questions mais épargnez mes maladresses.",
 	"Bonjour ! Je suis "..BOT_NAME..", l'As des Politiciens Français. Comment puis-je vous aider ?",
-	"Salut ! :)",
+	"Salut, c'est moi, ugoBogu !",
 	"Do you Ken ? :)",
+	"Salut ! :)",
 	"Je vous ai compris !! Que puis-je faire pour vous, habitant de Gaulle ?",
 	"Voici un Jeune et Beau projet Disruptif et Dynamique ! "..BOT_NAME.." se met En Marche !",
 	"Qu'est-ce qu'un pléonasme me demanderez-vous ? He bien c'est dire d'un Macroniste qu'il est de droite !",
@@ -138,6 +139,10 @@ mdl_t_err = {
 	"Désolé mais je n'ai pas d'information sur "..tool.bls(sjt)..".",
 }
 
+mdl_fam = {
+	tool.bls(sjt).." a "..tool.bls(vrb).." à savoir, "..tool.bls(res)..".",
+	"Les membres de la famille de "..tool.bls(sjt).." sont "..tool.bls(res)..".",
+}
 
 mdl_no_gere = {"cette information n'est pas gérée."}
 
@@ -162,8 +167,9 @@ mdl_creatr_b = {"Mes vénérables créateurs sont "..tool.bls(res).."\n\nJe les 
 
 local table_mdl = {
 	["bac"] = mdl_bac,
-	["bord"] = mdl_bord,
-	["birth"] = mdl_birth,
+	["bord"] =mdl_bord,
+	["famille"]=mdl_fam,
+	["birth"] =mdl_birth,
 	["death"] = mdl_death,
 	["parti"] = mdl_Qparti,
 	["profession"]= mdl_prof,
@@ -199,13 +205,13 @@ end
 function txt.pick_attribut(m_att)
 	res = m_att
 	local l_phrases = {
-		[db_bord] = "son bord politique",
-		[db_parti] = "ses partis politiques",
-		[db_birth] = "sa date de naissance",
-		[db_death] = "sa date de décès",
-		[hdb_createurs] = "ses créateurs",
 		[db_forma] = "sa formation",
 		[db_prof] = "ses proféssions",
+		[db_death] = "sa date de décès",
+		[db_bord] = "son bord politique",
+		[hdb_createurs] = "ses créateurs",
+		[db_birth] = "sa date de naissance",
+		[db_parti] = "ses partis politiques",
 		[db_birthp] = "son lieu de naissance",
 	}
 

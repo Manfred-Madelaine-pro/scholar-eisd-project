@@ -104,17 +104,6 @@ function t.print_table(res)
 end
 
 
-function t.get_pos(tab, att_secondaire, word)
-	-- boucle sur le nom des formation à la recherche du mot clé
-	for i,v in ipairs(tab) do
-		for w in v.name:gmatch("%w+") do 
-			if(w == word) then return i end
-		end
-	end
-	return -1
-end
-
-
 function havetag(seq, tag)
 	return #seq[tag] ~= 0
 end

@@ -26,8 +26,9 @@ local POS_KEY = 3
 local dialog  = {}
 local reponse = {}
 local prev_key = nil
+
 local enable_hist = false
-local print_analyse = false
+local print_analyse = true
 
 local data_version = {"databaseFinal", "databaseBeta"}
 
@@ -43,9 +44,7 @@ function bot.start(lst_attributs)
 	while(line ~= "1" or line ~= "2" or line ~= "q" ) do
 		print(mode)
 		io.write("> ")
-		line = "2"
-		--TODO
-		--io.read()
+		line = io.read()
 		if(line == "1")	then
 			t.init(txt.pick_mdl(start))
 			chat_loop()
@@ -73,8 +72,8 @@ end
 
 
 function test_fonctionnel()
-	-- Tests operationnels sur DatabaseBeta
-	local t_fini = {
+	-- Tests operationnels sur DatabaseBeta et DatabaseFinal
+	local t_beta_simple = {
 		"$help", "sep",
 
 			--- Cas Simple & Normal --- 
@@ -87,12 +86,14 @@ function test_fonctionnel()
 		"Laguiller et toi ?", "sep", -- plusieurs cle
 		-- croisement clé attribut 
 		"de quel bord politique sont melenchon et macron ?",
-		"quelle est la date de naissance de Melenchon ? et sa formation ?", "sep",
+		-- Fillon troll
+		"Quelle est la formation de Fillon ? et ses professions ?", "sep",
 		
 
-
 			--- Cas Spécial --- 
+		-- s'adresser au S de D de différentes façon 
 		"qui sont les createurs d'ugoBot ?",
+		"qui sont tes createurs ?",
 		"et les miens ?", "sep",
 		-- réponse double fusionnée
 		"qui sont les créateurs de Macron et Mélenchon ?",
@@ -101,15 +102,13 @@ function test_fonctionnel()
 		--historique
 		"affiche moi l'historique", "sep",
 		
-
 		
 			--- Cas Complexe --- 
 		"Lieu de naissance de Mélenchon et qui sont tes créateurs ?","sep",
-		"la date de naissance et le lieu de naissance de Melenchon ainsi que lieu de naissance de Macron ?",
+		"la formation et les partis de Melenchon ainsi que lieu de naissance de Macron ?",
 		"quels sont les partis auquels Melenchon et Macron ont été membre ?",		
 		-- chercher une information secondaire
 		"quand Macron et melenchon ont-ils eu leur Baccalauréat ?",
-
 
 
 			--- Cas Limites du systèle de dialogue ---
@@ -122,48 +121,35 @@ function test_fonctionnel()
 		-- exit
 		"au revoir et merci de votre attention ! :) ",
 	}
-	
-	local t_preuve = {
-		"jean - francois de fillon date de naissance ?", "sep",
-		"laguiller date de naissance?", 
-		"jean -luc melenchon profession ?", 
-		"quelle est la parti de Dominique ?",
-		"melenchon quel parti politique ?",
+	-- Test opérationnels sur DatabaseFinal
+	local t_final_avance = {
 		-- bug
-		--"jean-francois formation ?", "sep",
-		"laguiller quel parti politique ?",
+		"jean-francois formation ?", "sep",
+		"quand Macron et melenchon ont-ils eu leur Baccalauréat ?",
+		"quand Fromantin a-t-il eu son Baccalauréat ?",
+		"la formation et quels partis de Melenchon ainsi que lieu de naissance de Macron ?",
+		"jean - francois de fillon date de naissance ?", "sep",
+		"jean -Christophe Fromantin profession ?", 
+		"quelle est la parti de Dominique ?",
+
+		"Qui sont les menbres de la famille de Macron ?",
+		"Qui sont les menbres de la famille de Girault ?",
+
 		"fillon quel parti politique ?",
-		" quel bord ?",
-		"fillon professions ?",
-		-- Fillon troll
-		"Quelle est la formation de Fillon ? et ses professions ?", "sep",
 		
-		-- gestion des pronoms 
-		--"fillon date de naissance et ou ?", "sep",
 		"jean -luc melenchon profession ?", 
-		"melenchon profession ?", 
 		"emmanuel macron formation?", 
-		" ou ?", 
-		"formation ?", 
-		"ou ?", "sep", 
+		" ou est il né ?", 
 
-
-		--"quels sont les partis auquels Melenchon et Macron ont été membre ?",	
 		"quand melenchon est-il mort ?", "sep",
 		"quand laguiller est-elle morte ?", 
 
-		-- s'adresser au S de D de différentes façon 
-		"qui sont tes createurs ?",
 		"quelles sont les professions de macron et quelle est la formation de melenchon ?",
 		"jean-luc formation ?",
-		"la date de naissance et le lieu de naissance de Melenchon ainsi que lieu de naissance de Macron ?",
-		--bugg corrigé
-		"fillon date de naissance et fillon ou ?", "ou", "ou",	
-		"macron date de naissance et melu ou ?", "ou", "ou",	
 	}
 
 
-	for i, line in pairs(t_fini) do	
+	for i, line in pairs(t_beta_simple) do	
 		init_rep()
 		print("> "..line)
 
@@ -518,7 +504,12 @@ function search_tag_sec(key, att)
 		fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 	else
 		att_value = "bac"
-		local pos = t.get_pos(res, att, "Baccalaureat")
+		local pos = -1
+		for i,v in ipairs(l_bac) do
+			pos = get_pos(res, v)
+			if pos ~= -1 then break end
+		end
+
 		if pos > 0 then	res = att_value.." en "..search_in_db(res, pos, "date")
 		else res = "non" end
 		
@@ -528,15 +519,26 @@ function search_tag_sec(key, att)
 end
 
 
+function get_pos(tab, word)
+	-- boucle sur le nom des formation à la recherche du mot clé
+	for i,v in ipairs(tab) do			
+		if(lp.formatage(v.name) == word) then return i end
+	end
+	return -1
+end
+
+
 -- Genere une reponse a partir d'un tableau ou d'un string
 function gen_answer(sjt, res, attribut_val)
 	if type(res) == "table" then
 		rep = ""
-		vrb = #res.." "..attribut_val.."(s)"
+		if(attribut_val == db_famil) then vrb = #res.." membre(s) dans sa famill,"
+		else vrb = #res.." "..attribut_val.."(s)" end
 
 		local l_func = {
 			[db_forma] = get_forma, [db_prof] = get_prof,
 			[db_parti] = get_parti, [db_bord] = get_bord,
+			[db_famil] = get_fam,
 		}
 
 		-- Recherche de la formation
@@ -587,6 +589,20 @@ function get_parti(res, i)
 	local t = ""
 	if (no_err(name)) then t = t..part.." "..name end
 	if (no_err(acc)) then t = t.." ("..acc..")" end
+	return t
+end
+
+
+-- Récupère les informations sur la formation
+function get_fam(res, i)
+	local name = search_in_db(res, i, "nom")
+	local fname = search_in_db(res, i, "prenom")
+	local stat = search_in_db(res, i, "statut")
+
+	local t = ""
+	if (no_err(fname)) then t = t..fname end
+	if (no_err(name)) then t = t.." "..name end
+	if (no_err(stat)) then t = t.." ("..stat..")" end
 	return t
 end
 
