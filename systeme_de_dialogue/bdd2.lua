@@ -5,6 +5,7 @@ local lp = require 'line_processing'
 
 main = dark.pipeline()
 main:basic()
+main:model("postag-fr")
 
 -- Tag names
 place = "lieu"
@@ -83,8 +84,7 @@ end
 
 
 main:lexicon("#mois", {"janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre"})
-tool.new_lex(ppn, f_data)
-tool.new_lex(place, f_data)
+
 --tool.new_lex(prenomsMasculins, f_data)
 --tool.new_lex(prenomsFeminins, f_data)
 main:pattern('"PRETAG" [#prenomDef .*?] "PRETAG"')
@@ -94,23 +94,25 @@ main:pattern('[#annee /^%d%d%d%d$/]')
 
 main:pattern('[#date (#d)? #mois #annee]')
 
-main:pattern('("ne"|"nee"|"nait") .*? "le" [#dateNaissance #date]')
-main:pattern('("ne"|"nee"|"nait") .*? "a"|"au" [#lieuNaissance #POS=NNP+]')
+main:pattern('("né"|"née"|"nait") .*? "le" [#dateNaissance #date]')
+main:pattern('("né"|"née"|"nait") .*? ("à"|"au") [#lieuNaissance #POS=NNP+]')
 
 main:pattern('[#femme "est" .*? "femme" "politique"]')
 
 --main:pattern('[#prenom'..tool.tag(ppn)..'] [#nom .{,2}? ( #POS=NNP+ | #W )+]')
 
 
-main:pattern('[#parent1 ("fils"|"fille") .*? "de" #prenom #nom? ("," [#metier .*?] ",")?]')
-main:pattern('#parent1 .*? "et" "de" [#parent2 #prenom #nom? ("," [#metier .*?] ",")?]')
-main:pattern('(/[I|i]l/|"Elle") .*? ("mère"|"père") "de" [#enfant [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('"sa" "fille" [#fille [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('"son" "fils" [#fils [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('"son" "frère" [#frere [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('"sa" "soeur" [#soeur [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('"est" ("le"|"la") ("fille"|"fils") ("de"|"du") .*? [#parent [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('("est"|"etait") ("marié"|"mariée"|"divorcé"|"divorcée") ("de"|"a") [#conjoint [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('[#pre #POS=NNP]')
+
+main:pattern('[#parent1 ("fils"|"fille") .*? "de" [#prenom #POS=NNP] [#nom #POS=NNP+]? ("," [#metier .*?] ",")?]')
+main:pattern('#parent1 .*? "et" "de" [#parent2 [#prenom #POS=NNP] [#nom #POS=NNP+]? ("," [#metier .*?] ",")?]')
+main:pattern('("mère"|"père") "de" [#enfant [#prenom #POS=NNP] [#nom #POS=NNP]?]')
+main:pattern('"sa" "fille" [#fille [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('"son" "fils" [#fils [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('"son" "frère" [#frere [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('"sa" "soeur" [#soeur [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('"est" ("le"|"la") ("fille"|"fils") ("de"|"du") .*? [#parent [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('("est"|"était") ("marié"|"mariée"|"divorcé"|"divorcée") ("de"|"a") [#conjoint [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 --main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#fille [#prenom ' ..tool.tag(prenomsFeminins).. '] [#nom #POS=NNP+]?]')
 
 
@@ -126,14 +128,15 @@ main:pattern('"NOMF" ("en" "fonction")? [#depuis ("depuis")?] ("le")? [#dateD #d
 main:pattern('"SEP2" [#fonc [#arg .*?] "rel" [#val .*?]] "SEP3"')
 
 
-main:pattern('[#bac ("Il"|"Elle")? ("obtient"|"reçoit"|"decroche") .*? ("baccalaureat"|"bac") .*? ("en" [#anneeObtention #annee])?]')
+main:pattern('[#bac ("Il"|"Elle")? ("obtient"|"reçoit"|"decroche") .*? ("baccalauréat"|"bac") .*? ("en" [#anneeObtention #annee])?]')
 
-main:pattern('[#fac "faculte" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*?] ("en" [#anneeObtention #annee])]')
-main:pattern('[#fac "faculte" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*?] ("en" [#anneeObtention #annee])?]')
+main:pattern('[#fac "faculté" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*?] ("en" [#anneeObtention #annee])]')
+main:pattern('[#fac "faculté" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*?] ("en" [#anneeObtention #annee])?]')
 
 
 
 tags = {
+	["#pre"] = "green",
 	["#dateNaissance"] = "yellow",
 	["#lieuNaissance"] = "green",
 	["#enfant"] = "red",
@@ -188,14 +191,14 @@ function traitement(seq)
 	--		prenom = prenomm,
 	--	}
 	--end
-	--print("\n\n " .. fichierCourant .. "\n\n")
+	--print("\n\n " .. fichierCourant .. "\n\n")–
 
 	if havetag(seq, "#nomDef") then
-		nomC = tagstr2(seq, "#nomDef")
+		nomC = tagstr2(seq, "#nomDef"):gsub(" %p ", "-")
 	end
 
 	if havetag(seq, "#prenomDef") then
-		prenomC = tagstr2(seq, "#prenomDef")
+		prenomC = tagstr2(seq, "#prenomDef"):gsub(" %p ", "-")
 	end
 
 	local fichierCourant = lp.gen_key(nomC, prenomC)
