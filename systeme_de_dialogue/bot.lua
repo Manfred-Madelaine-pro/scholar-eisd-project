@@ -26,8 +26,8 @@ local POS_KEY = 3
 local dialog  = {}
 local reponse = {}
 local prev_key = nil
-local enable_hist = false
-local print_analyse = false
+local enable_hist = true
+local print_analyse = true
 
 local data_version = {"databaseFinal", "databaseBeta"}
 
@@ -124,11 +124,12 @@ function test_fonctionnel()
 	local t_preuve = {
 		-- gestion des pronoms 
 		--"fillon date de naissance et ou ?", "sep",
+		"jean -luc melenchon profession ?", 
+		"jean - francois de fillon date de naissance ?", "sep",
+		"laguiller date de naissance?", 
 		"melenchon profession ?", 
-		"jean-luc date de naissance?", 
-		"jean-luc melenchon formation?", 
-		"de fillon ou ?", 
-		"jean-francois de fillon date de naissance ?", "sep",
+		"emmanuel macron formation?", 
+		" ou ?", 
 		"formation ?", 
 		"ou ?", "sep", 
 

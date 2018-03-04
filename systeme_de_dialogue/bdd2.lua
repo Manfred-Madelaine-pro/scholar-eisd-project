@@ -1,7 +1,6 @@
 local tst = {}
 local tool = require 'tool'
 local lp = require 'line_processing'
-local c = require 'clean'
 
 
 main = dark.pipeline()
@@ -105,23 +104,24 @@ main:pattern('[#femme "est" .*? "femme" "politique"]')
 
 main:pattern('[#parent1 ("fils"|"fille") .*? "de" #prenom #nom? ("," [#metier .*?] ",")?]')
 main:pattern('#parent1 .*? "et" "de" [#parent2 #prenom #nom? ("," [#metier .*?] ",")?]')
-main:pattern('("compagne"|"femme") [#femme #prenom #nom?]')
-main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#enfant [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('(/[I|i]l/|"Elle") .*? ("mère"|"père") "de" [#enfant [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 main:pattern('"sa" "fille" [#fille [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 main:pattern('"son" "fils" [#fils [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 main:pattern('"son" "frère" [#frere [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 main:pattern('"sa" "soeur" [#soeur [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('"est" ("le"|"la") ("fille"|"fils") ("de"|"du") .*? [#parent [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('("est"|"etait") ("marié"|"mariée"|"divorcé"|"divorcée") ("de"|"a") [#conjoint [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
 --main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#fille [#prenom ' ..tool.tag(prenomsFeminins).. '] [#nom #POS=NNP+]?]')
 
 
 main:pattern('[#intervalDate (#annee "-"|"depuis") #annee]')
-main:pattern('[#raccourcis "(" [#acc .{,4}] ")"]')
+main:pattern('[#raccourcis "(" [#acc .{,6}] ")"]')
 main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
 
 
-main:pattern('"NOMF" [#nomFonc .*?] "NOMF"')
+main:pattern('"NOMF" [#nomFonc .*?] ([#dateFonc #annee "-" #annee])? "NOMF"')
 main:pattern('"NOMF" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)] ("(" .*? ")")?')
-main:pattern('"SEP2" [#fonc [#arg .*?] "REL" [#val .*?]] "SEP3"')
+main:pattern('"SEP2" [#fonc [#arg .*?] "rel" [#val .*?]] "SEP3"')
 
 
 main:pattern('[#bac ("Il"|"Elle")? ("obtient"|"reçoit"|"decroche") .*? ("baccalaureat"|"bac") .*? ("en" [#anneeObtention #annee])?]')
@@ -134,6 +134,13 @@ main:pattern('[#fac "faculte" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*
 tags = {
 	["#dateNaissance"] = "yellow",
 	["#lieuNaissance"] = "green",
+	["#enfant"] = "red",
+	["#frere"] = "red",
+	["#soeur"] = "red",
+	["#conjoint"] = "red",
+	["#parent"] = "red",
+	["#fille"] = "red",
+	["#fils"] = "red",
 	["#parent1"] = "red",
 	["#parent2"] = "red",
 	["#metier"] = "green",
@@ -187,10 +194,12 @@ function traitement(seq)
 
 	local fichierCourant = lp.gen_key(nomC, prenomC)
 
+	--print(fichierCourant)
+
 	if(db[fichierCourant] == nil) then
 		db[fichierCourant] = {
-			prenom = prenomC,
-			nom = nomC,
+			firstname = prenomC,
+			name = nomC,
 			particule = "Il",
 		}
 	end
@@ -201,19 +210,114 @@ function traitement(seq)
 	
 	if havetag(seq, "#dateNaissance") then
 		local date = tagstr2(seq, "#dateNaissance")
-		db[fichierCourant].dateNaissance = date
+		db[fichierCourant].birth = date
 	end
 
 	if havetag(seq, "#lieuNaissance") then
 		local lieu = tagstr2(seq, "#lieuNaissance")
-		db[fichierCourant].lieuNaissance = lieu
+		db[fichierCourant].birthplace = lieu
+	end
+
+	if(db[fichierCourant].famille == nil) then
+		db[fichierCourant].famille = {}
+	end
+
+	if havetag(seq, "#parent") then
+		local prenom = GetValueInLink(seq, "#prenom", "#parent")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#parent")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "parent",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+	
+	if havetag(seq, "#fille") then
+		local prenom = GetValueInLink(seq, "#prenom", "#fille")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#fille")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "fille",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+
+	if havetag(seq, "#fils") then
+		local prenom = GetValueInLink(seq, "#prenom", "#fils")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#fils")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "fils",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+
+	if havetag(seq, "#frere") then
+		local prenom = GetValueInLink(seq, "#prenom", "#frere")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#frere")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "frere",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+
+	if havetag(seq, "#soeur") then
+		local prenom = GetValueInLink(seq, "#prenom", "#soeur")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#soeur")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "soeur",
+			prenom = prenom,
+			nom = nom,
+		}
+	end
+
+	if havetag(seq, "#conjoint") then
+		local prenom = GetValueInLink(seq, "#prenom", "#conjoint")
+		if havetag(seq, "#nom") then
+			local nom = GetValueInLink(seq, "#nom", "#conjoint")
+		else
+			local nom = ""
+		end
+
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "conjoint",
+			prenom = prenom,
+			nom = nom,
+		}
 	end
 
 	if havetag(seq, "#parent1") then
 		local prenomP = GetValueInLink(seq, "#prenom", "#parent1")
 		local nomP = GetValueInLink(seq, "#nom", "#parent1")
 		local met = GetValueInLink(seq, "#metier", "#parent1")
-		db[fichierCourant].famille["Parent1"] = {
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "parent",
 			prenom = prenomP,
 			nom = nomP,
 			profession = met,
@@ -224,7 +328,8 @@ function traitement(seq)
 		local prenomP = GetValueInLink(seq, "#prenom", "#parent2")
 		local nomP = GetValueInLink(seq, "#nom", "#parent2")
 		local met = GetValueInLink(seq, "#metier", "#parent2")
-		db[fichierCourant].famille["Parent2"] = {
+		db[fichierCourant].famille[#db[fichierCourant].famille + 1] = {
+			statut = "parent",
 			prenom = prenomP,
 			nom = nomP,
 			profession = met,
@@ -260,10 +365,25 @@ function traitement(seq)
 	end
 	
 	if havetag(seq, "#nomFonc") then
-		tab = {}
-		tab["nom"] = tagstr2(seq, "#nomFonc")
+		local tab = {}
+		tab["intitule"] = tagstr2(seq, "#nomFonc")
+		local int = tagstr2(seq, "#dateFonc")
+		local dateDeb = ""
+		local dateFin = ""
+
+		if(int ~= nil) then
+			dateDeb = lp.split(int, " - ")[1]
+			if(dateDeb == "Depuis" or dateDeb == "depuis") then
+				dateDeb = lp.split(int, " - ")[2]
+				dateFin = ""
+			else
+				dateFin = lp.split(int, " - ")[3]
+			end
+			
+		end
 		
-		tab["date"] = tagstr2(seq, "#dateFonc")
+		tab["date_adhesion"] = dateDeb
+		tab["date_depart"] = dateFin
 
 		if havetag(seq, "#arg") then
 			local foncs = tagstr(seq, "#arg")
@@ -273,10 +393,10 @@ function traitement(seq)
 				tab[v] = gg[i]
 			end
 		end
-		if(db[fichierCourant].fonctions == nil) then
-			db[fichierCourant].fonctions = {}
+		if(db[fichierCourant].profession == nil) then
+			db[fichierCourant].profession = {}
 		end
-		db[fichierCourant].fonctions[#db[fichierCourant].fonctions + 1] = tab
+		db[fichierCourant].profession[#db[fichierCourant].profession + 1] = tab
 	end
 	
 	if havetag(seq, "#bac") then
@@ -284,22 +404,23 @@ function traitement(seq)
 		if(db[fichierCourant].formation == nil) then
 			db[fichierCourant].formation = {}
 		end
-		db[fichierCourant].formation["Baccalaureat"] = {
-			annee = ann,
+		db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
+			name = "Baccalaureat",
+			date = ann,
 			lieu = "",
 		}
 	end
 
 	if havetag(seq, "#fac") then
 		local ann = GetValueInLink(seq, "#anneeObtention", "#fac")
-		local suj = GetValueInLink(seq, "#sujet", "#fac")
 		local li = GetValueInLink(seq, "#lieuF", "#fac")
 		if(db[fichierCourant].formation == nil) then
 			db[fichierCourant].formation = {}
 		end
-		db[fichierCourant].formation["Faculte"] = {
-			annee = ann,
-			sujet = suj,
+		db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
+			date = ann,
+			name = "Faculte",
+			lieu = "",
 		}
 	end
 	
@@ -307,7 +428,7 @@ function traitement(seq)
 end
 
 
-local f_test = "../extraction/corpus/wikipedia"
+local f_test = "../extraction/corpus/wikipedia/"
 --local f_test = "../test"
 lp.read_corpus(f_test)
 
