@@ -7,7 +7,7 @@ main = dark.pipeline()
 main:basic()
 main:model("postag-fr")
 
-
+-- Renvoie une table contenant les tags demandés
 function tagstr(s, tag, lim_debut, lim_fin)
 	lim_debut = lim_debut or 1
 	lim_fin   = lim_fin   or #s
@@ -29,6 +29,7 @@ function tagstr(s, tag, lim_debut, lim_fin)
 	return tab
 end
 
+-- Renvoie une table contenant le tag demandé
 function tagstr2(s, tag, lim_debut, lim_fin)
 	lim_debut = lim_debut or 1
 	lim_fin   = lim_fin   or #s
@@ -73,6 +74,7 @@ function GetValueInLink(seq, entity, link)
 	return nil
 end
 
+-- Permet d'obtenir la couverture totale pour tous les attributs
 function couvertureTotale()
 	local datab = dofile("databaseFinal.lua")
 
@@ -247,6 +249,7 @@ end
 
 main:lexicon("#mois", {"janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre"})
 
+-- Nom et prénom
 main:pattern('"PRETAG" [#prenomDef .*?] "PRETAG"')
 main:pattern('"NOMTAG" [#nomDef .*?] "NOMTAG"')
 
@@ -254,14 +257,15 @@ main:pattern('[#annee /^%d%d%d%d$/]')
 
 main:pattern('[#date (#d)? #mois #annee]')
 
+-- Date et lieu de naissance
 main:pattern('("né"|"née"|"nait") .*? "le" [#dateNaissance #date]')
 main:pattern('("né"|"née"|"nait") .*? ("à"|"au") [#lieuNaissance #POS=NNP+]')
 
+-- Particule
 main:pattern('[#femme "est" .*? "femme" "politique"]')
 
 
-main:pattern('[#pre #POS=NNP]')
-
+-- Famille
 main:pattern('[#parent1 ("fils"|"fille") .*? "de" [#prenom #POS=NNP] [#nom #POS=NNP+]? ("," [#metier .*?] ",")?]')
 main:pattern('#parent1 .*? "et" "de"? [#parent2 [#prenom #POS=NNP] [#nom #POS=NNP+]? ("," [#metier .*?] ",")?]')
 main:pattern('("mère"|"père") "de" [#enfant [#prenom #POS=NNP] [#nom #POS=NNP]?]')
@@ -272,18 +276,18 @@ main:pattern('"sa" "soeur" [#soeur [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 main:pattern('"est" ("le"|"la") ("fille"|"fils") ("de"|"du") .*? [#parent [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 main:pattern('("est"|"était") ("marié"|"mariée"|"divorcé"|"divorcée") ("de"|"à") [#conjoint [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 
-
+-- Parti
 main:pattern('[#intervalDate (#annee ("-"|"–"|"depuis")) #annee]')
 main:pattern('[#raccourcis "(" [#acc #W] ")"]')
 main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
 
-
+-- Fonctions
 main:pattern('"NOMF" [#nomFonc .*?] ([#dateFonc #annee ("-"|"–") #annee])? ("(" .*? ")")? "NOMF"')
 main:pattern('"NOMF" [#dateFonc #annee ("-"|"–") #annee]')
 main:pattern('"NOMF" (("en"|"En") "fonction")? [#depuis ("depuis")?] ("le")? [#dateD #date] ("-"|"–")? [#dateF (#date)?]')
 main:pattern('"SEP2" [#fonc [#arg .*?] "rel" [#val .*?]] "SEP3"')
 
-
+-- Formation
 main:pattern('[#bac ("baccalauréat"|"bac")]')
 main:pattern('#bac .*? "en" [#anneeObtention #annee]')
 main:pattern('#bac .*? ("à"|"au") [#lieuF #POS=NNP]')
