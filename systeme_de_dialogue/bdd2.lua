@@ -5,6 +5,7 @@ local lp = require 'line_processing'
 
 main = dark.pipeline()
 main:basic()
+main:model("postag-fr")
 
 -- Tag names
 place = "lieu"
@@ -83,8 +84,7 @@ end
 
 
 main:lexicon("#mois", {"janvier", "fevrier", "mars", "avril", "mai", "juin", "juillet", "aout", "septembre", "octobre", "novembre", "decembre"})
-tool.new_lex(ppn, f_data)
-tool.new_lex(place, f_data)
+
 --tool.new_lex(prenomsMasculins, f_data)
 --tool.new_lex(prenomsFeminins, f_data)
 main:pattern('"PRETAG" [#prenomDef .*?] "PRETAG"')
@@ -94,47 +94,52 @@ main:pattern('[#annee /^%d%d%d%d$/]')
 
 main:pattern('[#date (#d)? #mois #annee]')
 
-main:pattern('("ne"|"nee"|"nait") .*? "le" [#dateNaissance #date]')
-main:pattern('("ne"|"nee"|"nait") .*? "a"|"au" [#lieuNaissance #POS=NNP+]')
+main:pattern('("né"|"née"|"nait") .*? "le" [#dateNaissance #date]')
+main:pattern('("né"|"née"|"nait") .*? ("à"|"au") [#lieuNaissance #POS=NNP+]')
 
 main:pattern('[#femme "est" .*? "femme" "politique"]')
 
 --main:pattern('[#prenom'..tool.tag(ppn)..'] [#nom .{,2}? ( #POS=NNP+ | #W )+]')
 
 
-main:pattern('[#parent1 ("fils"|"fille") .*? "de" #prenom #nom? ("," [#metier .*?] ",")?]')
-main:pattern('#parent1 .*? "et" "de" [#parent2 #prenom #nom? ("," [#metier .*?] ",")?]')
-main:pattern('(/[I|i]l/|"Elle") .*? ("mère"|"père") "de" [#enfant [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('"sa" "fille" [#fille [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('"son" "fils" [#fils [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('"son" "frère" [#frere [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('"sa" "soeur" [#soeur [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('"est" ("le"|"la") ("fille"|"fils") ("de"|"du") .*? [#parent [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
-main:pattern('("est"|"etait") ("marié"|"mariée"|"divorcé"|"divorcée") ("de"|"a") [#conjoint [#prenom #POS=NNP+] [#nom #POS=NNP+]?]')
+main:pattern('[#pre #POS=NNP]')
+
+main:pattern('[#parent1 ("fils"|"fille") .*? "de" [#prenom #POS=NNP] [#nom #POS=NNP+]? ("," [#metier .*?] ",")?]')
+main:pattern('#parent1 .*? "et" "de"? [#parent2 [#prenom #POS=NNP] [#nom #POS=NNP+]? ("," [#metier .*?] ",")?]')
+main:pattern('("mère"|"père") "de" [#enfant [#prenom #POS=NNP] [#nom #POS=NNP]?]')
+main:pattern('"sa" "fille" [#fille [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('"son" "fils" [#fils [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('"son" "frère" [#frere [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('"sa" "soeur" [#soeur [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('"est" ("le"|"la") ("fille"|"fils") ("de"|"du") .*? [#parent [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('("est"|"était") ("marié"|"mariée"|"divorcé"|"divorcée") ("de"|"à") [#conjoint [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 --main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#fille [#prenom ' ..tool.tag(prenomsFeminins).. '] [#nom #POS=NNP+]?]')
 
 
-main:pattern('[#intervalDate (#annee "-"|"depuis") #annee]')
-main:pattern('[#raccourcis "(" [#acc .{,6}] ")"]')
+main:pattern('[#intervalDate (#annee ("-"|"–"|"depuis")) #annee]')
+main:pattern('[#raccourcis "(" [#acc #W] ")"]')
 main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
 
 
-main:pattern('"NOMF" [#nomFonc .*?] ([#dateFonc #annee ("-"|"–") #annee])? "NOMF"')
+main:pattern('"NOMF" [#nomFonc .*?] ([#dateFonc #annee ("-"|"–") #annee])? ("(" .*? ")")? "NOMF"')
 main:pattern('"NOMF" [#dateFonc #annee ("-"|"–") #annee]')
 --main:pattern('"NOMF" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)] ("(" .*? ")")?')
 main:pattern('"NOMF" ("en" "fonction")? [#depuis ("depuis")?] ("le")? [#dateD #date] ("-"|"–")? [#dateF (#date)?]')
 main:pattern('"SEP2" [#fonc [#arg .*?] "rel" [#val .*?]] "SEP3"')
 
 
-main:pattern('[#bac ("Il"|"Elle")? ("obtient"|"reçoit"|"decroche") .*? ("baccalaureat"|"bac") .*? ("en" [#anneeObtention #annee])?]')
+main:pattern('[#bac ("obtient"|"reçoit"|"décroche") .*? ("baccalauréat"|"bac")]')
+main:pattern('#bac .*? "en" [#anneeObtention #annee]')
+main:pattern('#bac .*? ("à"|"au") [#lieuF #POS=NNP]')
 
-main:pattern('[#fac "faculte" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*?] ("en" [#anneeObtention #annee])]')
-main:pattern('[#fac "faculte" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*?] ("en" [#anneeObtention #annee])?]')
+main:pattern('[#licence [#nom ("licence"|"master"|"Licence"|"Master") #d?] "de" [#sujet #POS=NNC] .*? [#lieuF ("faculté"|"université"|"fac") .*?] ("en" [#anneeObtention #annee])? ","]')
+main:pattern('[#licence [#nom ("licence"|"master"|"Licence"|"Master") #d?] ("de"|"en") [#sujet #POS=NNC]]')
 
 
 
 tags = {
-	["#dateNaissance"] = "yellow",
+	--["#pre"] = "green",
+	--[[["#dateNaissance"] = "yellow",
 	["#lieuNaissance"] = "green",
 	["#enfant"] = "red",
 	["#frere"] = "red",
@@ -151,8 +156,6 @@ tags = {
 	["#fonc"] = "red",
 	["#nomFonc"] = "yellow",
 	["#dateFonc"] = "yellow",
-	["#bac"] = "blue",
-	["#fac"] = "blue",
 	["#sujet"] = "blue",
 	["#lieuF"] = "blue",
 	["#anneeObtention"] = "blue",
@@ -167,7 +170,9 @@ tags = {
 	["#date"] = "red",
 	["#dateD"] = "red",
 	["#dateF"] = "red",
-	["#depuis"] = "red",
+	["#depuis"] = "red",]]
+	["#bac"] = "blue",
+	["#licence"] = "blue",
 	
 }
 
@@ -179,6 +184,8 @@ db = {
 
 nomC = ""
 prenomC = ""
+aLic = 0
+aBac = 0
 
 function traitement(seq)
 	--local fichierCourant = string.lower(c.cleaner(nom))
@@ -188,14 +195,16 @@ function traitement(seq)
 	--		prenom = prenomm,
 	--	}
 	--end
-	--print("\n\n " .. fichierCourant .. "\n\n")
+	--print("\n\n " .. fichierCourant .. "\n\n")–
 
 	if havetag(seq, "#nomDef") then
-		nomC = tagstr2(seq, "#nomDef")
+		aLic = 0
+		aBac = 0
+		nomC = tagstr2(seq, "#nomDef"):gsub(" %p ", "-")
 	end
 
 	if havetag(seq, "#prenomDef") then
-		prenomC = tagstr2(seq, "#prenomDef")
+		prenomC = tagstr2(seq, "#prenomDef"):gsub(" %p ", "-")
 	end
 
 	local fichierCourant = lp.gen_key(nomC, prenomC)
@@ -420,28 +429,38 @@ function traitement(seq)
 	end
 	
 	if havetag(seq, "#bac") then
-		local ann = GetValueInLink(seq, "#anneeObtention", "#bac")
-		if(db[fichierCourant].formation == nil) then
-			db[fichierCourant].formation = {}
+		if aBac == 0 then
+			local ann = tagstr2(seq, "#anneeObtention")
+			local lieuF = tagstr2(seq, "#lieuF")
+			if(db[fichierCourant].formation == nil) then
+				db[fichierCourant].formation = {}
+			end
+			db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
+				name = "Baccalauréat",
+				date = ann,
+				lieu = lieuF,
+			}
+			aBac = 1
 		end
-		db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
-			name = "Baccalaureat",
-			date = ann,
-			lieu = "",
-		}
 	end
 
-	if havetag(seq, "#fac") then
-		local ann = GetValueInLink(seq, "#anneeObtention", "#fac")
-		local li = GetValueInLink(seq, "#lieuF", "#fac")
-		if(db[fichierCourant].formation == nil) then
-			db[fichierCourant].formation = {}
+	if havetag(seq, "#licence") then
+		if aLic == 0 then
+			local ann = GetValueInLink(seq, "#anneeObtention", "#licence")
+			local li = GetValueInLink(seq, "#lieuF", "#licence")
+			local suj = GetValueInLink(seq, "#sujet", "#licence")
+			local no = GetValueInLink(seq, "#nom", "#licence")
+			if(db[fichierCourant].formation == nil) then
+				db[fichierCourant].formation = {}
+			end
+			db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
+				date = ann,
+				name = no,
+				lieu = li,
+				sujet = suj
+			}
+			aLic = 1
 		end
-		db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
-			date = ann,
-			name = "Faculte",
-			lieu = "",
-		}
 	end
 	
 
