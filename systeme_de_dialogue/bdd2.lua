@@ -92,7 +92,7 @@ main:pattern('"NOMTAG" [#nomDef .*?] "NOMTAG"')
 
 main:pattern('[#annee /^%d%d%d%d$/]')
 
-main:pattern('[#date #d #mois #annee]')
+main:pattern('[#date (#d)? #mois #annee]')
 
 main:pattern('("ne"|"nee"|"nait") .*? "le" [#dateNaissance #date]')
 main:pattern('("ne"|"nee"|"nait") .*? "a"|"au" [#lieuNaissance #POS=NNP+]')
@@ -119,8 +119,10 @@ main:pattern('[#raccourcis "(" [#acc .{,6}] ")"]')
 main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
 
 
-main:pattern('"NOMF" [#nomFonc .*?] ([#dateFonc #annee "-" #annee])? "NOMF"')
-main:pattern('"NOMF" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)] ("(" .*? ")")?')
+main:pattern('"NOMF" [#nomFonc .*?] ([#dateFonc #annee ("-"|"–") #annee])? "NOMF"')
+main:pattern('"NOMF" [#dateFonc #annee ("-"|"–") #annee]')
+--main:pattern('"NOMF" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)] ("(" .*? ")")?')
+main:pattern('"NOMF" ("en" "fonction")? [#depuis ("depuis")?] ("le")? [#dateD #date] ("-"|"–")? [#dateF (#date)?]')
 main:pattern('"SEP2" [#fonc [#arg .*?] "rel" [#val .*?]] "SEP3"')
 
 
@@ -162,6 +164,10 @@ tags = {
 	["#prenomDef"] = "red",
 	["#nomDef"] = "red",
 	["#femme"] = "red",
+	["#date"] = "red",
+	["#dateD"] = "red",
+	["#dateF"] = "red",
+	["#depuis"] = "red",
 	
 }
 
@@ -367,20 +373,34 @@ function traitement(seq)
 	if havetag(seq, "#nomFonc") then
 		local tab = {}
 		tab["intitule"] = tagstr2(seq, "#nomFonc")
-		local int = tagstr2(seq, "#dateFonc")
+		
+		local int = ""
 		local dateDeb = ""
 		local dateFin = ""
-
-		if(int ~= nil) then
-			dateDeb = lp.split(int, " - ")[1]
-			if(dateDeb == "Depuis" or dateDeb == "depuis") then
-				dateDeb = lp.split(int, " - ")[2]
-				dateFin = ""
-			else
-				dateFin = lp.split(int, " - ")[3]
-			end
-			
+		
+		if havetag(seq, "#dateD") then
+			dateDeb = tagstr2(seq, "#dateD")
 		end
+
+		if havetag(seq, "#dateF") then
+			dateFin = tagstr2(seq, "#dateF")
+		end
+
+		if havetag(seq, "#dateFonc") then
+			int = tagstr2(seq, "#dateFonc")
+			if(int ~= nil) then
+				dateDeb = lp.split(int, " - ")[1]
+				if(dateDeb == "Depuis" or dateDeb == "depuis") then
+					dateDeb = lp.split(int, " - ")[2]
+					dateFin = ""
+				else
+					dateFin = lp.split(int, " - ")[3]
+				end
+			
+			end
+		end
+
+		
 		
 		tab["date_adhesion"] = dateDeb
 		tab["date_depart"] = dateFin
