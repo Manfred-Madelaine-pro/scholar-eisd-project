@@ -128,7 +128,7 @@ main:pattern('"NOMF" ("en" "fonction")? [#depuis ("depuis")?] ("le")? [#dateD #d
 main:pattern('"SEP2" [#fonc [#arg .*?] "rel" [#val .*?]] "SEP3"')
 
 
-main:pattern('[#bac ("Il"|"Elle")? ("obtient"|"reçoit"|"décroche") .*? ("baccalauréat"|"bac")]')
+main:pattern('[#bac ("obtient"|"reçoit"|"décroche") .*? ("baccalauréat"|"bac")]')
 main:pattern('#bac .*? "en" [#anneeObtention #annee]')
 main:pattern('#bac .*? ("à"|"au") [#lieuF #POS=NNP]')
 
@@ -139,7 +139,7 @@ main:pattern('[#licence [#nom ("licence"|"master"|"Licence"|"Master") #d?] ("de"
 
 tags = {
 	--["#pre"] = "green",
-	["#dateNaissance"] = "yellow",
+	--[[["#dateNaissance"] = "yellow",
 	["#lieuNaissance"] = "green",
 	["#enfant"] = "red",
 	["#frere"] = "red",
@@ -156,8 +156,6 @@ tags = {
 	["#fonc"] = "red",
 	["#nomFonc"] = "yellow",
 	["#dateFonc"] = "yellow",
-	["#bac"] = "blue",
-	["#licence"] = "blue",
 	["#sujet"] = "blue",
 	["#lieuF"] = "blue",
 	["#anneeObtention"] = "blue",
@@ -172,7 +170,9 @@ tags = {
 	["#date"] = "red",
 	["#dateD"] = "red",
 	["#dateF"] = "red",
-	["#depuis"] = "red",
+	["#depuis"] = "red",]]
+	["#bac"] = "blue",
+	["#licence"] = "blue",
 	
 }
 
@@ -184,6 +184,8 @@ db = {
 
 nomC = ""
 prenomC = ""
+aLic = 0
+aBac = 0
 
 function traitement(seq)
 	--local fichierCourant = string.lower(c.cleaner(nom))
@@ -196,6 +198,8 @@ function traitement(seq)
 	--print("\n\n " .. fichierCourant .. "\n\n")–
 
 	if havetag(seq, "#nomDef") then
+		aLic = 0
+		aBac = 0
 		nomC = tagstr2(seq, "#nomDef"):gsub(" %p ", "-")
 	end
 
@@ -425,32 +429,38 @@ function traitement(seq)
 	end
 	
 	if havetag(seq, "#bac") then
-		local ann = tagstr2(seq, "#anneeObtention")
-		local lieuF = tagstr2(seq, "#lieuF")
-		if(db[fichierCourant].formation == nil) then
-			db[fichierCourant].formation = {}
+		if aBac == 0 then
+			local ann = tagstr2(seq, "#anneeObtention")
+			local lieuF = tagstr2(seq, "#lieuF")
+			if(db[fichierCourant].formation == nil) then
+				db[fichierCourant].formation = {}
+			end
+			db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
+				name = "Baccalauréat",
+				date = ann,
+				lieu = lieuF,
+			}
+			aBac = 1
 		end
-		db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
-			name = "Baccalauréat",
-			date = ann,
-			lieu = lieuF,
-		}
 	end
 
 	if havetag(seq, "#licence") then
-		local ann = GetValueInLink(seq, "#anneeObtention", "#licence")
-		local li = GetValueInLink(seq, "#lieuF", "#licence")
-		local suj = GetValueInLink(seq, "#sujet", "#licence")
-		local no = GetValueInLink(seq, "#nom", "#licence")
-		if(db[fichierCourant].formation == nil) then
-			db[fichierCourant].formation = {}
+		if aLic == 0 then
+			local ann = GetValueInLink(seq, "#anneeObtention", "#licence")
+			local li = GetValueInLink(seq, "#lieuF", "#licence")
+			local suj = GetValueInLink(seq, "#sujet", "#licence")
+			local no = GetValueInLink(seq, "#nom", "#licence")
+			if(db[fichierCourant].formation == nil) then
+				db[fichierCourant].formation = {}
+			end
+			db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
+				date = ann,
+				name = no,
+				lieu = li,
+				sujet = suj
+			}
+			aLic = 1
 		end
-		db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
-			date = ann,
-			name = no,
-			lieu = li,
-			sujet = suj
-		}
 	end
 	
 
