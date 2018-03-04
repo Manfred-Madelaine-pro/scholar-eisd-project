@@ -22,9 +22,9 @@ profession : 5770 couverture : 77.273336011785%
 	 Nom : 12760 couverture : 100.0%
 	 Date adhésion : 8263 couverture : 64.757053291536%
 	 Date départ : 6016 couverture : 47.147335423197%
-formation : 263 couverture : 3.5221641890987%
-	 Nombre total de formations : 277
-	 Nom : 277 couverture : 100.0%
-	 Sujet : 179 couverture : 64.620938628159%
-	 Lieu : 18 couverture : 6.4981949458484%
-	 Date obtention : 52 couverture : 18.772563176895%
+formation : 420 couverture : 5.6247488951386%
+	 Nombre total de formations : 455
+	 Nom : 455 couverture : 100.0%
+	 Sujet : 179 couverture : 39.340659340659%
+	 Lieu : 48 couverture : 10.549450549451%
+	 Date obtention : 105 couverture : 23.076923076923%

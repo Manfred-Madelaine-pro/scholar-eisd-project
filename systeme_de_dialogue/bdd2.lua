@@ -615,7 +615,7 @@ local corpus = "../extraction/corpus/wikipedia/"
 lp.read_corpus(corpus)
 --couvertureTotale()
 
-local outfile = io.open("databaseTemp.lua", "w")
+local outfile = io.open("databaseFinal.lua", "w")
 outfile:write("return ")
 outfile:write(serialize(db))
 outfile.close()
