@@ -3,6 +3,12 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import os.path
+import unicodedata
+
+def remove_accents(input_str):
+    nfkd_form = unicodedata.normalize('NFKD', input_str)
+    only_ascii = nfkd_form.encode('ASCII', 'ignore')
+    return only_ascii
 
 def addTag(ids, s):
 	texte = ""
@@ -30,19 +36,30 @@ def extraction(url):
 	tab = titre.split(" ")
 		
 	if(len(tab) < 2 or ":" in tab[0]):
-		return
+		return ""
 	prenom = tab[0]
-	if(tab[1] == "de"):
-		prenom += "_de"
-		nom = tab[2]
+	nom = ""
+	if(tab[1] == "de" or tab[1] == "De"):
+		nom += "de"
+		if(tab[2] == "la" or tab[2] == "La"):
+			nom += "_la_"
+			nom += tab[3]
+		else:
+			nom += "_" + tab[2]
+	elif(tab[1] == "le" or tab[1] == "Le"):
+		nom += "le"
+		nom += "_" + tab[2]
+	elif(tab[1] == "des" or tab[1] == "Des"):
+		nom += "des"
+		nom += "_" + tab[2]
 	else:
-		nom = tab[1]
+		nom += tab[1]
 		
 	print(prenom + "_" + nom)
 	nomFich = "./corpus/wiki/" + prenom + "_" + nom + ".txt"
-	if(os.path.isfile(nomFich) == False):
-		text = "PRETAG " + prenom + ".\n"
-		text += "NOMTAG " + nom + ".\n"
+	if(True):
+		text = "PRETAG " + prenom.replace("_", " ") + " PRETAG " + "NOMTAG " + nom.replace("_", " ") + " NOMTAG " +".\n"
+		#text += "NOMTAG " + nom.replace("-", " ").replace("_", " ") + ".\n"
 
 		div = None
 		divs = soup.find("div", {"class": "mw-parser-output"}).children
@@ -75,12 +92,15 @@ def extraction(url):
 			parText = "PARTISNORM\n"
 			regg = re.compile('\[.*\]')
 			for part in parti.select("a"):
-				if(regg.search(part.text) or hasattr(part, "title") == False):
+				if(regg.search(part.text) == True or hasattr(part, "title") == False or "#" in part["href"]):
 					break
-				if(part.next_sibling == None or part.next_sibling.next_sibling == None or hasattr(part.next_sibling.next_sibling, "text") == False):
-					parText += "PART " + part['title'].replace(" (France)", "").replace(" (parti français)", "") + " (" + part.text + ")" + ".\n"
 				else:
-					parText += "PART " + part['title'].replace(" (France)", "").replace(" (parti français)", "") + " (" + part.text + ")" + " " + part.next_sibling.next_sibling.text.replace("(", "").replace(")", "") + ".\n"
+					#if(part['title'].isdigit() == False):
+					if(True):
+						if(part.next_sibling == None or part.next_sibling.next_sibling == None or hasattr(part.next_sibling.next_sibling, "text") == False):
+							parText += "PART " + part['title'].replace(" (France)", "").replace(" (parti français)", "") + " PART " + " (" + part.text + ")" + ".\n"
+						else:
+							parText += "PART " + part['title'].replace(" (France)", "").replace(" (parti français)", "") + " PART " + " (" + part.text + ")" + " " + part.next_sibling.next_sibling.text.replace("(", "").replace(")", "") + ".\n"
 					
 			text += parText
 
@@ -90,6 +110,7 @@ def extraction(url):
 		if(cadre != None):
 			foncText = "FONCTIONNORM\n"
 			reg = re.compile('(Président|Député|Ministre|Sénateur|Conseiller|Présidente|Députée|Ministre|Sénateure|Conseillère)')
+			reg2 = re.compile('(Président|Député|Ministre|Sénateur|Conseiller|Présidente|Députée|Ministre|Sénateure|Conseillère|Biographie)')
 			#fonctions = cadre.findAll('th', text = reg)
 
 			fonctions = []
@@ -103,33 +124,33 @@ def extraction(url):
 			for fonc in fonctions:
 				foncText += "\nNOMF " + fonc.text.replace("\n", "") + " NOMF "
 				next = fonc.parent.next_sibling.next_sibling
-				foncText += next.text.replace("\n", "") + " SEP2 "
+				if(next == None):
+					break
+				foncText += next.text.replace("\n", "")
 				next = fonc.parent.next_sibling.next_sibling
 				
 				boole = 0
 				while(boole == 0):
-					#foncText += fonc.text + "\t" + fonc.parent.next_sibling.next_sibling.text + "\n"
-					#foncText += next.text + "\t"
-					#print(next.text)
-					if(reg.search(next.text) != None):
+					if(reg2.search(next.text) != None):
 						
 						boole = 1
 					else:
 						if(next.th != None and next.td != None):
-							foncText += next.th.text.replace("\n", "") + " REL " + next.td.text.replace("\n", "") + " SEP2 "
+							foncText += " SEP2 " + next.th.text.replace("\n", "") + " REL " + next.td.text.replace("\n", "") + " SEP3 "
 						next = next.next_sibling.next_sibling
 						if(next == None):
 							boole = 1
 						
-				foncText = foncText[:-6] + "."
+				foncText = foncText + "."
 					
 			text += foncText	
 		
 		
-		fichier = open("./corpus/wikiTemp/" + prenom + "_" + nom + ".txt", "wb")
+		fichier = open("./corpus/wikipedia/" + prenom.replace("é", "e").replace("è", "e").replace("û", "u").replace("ê", "e").replace("ë", "e").replace("ô", "o").replace("ö", "o").replace("â", "a").replace("ç", "c") + "_" + nom.replace("é", "e").replace("è", "e").replace("ê", "e").replace("ë", "e").replace("ç", "c").replace("ô", "o").replace("ö", "o").replace("â", "a").replace("ï", "i").replace("û", "u") + ".txt", "wb")
 		fichier.write((text).encode('utf8'))
+		return prenom.lower().replace("é", "e").replace("î", "i").replace("ï", "i").replace("û", "u").replace("è", "e").replace("ê", "e").replace("ë", "e").replace("ô", "o").replace("ö", "o").replace("â", "a").replace("ï", "i").replace("ç", "c").replace("_", " ").replace("-", " - ").replace("'", " ' ") + "\n" + nom.lower().replace("é", "e").replace("è", "e").replace("ê", "e").replace("ë", "e").replace("ô", "o").replace("ö", "o").replace("ï", "i").replace("û", "u").replace("â", "a").replace("î", "i").replace("ï", "i").replace("ç", "c").replace("_", " ").replace("-", " - ").replace("'", " ' ") + "\n"
 	
-def fonc(url, l):
+def fonc(url, l, lis):
 	quote_page = "https://fr.wikipedia.org" + url
 	response = requests.get(quote_page)
 	
@@ -138,8 +159,8 @@ def fonc(url, l):
 	for a in soup.select('.mw-content-ltr .mw-category a'):
 		if("Utilisateur:" not in a.get('href')):
 			l.append(a.get('href'))
-		else:
-			print("AH")
+	if(soup.find("a", text = "page suivante") != None):
+		lis.append(soup.find("a", text = "page suivante").get('href'))
 
 
 quote_page = 'https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Personnalit%C3%A9_politique_fran%C3%A7aise_par_parti'
@@ -147,9 +168,6 @@ response = requests.get(quote_page)
 
 
 soup = BeautifulSoup(response.content, 'html.parser')
-
-#cadre = soup.find('div', attrs = {'class': 'infobox_v3'})
-#cadre = soup.find('div')
 
 list = []
 
@@ -159,20 +177,20 @@ for a in soup.select('.mw-content-ltr .mw-category a'):
 		list.append(a.get('href'))
 	i += 1
 
-#print(list)
 liste = []
 for fic in list:
-	fonc(fic, liste)
-#print(liste)
-#print(len(liste))
+	fonc(fic, liste, list)
+
 i=1
+fichierNom = ""
 for fic in liste:
 	print(i)
-	extraction(fic)
+	fichierNom += extraction(fic)
 	i += 1
 	
-
-#fichier.write((cadre.text.strip()).encode('utf8'))
+f = open("fichierNom.txt", "wb")
+f.write((fichierNom).encode('utf8'))
+f.close()
 
 
 
