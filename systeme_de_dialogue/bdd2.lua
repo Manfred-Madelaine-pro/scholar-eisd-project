@@ -105,38 +105,40 @@ main:pattern('[#femme "est" .*? "femme" "politique"]')
 main:pattern('[#pre #POS=NNP]')
 
 main:pattern('[#parent1 ("fils"|"fille") .*? "de" [#prenom #POS=NNP] [#nom #POS=NNP+]? ("," [#metier .*?] ",")?]')
-main:pattern('#parent1 .*? "et" "de" [#parent2 [#prenom #POS=NNP] [#nom #POS=NNP+]? ("," [#metier .*?] ",")?]')
+main:pattern('#parent1 .*? "et" "de"? [#parent2 [#prenom #POS=NNP] [#nom #POS=NNP+]? ("," [#metier .*?] ",")?]')
 main:pattern('("mère"|"père") "de" [#enfant [#prenom #POS=NNP] [#nom #POS=NNP]?]')
 main:pattern('"sa" "fille" [#fille [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 main:pattern('"son" "fils" [#fils [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 main:pattern('"son" "frère" [#frere [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 main:pattern('"sa" "soeur" [#soeur [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 main:pattern('"est" ("le"|"la") ("fille"|"fils") ("de"|"du") .*? [#parent [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
-main:pattern('("est"|"était") ("marié"|"mariée"|"divorcé"|"divorcée") ("de"|"a") [#conjoint [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
+main:pattern('("est"|"était") ("marié"|"mariée"|"divorcé"|"divorcée") ("de"|"à") [#conjoint [#prenom #POS=NNP] [#nom #POS=NNP+]?]')
 --main:pattern('/[I|i]l/|"Elle" .*? "mère"|"père" "de" [#fille [#prenom ' ..tool.tag(prenomsFeminins).. '] [#nom #POS=NNP+]?]')
 
 
-main:pattern('[#intervalDate (#annee "-"|"depuis") #annee]')
-main:pattern('[#raccourcis "(" [#acc .{,6}] ")"]')
+main:pattern('[#intervalDate (#annee ("-"|"–"|"depuis")) #annee]')
+main:pattern('[#raccourcis "(" [#acc #W] ")"]')
 main:pattern('"PART" [#parti [#nom .*] "PART" #raccourcis? #intervalDate?]')
 
 
-main:pattern('"NOMF" [#nomFonc .*?] ([#dateFonc #annee ("-"|"–") #annee])? "NOMF"')
+main:pattern('"NOMF" [#nomFonc .*?] ([#dateFonc #annee ("-"|"–") #annee])? ("(" .*? ")")? "NOMF"')
 main:pattern('"NOMF" [#dateFonc #annee ("-"|"–") #annee]')
 --main:pattern('"NOMF" [#dateFonc ("En" "fonction" "depuis" "le" #date|#date "–" #date|#date)] ("(" .*? ")")?')
 main:pattern('"NOMF" ("en" "fonction")? [#depuis ("depuis")?] ("le")? [#dateD #date] ("-"|"–")? [#dateF (#date)?]')
 main:pattern('"SEP2" [#fonc [#arg .*?] "rel" [#val .*?]] "SEP3"')
 
 
-main:pattern('[#bac ("Il"|"Elle")? ("obtient"|"reçoit"|"decroche") .*? ("baccalauréat"|"bac") .*? ("en" [#anneeObtention #annee])?]')
+main:pattern('[#bac ("Il"|"Elle")? ("obtient"|"reçoit"|"décroche") .*? ("baccalauréat"|"bac")]')
+main:pattern('#bac .*? "en" [#anneeObtention #annee]')
+main:pattern('#bac .*? ("à"|"au") [#lieuF #POS=NNP]')
 
-main:pattern('[#fac "faculté" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*?] ("en" [#anneeObtention #annee])]')
-main:pattern('[#fac "faculté" "de" [#sujet .*?] "de" [#lieuF .*? "universite" .*?] ("en" [#anneeObtention #annee])?]')
+main:pattern('[#licence [#nom ("licence"|"master"|"Licence"|"Master") #d?] "de" [#sujet #POS=NNC] .*? [#lieuF ("faculté"|"université"|"fac") .*?] ("en" [#anneeObtention #annee])? ","]')
+main:pattern('[#licence [#nom ("licence"|"master"|"Licence"|"Master") #d?] ("de"|"en") [#sujet #POS=NNC]]')
 
 
 
 tags = {
-	["#pre"] = "green",
+	--["#pre"] = "green",
 	["#dateNaissance"] = "yellow",
 	["#lieuNaissance"] = "green",
 	["#enfant"] = "red",
@@ -155,7 +157,7 @@ tags = {
 	["#nomFonc"] = "yellow",
 	["#dateFonc"] = "yellow",
 	["#bac"] = "blue",
-	["#fac"] = "blue",
+	["#licence"] = "blue",
 	["#sujet"] = "blue",
 	["#lieuF"] = "blue",
 	["#anneeObtention"] = "blue",
@@ -423,27 +425,31 @@ function traitement(seq)
 	end
 	
 	if havetag(seq, "#bac") then
-		local ann = GetValueInLink(seq, "#anneeObtention", "#bac")
+		local ann = tagstr2(seq, "#anneeObtention")
+		local lieuF = tagstr2(seq, "#lieuF")
 		if(db[fichierCourant].formation == nil) then
 			db[fichierCourant].formation = {}
 		end
 		db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
-			name = "Baccalaureat",
+			name = "Baccalauréat",
 			date = ann,
-			lieu = "",
+			lieu = lieuF,
 		}
 	end
 
-	if havetag(seq, "#fac") then
-		local ann = GetValueInLink(seq, "#anneeObtention", "#fac")
-		local li = GetValueInLink(seq, "#lieuF", "#fac")
+	if havetag(seq, "#licence") then
+		local ann = GetValueInLink(seq, "#anneeObtention", "#licence")
+		local li = GetValueInLink(seq, "#lieuF", "#licence")
+		local suj = GetValueInLink(seq, "#sujet", "#licence")
+		local no = GetValueInLink(seq, "#nom", "#licence")
 		if(db[fichierCourant].formation == nil) then
 			db[fichierCourant].formation = {}
 		end
 		db[fichierCourant].formation[#db[fichierCourant].formation + 1] = {
 			date = ann,
-			name = "Faculte",
-			lieu = "",
+			name = no,
+			lieu = li,
+			sujet = suj
 		}
 	end
 	
