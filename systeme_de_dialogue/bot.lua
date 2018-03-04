@@ -26,7 +26,7 @@ local POS_KEY = 3
 local dialog  = {}
 local reponse = {}
 local prev_key = nil
-local enable_hist = true
+local enable_hist = false
 local print_analyse = true
 
 local data_version = {"databaseFinal", "databaseBeta"}
@@ -123,7 +123,7 @@ function test_fonctionnel()
 	
 	local t_preuve = {
 		"melenchon quel parti politique ?",
-		bug
+		-- bug
 		--"jean-francois formation ?", "sep",
 		"laguiller quel parti politique ?",
 		"fillon quel parti politique ?",
@@ -165,7 +165,7 @@ function test_fonctionnel()
 
 	}
 
-	for i, line in pairs(t_preuve) do	
+	for i, line in pairs(t_fini) do	
 		init_rep()
 		print("> "..line)
 

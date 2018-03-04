@@ -156,7 +156,7 @@ function choose_pol(l_pol)
 	end
 
 	-- afficher les choix
-	t.bot_answer("De qui parlez-vous exactement ? (q pour ne pas répondre)"..res)
+	t.bot_answer("De qui parlez-vous exactement ? (q/+ pour ne pas répondre ou afficher plus)"..res)
 
 	-- petites fonctions d'aide
 	local f_helper = function(name, fname) return lp.gen_key(name, fname) end
@@ -165,9 +165,15 @@ function choose_pol(l_pol)
 	local l_funct = {}
 	for i=1, #l_pol do l_funct[tostring(i)] = f_helper end
 	l_funct["q"] = quit
+	--l_funct["+"] = ok
 
 	-- boucle d'affichage & de choix
 	return lp.pick_a_point(l_pol, l_funct)
+end
+
+
+function make_shorter_list( ... )
+	-- body
 end
 
 
