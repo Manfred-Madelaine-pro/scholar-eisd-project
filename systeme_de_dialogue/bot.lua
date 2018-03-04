@@ -36,7 +36,7 @@ local data_version = {"databaseFinal", "databaseBeta"}
 function bot.start(lst_attributs)
 	l_attributs = lst_attributs
 
-	db = dofile(data_version[2]..".lua")
+	db = dofile(data_version[1]..".lua")
 
 	line = ""
 
@@ -122,6 +122,16 @@ function test_fonctionnel()
 	}
 	
 	local t_preuve = {
+		"melenchon quel parti politique ?",
+		bug
+		--"jean-francois formation ?", "sep",
+		"laguiller quel parti politique ?",
+		"fillon quel parti politique ?",
+		" quel bord ?",
+		"fillon professions ?",
+		-- Fillon troll
+		"Quelle est la formation de Fillon ? et ses professions ?", "sep",
+		
 		-- gestion des pronoms 
 		--"fillon date de naissance et ou ?", "sep",
 		"jean -luc melenchon profession ?", 
@@ -133,8 +143,6 @@ function test_fonctionnel()
 		"formation ?", 
 		"ou ?", "sep", 
 
-		-- Fillon troll
-		"Quelle est la formation de Fillon ? et ses professions ?", "sep",
 
 		--"quels sont les partis auquels Melenchon et Macron ont été membre ?",	
 		"quand melenchon est-il mort ?", "sep",
@@ -144,12 +152,6 @@ function test_fonctionnel()
 		"qui sont tes createurs ?",
 		"quelles sont les professions de macron et quelle est la formation de melenchon ?",
 		"jean-luc formation ?",
-		"melenchon parti politique ?",
-		"laguiller parti politique ?",
-		"jean-francois formation ?",
-		"fillon parti politique ?",
-		"fillon bord ?",
-		"fillon professions ?",
 		"la date de naissance et le lieu de naissance de Melenchon ainsi que lieu de naissance de Macron ?",
 		--bugg corrigé
 		"fillon date de naissance et fillon ou ?", "ou", "ou",	
@@ -182,6 +184,7 @@ function bot_processing(line)
 	seq = lp.process(line)
 	if(print_analyse) then print(seq:tostring(tags)) end
 
+	lp.prev_key = ""
 	return contextual_analysis(seq)
 end
 
@@ -489,7 +492,7 @@ function search_tag(key, att, q_tag)
 		if(att_value == db_death) then
 			fill_response(mdl_alive, "vivant", name, part)
 		else
-			fill_response(mdl_t_err, "att_error ", att_value)
+			fill_response(mdl_t_err, "att_error ", txt.pick_attribut(att_value))
 		end
 	elseif res == -1 then
 		if type(key_value) == "table" then key_value = key_value[1] end
@@ -523,7 +526,7 @@ function search_tag_sec(key, att)
 	end
 
 	if res == 0 then
-		fill_response(mdl_t_err, "att_error : ", att_value)
+		fill_response(mdl_t_err, "att_error : ", txt.pick_attribut(att_value))
 	elseif res == -1 then
 		fill_response(mdl_k_err, "key_error : "..key_value, key_value)
 	else
@@ -606,7 +609,7 @@ end
 function get_parti(res, i)
 	local name = search_in_db(res, i, "nom")
 	local acc = search_in_db(res, i, "acronyme")
-	local part = get_particule(res, i, "le/la")
+	local part = get_particule(res, i, "")
 
 	local t = ""
 	if (no_err(name)) then t = t..part.." "..name end

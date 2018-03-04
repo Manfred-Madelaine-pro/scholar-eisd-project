@@ -1490,8 +1490,8 @@ de lassus
 de jessey
 de gouyon
 de gaulle
-de fillon
 de felice
+de fillon
 de cidrac
 de chabot
 de beauce
@@ -1669,7 +1669,8 @@ albarello
 ackermann
 accambray
 zyromski
-zumkellerzephirin
+zumkeller
+zephirin
 zalkinow
 wulfranc
 wilmotte
@@ -5747,7 +5748,6 @@ pauly
 paule
 pasty
 parvy
-parti
 parly
 paraz
 papon
@@ -6684,7 +6684,6 @@ bove
 boux
 bout
 bour
-bord
 boog
 bony
 bono
@@ -6812,12 +6811,8 @@ aly
 alt
 ali
 sy
-si
-la
 jo
-j.
 el
-du
 di
 da
 ar

@@ -3,9 +3,13 @@ local lp = {}
 local t = require 'tool'
 local c = require 'clean'
 
+local MAX_INFO_TOPRINT = 1
+
 local fichierCourant = ""
 local prenom = ""
-local MAX_INFO_TOPRINT = 1
+
+lp.prev_key = ""
+local prev_ukey = ""
 
 
 -- Analyse d'un bout de phrase
@@ -76,7 +80,10 @@ function lp.search_pol(key)
 	local found = -1
 
 	-- liste des politiciens contenant cette cle dans leur nom ou prenom
-	local l_pol = get_list_pol(key)
+	local l_pol = {}
+	if (key ~= lp.prev_key and prev_ukey ~= -1) then 
+		l_pol = get_list_pol(key) 
+	else found = prev_ukey end
 
 	-- choix parmi ces politiciens (si 1 seul next)
 	if (#l_pol > 1) then
@@ -86,6 +93,8 @@ function lp.search_pol(key)
 	elseif (#l_pol == 1) then
 		found = lp.gen_key(l_pol[1].name, l_pol[1].firstname)
 	end
+
+	lp.prev_key, prev_ukey = key, found 
 
 	return found
 end
@@ -97,23 +106,43 @@ function get_list_pol(key)
 	if(type(key) == "table") then key = key[1] end
 
 	key = key:gsub(" %p ", "-")
-	local count = #lp.split(key)
-	
+	local count, max_nom = #lp.split(key), 1
+	local l_part = {"de", "le", "la"}
+
+	for i, particule in ipairs(l_part) do
+		if t.in_list(particule, lp.split(key, " ")) then max_nom = max_nom+1 end
+	end
+
 	for u_key, pol in pairs(db) do
+		-- si on ne trouve pas de nom ni prénom pour le politicien
+		if (not pol.name or not pol.firstname) then goto continue end
+
 		local l_name = lp.split(lp.formatage(pol.name), " ")
 		local l_fname = lp.split(lp.formatage(pol.firstname), " ")
 
-		if (count > 1) then
+		if (count > max_nom) then
 			if type(key) ~= "table" then key = lp.split(key, " ") end
-
 			-- on cherche un match exact entre nom & prenom du politicien
 			-- et les 2 chaines de caracteres recuperees en cle
 			if (t.in_list(key[1], l_fname) and t.in_list(key[2], l_name)) then
 				res[#res+1] = { name = pol.name, firstname = pol.firstname}
 			end
+		
 		elseif t.in_list(key, l_name) or t.in_list(key, l_fname) then
 			res[#res+1] = { name = pol.name, firstname = pol.firstname}
+		
+		elseif (#lp.split(key) > 1) then 
+			local temp = {}
+			if type(key) ~= "table" then temp = lp.split(key, " ") end
+
+			for i, nom in ipairs(temp) do
+				if (not t.in_list(nom, l_part)) and (t.in_list(nom, l_name) or t.in_list(nom, l_fname)) then
+					res[#res+1] = { name = pol.name, firstname = pol.firstname}
+				end
+			end
 		end
+
+		::continue::
 	end
 
 	return res

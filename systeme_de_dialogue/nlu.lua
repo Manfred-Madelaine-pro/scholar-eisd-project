@@ -67,7 +67,7 @@ l_attributs = {
 	db_death
 }
 
-att_secondaires = {	date_sec}
+att_secondaires = {date_sec}
 
 
 l_hist = { "historique"}
@@ -143,14 +143,6 @@ main:pattern([[
 
 -- Qestion sur la formation
 main:pattern([[
-	[]]..t.tag(name)..[[ 
-		]]..t.tag(ppn)..[[ ]]..t.tag(ppn)..[[ |
-		]]..t.tag(ppn)..[[
-	]
-]])
-
--- Qestion sur la formation
-main:pattern([[
 	[]]..t.tag(t.qtag(db_forma))..[[ 
 		/quelles?/ /formations?/ #pnominal #POS=VRB .*? |
 		/quelles?/ /formations?/ #POS=VRB .*? #pnominal |
@@ -162,7 +154,7 @@ main:pattern('['..t.tag(t.qtag(help))..' "$" "help" ]')
 
 main:pattern('[#negation '..t.tag(neg)..' .{,3}? "pas"]')
 
---main:pattern('['..t.tag(name)..' '..t.tag(ppn)..' '..t.tag(ppn)..' | '..t.tag(ppn)..'  ]')
+main:pattern('['..t.tag(name)..' '..t.tag(ppn)..' ('..t.tag(ppn)..')?  ]')
 
 main:pattern('"quelle" .{,3}? "reponse" .{,3}? ['..t.tag(life)..' #42 ]')
 

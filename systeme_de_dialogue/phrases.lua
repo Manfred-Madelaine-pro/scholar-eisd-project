@@ -15,19 +15,21 @@ local balises = {sjt, res, vrb}
 bvn = "Bienvenue dans le système de dialogue de CDK, MFD, LAO & UGO"
 
 start = {
+	"Bonjour, je m'appelle "..BOT_NAME..", que puis-je faire pour vous ?",
 	"La route vers un dialogue naturel est droite.. mais la pente est forte ! \z
 		Jessayerai donc de répondre au mieux à vos questions mais épargnez mes maladresses.",
 	"Bonjour ! Je suis "..BOT_NAME..", l'As des Politiciens Français. Comment puis-je vous aider ?",
-	"Bonjour, je m'appelle "..BOT_NAME..", que puis-je faire pour vous ?",
 	"Salut ! :)",
-	"Qu'est-ce qu'un pléonasme me demanderez-vous ? He bien c'est dire d'un Macroniste qu'il est de droite !",
-	"Voici un Jeune et Beau projet Disruptif et Dynamique ! "..BOT_NAME.." se met En Marche !",
+	"Do you Ken ? :)",
 	"Je vous ai compris !! Que puis-je faire pour vous, habitant de Gaulle ?",
+	"Voici un Jeune et Beau projet Disruptif et Dynamique ! "..BOT_NAME.." se met En Marche !",
+	"Qu'est-ce qu'un pléonasme me demanderez-vous ? He bien c'est dire d'un Macroniste qu'il est de droite !",
 	
-	"Il n'y a rien de plus terrible pour un soldat déjà anonyme que de mourir inconnu. - F. Hollande.",
-	"Le pouvoir d'achat des Français s’est amélioré même s'ils ne s’en rendent pas compte. - M. Sapin",
-	"Pourquoi démissionner quand on est innocent ? - L'innocence, par J. Cahuzac.",
-	"Quand Chirac vient me voir à l'Élysée, il monte le perron avec ses idées puis redescend avec les miennes. - F. Mitterrand",
+	-- citations
+	"\"Pourquoi démissionner quand on est innocent ?\" - L'innocence, par J. Cahuzac.",
+	"\"Il n'y a rien de plus terrible pour un soldat déjà anonyme que de mourir inconnu.\" - F. Hollande.",
+	"\"Le pouvoir d'achat des Français s’est amélioré même si ces derniers ne s’en rendent pas compte.\" - M. Sapin",
+	"\"Quand Chirac vient me voir à l'Élysée, il monte le perron avec ses idées puis redescend avec les miennes.\" - F. Mitterrand",
 }
 
 mode = "Choisissez un mode : (q pour quitter)\n\z
@@ -188,6 +190,25 @@ function txt.pick_mdl(tab_sen)
 	return tab_sen[val]
 end
 
+
+function txt.pick_attribut(m_att)
+	res = m_att
+	local l_phrases = {
+		[db_bord] = "son bord politique",
+		[db_parti] = "ses partis politiques",
+		[db_birth] = "sa date de naissance",
+		[db_death] = "sa date de décès",
+		[hdb_createurs] = "ses créateurs",
+		[db_forma] = "sa formation",
+		[db_prof] = "ses proféssions",
+		[db_birthp] = "son lieu de naissance",
+	}
+
+	for i, att in ipairs(l_attributs) do
+		if m_att == att then res = l_phrases[att] end
+	end
+	return res
+end
 
 function txt.get_mdl(nom)
 	for att, model in pairs(table_mdl) do
