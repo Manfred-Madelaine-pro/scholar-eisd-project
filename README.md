@@ -53,4 +53,5 @@ La création des données à partir du Wikipédia des politiciens se fait de la 
 
 
 ## Remerciements 
+
 Un grand merci aux personnes ayant rempli le questionnaire visant à enrichir les réponses du système et les rendre plus naturelles.
